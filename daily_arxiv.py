@@ -84,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="depth estimation", max_results=10):
     """
     @param topic: str
     @param query: str
