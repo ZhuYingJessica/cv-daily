@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2972,6 +2972,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Comparative Benchmarking of Failure Detection Methods in Medical Image Segmentation: Unveiling the Role of Confidence Aggregation**|Maximilian Zenk et.al.|[2406.03323](http://arxiv.org/abs/2406.03323)|null|
+|**2024-06-05**|**Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy**|Yunho Kim et.al.|[2406.02989](http://arxiv.org/abs/2406.02989)|null|
+|**2024-06-04**|**W-RIZZ: A Weakly-Supervised Framework for Relative Traversability Estimation in Mobile Robotics**|Andre Schreiber et.al.|[2406.02822](http://arxiv.org/abs/2406.02822)|null|
+|**2024-06-04**|**Window to Wall Ratio Detection using SegFormer**|Zoe De Simone et.al.|[2406.02706](http://arxiv.org/abs/2406.02706)|null|
 |**2024-06-04**|**Detecting Endangered Marine Species in Autonomous Underwater Vehicle Imagery Using Point Annotations and Few-Shot Learning**|Heather Doig et.al.|[2406.01932](http://arxiv.org/abs/2406.01932)|null|
 |**2024-06-03**|**EAGLE: Efficient Adaptive Geometry-based Learning in Cross-view Understanding**|Thanh-Dat Truong et.al.|[2406.01429](http://arxiv.org/abs/2406.01429)|null|
 |**2024-06-03**|**TE-NeXt: A LiDAR-Based 3D Sparse Convolutional Network for Traversability Estimation**|Antonio Santo et.al.|[2406.01395](http://arxiv.org/abs/2406.01395)|**[link](https://github.com/ARVCUMH/te-next)**|
