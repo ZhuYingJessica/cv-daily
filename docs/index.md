@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,8 +2934,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
+|**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068](http://arxiv.org/abs/2406.10068)|**[link](https://github.com/l1997i/DurLAR)**|
+|**2024-06-14**|**Unsupervised Monocular Depth Estimation Based on Hierarchical Feature-Guided Diffusion**|Runze Liu et.al.|[2406.09782](http://arxiv.org/abs/2406.09782)|null|
 |**2024-06-13**|**Depth Anything V2**|Lihe Yang et.al.|[2406.09414](http://arxiv.org/abs/2406.09414)|null|
-|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
+|**2024-06-14**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
 |**2024-06-13**|**Scale-Invariant Monocular Depth Estimation via SSI Depth**|S. Mahdi H. Miangoleh et.al.|[2406.09374](http://arxiv.org/abs/2406.09374)|null|
 |**2024-06-13**|**Multiple Prior Representation Learning for Self-Supervised Monocular Depth Estimation via Hybrid Transformer**|Guodong Sun et.al.|[2406.08928](http://arxiv.org/abs/2406.08928)|**[link](https://github.com/mvme-hbut/mprlnet)**|
 |**2024-06-13**|**ToSA: Token Selective Attention for Efficient Vision Transformers**|Manish Kumar Singh et.al.|[2406.08816](http://arxiv.org/abs/2406.08816)|null|
@@ -2988,6 +2991,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers**|Narges Norouzi et.al.|[2406.09936](http://arxiv.org/abs/2406.09936)|null|
+|**2024-06-14**|**Label-Efficient Semantic Segmentation of LiDAR Point Clouds in Adverse Weather Conditions**|Aldi Piroli et.al.|[2406.09906](http://arxiv.org/abs/2406.09906)|null|
+|**2024-06-14**|**Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation**|Brunó B. Englert et.al.|[2406.09896](http://arxiv.org/abs/2406.09896)|**[link](https://github.com/tue-mps/vfm-uda)**|
+|**2024-06-14**|**Open-Vocabulary Semantic Segmentation with Image Embedding Balancing**|Xiangheng Shan et.al.|[2406.09829](http://arxiv.org/abs/2406.09829)|**[link](https://github.com/slonetime/ebseg)**|
 |**2024-06-13**|**Instance-level quantitative saliency in multiple sclerosis lesion segmentation**|Federico Spagnolo et.al.|[2406.09335](http://arxiv.org/abs/2406.09335)|null|
 |**2024-06-13**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation**|Weizhao He et.al.|[2406.08372](http://arxiv.org/abs/2406.08372)|null|
 |**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
