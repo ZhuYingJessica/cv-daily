@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3000,6 +3000,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776](http://arxiv.org/abs/2406.16776)|**[link](https://github.com/w1zheng/insteacher3d)**|
+|**2024-06-24**|**μ-Net: A Deep Learning-Based Architecture for μ-CT Segmentation**|Pierangela Bruno et.al.|[2406.16724](http://arxiv.org/abs/2406.16724)|null|
+|**2024-06-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al.|[2406.16625](http://arxiv.org/abs/2406.16625)|null|
+|**2024-06-24**|**LOGCAN++: Local-global class-aware network for semantic segmentation of remote sensing images**|Xiaowen Ma et.al.|[2406.16502](http://arxiv.org/abs/2406.16502)|**[link](https://github.com/xwmaxwma/rssegmentation)**|
+|**2024-06-24**|**Cascade Reward Sampling for Efficient Decoding-Time Alignment**|Bolian Li et.al.|[2406.16306](http://arxiv.org/abs/2406.16306)|null|
+|**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/abs/2406.16279)|**[link](https://github.com/nubot-nudt/segnet4d)**|
+|**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129](http://arxiv.org/abs/2406.16129)|null|
+|**2024-06-22**|**Fine-grained Background Representation for Weakly Supervised Semantic Segmentation**|Xu Yin et.al.|[2406.15755](http://arxiv.org/abs/2406.15755)|null|
 |**2024-06-20**|**Evaluation of Deep Learning Semantic Segmentation for Land Cover Mapping on Multispectral, Hyperspectral and High Spatial Aerial Imagery**|Ilham Adi Panuntun et.al.|[2406.14220](http://arxiv.org/abs/2406.14220)|null|
 |**2024-06-20**|**Trusting Semantic Segmentation Networks**|Samik Some et.al.|[2406.14201](http://arxiv.org/abs/2406.14201)|null|
 |**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178](http://arxiv.org/abs/2406.14178)|null|
