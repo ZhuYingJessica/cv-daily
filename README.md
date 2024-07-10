@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,12 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283](http://arxiv.org/abs/2407.05283)|**[link](https://github.com/fengyi233/SCIPaD)**|
 |**2024-07-05**|**A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation**|Dazhao Du et.al.|[2407.04230](http://arxiv.org/abs/2407.04230)|null|
 |**2024-07-04**|**Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**|Laiyan Ding et.al.|[2407.04041](http://arxiv.org/abs/2407.04041)|null|
 |**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang et.al.|[2407.02712](http://arxiv.org/abs/2407.02712)|null|
 |**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang et.al.|[2407.02675](http://arxiv.org/abs/2407.02675)|**[link](https://github.com/FrancisXZhang/DAEVI)**|
 |**2024-07-04**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/abs/2407.02038)|null|
-|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|null|
+|**2024-07-07**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|**[link](https://github.com/harborsarah/cafnet)**|
 |**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675](http://arxiv.org/abs/2406.19675)|null|
 |**2024-07-05**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
 |**2024-06-27**|**Dense Monocular Motion Segmentation Using Optical Flow and Pseudo Depth Map: A Zero-Shot Approach**|Yuxiang Huang et.al.|[2406.18837](http://arxiv.org/abs/2406.18837)|null|
@@ -91,12 +92,20 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
+|**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
+|**2024-07-08**|**RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**|Sarah Elmahdy et.al.|[2407.06016](http://arxiv.org/abs/2407.06016)|**[link](https://github.com/SarahELMAHDY03/RHRSegNet)**|
+|**2024-07-07**|**Semantic Segmentation for Real-World and Synthetic Vehicle's Forward-Facing Camera Images**|Tuan T. Nguyen et.al.|[2407.05452](http://arxiv.org/abs/2407.05452)|null|
+|**2024-07-07**|**Self-supervised Learning via Cluster Distance Prediction for Operating Room Context Awareness**|Idris Hamoud et.al.|[2407.05448](http://arxiv.org/abs/2407.05448)|null|
+|**2024-07-06**|**A Study of Test-time Contrastive Concepts for Open-world, Open-vocabulary Semantic Segmentation**|Monika Wysoczańska et.al.|[2407.05061](http://arxiv.org/abs/2407.05061)|null|
+|**2024-07-06**|**BlessemFlood21: Advancing Flood Analysis with a High-Resolution Georeferenced Dataset for Humanitarian Aid Support**|Vladyslav Polushko et.al.|[2407.05007](http://arxiv.org/abs/2407.05007)|null|
+|**2024-07-05**|**Explainable Metric Learning for Deflating Data Bias**|Emma Andrews et.al.|[2407.04866](http://arxiv.org/abs/2407.04866)|null|
 |**2024-07-05**|**LMSeg: A deep graph message-passing network for efficient and accurate semantic segmentation of large-scale 3D landscape meshes**|Zexian Huang et.al.|[2407.04326](http://arxiv.org/abs/2407.04326)|null|
 |**2024-07-04**|**Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier**|Prantik Howlader et.al.|[2407.04036](http://arxiv.org/abs/2407.04036)|**[link](https://github.com/prantikbubun/beyond-pixels)**|
 |**2024-07-04**|**Relative Difficulty Distillation for Semantic Segmentation**|Dong Liang et.al.|[2407.03719](http://arxiv.org/abs/2407.03719)|null|
@@ -257,7 +266,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
