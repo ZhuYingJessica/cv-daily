@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3015,7 +3015,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-10**|**Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift**|Elliot Vincent et.al.|[2407.07616](http://arxiv.org/abs/2407.07616)|**[link](https://github.com/elliotvincent/sitsscd)**|
 |**2024-07-10**|**H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**|Ryan Banks et.al.|[2407.07604](http://arxiv.org/abs/2407.07604)|**[link](https://github.com/banksylel/h-fcbformer)**|
-|**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564](http://arxiv.org/abs/2407.07564)|null|
+|**2024-07-11**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564](http://arxiv.org/abs/2407.07564)|null|
 |**2024-07-10**|**Deformable-Heatmap-Segmentation for Automobile Visual Perception**|Hongyu Jin et.al.|[2407.07493](http://arxiv.org/abs/2407.07493)|null|
 |**2024-07-10**|**Exploring the Untouched Sweeps for Conflict-Aware 3D Segmentation Pretraining**|Tianfang Sun et.al.|[2407.07465](http://arxiv.org/abs/2407.07465)|null|
 |**2024-07-11**|**HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation**|Guoan Xu et.al.|[2407.07441](http://arxiv.org/abs/2407.07441)|null|
