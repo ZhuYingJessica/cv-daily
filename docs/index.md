@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937](http://arxiv.org/abs/2407.10937)|**[link](https://github.com/yhZhai/idol)**|
+|**2024-07-15**|**OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection**|Jinghua Hou et.al.|[2407.10753](http://arxiv.org/abs/2407.10753)|null|
+|**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406](http://arxiv.org/abs/2407.10406)|null|
 |**2024-07-12**|**ProDepth: Boosting Self-Supervised Multi-Frame Monocular Depth with Probabilistic Fusion**|Sungmin Woo et.al.|[2407.09303](http://arxiv.org/abs/2407.09303)|**[link](https://github.com/sungmin-woo/ProDepth)**|
 |**2024-07-11**|**ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation**|Ruijie Zhu et.al.|[2407.08187](http://arxiv.org/abs/2407.08187)|null|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860](http://arxiv.org/abs/2407.07860)|null|
@@ -3015,6 +3018,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
+|**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649](http://arxiv.org/abs/2407.10649)|null|
+|**2024-07-15**|**Automated Label Unification for Multi-Dataset Semantic Segmentation with GNNs**|Rong Ma et.al.|[2407.10534](http://arxiv.org/abs/2407.10534)|null|
+|**2024-07-14**|**Shape2Scene: 3D Scene Representation Learning Through Pre-training on Shape Data**|Tuo Feng et.al.|[2407.10200](http://arxiv.org/abs/2407.10200)|**[link](https://github.com/fengzicai/s2s)**|
+|**2024-07-14**|**RAPiD-Seg: Range-Aware Pointwise Distance Distribution Networks for 3D LiDAR Segmentation**|Li Li et.al.|[2407.10159](http://arxiv.org/abs/2407.10159)|**[link](https://github.com/l1997i/rapid_seg)**|
+|**2024-07-14**|**HSFusion: A high-level vision task-driven infrared and visible image fusion network via semantic and geometric domain transformation**|Chengjie Jiang et.al.|[2407.10047](http://arxiv.org/abs/2407.10047)|null|
+|**2024-07-13**|**Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation**|Anqi Zhang et.al.|[2407.09838](http://arxiv.org/abs/2407.09838)|null|
+|**2024-07-13**|**Enhancing Semantic Segmentation with Adaptive Focal Loss: A Novel Approach**|Md Rakibul Islam et.al.|[2407.09828](http://arxiv.org/abs/2407.09828)|null|
+|**2024-07-13**|**3D Weakly Supervised Semantic Segmentation with 2D Vision-Language Guidance**|Xiaoxu Xu et.al.|[2407.09826](http://arxiv.org/abs/2407.09826)|null|
+|**2024-07-13**|**TASeg: Temporal Aggregation Network for LiDAR Semantic Segmentation**|Xiaopei Wu et.al.|[2407.09751](http://arxiv.org/abs/2407.09751)|null|
 |**2024-07-12**|**FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background**|Muhammad Ali et.al.|[2407.09379](http://arxiv.org/abs/2407.09379)|**[link](https://github.com/techmn/fanet)**|
 |**2024-07-12**|**Salt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy**|Julian Wyatt et.al.|[2407.09192](http://arxiv.org/abs/2407.09192)|null|
 |**2024-07-12**|**Evaluating the Adversarial Robustness of Semantic Segmentation: Trying Harder Pays Off**|Levente Halmosi et.al.|[2407.09150](http://arxiv.org/abs/2407.09150)|**[link](https://github.com/szegedai/robust-segmentation-evaluation)**|
