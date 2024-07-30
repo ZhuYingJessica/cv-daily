@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**HybridDepth: Robust Depth Fusion for Mobile AR by Leveraging Depth from Focus and Single-Image Priors**|Ashkan Ganj et.al.|[2407.18443](http://arxiv.org/abs/2407.18443)|**[link](https://github.com/cake-lab/hybriddepth)**|
 |**2024-07-26**|**Enhanced Depth Estimation and 3D Geometry Reconstruction using Bayesian Helmholtz Stereopsis with Belief Propagation**|Razieh Azizi et.al.|[2407.18195](http://arxiv.org/abs/2407.18195)|null|
 |**2024-07-25**|**BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation**|Xiang Zhang et.al.|[2407.17952](http://arxiv.org/abs/2407.17952)|null|
 |**2024-07-25**|**UMono: Physical Model Informed Hybrid CNN-Transformer Framework for Underwater Monocular Depth Estimation**|Jian Wang et.al.|[2407.17838](http://arxiv.org/abs/2407.17838)|null|
@@ -3031,6 +3032,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Learning Spectral-Decomposed Tokens for Domain Generalized Semantic Segmentation**|Jingjun Yi et.al.|[2407.18568](http://arxiv.org/abs/2407.18568)|null|
 |**2024-07-25**|**Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**|Julia Hindel et.al.|[2407.18145](http://arxiv.org/abs/2407.18145)|null|
 |**2024-07-25**|**TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework**|Guanfeng Tang et.al.|[2407.18038](http://arxiv.org/abs/2407.18038)|null|
 |**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026](http://arxiv.org/abs/2407.18026)|**[link](https://github.com/nikolasmorshuis/sgr)**|
