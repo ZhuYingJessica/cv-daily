@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,9 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
+|**2024-08-07**|**Focal Depth Estimation: A Calibration-Free, Subject- and Daytime Invariant Approach**|Benedikt W. Hosp et.al.|[2408.03591](http://arxiv.org/abs/2408.03591)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-03**|**MCPDepth: Omnidirectional Depth Estimation via Stereo Matching from Multi-Cylindrical Panoramas**|Feng Qiao et.al.|[2408.01653](http://arxiv.org/abs/2408.01653)|null|
 |**2024-08-02**|**Self-Supervised Depth Estimation Based on Camera Models**|Jinchang Zhang et.al.|[2408.01565](http://arxiv.org/abs/2408.01565)|null|
 |**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438](http://arxiv.org/abs/2408.00438)|null|
@@ -125,13 +126,16 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240809>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|null|
+|**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
+|**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
+|**2024-08-06**|**Post-Mortem Human Iris Segmentation Analysis with Deep Learning**|Afzal Hossain et.al.|[2408.03448](http://arxiv.org/abs/2408.03448)|null|
+|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|**[link](https://github.com/cranken/cpd)**|
 |**2024-08-05**|**Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation**|Sai Prasanna et.al.|[2408.02297](http://arxiv.org/abs/2408.02297)|null|
 |**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
 |**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245](http://arxiv.org/abs/2408.02245)|null|
@@ -404,7 +408,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240809>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
