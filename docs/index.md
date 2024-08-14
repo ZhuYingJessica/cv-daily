@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Towards Robust Monocular Depth Estimation in Non-Lambertian Surfaces**|Junrui Zhang et.al.|[2408.06083](http://arxiv.org/abs/2408.06083)|null|
 |**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](http://arxiv.org/abs/2408.04523)|null|
 |**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
 |**2024-08-08**|**Design and Implementation of Smart Infrastructures and Connected Vehicles in A Mini-city Platform**|Daniel Vargas et.al.|[2408.04195](http://arxiv.org/abs/2408.04195)|null|
@@ -3049,6 +3050,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Correlation Weighted Prototype-based Self-Supervised One-Shot Segmentation of Medical Images**|Siladittya Manna et.al.|[2408.06235](http://arxiv.org/abs/2408.06235)|null|
+|**2024-08-12**|**A-BDD: Leveraging Data Augmentations for Safe Autonomous Driving in Adverse Weather and Lighting**|Felix Assion et.al.|[2408.06071](http://arxiv.org/abs/2408.06071)|null|
+|**2024-08-12**|**Enhancing 3D Transformer Segmentation Model for Medical Image with Token-level Representation Learning**|Xinrong Hu et.al.|[2408.05889](http://arxiv.org/abs/2408.05889)|null|
+|**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
+|**2024-08-11**|**MacFormer: Semantic Segmentation with Fine Object Boundaries**|Guoan Xu et.al.|[2408.05699](http://arxiv.org/abs/2408.05699)|null|
+|**2024-08-10**|**Multimodal generative semantic communication based on latent diffusion model**|Weiqi Fu et.al.|[2408.05455](http://arxiv.org/abs/2408.05455)|null|
 |**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961](http://arxiv.org/abs/2408.04961)|**[link](https://github.com/dahyun-kang/lazygrounding)**|
 |**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
 |**2024-08-09**|**Extracting Signal Electron Trajectories in the COMET Phase-I Cylindrical Drift Chamber Using Deep Learning**|Fumihiro Kaneko et.al.|[2408.04795](http://arxiv.org/abs/2408.04795)|null|
