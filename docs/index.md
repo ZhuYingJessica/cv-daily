@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|null|
 |**2024-09-12**|**Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor**|Andrea Conti et.al.|[2409.08277](http://arxiv.org/abs/2409.08277)|null|
 |**2024-09-12**|**LED: Light Enhanced Depth Estimation at Night**|Simon de Moreau et.al.|[2409.08031](http://arxiv.org/abs/2409.08031)|**[link](https://github.com/simondemoreau/led)**|
 |**2024-09-12**|**Real-time Multi-view Omnidirectional Depth Estimation System for Robots and Autonomous Driving on Real Scenes**|Ming Li et.al.|[2409.07843](http://arxiv.org/abs/2409.07843)|null|
@@ -3089,6 +3090,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**|Zechao Sun et.al.|[2409.08516](http://arxiv.org/abs/2409.08516)|null|
+|**2024-09-13**|**VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation**|Ezra MacDonald et.al.|[2409.08461](http://arxiv.org/abs/2409.08461)|**[link](https://github.com/macdonaldezra/VistaFormer)**|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
 |**2024-09-12**|**Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes**|Siyu Chen et.al.|[2409.07995](http://arxiv.org/abs/2409.07995)|null|
 |**2024-09-12**|**SURGIVID: Annotation-Efficient Surgical Video Object Discovery**|Çağhan Köksal et.al.|[2409.07801](http://arxiv.org/abs/2409.07801)|null|
