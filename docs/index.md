@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation**|Richard D. Paul et.al.|[2409.17085](http://arxiv.org/abs/2409.17085)|null|
+|**2024-09-25**|**EventHDR: from Event to High-Speed HDR Videos and Beyond**|Yunhao Zou et.al.|[2409.17029](http://arxiv.org/abs/2409.17029)|null|
+|**2024-09-25**|**3DDX: Bone Surface Reconstruction from a Single Standard-Geometry Radiograph via Dual-Face Depth Estimation**|Yi Gu et.al.|[2409.16702](http://arxiv.org/abs/2409.16702)|null|
+|**2024-09-24**|**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling**|Yifang Men et.al.|[2409.16160](http://arxiv.org/abs/2409.16160)|null|
+|**2024-09-24**|**Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data**|An Wang et.al.|[2409.16063](http://arxiv.org/abs/2409.16063)|**[link](https://github.com/lofrienger/endodepthbenchmark)**|
+|**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054](http://arxiv.org/abs/2409.15054)|**[link](https://github.com/guoyangzhao/fisheyedepth)**|
+|**2024-09-23**|**DepthART: Monocular Depth Estimation as Autoregressive Refinement Task**|Bulat Gabdullin et.al.|[2409.15010](http://arxiv.org/abs/2409.15010)|null|
+|**2024-09-23**|**Generalizing monocular colonoscopy image depth estimation by uncertainty-based global and local fusion network**|Sijia Du et.al.|[2409.15006](http://arxiv.org/abs/2409.15006)|null|
+|**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|null|
+|**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 |**2024-09-18**|**Panoptic-Depth Forecasting**|Juana Valeria Hurtado et.al.|[2409.12008](http://arxiv.org/abs/2409.12008)|null|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896](http://arxiv.org/abs/2409.09896)|null|
@@ -3095,6 +3105,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**WasteGAN: Data Augmentation for Robotic Waste Sorting through Generative Adversarial Networks**|Alberto Bacchin et.al.|[2409.16999](http://arxiv.org/abs/2409.16999)|**[link](https://github.com/bach05/wastegan)**|
+|**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940](http://arxiv.org/abs/2409.16940)|null|
+|**2024-09-24**|**A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation**|Avisha Kumar et.al.|[2409.16441](http://arxiv.org/abs/2409.16441)|null|
+|**2024-09-24**|**Instance Segmentation of Reinforced Concrete Bridges with Synthetic Point Clouds**|Asad Ur Rahman et.al.|[2409.16381](http://arxiv.org/abs/2409.16381)|null|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|**[link](https://github.com/fieldsoftheworld/ftw-baselines)**|
+|**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213](http://arxiv.org/abs/2409.16213)|**[link](https://github.com/harry-rogers/psie)**|
+|**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846](http://arxiv.org/abs/2409.15846)|null|
+|**2024-09-24**|**DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation**|Soojin Jang et.al.|[2409.15801](http://arxiv.org/abs/2409.15801)|null|
+|**2024-09-24**|**Autonomous Hiking Trail Navigation via Semantic Segmentation and Geometric Analysis**|Camndon Reed et.al.|[2409.15671](http://arxiv.org/abs/2409.15671)|null|
+|**2024-09-23**|**ZeroSCD: Zero-Shot Street Scene Change Detection**|Shyam Sundar Kannan et.al.|[2409.15255](http://arxiv.org/abs/2409.15255)|null|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
 |**2024-09-17**|**MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping**|Amirreza Fateh et.al.|[2409.11316](http://arxiv.org/abs/2409.11316)|**[link](https://github.com/amirrezafateh/msdnet)**|
 |**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|**[link](https://github.com/cliffbb/oem-fewshot-challenge)**|
