@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3131,10 +3131,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Parallel Watershed Partitioning: GPU-Based Hierarchical Image Segmentation**|Varduhi Yeghiazaryan et.al.|[2410.08946](http://arxiv.org/abs/2410.08946)|null|
+|**2024-10-11**|**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei et.al.|[2410.08687](http://arxiv.org/abs/2410.08687)|null|
+|**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
+|**2024-10-10**|**Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?**|Samir Abou Haidar et.al.|[2410.08365](http://arxiv.org/abs/2410.08365)|null|
 |**2024-10-10**|**Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2410.08091](http://arxiv.org/abs/2410.08091)|null|
 |**2024-10-10**|**Shift and matching queries for video semantic segmentation**|Tsubasa Mizuno et.al.|[2410.07635](http://arxiv.org/abs/2410.07635)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
-|**2024-10-09**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
+|**2024-10-11**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
 |**2024-10-09**|**Learning from Spatio-temporal Correlation for Semi-Supervised LiDAR Semantic Segmentation**|Seungho Lee et.al.|[2410.06893](http://arxiv.org/abs/2410.06893)|null|
 |**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
 |**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
