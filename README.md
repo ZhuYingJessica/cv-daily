@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -218,12 +218,13 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding**|Guangda Ji et.al.|[2410.13924](http://arxiv.org/abs/2410.13924)|null|
 |**2024-10-17**|**Multi-style conversion for semantic segmentation of lesions in fundus images by adversarial attacks**|Clément Playout et.al.|[2410.13822](http://arxiv.org/abs/2410.13822)|**[link](https://github.com/clementpla/multistyle_funduslesionsegmentation)**|
 |**2024-10-18**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-17**|**Day-Night Adaptation: An Innovative Source-free Adaptation Framework for Medical Image Segmentation**|Ziyang Chen et.al.|[2410.13472](http://arxiv.org/abs/2410.13472)|null|
@@ -697,7 +698,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
