@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -245,15 +245,20 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[2411.06991](http://arxiv.org/abs/2411.06991)|null|
+|**2024-11-11**|**Can KAN Work? Exploring the Potential of Kolmogorov-Arnold Networks in Computer Vision**|Yueyang Cang et.al.|[2411.06727](http://arxiv.org/abs/2411.06727)|null|
+|**2024-11-10**|**Few-shot Semantic Learning for Robust Multi-Biome 3D Semantic Mapping in Off-Road Environments**|Deegan Atha et.al.|[2411.06632](http://arxiv.org/abs/2411.06632)|null|
+|**2024-11-09**|**Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing**|Kaixuan Lu et.al.|[2411.06091](http://arxiv.org/abs/2411.06091)|null|
+|**2024-11-08**|**Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model**|Shuchang Lyu et.al.|[2411.05878](http://arxiv.org/abs/2411.05878)|**[link](https://github.com/cv-shuchanglyu/sam-joanet)**|
 |**2024-11-08**|**Revisiting Network Perturbation for Semi-Supervised Semantic Segmentation**|Sien Li et.al.|[2411.05307](http://arxiv.org/abs/2411.05307)|**[link](https://github.com/llistenl/mlpmatch)**|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
-|**2024-11-08**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
+|**2024-11-11**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
 |**2024-11-06**|**Generalize or Detect? Towards Robust Semantic Segmentation Under Multiple Distribution Shifts**|Zhitong Gao et.al.|[2411.03829](http://arxiv.org/abs/2411.03829)|**[link](https://github.com/gaozhitong/multishiftseg)**|
 |**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
 |**2024-11-05**|**Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation**|Zhiling Yue et.al.|[2411.03551](http://arxiv.org/abs/2411.03551)|null|
@@ -778,7 +783,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
