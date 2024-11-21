@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,13 +2934,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[2411.11466](http://arxiv.org/abs/2411.11466)|null|
 |**2024-11-18**|**The ADUULM-360 Dataset -- A Multi-Modal Dataset for Depth Estimation in Adverse Weather**|Markus Schön et.al.|[2411.11455](http://arxiv.org/abs/2411.11455)|null|
 |**2024-11-18**|**GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views**|Boyao Zhou et.al.|[2411.11363](http://arxiv.org/abs/2411.11363)|null|
 |**2024-11-18**|**Scalable Autoregressive Monocular Depth Estimation**|Jinhong Wang et.al.|[2411.11361](http://arxiv.org/abs/2411.11361)|null|
-|**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|null|
-|**2024-11-16**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
+|**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|**[link](https://github.com/AnshShah3009/MetricGold)**|
+|**2024-11-19**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
 |**2024-11-15**|**Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses**|Yongfan Liu et.al.|[2411.10013](http://arxiv.org/abs/2411.10013)|null|
 |**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
 |**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
@@ -3179,11 +3180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang et.al.|[2411.12615](http://arxiv.org/abs/2411.12615)|**[link](https://github.com/yangjiaqidig/WSSS-AGM)**|
+|**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602](http://arxiv.org/abs/2411.12602)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
+|**2024-11-19**|**ADV2E: Bridging the Gap Between Analogue Circuit and Discrete Frames in the Video-to-Events Simulator**|Xiao Jiang et.al.|[2411.12250](http://arxiv.org/abs/2411.12250)|null|
+|**2024-11-18**|**ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements**|M. Arda Aydın et.al.|[2411.12044](http://arxiv.org/abs/2411.12044)|**[link](https://github.com/m-arda-aydn/itaclip)**|
+|**2024-11-18**|**Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei Miandashti et.al.|[2411.11935](http://arxiv.org/abs/2411.11935)|null|
 |**2024-11-18**|**MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models**|Harshita Sharma et.al.|[2411.11362](http://arxiv.org/abs/2411.11362)|null|
 |**2024-11-18**|**Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications**|Scarlett Raine et.al.|[2411.11287](http://arxiv.org/abs/2411.11287)|null|
 |**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
 |**2024-11-16**|**Automatic Discovery and Assessment of Interpretable Systematic Errors in Semantic Segmentation**|Jaisidh Singh et.al.|[2411.10845](http://arxiv.org/abs/2411.10845)|null|
-|**2024-11-16**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|null|
+|**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|**[link](https://github.com/BMDS-ETH/SpineSegDiff)**|
 |**2024-11-15**|**Y-MAP-Net: Real-time depth, normals, segmentation, multi-label captioning and 2D human pose in RGB images**|Ammar Qammaz et.al.|[2411.10334](http://arxiv.org/abs/2411.10334)|null|
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
 |**2024-11-14**|**OneNet: A Channel-Wise 1D Convolutional U-Net**|Sanghyun Byun et.al.|[2411.09838](http://arxiv.org/abs/2411.09838)|**[link](https://github.com/shbyun080/onenet)**|
