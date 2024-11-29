@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**|Mehdi Zayene et.al.|[2411.18335](http://arxiv.org/abs/2411.18335)|**[link](https://github.com/vita-epfl/Helvipad)**|
+|**2024-11-27**|**GAPartManip: A Large-scale Part-centric Dataset for Material-Agnostic Articulated Object Manipulation**|Wenbo Cui et.al.|[2411.18276](http://arxiv.org/abs/2411.18276)|null|
+|**2024-11-27**|**SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation**|Duc-Hai Pham et.al.|[2411.18229](http://arxiv.org/abs/2411.18229)|null|
+|**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814](http://arxiv.org/abs/2411.17814)|null|
 |**2024-11-26**|**Spatially Visual Perception for End-to-End Robotic Learning**|Travis Davies et.al.|[2411.17458](http://arxiv.org/abs/2411.17458)|null|
 |**2024-11-26**|**DepthCues: Evaluating Monocular Depth Perception in Large Vision Models**|Duolikun Danier et.al.|[2411.17385](http://arxiv.org/abs/2411.17385)|null|
 |**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240](http://arxiv.org/abs/2411.17240)|null|
@@ -3191,6 +3195,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814](http://arxiv.org/abs/2411.17814)|null|
+|**2024-11-26**|**Efficient Multi-modal Large Language Models via Visual Token Grouping**|Minbin Huang et.al.|[2411.17773](http://arxiv.org/abs/2411.17773)|null|
 |**2024-11-26**|**Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**|Niharika Hegde et.al.|[2411.17610](http://arxiv.org/abs/2411.17610)|null|
 |**2024-11-26**|**Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2411.17543](http://arxiv.org/abs/2411.17543)|null|
 |**2024-11-26**|**Box for Mask and Mask for Box: weak losses for multi-task partially supervised learning**|Hoàng-Ân Lê et.al.|[2411.17536](http://arxiv.org/abs/2411.17536)|**[link](https://github.com/lhoangan/multas)**|
