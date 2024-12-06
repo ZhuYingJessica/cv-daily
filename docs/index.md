@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.05
+## Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
+|**2024-12-04**|**Dense Scene Reconstruction from Light-Field Images Affected by Rolling Shutter**|Hermes McGriff et.al.|[2412.03518](http://arxiv.org/abs/2412.03518)|null|
+|**2024-12-04**|**MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction**|Gangjian Zhang et.al.|[2412.03103](http://arxiv.org/abs/2412.03103)|null|
+|**2024-12-04**|**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos**|Jiahao Lu et.al.|[2412.03079](http://arxiv.org/abs/2412.03079)|null|
 |**2024-12-03**|**Single-Shot Metric Depth from Focused Plenoptic Cameras**|Blanca Lasheras-Hernandez et.al.|[2412.02386](http://arxiv.org/abs/2412.02386)|null|
 |**2024-12-03**|**Dual Exposure Stereo for Extended Dynamic Range 3D Imaging**|Juhyung Choi et.al.|[2412.02351](http://arxiv.org/abs/2412.02351)|null|
 |**2024-12-03**|**Amodal Depth Anything: Amodal Depth Estimation in the Wild**|Zhenyu Li et.al.|[2412.02336](http://arxiv.org/abs/2412.02336)|null|
 |**2024-12-03**|**GSGTrack: Gaussian Splatting-Guided Object Pose Tracking from RGB Videos**|Zhiyuan Chen et.al.|[2412.02267](http://arxiv.org/abs/2412.02267)|null|
 |**2024-12-03**|**FoveaSPAD: Exploiting Depth Priors for Adaptive and Efficient Single-Photon 3D Imaging**|Justin Folden et.al.|[2412.02052](http://arxiv.org/abs/2412.02052)|null|
-|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**AVS-Net: Audio-Visual Scale Net for Self-supervised Monocular Metric Depth Estimation**|Xiaohu Liu et.al.|[2412.01637](http://arxiv.org/abs/2412.01637)|null|
 |**2024-12-02**|**STATIC : Surface Temporal Affine for TIme Consistency in Video Monocular Depth Estimation**|Sunghun Yang et.al.|[2412.01090](http://arxiv.org/abs/2412.01090)|null|
 |**2024-12-01**|**FiffDepth: Feed-forward Transformation of Diffusion-Based Generators for Detailed Depth Estimation**|Yunpeng Bai et.al.|[2412.00671](http://arxiv.org/abs/2412.00671)|null|
@@ -3211,6 +3215,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|Rui Xiao et.al.|[2412.03561](http://arxiv.org/abs/2412.03561)|**[link](https://github.com/explainableml/flair)**|
+|**2024-12-04**|**Benchmarking Pretrained Attention-based Models for Real-Time Recognition in Robot-Assisted Esophagectomy**|Ronald L. P. D. de Jong et.al.|[2412.03401](http://arxiv.org/abs/2412.03401)|null|
+|**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
+|**2024-12-04**|**Biologically-inspired Semi-supervised Semantic Segmentation for Biomedical Imaging**|Luca Ciampi et.al.|[2412.03192](http://arxiv.org/abs/2412.03192)|null|
+|**2024-12-04**|**Is Foreground Prototype Sufficient? Few-Shot Medical Image Segmentation with Background-Fused Prototype**|Song Tang et.al.|[2412.02983](http://arxiv.org/abs/2412.02983)|null|
+|**2024-12-04**|**Progressive Vision-Language Prompt for Multi-Organ Multi-Class Cell Semantic Segmentation with Single Branch**|Qing Zhang et.al.|[2412.02978](http://arxiv.org/abs/2412.02978)|null|
+|**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960](http://arxiv.org/abs/2412.02960)|null|
 |**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
 |**2024-12-03**|**Multi-scale and Multi-path Cascaded Convolutional Network for Semantic Segmentation of Colorectal Polyps**|Malik Abdul Manan et.al.|[2412.02443](http://arxiv.org/abs/2412.02443)|null|
 |**2024-12-03**|**AH-OCDA: Amplitude-based Curriculum Learning and Hopfield Segmentation Model for Open Compound Domain Adaptation**|Jaehyun Choi et.al.|[2412.02280](http://arxiv.org/abs/2412.02280)|null|
