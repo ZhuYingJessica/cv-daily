@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861](http://arxiv.org/abs/2412.12861)|null|
+|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
 |**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412](http://arxiv.org/abs/2412.11412)|null|
 |**2024-12-16**|**Depth-Centric Dehazing and Depth-Estimation from Real-World Hazy Driving Video**|Junkai Fan et.al.|[2412.11395](http://arxiv.org/abs/2412.11395)|null|
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210](http://arxiv.org/abs/2412.11210)|**[link](https://github.com/fengyi233/ViPOcc)**|
@@ -322,12 +324,19 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156](http://arxiv.org/abs/2412.13156)|null|
+|**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
+|**2024-12-17**|**Open-World Panoptic Segmentation**|Matteo Sodano et.al.|[2412.12740](http://arxiv.org/abs/2412.12740)|null|
+|**2024-12-17**|**SemStereo: Semantic-Constrained Stereo Matching Network for Remote Sensing**|Chen Chen et.al.|[2412.12685](http://arxiv.org/abs/2412.12685)|**[link](https://github.com/chenchen235/SemStereo)**|
+|**2024-12-17**|**Structural Pruning via Spatial-aware Information Redundancy for Semantic Segmentation**|Dongyue Wu et.al.|[2412.12672](http://arxiv.org/abs/2412.12672)|**[link](https://github.com/dywu98/SIRFP)**|
+|**2024-12-17**|**Adaptive Prototype Replay for Class Incremental Semantic Segmentation**|Guilin Zhu et.al.|[2412.12669](http://arxiv.org/abs/2412.12669)|null|
+|**2024-12-17**|**SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation**|Shuangping Huang et.al.|[2412.12660](http://arxiv.org/abs/2412.12660)|null|
 |**2024-12-16**|**Exploring Semantic Consistency and Style Diversity for Domain Generalized Semantic Segmentation**|Hongwei Niu et.al.|[2412.12050](http://arxiv.org/abs/2412.12050)|**[link](https://github.com/nhw649/scsd)**|
 |**2024-12-16**|**SAMIC: Segment Anything with In-Context Spatial Prompt Engineering**|Savinay Nagendra et.al.|[2412.11998](http://arxiv.org/abs/2412.11998)|null|
 |**2024-12-16**|**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**|Yunxiang Fu et.al.|[2412.11890](http://arxiv.org/abs/2412.11890)|**[link](https://github.com/yunxiangfu2001/segman)**|
@@ -977,7 +986,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
