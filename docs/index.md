@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**|Huawei Sun et.al.|[2412.16380](http://arxiv.org/abs/2412.16380)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212](http://arxiv.org/abs/2412.15212)|null|
 |**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103](http://arxiv.org/abs/2412.14103)|null|
@@ -3249,6 +3250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635](http://arxiv.org/abs/2412.17635)|null|
+|**2024-12-23**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
+|**2024-12-23**|**Uncertainty-Participation Context Consistency Learning for Semi-supervised Semantic Segmentation**|Jianjian Yin et.al.|[2412.17331](http://arxiv.org/abs/2412.17331)|**[link](https://github.com/yukekejan/uccl)**|
+|**2024-12-22**|**Multi-Scale Foreground-Background Confidence for Out-of-Distribution Segmentation**|Samuel Marschall et.al.|[2412.16990](http://arxiv.org/abs/2412.16990)|null|
+|**2024-12-22**|**Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection**|Yuhang Gan et.al.|[2412.16918](http://arxiv.org/abs/2412.16918)|null|
+|**2024-12-22**|**MAGIC++: Efficient and Resilient Modality-Agnostic Semantic Segmentation via Hierarchical Modality Selection**|Xu Zheng et.al.|[2412.16876](http://arxiv.org/abs/2412.16876)|null|
+|**2024-12-22**|**Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**|Jongmin Yu et.al.|[2412.16859](http://arxiv.org/abs/2412.16859)|null|
+|**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
+|**2024-12-21**|**IV-tuning: Parameter-Efficient Transfer Learning for Infrared-Visible Tasks**|Yaming Zhang et.al.|[2412.16654](http://arxiv.org/abs/2412.16654)|**[link](https://github.com/yummy198913/iv-tuning)**|
+|**2024-12-21**|**V"Mean"ba: Visual State Space Models only need 1 hidden dimension**|Tien-Yu Chi et.al.|[2412.16602](http://arxiv.org/abs/2412.16602)|null|
 |**2024-12-20**|**SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data**|Xinwei Ju et.al.|[2412.16078](http://arxiv.org/abs/2412.16078)|null|
 |**2024-12-20**|**Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge Transfer**|Xinyue Chen et.al.|[2412.15835](http://arxiv.org/abs/2412.15835)|**[link](https://github.com/hhhhedy/gfss-ekt)**|
 |**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|**[link](https://github.com/andrade-miranda/girafe)**|
