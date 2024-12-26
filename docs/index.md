@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.25
+## Updated on 2024.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
 |**2024-12-20**|**LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**|Huawei Sun et.al.|[2412.16380](http://arxiv.org/abs/2412.16380)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212](http://arxiv.org/abs/2412.15212)|null|
@@ -3250,9 +3251,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635](http://arxiv.org/abs/2412.17635)|null|
+|**2024-12-24**|**AdaCo: Overcoming Visual Foundation Model Noise in 3D Semantic Segmentation via Adaptive Label Correction**|Pufan Zou et.al.|[2412.18255](http://arxiv.org/abs/2412.18255)|null|
+|**2024-12-24**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178](http://arxiv.org/abs/2412.18178)|null|
+|**2024-12-24**|**UniPLV: Towards Label-Efficient Open-World 3D Scene Understanding by Regional Visual Language Supervision**|Yuru Wang et.al.|[2412.18131](http://arxiv.org/abs/2412.18131)|null|
+|**2024-12-24**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635](http://arxiv.org/abs/2412.17635)|null|
 |**2024-12-23**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
-|**2024-12-23**|**Uncertainty-Participation Context Consistency Learning for Semi-supervised Semantic Segmentation**|Jianjian Yin et.al.|[2412.17331](http://arxiv.org/abs/2412.17331)|**[link](https://github.com/yukekejan/uccl)**|
+|**2024-12-24**|**Uncertainty-Participation Context Consistency Learning for Semi-supervised Semantic Segmentation**|Jianjian Yin et.al.|[2412.17331](http://arxiv.org/abs/2412.17331)|**[link](https://github.com/yukekejan/uccl)**|
 |**2024-12-22**|**Multi-Scale Foreground-Background Confidence for Out-of-Distribution Segmentation**|Samuel Marschall et.al.|[2412.16990](http://arxiv.org/abs/2412.16990)|null|
 |**2024-12-22**|**Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection**|Yuhang Gan et.al.|[2412.16918](http://arxiv.org/abs/2412.16918)|null|
 |**2024-12-22**|**MAGIC++: Efficient and Resilient Modality-Agnostic Semantic Segmentation via Hierarchical Modality Selection**|Xu Zheng et.al.|[2412.16876](http://arxiv.org/abs/2412.16876)|null|
