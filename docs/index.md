@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.27
+## Updated on 2024.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3252,7 +3252,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-24**|**AdaCo: Overcoming Visual Foundation Model Noise in 3D Semantic Segmentation via Adaptive Label Correction**|Pufan Zou et.al.|[2412.18255](http://arxiv.org/abs/2412.18255)|null|
-|**2024-12-24**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178](http://arxiv.org/abs/2412.18178)|null|
+|**2024-12-24**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178](http://arxiv.org/abs/2412.18178)|**[link](https://github.com/yangliu9208/visiongru)**|
 |**2024-12-24**|**UniPLV: Towards Label-Efficient Open-World 3D Scene Understanding by Regional Visual Language Supervision**|Yuru Wang et.al.|[2412.18131](http://arxiv.org/abs/2412.18131)|null|
 |**2024-12-24**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635](http://arxiv.org/abs/2412.17635)|null|
 |**2024-12-23**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
