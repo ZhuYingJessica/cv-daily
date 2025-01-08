@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-05**|**DepthMaster: Taming Diffusion Models for Monocular Depth Estimation**|Ziyang Song et.al.|[2501.02576](http://arxiv.org/abs/2501.02576)|null|
+|**2025-01-05**|**Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera**|Yuliang Guo et.al.|[2501.02464](http://arxiv.org/abs/2501.02464)|null|
+|**2025-01-03**|**SafeAug: Safety-Critical Driving Data Augmentation from Naturalistic Datasets**|Zhaobin Mo et.al.|[2501.02143](http://arxiv.org/abs/2501.02143)|null|
 |**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
 |**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723](http://arxiv.org/abs/2501.01723)|null|
 |**2024-12-31**|**Tech Report: Divide and Conquer 3D Real-Time Reconstruction for Improved IGS**|Yicheng Zhu et.al.|[2501.01465](http://arxiv.org/abs/2501.01465)|null|
@@ -344,14 +347,17 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937](http://arxiv.org/abs/2501.02937)|null|
+|**2025-01-06**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788](http://arxiv.org/abs/2501.02788)|null|
+|**2025-01-04**|**Unsupervised Class Generation to Expand Semantic Segmentation Datasets**|Javier Montalvo et.al.|[2501.02264](http://arxiv.org/abs/2501.02264)|null|
 |**2025-01-03**|**Semantic Segmentation for Sequential Historical Maps by Learning from Only One Map**|Yunshuang Yuan et.al.|[2501.01845](http://arxiv.org/abs/2501.01845)|null|
-|**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/nyudv2-is)**|
+|**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/box-is)**|
 |**2025-01-03**|**Uncertainty and Energy based Loss Guided Semi-Supervised Semantic Segmentation**|Rini Smita Thakur et.al.|[2501.01640](http://arxiv.org/abs/2501.01640)|null|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|**[link](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)**|
 |**2025-01-03**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|**[link](https://github.com/LiBingyu01/FGA-seg)**|
@@ -1045,7 +1051,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
