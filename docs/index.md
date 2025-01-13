@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,8 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|null|
-|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|null|
+|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|**[link](https://github.com/markyu98/madpose)**|
+|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
 |**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
 |**2025-01-07**|**AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**|Ruochen Zhang et.al.|[2501.03700](http://arxiv.org/abs/2501.03700)|null|
 |**2025-01-05**|**DepthMaster: Taming Diffusion Models for Monocular Depth Estimation**|Ziyang Song et.al.|[2501.02576](http://arxiv.org/abs/2501.02576)|null|
