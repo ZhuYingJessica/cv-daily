@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|**[link](https://github.com/markyu98/madpose)**|
 |**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
 |**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
@@ -3271,6 +3272,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2501.07390](http://arxiv.org/abs/2501.07390)|null|
+|**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260](http://arxiv.org/abs/2501.07260)|**[link](https://github.com/xrkong/skimba)**|
+|**2025-01-12**|**LarvSeg: Exploring Image Classification Data For Large Vocabulary Semantic Segmentation via Category-wise Attentive Classifier**|Haojun Yu et.al.|[2501.06862](http://arxiv.org/abs/2501.06862)|**[link](https://github.com/haojunyu1998/larvseg)**|
+|**2025-01-12**|**SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation**|Javier Gamazo Tejero et.al.|[2501.06836](http://arxiv.org/abs/2501.06836)|null|
+|**2025-01-11**|**Parking Space Detection in the City of Granada**|Crespo-Orti Luis et.al.|[2501.06651](http://arxiv.org/abs/2501.06651)|**[link](https://github.com/pab1s/granada-parking-segmentation)**|
 |**2025-01-06**|**The 2nd Place Solution from the 3D Semantic Segmentation Track in the 2024 Waymo Open Dataset Challenge**|Qing Wu et.al.|[2501.05472](http://arxiv.org/abs/2501.05472)|null|
 |**2025-01-09**|**Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**|Shishir Muralidhara et.al.|[2501.05246](http://arxiv.org/abs/2501.05246)|null|
 |**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
