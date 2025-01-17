@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**StereoGen: High-quality Stereo Image Generation from a Single Image**|Xianqi Wang et.al.|[2501.08654](http://arxiv.org/abs/2501.08654)|null|
+|**2025-01-15**|**MonSter: Marry Monodepth to Stereo Unleashes Power**|Junda Cheng et.al.|[2501.08643](http://arxiv.org/abs/2501.08643)|**[link](https://github.com/junda24/monster)**|
 |**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188](http://arxiv.org/abs/2501.08188)|null|
 |**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
@@ -2941,7 +2943,7 @@ layout: default
 |**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
 |**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
 |**2025-01-07**|**AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**|Ruochen Zhang et.al.|[2501.03700](http://arxiv.org/abs/2501.03700)|null|
-|**2025-01-05**|**DepthMaster: Taming Diffusion Models for Monocular Depth Estimation**|Ziyang Song et.al.|[2501.02576](http://arxiv.org/abs/2501.02576)|null|
+|**2025-01-05**|**DepthMaster: Taming Diffusion Models for Monocular Depth Estimation**|Ziyang Song et.al.|[2501.02576](http://arxiv.org/abs/2501.02576)|**[link](https://github.com/indu1ge/DepthMaster)**|
 |**2025-01-05**|**Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera**|Yuliang Guo et.al.|[2501.02464](http://arxiv.org/abs/2501.02464)|null|
 |**2025-01-03**|**SafeAug: Safety-Critical Driving Data Augmentation from Naturalistic Datasets**|Zhaobin Mo et.al.|[2501.02143](http://arxiv.org/abs/2501.02143)|null|
 |**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
@@ -3274,11 +3276,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-14**|**Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers**|Efstathios Karypidis et.al.|[2501.08303](http://arxiv.org/abs/2501.08303)|null|
+|**2025-01-14**|**FLAVARS: A Multimodal Foundational Language and Vision Alignment Model for Remote Sensing**|Isaac Corley et.al.|[2501.08490](http://arxiv.org/abs/2501.08490)|null|
+|**2025-01-14**|**Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers**|Efstathios Karypidis et.al.|[2501.08303](http://arxiv.org/abs/2501.08303)|**[link](https://github.com/sta8is/futurist)**|
 |**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188](http://arxiv.org/abs/2501.08188)|null|
 |**2025-01-14**|**Threshold Attention Network for Semantic Segmentation of Remote Sensing Images**|Wei Long et.al.|[2501.07984](http://arxiv.org/abs/2501.07984)|null|
 |**2025-01-14**|**Balance Divergence for Knowledge Distillation**|Yafei Qi et.al.|[2501.07804](http://arxiv.org/abs/2501.07804)|null|
-|**2025-01-13**|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2501.07390](http://arxiv.org/abs/2501.07390)|null|
+|**2025-01-13**|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma et.al.|[2501.07390](http://arxiv.org/abs/2501.07390)|**[link](https://github.com/sstary/ssrs)**|
 |**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260](http://arxiv.org/abs/2501.07260)|**[link](https://github.com/xrkong/skimba)**|
 |**2025-01-12**|**LarvSeg: Exploring Image Classification Data For Large Vocabulary Semantic Segmentation via Category-wise Attentive Classifier**|Haojun Yu et.al.|[2501.06862](http://arxiv.org/abs/2501.06862)|**[link](https://github.com/haojunyu1998/larvseg)**|
 |**2025-01-12**|**SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation**|Javier Gamazo Tejero et.al.|[2501.06836](http://arxiv.org/abs/2501.06836)|null|
