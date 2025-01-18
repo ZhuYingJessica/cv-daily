@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.17
+## Updated on 2025.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**DEFOM-Stereo: Depth Foundation Model Based Stereo Matching**|Hualie Jiang et.al.|[2501.09466](http://arxiv.org/abs/2501.09466)|**[link](https://github.com/insta360-research-team/defom-stereo)**|
 |**2025-01-15**|**StereoGen: High-quality Stereo Image Generation from a Single Image**|Xianqi Wang et.al.|[2501.08654](http://arxiv.org/abs/2501.08654)|null|
 |**2025-01-15**|**MonSter: Marry Monodepth to Stereo Unleashes Power**|Junda Cheng et.al.|[2501.08643](http://arxiv.org/abs/2501.08643)|**[link](https://github.com/junda24/monster)**|
 |**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188](http://arxiv.org/abs/2501.08188)|null|
@@ -3276,6 +3277,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485](http://arxiv.org/abs/2501.09485)|null|
+|**2025-01-16**|**Scaling up self-supervised learning for improved surgical foundation models**|Tim J. M. Jaspers et.al.|[2501.09436](http://arxiv.org/abs/2501.09436)|**[link](https://github.com/timjaspers0801/surgenet)**|
+|**2025-01-16**|**SVIA: A Street View Image Anonymization Framework for Self-Driving Applications**|Dongyu Liu et.al.|[2501.09393](http://arxiv.org/abs/2501.09393)|null|
+|**2025-01-15**|**UNIR-Net: A Novel Approach for Restoring Underwater Images with Non-Uniform Illumination Using Synthetic Data**|Ezequiel Perez-Zarate et.al.|[2501.09053](http://arxiv.org/abs/2501.09053)|null|
+|**2025-01-15**|**Pseudolabel guided pixels contrast for domain adaptive semantic segmentation**|Jianzi Xiang et.al.|[2501.09040](http://arxiv.org/abs/2501.09040)|**[link](https://github.com/embar111/pgpc)**|
 |**2025-01-14**|**FLAVARS: A Multimodal Foundational Language and Vision Alignment Model for Remote Sensing**|Isaac Corley et.al.|[2501.08490](http://arxiv.org/abs/2501.08490)|null|
 |**2025-01-14**|**Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers**|Efstathios Karypidis et.al.|[2501.08303](http://arxiv.org/abs/2501.08303)|**[link](https://github.com/sta8is/futurist)**|
 |**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188](http://arxiv.org/abs/2501.08188)|null|
