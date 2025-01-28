@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Rethinking Encoder-Decoder Flow Through Shared Structures**|Frederik Laboyrie et.al.|[2501.14535](http://arxiv.org/abs/2501.14535)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**PromptMono: Cross Prompting Attention for Self-Supervised Monocular Depth Estimation in Challenging Environments**|Changhao Wang et.al.|[2501.13796](http://arxiv.org/abs/2501.13796)|null|
 |**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia et.al.|[2501.12824](http://arxiv.org/abs/2501.12824)|null|
@@ -3289,6 +3290,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**|Jules Sanchez et.al.|[2501.14605](http://arxiv.org/abs/2501.14605)|**[link](https://github.com/julessanchez/3dlabelprop)**|
+|**2025-01-23**|**ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection**|Luqi Zhang et.al.|[2501.14004](http://arxiv.org/abs/2501.14004)|**[link](https://github.com/zhangluqi0209/me-cpt)**|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Where Do You Go? Pedestrian Trajectory Prediction using Scene Features**|Mohammad Ali Rezaei et.al.|[2501.13848](http://arxiv.org/abs/2501.13848)|null|
 |**2025-01-23**|**Overcoming Support Dilution for Robust Few-shot Semantic Segmentation**|Wailing Tang et.al.|[2501.13529](http://arxiv.org/abs/2501.13529)|null|
@@ -3297,7 +3300,7 @@ layout: default
 |**2025-01-22**|**Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumour Segmentation**|Satyaki Roy Chowdhury et.al.|[2501.13129](http://arxiv.org/abs/2501.13129)|null|
 |**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia et.al.|[2501.12824](http://arxiv.org/abs/2501.12824)|null|
 |**2025-01-19**|**Comparative Analysis of Hand-Crafted and Machine-Driven Histopathological Features for Prostate Cancer Classification and Segmentation**|Feda Bolus Al Baqain et.al.|[2501.12415](http://arxiv.org/abs/2501.12415)|null|
-|**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|null|
+|**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|**[link](https://github.com/ast-fortiss-tum/perturbation-drive)**|
 |**2025-01-21**|**A margin-based replacement for cross-entropy loss**|Michael W. Spratling et.al.|[2501.12191](http://arxiv.org/abs/2501.12191)|null|
 |**2025-01-20**|**MedicoSAM: Towards foundation models for medical image segmentation**|Anwai Archit et.al.|[2501.11734](http://arxiv.org/abs/2501.11734)|**[link](https://github.com/computational-cell-analytics/medico-sam)**|
 |**2025-01-20**|**Automatic Labelling & Semantic Segmentation with 4D Radar Tensors**|Botao Sun et.al.|[2501.11351](http://arxiv.org/abs/2501.11351)|null|
