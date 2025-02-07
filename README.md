@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -376,12 +376,15 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Disentangling CLIP Features for Enhanced Localized Understanding**|Samyak Rawelekar et.al.|[2502.02977](http://arxiv.org/abs/2502.02977)|null|
+|**2025-02-05**|**From DeepSense to Open RAN: AI/ML Advancements in Dynamic Spectrum Sensing and Their Applications**|Ryan Barker et.al.|[2502.02889](http://arxiv.org/abs/2502.02889)|null|
+|**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-04**|**Transfer Risk Map: Mitigating Pixel-level Negative Transfer in Medical Segmentation**|Shutong Duan et.al.|[2502.02340](http://arxiv.org/abs/2502.02340)|null|
 |**2025-02-04**|**UNIP: Rethinking Pre-trained Attention Patterns for Infrared Semantic Segmentation**|Tao Zhang et.al.|[2502.02257](http://arxiv.org/abs/2502.02257)|null|
 |**2025-02-04**|**Deep Ensemble approach for Enhancing Brain Tumor Segmentation in Resource-Limited Settings**|Jeremiah Fadugba et.al.|[2502.02179](http://arxiv.org/abs/2502.02179)|null|
@@ -1153,7 +1156,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
