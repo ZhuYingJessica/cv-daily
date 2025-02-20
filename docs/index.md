@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142](http://arxiv.org/abs/2502.13142)|null|
+|**2025-02-18**|**SHADeS: Self-supervised Monocular Depth Estimation Through Non-Lambertian Image Decomposition**|Rema Daher et.al.|[2502.12994](http://arxiv.org/abs/2502.12994)|null|
 |**2025-02-17**|**Deep Neural Networks for Accurate Depth Estimation with Latent Space Features**|Siddiqui Muhammad Yasir et.al.|[2502.11777](http://arxiv.org/abs/2502.11777)|null|
 |**2025-02-16**|**Adjust Your Focus: Defocus Deblurring From Dual-Pixel Images Using Explicit Multi-Scale Cross-Correlation**|Kunal Swami et.al.|[2502.11002](http://arxiv.org/abs/2502.11002)|null|
 |**2025-02-14**|**RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control**|Teng Li et.al.|[2502.10059](http://arxiv.org/abs/2502.10059)|null|
@@ -3308,12 +3310,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
+|**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
 |**2025-02-17**|**From Open-Vocabulary to Vocabulary-Free Semantic Segmentation**|Klara Reichard et.al.|[2502.11891](http://arxiv.org/abs/2502.11891)|null|
 |**2025-02-16**|**Detecting Cadastral Boundary from Satellite Images Using U-Net model**|Neda Rahimpour Anaraki et.al.|[2502.11044](http://arxiv.org/abs/2502.11044)|null|
 |**2025-02-15**|**NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**|Shutong Zhang et.al.|[2502.10720](http://arxiv.org/abs/2502.10720)|null|
 |**2025-02-15**|**Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation using A Novel Dataset**|Muhammad Ashad Kabir et.al.|[2502.10652](http://arxiv.org/abs/2502.10652)|null|
 |**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|null|
-|**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
+|**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|**[link](https://github.com/frapez1/SQ-GAN)**|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-17**|**Memory-based Ensemble Learning in CMR Semantic Segmentation**|Yiwei Liu et.al.|[2502.09269](http://arxiv.org/abs/2502.09269)|**[link](https://github.com/LEw1sin/Uncertainty-Ensemble)**|
 |**2025-02-13**|**Latents of latents to delineate pixels: hybrid Matryoshka autoencoder-to-U-Net pairing for segmenting large medical images in GPU-poor and low-data regimes**|Tahir Syed et.al.|[2502.08988](http://arxiv.org/abs/2502.08988)|null|
