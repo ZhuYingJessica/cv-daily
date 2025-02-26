@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3315,6 +3315,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
+|**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
+|**2025-02-23**|**VPNeXt -- Rethinking Dense Decoding for Plain Vision Transformer**|Xikai Tang et.al.|[2502.16654](http://arxiv.org/abs/2502.16654)|null|
+|**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652](http://arxiv.org/abs/2502.16652)|null|
+|**2025-02-23**|**OpenVox: Real-time Instance-level Open-vocabulary Probabilistic Voxel Representation**|Yinan Deng et.al.|[2502.16528](http://arxiv.org/abs/2502.16528)|null|
+|**2025-02-23**|**Deep learning approaches to surgical video segmentation and object detection: A Scoping Review**|Devanish N. Kamtam et.al.|[2502.16459](http://arxiv.org/abs/2502.16459)|null|
+|**2025-02-22**|**Importance-Aware Source-Channel Coding for Multi-Modal Task-Oriented Semantic Communication**|Yi Ma et.al.|[2502.16194](http://arxiv.org/abs/2502.16194)|null|
+|**2025-02-22**|**FeatSharp: Your Vision Model Features, Sharper**|Mike Ranzinger et.al.|[2502.16025](http://arxiv.org/abs/2502.16025)|null|
+|**2025-02-22**|**Cross-Model Transferability of Adversarial Patches in Real-time Segmentation for Autonomous Driving**|Prashant Shekhar et.al.|[2502.16012](http://arxiv.org/abs/2502.16012)|**[link](https://github.com/p-shekhar/adversarial-patch-transferability)**|
+|**2025-02-21**|**Graph Attention Convolutional U-NET: A Semantic Segmentation Model for Identifying Flooded Areas**|Muhammad Umair Danish et.al.|[2502.15907](http://arxiv.org/abs/2502.15907)|null|
 |**2025-02-21**|**Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**|Yufeng Diao et.al.|[2502.15472](http://arxiv.org/abs/2502.15472)|null|
 |**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309](http://arxiv.org/abs/2502.15309)|**[link](https://github.com/geluzhou/dynamic-gsg)**|
 |**2025-02-21**|**Confidence-Weighted Boundary-Aware Learning for Semi-Supervised Semantic Segmentation**|Ebenezer Tarubinga et.al.|[2502.15152](http://arxiv.org/abs/2502.15152)|null|
