@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
-|**2025-02-20**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
+|**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
 |**2025-02-20**|**Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining**|Wonhyeok Choi et.al.|[2502.14573](http://arxiv.org/abs/2502.14573)|null|
 |**2025-02-20**|**OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**|Zhichao Zheng et.al.|[2502.14279](http://arxiv.org/abs/2502.14279)|null|
 |**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142](http://arxiv.org/abs/2502.13142)|null|
@@ -400,7 +400,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -409,7 +409,7 @@
 |**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316](http://arxiv.org/abs/2502.20316)|null|
 |**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087](http://arxiv.org/abs/2502.20087)|**[link](https://github.com/lmmmeng/overlock)**|
 |**2025-02-28**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
-|**2025-02-27**|**3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds**|Hengshuo Chu et.al.|[2502.20041](http://arxiv.org/abs/2502.20041)|null|
+|**2025-03-03**|**3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds**|Hengshuo Chu et.al.|[2502.20041](http://arxiv.org/abs/2502.20041)|null|
 |**2025-02-27**|**Learning Mask Invariant Mutual Information for Masked Image Modeling**|Tao Huang et.al.|[2502.19718](http://arxiv.org/abs/2502.19718)|null|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
 |**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982](http://arxiv.org/abs/2502.18982)|null|
@@ -1239,7 +1239,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
