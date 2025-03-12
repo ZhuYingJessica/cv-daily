@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,11 +2934,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-11**|**LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|null|
+|**2025-03-08**|**Towards Ambiguity-Free Spatial Foundation Model: Rethinking and Decoupling Depth Ambiguity**|Xiaohao Xu et.al.|[2503.06014](http://arxiv.org/abs/2503.06014)|null|
 |**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568](http://arxiv.org/abs/2503.05568)|null|
 |**2025-03-07**|**Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects**|Justin Yu et.al.|[2503.05189](http://arxiv.org/abs/2503.05189)|null|
 |**2025-03-05**|**RTFusion: A depth estimation network based on multimodal fusion in challenging scenarios**|Zelin Meng et.al.|[2503.04821](http://arxiv.org/abs/2503.04821)|null|
 |**2025-03-06**|**A Novel Solution for Drone Photogrammetry with Low-overlap Aerial Images using Monocular Depth Estimation**|Jiageng Zhong et.al.|[2503.04513](http://arxiv.org/abs/2503.04513)|null|
-|**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
+|**2025-03-08**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
 |**2025-03-06**|**H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision**|Yunxiao Shi et.al.|[2503.04059](http://arxiv.org/abs/2503.04059)|null|
 |**2025-03-05**|**Task-Agnostic Attacks Against Vision Foundation Models**|Brian Pulfer et.al.|[2503.03842](http://arxiv.org/abs/2503.03842)|null|
 |**2025-03-05**|**Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on Architectural Design of University Buildings**|Xusheng Du et.al.|[2503.03068](http://arxiv.org/abs/2503.03068)|null|
@@ -3331,6 +3334,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252](http://arxiv.org/abs/2503.07252)|null|
+|**2025-03-10**|**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**|Ding Zhong et.al.|[2503.07098](http://arxiv.org/abs/2503.07098)|null|
+|**2025-03-10**|**Approximate Size Targets Are Sufficient for Accurate Semantic Segmentation**|Xingye Fan et.al.|[2503.06954](http://arxiv.org/abs/2503.06954)|null|
+|**2025-03-10**|**Aligning Instance-Semantic Sparse Representation towards Unsupervised Object Segmentation and Shape Abstraction with Repeatable Primitives**|Jiaxin Li et.al.|[2503.06947](http://arxiv.org/abs/2503.06947)|null|
+|**2025-03-10**|**HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**|Siyu Li et.al.|[2503.06821](http://arxiv.org/abs/2503.06821)|null|
+|**2025-03-09**|**CoDa-4DGS: Dynamic Gaussian Splatting with Context and Deformation Awareness for Autonomous Driving**|Rui Song et.al.|[2503.06744](http://arxiv.org/abs/2503.06744)|null|
+|**2025-03-09**|**MemorySAM: Memorize Modalities and Semantics with Segment Anything Model 2 for Multi-modal Semantic Segmentation**|Chenfei Liao et.al.|[2503.06700](http://arxiv.org/abs/2503.06700)|null|
+|**2025-03-09**|**Asymmetric Decision-Making in Online Knowledge Distillation:Unifying Consensus and Divergence**|Zhaowei Chen et.al.|[2503.06685](http://arxiv.org/abs/2503.06685)|null|
+|**2025-03-09**|**Steerable Pyramid Weighted Loss: Multi-Scale Adaptive Weighting for Semantic Segmentation**|Renhao Lu et.al.|[2503.06604](http://arxiv.org/abs/2503.06604)|null|
 |**2025-03-07**|**Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction**|Shuo Jiang et.al.|[2503.05231](http://arxiv.org/abs/2503.05231)|null|
 |**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
 |**2025-03-06**|**PointsToWood: A deep learning framework for complete canopy leaf-wood segmentation of TLS data across diverse European forests**|Harry J. F. Owen et.al.|[2503.04420](http://arxiv.org/abs/2503.04420)|null|
