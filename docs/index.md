@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
+|**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470](http://arxiv.org/abs/2503.15470)|null|
+|**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
 |**2025-03-18**|**Multi-view Reconstruction via SfM-guided Monocular Depth Estimation**|Haoyu Guo et.al.|[2503.14483](http://arxiv.org/abs/2503.14483)|null|
 |**2025-03-18**|**DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers**|Mert Bulent Sariyildiz et.al.|[2503.14405](http://arxiv.org/abs/2503.14405)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
@@ -3353,8 +3356,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300](http://arxiv.org/abs/2503.15300)|null|
+|**2025-03-19**|**Semantic Segmentation of Transparent and Opaque Drinking Glasses with the Help of Zero-shot Learning**|Annalena Blänsdorf et.al.|[2503.15004](http://arxiv.org/abs/2503.15004)|null|
+|**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
 |**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
-|**2025-03-18**|**Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation**|Xinliang Zhang et.al.|[2503.13895](http://arxiv.org/abs/2503.13895)|null|
+|**2025-03-18**|**Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation**|Xinliang Zhang et.al.|[2503.13895](http://arxiv.org/abs/2503.13895)|**[link](https://github.com/zxl19990529/csp-net)**|
 |**2025-03-17**|**Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization**|Hao Li et.al.|[2503.13617](http://arxiv.org/abs/2503.13617)|null|
 |**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188](http://arxiv.org/abs/2503.13188)|null|
 |**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
