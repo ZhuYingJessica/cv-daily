@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Radar-Guided Polynomial Fitting for Metric Depth Estimation**|Patrick Rim et.al.|[2503.17182](http://arxiv.org/abs/2503.17182)|null|
+|**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
+|**2025-03-21**|**Distilling Monocular Foundation Model for Fine-grained Depth Completion**|Yingping Liang et.al.|[2503.16970](http://arxiv.org/abs/2503.16970)|null|
+|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
+|**2025-03-20**|**A Recipe for Generating 3D Worlds From a Single Image**|Katja Schwarz et.al.|[2503.16611](http://arxiv.org/abs/2503.16611)|null|
 |**2025-03-20**|**Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras**|Beilei Cui et.al.|[2503.15917](http://arxiv.org/abs/2503.15917)|null|
 |**2025-03-20**|**Jasmine: Harnessing Diffusion Prior for Self-supervised Depth Estimation**|Jiyuan Wang et.al.|[2503.15905](http://arxiv.org/abs/2503.15905)|null|
 |**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
@@ -438,19 +443,22 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Center-guided Classifier for Semantic Segmentation of Remote Sensing Images**|Wei Zhang et.al.|[2503.16963](http://arxiv.org/abs/2503.16963)|null|
+|**2025-03-21**|**Seg2Box: 3D Object Detection by Point-Wise Semantics Supervision**|Maoji Zheng et.al.|[2503.16811](http://arxiv.org/abs/2503.16811)|null|
+|**2025-03-20**|**SAGE: Semantic-Driven Adaptive Gaussian Splatting in Extended Reality**|Chiara Schiavo et.al.|[2503.16747](http://arxiv.org/abs/2503.16747)|null|
 |**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378](http://arxiv.org/abs/2503.16378)|null|
 |**2025-03-20**|**Controllable Segmentation-Based Text-Guided Style Editing**|Jingwen Li et.al.|[2503.16129](http://arxiv.org/abs/2503.16129)|null|
 |**2025-03-20**|**No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather**|Junsung Park et.al.|[2503.15910](http://arxiv.org/abs/2503.15910)|null|
-|**2025-03-19**|**High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight**|Cédric Vincent et.al.|[2503.15676](http://arxiv.org/abs/2503.15676)|null|
-|**2025-03-19**|**Transport-Related Surface Detection with Machine Learning: Analyzing Temporal Trends in Madrid and Vienna**|Miguel Ureña Pliego et.al.|[2503.15653](http://arxiv.org/abs/2503.15653)|null|
+|**2025-03-19**|**High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight**|Cédric Vincent et.al.|[2503.15676](http://arxiv.org/abs/2503.15676)|**[link](https://github.com/fraunhoferivi/ssp)**|
+|**2025-03-19**|**Transport-Related Surface Detection with Machine Learning: Analyzing Temporal Trends in Madrid and Vienna**|Miguel Ureña Pliego et.al.|[2503.15653](http://arxiv.org/abs/2503.15653)|**[link](https://github.com/GeomaticsCaminosUPM/GeoVisionDataset)**|
 |**2025-03-19**|**CAM-Seg: A Continuous-valued Embedding Approach for Semantic Image Generation**|Masud Ahmed et.al.|[2503.15617](http://arxiv.org/abs/2503.15617)|null|
-|**2025-03-19**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300](http://arxiv.org/abs/2503.15300)|null|
+|**2025-03-21**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300](http://arxiv.org/abs/2503.15300)|null|
 |**2025-03-19**|**Semantic Segmentation of Transparent and Opaque Drinking Glasses with the Help of Zero-shot Learning**|Annalena Blänsdorf et.al.|[2503.15004](http://arxiv.org/abs/2503.15004)|null|
 |**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
 |**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
@@ -1345,7 +1353,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
