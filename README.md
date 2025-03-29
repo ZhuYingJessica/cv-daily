@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.28
+## Updated on 2025.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,12 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan et.al.|[2503.20211](http://arxiv.org/abs/2503.20211)|null|
-|**2025-03-26**|**FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**|Pihai Sun et.al.|[2503.19739](http://arxiv.org/abs/2503.19739)|null|
-|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713](http://arxiv.org/abs/2503.19713)|null|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|null|
+|**2025-03-27**|**ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**|Yuxi Hu et.al.|[2503.21525](http://arxiv.org/abs/2503.21525)|null|
+|**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan et.al.|[2503.20211](http://arxiv.org/abs/2503.20211)|**[link](https://github.com/davidyan2001/synthetic2real-depth)**|
+|**2025-03-26**|**FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**|Pihai Sun et.al.|[2503.19739](http://arxiv.org/abs/2503.19739)|**[link](https://github.com/sunpihai-up/fuse)**|
+|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713](http://arxiv.org/abs/2503.19713)|**[link](https://github.com/xieyuser/semi-sd)**|
 |**2025-03-25**|**StableGS: A Floater-Free Framework for 3D Gaussian Splatting**|Luchao Wang et.al.|[2503.18458](http://arxiv.org/abs/2503.18458)|null|
 |**2025-03-24**|**PDDM: Pseudo Depth Diffusion Model for RGB-PD Semantic Segmentation Based in Complex Indoor Scenes**|Xinhua Xu et.al.|[2503.18393](http://arxiv.org/abs/2503.18393)|null|
-|**2025-03-23**|**Co-SemDepth: Fast Joint Semantic Segmentation and Depth Estimation on Aerial Images**|Yara AlaaEldin et.al.|[2503.17982](http://arxiv.org/abs/2503.17982)|null|
+|**2025-03-23**|**Co-SemDepth: Fast Joint Semantic Segmentation and Depth Estimation on Aerial Images**|Yara AlaaEldin et.al.|[2503.17982](http://arxiv.org/abs/2503.17982)|**[link](https://github.com/malga-vision/co-semdepth)**|
 |**2025-03-21**|**Radar-Guided Polynomial Fitting for Metric Depth Estimation**|Patrick Rim et.al.|[2503.17182](http://arxiv.org/abs/2503.17182)|null|
 |**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
 |**2025-03-21**|**Distilling Monocular Foundation Model for Fine-grained Depth Completion**|Yingping Liang et.al.|[2503.16970](http://arxiv.org/abs/2503.16970)|null|
@@ -449,12 +451,17 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|null|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|null|
+|**2025-03-26**|**Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation**|Zhiwei Yang et.al.|[2503.20826](http://arxiv.org/abs/2503.20826)|null|
+|**2025-03-26**|**Exploiting Temporal State Space Sharing for Video Semantic Segmentation**|Syed Ariff Syed Hesham et.al.|[2503.20824](http://arxiv.org/abs/2503.20824)|null|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
 |**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777](http://arxiv.org/abs/2503.19777)|null|
@@ -1377,7 +1384,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
