@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations**|Krispin Wandel et.al.|[2503.22462](http://arxiv.org/abs/2503.22462)|null|
+|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437](http://arxiv.org/abs/2503.22437)|**[link](https://github.com/michaelwanggo/endolrmgs)**|
+|**2025-03-28**|**MVSAnywhere: Zero-Shot Multi-View Stereo**|Sergio Izquierdo et.al.|[2503.22430](http://arxiv.org/abs/2503.22430)|null|
+|**2025-03-28**|**One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation Models on High-Resolution Images**|Byeongjun Kwon et.al.|[2503.22351](http://arxiv.org/abs/2503.22351)|null|
+|**2025-03-28**|**Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces**|Wonhyeok Choi et.al.|[2503.22209](http://arxiv.org/abs/2503.22209)|null|
+|**2025-03-28**|**Deep Depth Estimation from Thermal Image: Dataset, Benchmark, and Challenges**|Ukcheol Shin et.al.|[2503.22060](http://arxiv.org/abs/2503.22060)|null|
 |**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-27**|**ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**|Yuxi Hu et.al.|[2503.21525](http://arxiv.org/abs/2503.21525)|null|
 |**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan et.al.|[2503.20211](http://arxiv.org/abs/2503.20211)|**[link](https://github.com/davidyan2001/synthetic2real-depth)**|
@@ -3371,6 +3377,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592](http://arxiv.org/abs/2503.22592)|null|
+|**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
+|**2025-03-28**|**Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation**|Minho Park et.al.|[2503.22172](http://arxiv.org/abs/2503.22172)|null|
+|**2025-03-28**|**Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation**|Hongmei Yin et.al.|[2503.22136](http://arxiv.org/abs/2503.22136)|null|
+|**2025-03-28**|**Semantic segmentation for building houses from wooden cubes**|Ivan Beleacov et.al.|[2503.22125](http://arxiv.org/abs/2503.22125)|null|
+|**2025-03-28**|**Baseline Systems and Evaluation Metrics for Spatial Semantic Segmentation of Sound Scenes**|Binh Thien Nguyen et.al.|[2503.22088](http://arxiv.org/abs/2503.22088)|null|
+|**2025-03-28**|**A Deep Learning Framework for Boundary-Aware Semantic Segmentation**|Tai An et.al.|[2503.22050](http://arxiv.org/abs/2503.22050)|null|
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|**[link](https://github.com/prbonn/3diss)**|
