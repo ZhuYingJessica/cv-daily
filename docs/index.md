@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3385,7 +3385,7 @@ layout: default
 |**2025-03-31**|**Bridge the Gap Between Visual and Linguistic Comprehension for Generalized Zero-shot Semantic Segmentation**|Xiaoqing Guo et.al.|[2503.23806](http://arxiv.org/abs/2503.23806)|null|
 |**2025-03-31**|**Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks**|Yu Zhou et.al.|[2503.23751](http://arxiv.org/abs/2503.23751)|null|
 |**2025-03-31**|**Semantic Packet Aggregation and Repeated Transmission for Text-to-Image Generation**|Seunghun Lee et.al.|[2503.23734](http://arxiv.org/abs/2503.23734)|null|
-|**2025-03-31**|**CrossFormer: Cross-Segment Semantic Fusion for Document Segmentation**|Tongke Ni et.al.|[2503.23671](http://arxiv.org/abs/2503.23671)|null|
+|**2025-04-02**|**CrossFormer: Cross-Segment Semantic Fusion for Document Segmentation**|Tongke Ni et.al.|[2503.23671](http://arxiv.org/abs/2503.23671)|null|
 |**2025-03-30**|**BoundMatch: Boundary detection applied to semi-supervised segmentation for urban-driving scenes**|Haruya Ishikawa et.al.|[2503.23519](http://arxiv.org/abs/2503.23519)|null|
 |**2025-03-30**|**Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention**|Xin Zuo et.al.|[2503.23422](http://arxiv.org/abs/2503.23422)|null|
 |**2025-03-29**|**Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments**|Yifan Xu et.al.|[2503.23105](http://arxiv.org/abs/2503.23105)|null|
