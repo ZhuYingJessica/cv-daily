@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
+|**2025-04-02**|**A novel gesture interaction control method for rehabilitation lower extremity exoskeleton**|Shuang Qiu et.al.|[2504.01888](http://arxiv.org/abs/2504.01888)|null|
+|**2025-04-02**|**DEPTHOR: Depth Enhancement from a Practical Light-Weight dToF Sensor and RGB Image**|Jijun Xiang et.al.|[2504.01596](http://arxiv.org/abs/2504.01596)|null|
+|**2025-04-01**|**GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors**|Tian-Xing Xu et.al.|[2504.01016](http://arxiv.org/abs/2504.01016)|null|
+|**2025-04-01**|**Monocular and Generalizable Gaussian Talking Head Animation**|Shengjie Gong et.al.|[2504.00665](http://arxiv.org/abs/2504.00665)|null|
 |**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881](http://arxiv.org/abs/2503.23881)|null|
 |**2025-03-31**|**Detail-aware multi-view stereo network for depth estimation**|Haitao Tian et.al.|[2503.23684](http://arxiv.org/abs/2503.23684)|null|
 |**2025-03-30**|**Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries**|Wei Xu et.al.|[2503.23606](http://arxiv.org/abs/2503.23606)|null|
@@ -3381,6 +3386,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
+|**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648](http://arxiv.org/abs/2504.01648)|null|
+|**2025-04-02**|**Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions**|Giulia Marchiori Pietrosanti et.al.|[2504.01632](http://arxiv.org/abs/2504.01632)|null|
+|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547](http://arxiv.org/abs/2504.01547)|null|
+|**2025-04-02**|**Beyond Nearest Neighbor Interpolation in Data Augmentation**|Olivier Rukundo et.al.|[2504.01527](http://arxiv.org/abs/2504.01527)|null|
+|**2025-04-02**|**Multimodal Point Cloud Semantic Segmentation With Virtual Point Enhancement**|Zaipeng Duan et.al.|[2504.01449](http://arxiv.org/abs/2504.01449)|null|
+|**2025-04-01**|**CAPE: Connectivity-Aware Path Enforcement Loss for Curvilinear Structure Delineation**|Elyar Esmaeilzadeh et.al.|[2504.00753](http://arxiv.org/abs/2504.00753)|null|
+|**2025-04-01**|**FSSUWNet: Mitigating the Fragility of Pre-trained Models with Feature Enhancement for Few-Shot Semantic Segmentation in Underwater Images**|Zhuohao Li et.al.|[2504.00478](http://arxiv.org/abs/2504.00478)|**[link](https://github.com/lizhh268/FSSUWNet)**|
 |**2025-03-31**|**Spectral-Adaptive Modulation Networks for Visual Perception**|Guhnoo Yun et.al.|[2503.23947](http://arxiv.org/abs/2503.23947)|null|
 |**2025-03-31**|**Bridge the Gap Between Visual and Linguistic Comprehension for Generalized Zero-shot Semantic Segmentation**|Xiaoqing Guo et.al.|[2503.23806](http://arxiv.org/abs/2503.23806)|null|
 |**2025-03-31**|**Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks**|Yu Zhou et.al.|[2503.23751](http://arxiv.org/abs/2503.23751)|null|
