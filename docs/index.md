@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**FreSca: Unveiling the Scaling Space in Diffusion Models**|Chao Huang et.al.|[2504.02154](http://arxiv.org/abs/2504.02154)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
 |**2025-04-02**|**A novel gesture interaction control method for rehabilitation lower extremity exoskeleton**|Shuang Qiu et.al.|[2504.01888](http://arxiv.org/abs/2504.01888)|null|
 |**2025-04-02**|**DEPTHOR: Depth Enhancement from a Practical Light-Weight dToF Sensor and RGB Image**|Jijun Xiang et.al.|[2504.01596](http://arxiv.org/abs/2504.01596)|null|
@@ -3386,11 +3387,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
+|**2025-04-03**|**Semantic segmentation of forest stands using deep learning**|Håkon Næss Sandum et.al.|[2504.02471](http://arxiv.org/abs/2504.02471)|null|
+|**2025-04-03**|**Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation**|Changshuo Wang et.al.|[2504.02454](http://arxiv.org/abs/2504.02454)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
 |**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
 |**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648](http://arxiv.org/abs/2504.01648)|null|
 |**2025-04-02**|**Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions**|Giulia Marchiori Pietrosanti et.al.|[2504.01632](http://arxiv.org/abs/2504.01632)|null|
-|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547](http://arxiv.org/abs/2504.01547)|null|
+|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547](http://arxiv.org/abs/2504.01547)|**[link](https://github.com/ciampluca/diffusion_semi_supervised_biomedical_image_segmentation)**|
 |**2025-04-02**|**Beyond Nearest Neighbor Interpolation in Data Augmentation**|Olivier Rukundo et.al.|[2504.01527](http://arxiv.org/abs/2504.01527)|null|
 |**2025-04-02**|**Multimodal Point Cloud Semantic Segmentation With Virtual Point Enhancement**|Zaipeng Duan et.al.|[2504.01449](http://arxiv.org/abs/2504.01449)|null|
 |**2025-04-01**|**CAPE: Connectivity-Aware Path Enforcement Loss for Curvilinear Structure Delineation**|Elyar Esmaeilzadeh et.al.|[2504.00753](http://arxiv.org/abs/2504.00753)|null|
