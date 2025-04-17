@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
+|**2025-04-16**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347](http://arxiv.org/abs/2504.11347)|null|
 |**2025-04-13**|**TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting**|Zhicong Wu et.al.|[2504.09588](http://arxiv.org/abs/2504.09588)|null|
 |**2025-04-12**|**Text To 3D Object Generation For Scalable Room Assembly**|Sonia Laguna et.al.|[2504.09328](http://arxiv.org/abs/2504.09328)|null|
 |**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
@@ -476,12 +478,17 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation**|Bo-Cheng Hu et.al.|[2504.10986](http://arxiv.org/abs/2504.10986)|null|
+|**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
+|**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
+|**2025-04-15**|**Efficient and Robust Remote Sensing Image Denoising Using Randomized Approximation of Geodesics' Gramian on the Manifold Underlying the Patch Space**|Kelum Gajamannage et.al.|[2504.10820](http://arxiv.org/abs/2504.10820)|null|
+|**2025-04-14**|**Real-time Seafloor Segmentation and Mapping**|Michele Grimaldi et.al.|[2504.10750](http://arxiv.org/abs/2504.10750)|null|
 |**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|null|
 |**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
 |**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123](http://arxiv.org/abs/2504.10123)|null|
@@ -1467,7 +1474,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
+|**2025-04-16**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347](http://arxiv.org/abs/2504.11347)|null|
 |**2025-04-13**|**TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting**|Zhicong Wu et.al.|[2504.09588](http://arxiv.org/abs/2504.09588)|null|
 |**2025-04-12**|**Text To 3D Object Generation For Scalable Room Assembly**|Sonia Laguna et.al.|[2504.09328](http://arxiv.org/abs/2504.09328)|null|
 |**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
@@ -3396,6 +3398,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation**|Bo-Cheng Hu et.al.|[2504.10986](http://arxiv.org/abs/2504.10986)|null|
+|**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
+|**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
+|**2025-04-15**|**Efficient and Robust Remote Sensing Image Denoising Using Randomized Approximation of Geodesics' Gramian on the Manifold Underlying the Patch Space**|Kelum Gajamannage et.al.|[2504.10820](http://arxiv.org/abs/2504.10820)|null|
+|**2025-04-14**|**Real-time Seafloor Segmentation and Mapping**|Michele Grimaldi et.al.|[2504.10750](http://arxiv.org/abs/2504.10750)|null|
 |**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|null|
 |**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
 |**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123](http://arxiv.org/abs/2504.10123)|null|
