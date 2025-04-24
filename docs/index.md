@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
 |**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687](http://arxiv.org/abs/2504.14687)|**[link](https://github.com/cvlab-kaist/seurat)**|
 |**2025-04-18**|**Occlusion-Ordered Semantic Instance Segmentation**|Soroosh Baselizadeh et.al.|[2504.14054](http://arxiv.org/abs/2504.14054)|null|
@@ -3408,6 +3409,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
+|**2025-04-22**|**DINOv2-powered Few-Shot Semantic Segmentation: A Unified Framework via Cross-Model Distillation and 4D Correlation Mining**|Wei Zhuo et.al.|[2504.15669](http://arxiv.org/abs/2504.15669)|null|
 |**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795](http://arxiv.org/abs/2504.14795)|**[link](https://github.com/pfnet-research/bayesian_spatialcorr)**|
 |**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
 |**2025-04-19**|**Segment Any Crack: Deep Semantic Segmentation Adaptation for Crack Detection**|Ghodsiyeh Rostami et.al.|[2504.14138](http://arxiv.org/abs/2504.14138)|null|
