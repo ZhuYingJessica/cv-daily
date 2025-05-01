@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819](http://arxiv.org/abs/2504.19819)|null|
 |**2025-04-27**|**Leveraging Multi-Modal Saliency and Fusion for Gaze Target Detection**|Athul M. Mathew et.al.|[2504.19271](http://arxiv.org/abs/2504.19271)|null|
 |**2025-04-26**|**Depth as Points: Center Point-based Depth Estimation**|Zhiheng Tu et.al.|[2504.18773](http://arxiv.org/abs/2504.18773)|null|
@@ -3421,6 +3423,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
+|**2025-04-28**|**DeepAndes: A Self-Supervised Vision Foundation Model for Multi-Spectral Remote Sensing Imagery of the Andes**|Junlin Guo et.al.|[2504.20303](http://arxiv.org/abs/2504.20303)|null|
 |**2025-04-28**|**SRMF: A Data Augmentation and Multimodal Fusion Approach for Long-Tail UHR Satellite Image Segmentation**|Yulong Guo et.al.|[2504.19839](http://arxiv.org/abs/2504.19839)|null|
 |**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706](http://arxiv.org/abs/2504.19706)|null|
 |**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
