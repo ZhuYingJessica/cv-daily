@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
 |**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482](http://arxiv.org/abs/2505.00482)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -506,13 +507,14 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-02**|**GeloVec: Higher Dimensional Geometric Smoothing for Coherent Visual Feature Extraction in Image Segmentation**|Boris Kriuk et.al.|[2505.01057](http://arxiv.org/abs/2505.01057)|null|
+|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-30**|**Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans**|Hannes Reichert et.al.|[2504.21602](http://arxiv.org/abs/2504.21602)|null|
 |**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
@@ -1545,7 +1547,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
