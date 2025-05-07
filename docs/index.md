@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704](http://arxiv.org/abs/2505.02704)|null|
+|**2025-05-05**|**DELTA: Dense Depth from Events and LiDAR using Transformer's Attention**|Vincent Brebion et.al.|[2505.02593](http://arxiv.org/abs/2505.02593)|null|
+|**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
 |**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482](http://arxiv.org/abs/2505.00482)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
@@ -3427,11 +3430,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Platelet enumeration in dense aggregates**|H. Martin Gillis et.al.|[2505.02751](http://arxiv.org/abs/2505.02751)|null|
+|**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
+|**2025-05-03**|**OODTE: A Differential Testing Engine for the ONNX Optimizer**|Nikolaos Louloudakis et.al.|[2505.01892](http://arxiv.org/abs/2505.01892)|null|
+|**2025-05-02**|**A Sensor Agnostic Domain Generalization Framework for Leveraging Geospatial Foundation Models: Enhancing Semantic Segmentation viaSynergistic Pseudo-Labeling and Generative Learning**|Anan Yaghmour et.al.|[2505.01558](http://arxiv.org/abs/2505.01558)|null|
+|**2025-05-02**|**Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation**|Zhen Yao et.al.|[2505.01548](http://arxiv.org/abs/2505.01548)|**[link](https://github.com/zyaocoder/BRENet)**|
 |**2025-05-02**|**GeloVec: Higher Dimensional Geometric Smoothing for Coherent Visual Feature Extraction in Image Segmentation**|Boris Kriuk et.al.|[2505.01057](http://arxiv.org/abs/2505.01057)|null|
 |**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-30**|**Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans**|Hannes Reichert et.al.|[2504.21602](http://arxiv.org/abs/2504.21602)|null|
-|**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
+|**2025-05-04**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
 |**2025-04-30**|**ClassWise-CRF: Category-Specific Fusion for Enhanced Semantic Segmentation of Remote Sensing Imagery**|Qinfeng Zhu et.al.|[2504.21491](http://arxiv.org/abs/2504.21491)|null|
 |**2025-04-29**|**DeepVoid: A Deep Learning Void Detector**|Sam Kumagai et.al.|[2504.21134](http://arxiv.org/abs/2504.21134)|null|
 |**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
