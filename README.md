@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704](http://arxiv.org/abs/2505.02704)|null|
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
+|**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704](http://arxiv.org/abs/2505.02704)|**[link](https://github.com/pakinwu/vgld)**|
 |**2025-05-05**|**DELTA: Dense Depth from Events and LiDAR using Transformer's Attention**|Vincent Brebion et.al.|[2505.02593](http://arxiv.org/abs/2505.02593)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
@@ -510,19 +512,22 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
+|**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539](http://arxiv.org/abs/2505.03539)|**[link](https://github.com/mengfeid/panoos)**|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300](http://arxiv.org/abs/2505.03300)|null|
 |**2025-05-05**|**Platelet enumeration in dense aggregates**|H. Martin Gillis et.al.|[2505.02751](http://arxiv.org/abs/2505.02751)|null|
 |**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
 |**2025-05-03**|**OODTE: A Differential Testing Engine for the ONNX Optimizer**|Nikolaos Louloudakis et.al.|[2505.01892](http://arxiv.org/abs/2505.01892)|null|
 |**2025-05-02**|**A Sensor Agnostic Domain Generalization Framework for Leveraging Geospatial Foundation Models: Enhancing Semantic Segmentation viaSynergistic Pseudo-Labeling and Generative Learning**|Anan Yaghmour et.al.|[2505.01558](http://arxiv.org/abs/2505.01558)|null|
 |**2025-05-02**|**Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation**|Zhen Yao et.al.|[2505.01548](http://arxiv.org/abs/2505.01548)|**[link](https://github.com/zyaocoder/BRENet)**|
 |**2025-05-02**|**GeloVec: Higher Dimensional Geometric Smoothing for Coherent Visual Feature Extraction in Image Segmentation**|Boris Kriuk et.al.|[2505.01057](http://arxiv.org/abs/2505.01057)|null|
-|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|**[link](https://github.com/baobao0926/awesome-mamba-in-remote-sensing)**|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-30**|**Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans**|Hannes Reichert et.al.|[2504.21602](http://arxiv.org/abs/2504.21602)|null|
 |**2025-05-04**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
@@ -1555,7 +1560,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
