@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
 |**2025-05-12**|**Some insights into depth estimators for location and scatter in the multivariate setting**|Jorge G. Adrover et.al.|[2505.07383](http://arxiv.org/abs/2505.07383)|null|
 |**2025-05-11**|**Reinforcement Learning-Based Monocular Vision Approach for Autonomous UAV Landing**|Tarik Houichime et.al.|[2505.06963](http://arxiv.org/abs/2505.06963)|null|
 |**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
@@ -3437,9 +3438,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589](http://arxiv.org/abs/2505.08589)|null|
+|**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525](http://arxiv.org/abs/2505.08525)|null|
+|**2025-05-13**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445](http://arxiv.org/abs/2505.08445)|null|
+|**2025-05-13**|**GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI**|Lei Su et.al.|[2505.08430](http://arxiv.org/abs/2505.08430)|null|
 |**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766](http://arxiv.org/abs/2505.07766)|null|
 |**2025-05-12**|**Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation**|Negin Ghamsarian et.al.|[2505.07691](http://arxiv.org/abs/2505.07691)|null|
-|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071](http://arxiv.org/abs/2505.07071)|**[link](https://github.com/liu-zihang/samsr)**|
 |**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050](http://arxiv.org/abs/2505.07050)|null|
 |**2025-05-11**|**Technical Report for ICRA 2025 GOOSE 2D Semantic Segmentation Challenge: Leveraging Color Shift Correction, RoPE-Swin Backbone, and Quantile-based Label Denoising Strategy for Robust Outdoor Scene Understanding**|Chih-Chung Hsu et.al.|[2505.06991](http://arxiv.org/abs/2505.06991)|null|
