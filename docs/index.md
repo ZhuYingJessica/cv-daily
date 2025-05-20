@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439](http://arxiv.org/abs/2505.11439)|null|
+|**2025-05-16**|**Attention on the Sphere**|Boris Bonev et.al.|[2505.11157](http://arxiv.org/abs/2505.11157)|null|
 |**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565](http://arxiv.org/abs/2505.10565)|null|
 |**2025-05-15**|**JointDistill: Adaptive Multi-Task Distillation for Joint Depth Estimation and Scene Segmentation**|Tiancong Cheng et.al.|[2505.10057](http://arxiv.org/abs/2505.10057)|null|
 |**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|**[link](https://github.com/prs-eth/marigold)**|
@@ -3441,6 +3443,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Completely Weakly Supervised Class-Incremental Learning for Semantic Segmentation**|David Minkwan Kim et.al.|[2505.10781](http://arxiv.org/abs/2505.10781)|null|
+|**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
+|**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
 |**2025-05-14**|**FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization**|Xiaoyang Yu et.al.|[2505.09385](http://arxiv.org/abs/2505.09385)|null|
