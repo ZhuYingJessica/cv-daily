@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.23
+## Updated on 2025.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation**|Bohan Zhou et.al.|[2505.16602](http://arxiv.org/abs/2505.16602)|null|
+|**2025-05-22**|**BadDepth: Backdoor Attacks Against Monocular Depth Estimation in the Physical World**|Ji Guo et.al.|[2505.16154](http://arxiv.org/abs/2505.16154)|null|
+|**2025-05-21**|**RadarRGBD A Multi-Sensor Fusion Dataset for Perception with RGB-D and mmWave Radar**|Tieshuai Song et.al.|[2505.15860](http://arxiv.org/abs/2505.15860)|null|
 |**2025-05-20**|**M3Depth: Wavelet-Enhanced Depth Estimation on Mars via Mutual Boosting of Dual-Modal Data**|Junjie Li et.al.|[2505.14159](http://arxiv.org/abs/2505.14159)|null|
 |**2025-05-20**|**Multi-Label Stereo Matching for Transparent Scene Depth Estimation**|Zhidan Liu et.al.|[2505.14008](http://arxiv.org/abs/2505.14008)|null|
 |**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
@@ -532,12 +535,17 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|null|
+|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|null|
+|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
+|**2025-05-22**|**TextureSAM: Towards a Texture Aware Foundation Model for Segmentation**|Inbal Cohen et.al.|[2505.16540](http://arxiv.org/abs/2505.16540)|null|
+|**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|null|
 |**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
 |**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545](http://arxiv.org/abs/2505.15545)|**[link](https://github.com/andrewcaunes/ia4markings)**|
 |**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491](http://arxiv.org/abs/2505.15491)|null|
@@ -1622,7 +1630,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
