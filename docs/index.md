@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues**|Chinmay Talegaonkar et.al.|[2505.17358](http://arxiv.org/abs/2505.17358)|null|
 |**2025-05-22**|**MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation**|Bohan Zhou et.al.|[2505.16602](http://arxiv.org/abs/2505.16602)|null|
 |**2025-05-22**|**BadDepth: Backdoor Attacks Against Monocular Depth Estimation in the Physical World**|Ji Guo et.al.|[2505.16154](http://arxiv.org/abs/2505.16154)|null|
 |**2025-05-21**|**RadarRGBD A Multi-Sensor Fusion Dataset for Perception with RGB-D and mmWave Radar**|Tieshuai Song et.al.|[2505.15860](http://arxiv.org/abs/2505.15860)|null|
@@ -2941,7 +2942,7 @@ layout: default
 |**2025-05-20**|**Multi-Label Stereo Matching for Transparent Scene Depth Estimation**|Zhidan Liu et.al.|[2505.14008](http://arxiv.org/abs/2505.14008)|**[link](https://github.com/BFZD233/TranScene)**|
 |**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
-|**2025-05-20**|**3D Visual Illusion Depth Estimation**|Chengtang Yao et.al.|[2505.13061](http://arxiv.org/abs/2505.13061)|**[link](https://github.com/yaochengtang/3d-visual-illusion-depth-estimation)**|
+|**2025-05-24**|**3D Visual Illusion Depth Estimation**|Chengtang Yao et.al.|[2505.13061](http://arxiv.org/abs/2505.13061)|**[link](https://github.com/yaochengtang/3d-visual-illusion-depth-estimation)**|
 |**2025-05-19**|**IA-MVS: Instance-Focused Adaptive Depth Sampling for Multi-View Stereo**|Yinzhe Wang et.al.|[2505.12714](http://arxiv.org/abs/2505.12714)|null|
 |**2025-05-18**|**Depth Transfer: Learning to See Like a Simulator for Real-World Drone Navigation**|Hang Yu et.al.|[2505.12428](http://arxiv.org/abs/2505.12428)|null|
 |**2025-05-18**|**Always Clear Depth: Robust Monocular Depth Estimation under Adverse Weather**|Kui Jiang et.al.|[2505.12199](http://arxiv.org/abs/2505.12199)|**[link](https://github.com/msscao/acdepth)**|
@@ -3455,6 +3456,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153](http://arxiv.org/abs/2505.18153)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**Semantic segmentation with reward**|Xie Ting et.al.|[2505.17905](http://arxiv.org/abs/2505.17905)|null|
+|**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782](http://arxiv.org/abs/2505.17782)|null|
+|**2025-05-23**|**EMRA-proxy: Enhancing Multi-Class Region Semantic Segmentation in Remote Sensing Images with Attention Proxy**|Yichun Yu et.al.|[2505.17665](http://arxiv.org/abs/2505.17665)|null|
 |**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
 |**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938](http://arxiv.org/abs/2505.16938)|null|
