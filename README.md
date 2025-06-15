@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.14
+## Updated on 2025.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -572,7 +572,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -584,10 +584,10 @@
 |**2025-06-12**|**Semantic Localization Guiding Segment Anything Model For Reference Remote Sensing Image Segmentation**|Shuyang Li et.al.|[2506.10503](http://arxiv.org/abs/2506.10503)|null|
 |**2025-06-12**|**Demonstrating Multi-Suction Item Picking at Scale via Multi-Modal Learning of Pick Success**|Che Wang et.al.|[2506.10359](http://arxiv.org/abs/2506.10359)|null|
 |**2025-06-11**|**Deep Semantic Segmentation for Multi-Source Localization Using Angle of Arrival Measurements**|Mustafa Atahan Nuhoglu et.al.|[2506.10107](http://arxiv.org/abs/2506.10107)|null|
-|**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[2506.09881](http://arxiv.org/abs/2506.09881)|null|
-|**2025-06-11**|**The Four Color Theorem for Cell Instance Segmentation**|Ye Zhang et.al.|[2506.09724](http://arxiv.org/abs/2506.09724)|null|
+|**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[2506.09881](http://arxiv.org/abs/2506.09881)|**[link](https://github.com/anonymouse-9c53tp182bvz/vireo)**|
+|**2025-06-11**|**The Four Color Theorem for Cell Instance Segmentation**|Ye Zhang et.al.|[2506.09724](http://arxiv.org/abs/2506.09724)|**[link](https://github.com/zhangye-zoe/fcis)**|
 |**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552](http://arxiv.org/abs/2506.09552)|null|
-|**2025-06-12**|**Urban1960SatSeg: Unsupervised Semantic Segmentation of Mid-20 $^{th}$ century Urban Landscapes with Satellite Imageries**|Tianxiang Hao et.al.|[2506.09476](http://arxiv.org/abs/2506.09476)|null|
+|**2025-06-12**|**Urban1960SatSeg: Unsupervised Semantic Segmentation of Mid-20 $^{th}$ century Urban Landscapes with Satellite Imageries**|Tianxiang Hao et.al.|[2506.09476](http://arxiv.org/abs/2506.09476)|**[link](https://github.com/tianxiang-hao/urban1960satseg)**|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
 |**2025-06-10**|**WetCat: Automating Skill Assessment in Wetlab Cataract Surgery Videos**|Negin Ghamsarian et.al.|[2506.08896](http://arxiv.org/abs/2506.08896)|null|
 |**2025-06-11**|**RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation**|Jiayi Song et.al.|[2506.08772](http://arxiv.org/abs/2506.08772)|null|
@@ -1748,7 +1748,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
