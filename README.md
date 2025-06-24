@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**DreamCube: 3D Panorama Generation via Multi-plane Synchronization**|Yukun Huang et.al.|[2506.17206](http://arxiv.org/abs/2506.17206)|null|
+|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119](http://arxiv.org/abs/2506.17119)|null|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches**|Yun Xing et.al.|[2506.16690](http://arxiv.org/abs/2506.16690)|null|
+|**2025-06-19**|**EndoMUST: Monocular Depth Estimation for Robotic Endoscopy via End-to-end Multi-step Self-supervised Training**|Liangjing Shao et.al.|[2506.16017](http://arxiv.org/abs/2506.16017)|null|
 |**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560](http://arxiv.org/abs/2506.15560)|null|
 |**2025-06-17**|**Time-Optimized Safe Navigation in Unstructured Environments through Learning Based Depth Completion**|Jeffrey Mao et.al.|[2506.14975](http://arxiv.org/abs/2506.14975)|null|
 |**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709](http://arxiv.org/abs/2506.14709)|null|
@@ -580,12 +585,18 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**|Binbin Xiang et.al.|[2506.16991](http://arxiv.org/abs/2506.16991)|null|
+|**2025-06-19**|**From Semantic To Instance: A Semi-Self-Supervised Learning Approach**|Keyhan Najafian et.al.|[2506.16563](http://arxiv.org/abs/2506.16563)|null|
+|**2025-06-19**|**Structured Semantic 3D Reconstruction (S23DR) Challenge 2025 -- Winning solution**|Jan Skvrna et.al.|[2506.16421](http://arxiv.org/abs/2506.16421)|null|
+|**2025-06-19**|**LBMamba: Locally Bi-directional Mamba**|Jingwei Zhang et.al.|[2506.15976](http://arxiv.org/abs/2506.15976)|null|
+|**2025-06-19**|**Heterogeneous-Modal Unsupervised Domain Adaptation via Latent Space Bridging**|Jiawen Yang et.al.|[2506.15971](http://arxiv.org/abs/2506.15971)|null|
+|**2025-06-19**|**Polyline Path Masked Attention for Vision Transformer**|Zhongchen Zhao et.al.|[2506.15940](http://arxiv.org/abs/2506.15940)|null|
 |**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[2506.15313](http://arxiv.org/abs/2506.15313)|**[link](https://github.com/livanoff/mapfm)**|
 |**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|**[link](https://github.com/agent9717/pointdistribution)**|
 |**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765](http://arxiv.org/abs/2506.14765)|null|
@@ -1770,7 +1781,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
