@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -592,16 +592,16 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486](http://arxiv.org/abs/2506.21486)|null|
-|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
+|**2025-06-27**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
 |**2025-06-26**|**Performance improvement of spatial semantic segmentation with enriched audio features and agent-based error correction for DCASE 2025 Challenge Task 4**|Jongyeon Park et.al.|[2506.21174](http://arxiv.org/abs/2506.21174)|null|
-|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
+|**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
 |**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991](http://arxiv.org/abs/2506.20991)|null|
 |**2025-06-26**|**Segment Anything in Pathology Images with Natural Language**|Zhixuan Chen et.al.|[2506.20988](http://arxiv.org/abs/2506.20988)|null|
 |**2025-06-25**|**U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs**|Racheal Mukisa et.al.|[2506.20689](http://arxiv.org/abs/2506.20689)|null|
@@ -1805,7 +1805,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
