@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
+|**2025-07-15**|**Uncertainty Aware Mapping for Vision-Based Underwater Robots**|Abhimanyu Bhowmik et.al.|[2507.10991](http://arxiv.org/abs/2507.10991)|null|
+|**2025-07-14**|**Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision**|Justin M. Kasowski et.al.|[2507.10813](http://arxiv.org/abs/2507.10813)|null|
 |**2025-07-14**|**Cameras as Relative Positional Encoding**|Ruilong Li et.al.|[2507.10496](http://arxiv.org/abs/2507.10496)|null|
 |**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
 |**2025-07-13**|**Prompt2DEM: High-Resolution DEMs for Urban and Open Environments from Global Prompts Using a Monocular Foundation Model**|Osher Rafaeli et.al.|[2507.09681](http://arxiv.org/abs/2507.09681)|null|
@@ -3534,6 +3538,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**|Sunghyun Park et.al.|[2507.11030](http://arxiv.org/abs/2507.11030)|null|
+|**2025-07-15**|**Graph Aggregation Prototype Learning for Semantic Change Detection in Remote Sensing**|Zhengyi Xu et.al.|[2507.10938](http://arxiv.org/abs/2507.10938)|null|
+|**2025-07-14**|**Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision**|Justin M. Kasowski et.al.|[2507.10813](http://arxiv.org/abs/2507.10813)|null|
 |**2025-07-14**|**FGSSNet: Feature-Guided Semantic Segmentation of Real World Floorplans**|Hugo Norrby et.al.|[2507.10343](http://arxiv.org/abs/2507.10343)|null|
 |**2025-07-14**|**Transferring Styles for Reduced Texture Bias and Improved Robustness in Semantic Segmentation Networks**|Ben Hamscher et.al.|[2507.10239](http://arxiv.org/abs/2507.10239)|null|
 |**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
