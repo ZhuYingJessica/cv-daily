@@ -61,7 +61,6 @@ jobs:
       - name: Push new cv-arxiv-daily.md
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          token: ${{ secrets.GH_TOKEN }}
           commit_message: "Github Action Automatic Update CV Arxiv Papers"
           file_pattern: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
           commit_user_name: ${{ env.GITHUB_USER_NAME }}
