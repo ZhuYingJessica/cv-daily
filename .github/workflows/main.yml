@@ -65,3 +65,4 @@ jobs:
           file_pattern: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
           commit_user_name: ${{ env.GITHUB_USER_NAME }}
           commit_user_email: ${{ env.GITHUB_USER_EMAIL }}
+          push_options: "--force"
