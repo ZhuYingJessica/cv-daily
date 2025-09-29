@@ -25,4 +25,4 @@ keywords:
     "Depth Estimation": 
         filters: ["depth estimation", "monocular depth estimation"]
     "Semactic Segmentation":
-        filters: ["LLM"]
+        filters: ["semantic segmentation"]
