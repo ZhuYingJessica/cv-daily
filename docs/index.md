@@ -2934,6 +2934,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach**|Alexandre Lopes et.al.|[2509.22627](http://arxiv.org/abs/2509.22627)|null|
+|**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/abs/2509.22527)|null|
+|**2025-09-26**|**DualFocus: Depth from Focus with Spatio-Focal Dual Variational Constraints**|Sungmin Woo et.al.|[2509.21992](http://arxiv.org/abs/2509.21992)|**[link](https://github.com/Sungmin-Woo/DualFocus)**|
+|**2025-09-25**|**Finding 3D Positions of Distant Objects from Noisy Camera Movement and Semantic Segmentation Sequences**|Julius Pesonen et.al.|[2509.20906](http://arxiv.org/abs/2509.20906)|null|
+|**2025-09-24**|**Shared Neural Space: Unified Precomputed Feature Encoding for Multi-Task and Cross Domain Vision**|Jing Li et.al.|[2509.20481](http://arxiv.org/abs/2509.20481)|null|
 |**2025-07-21**|**DAViD: Data-efficient and Accurate Vision Models from Synthetic Data**|Fatemeh Saleh et.al.|[2507.15365](http://arxiv.org/abs/2507.15365)|null|
 |**2025-07-21**|**BenchDepth: Are We on the Right Way to Evaluate Depth Foundation Models?**|Zhenyu Li et.al.|[2507.15321](http://arxiv.org/abs/2507.15321)|null|
 |**2025-07-20**|**Region-aware Depth Scale Adaptation with Sparse Measurements**|Rizhao Fan et.al.|[2507.14879](http://arxiv.org/abs/2507.14879)|null|
