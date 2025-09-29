@@ -392,7 +392,6 @@ def demo(**config):
             data_collector_web.append(data_web)
             print("\n")
         logging.info(f"GET daily papers end")
-        logging.info(f"update_paper_links:{b_update}")
       
 
     # 1. update README.md file
