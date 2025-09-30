@@ -18,11 +18,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
+|**2025-09-29**|**BRIDGE - Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|null|
+|**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
+|**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|**[link](https://github.com/jdk9405/RPG360)**|
+|**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](http://arxiv.org/abs/2509.23733)|null|
+|**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
 |**2025-09-26**|**CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach**|Alexandre Lopes et.al.|[2509.22627](http://arxiv.org/abs/2509.22627)|null|
 |**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/abs/2509.22527)|null|
-|**2025-09-26**|**DualFocus: Depth from Focus with Spatio-Focal Dual Variational Constraints**|Sungmin Woo et.al.|[2509.21992](http://arxiv.org/abs/2509.21992)|**[link](https://github.com/Sungmin-Woo/DualFocus)**|
+|**2025-09-26**|**DualFocus: Depth from Focus with Spatio-Focal Dual Variational Constraints**|Sungmin Woo et.al.|[2509.21992](http://arxiv.org/abs/2509.21992)|null|
 |**2025-09-25**|**Finding 3D Positions of Distant Objects from Noisy Camera Movement and Semantic Segmentation Sequences**|Julius Pesonen et.al.|[2509.20906](http://arxiv.org/abs/2509.20906)|null|
 |**2025-09-24**|**Shared Neural Space: Unified Precomputed Feature Encoding for Multi-Task and Cross Domain Vision**|Jing Li et.al.|[2509.20481](http://arxiv.org/abs/2509.20481)|null|
+|**2025-09-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al.|[2509.19793](http://arxiv.org/abs/2509.19793)|null|
+|**2025-09-24**|**VIMD: Monocular Visual-Inertial Motion and Depth Estimation**|Saimouli Katragadda et.al.|[2509.19713](http://arxiv.org/abs/2509.19713)|null|
+|**2025-09-24**|**Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies**|Sumit Mamtani et.al.|[2509.19687](http://arxiv.org/abs/2509.19687)|null|
+|**2025-09-24**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
+|**2025-09-23**|**RS3DBench: A Comprehensive Benchmark for 3D Spatial Perception in Remote Sensing**|Jiayu Wang et.al.|[2509.18897](http://arxiv.org/abs/2509.18897)|null|
+|**2025-09-23**|**Zero-shot Monocular Metric Depth for Endoscopic Images**|Nicolas Toussaint et.al.|[2509.18642](http://arxiv.org/abs/2509.18642)|null|
+|**2025-09-22**|**RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds**|Bin Zhao et.al.|[2509.18068](http://arxiv.org/abs/2509.18068)|null|
+|**2025-09-22**|**Predicting Depth Maps from Single RGB Images and Addressing Missing Information in Depth Estimation**|Mohamad Mofeed Chaar et.al.|[2509.17686](http://arxiv.org/abs/2509.17686)|null|
+|**2025-09-22**|**Evict3R: Training-Free Token Eviction for Memory-Bounded Streaming Visual Geometry Transformers**|Soroush Mahdi et.al.|[2509.17650](http://arxiv.org/abs/2509.17650)|null|
+|**2025-09-22**|**GPS Denied IBVS-Based Navigation and Collision Avoidance of UAV Using a Low-Cost RGB Camera**|Xiaoyu Wang et.al.|[2509.17435](http://arxiv.org/abs/2509.17435)|null|
+|**2025-09-21**|**ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM**|Amanuel T. Dufera et.al.|[2509.16863](http://arxiv.org/abs/2509.16863)|null|
+|**2025-09-23**|**3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction**|Maria Taktasheva et.al.|[2509.16423](http://arxiv.org/abs/2509.16423)|null|
+|**2025-09-19**|**StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes**|Zhengri Wu et.al.|[2509.16415](http://arxiv.org/abs/2509.16415)|null|
+|**2025-09-19**|**Towards Sharper Object Boundaries in Self-Supervised Depth Estimation**|Aurélien Cecille et.al.|[2509.15987](http://arxiv.org/abs/2509.15987)|null|
+|**2025-09-19**|**Shedding Light on Depth: Explainability Assessment in Monocular Depth Estimation**|Lorenzo Cirillo et.al.|[2509.15980](http://arxiv.org/abs/2509.15980)|null|
+|**2025-09-26**|**MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild**|Deming Li et.al.|[2509.15548](http://arxiv.org/abs/2509.15548)|null|
+|**2025-09-18**|**Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation**|Luca Bartolomei et.al.|[2509.15224](http://arxiv.org/abs/2509.15224)|null|
+|**2025-09-18**|**Lightweight and Accurate Multi-View Stereo with Confidence-Aware Diffusion Model**|Fangjinhua Wang et.al.|[2509.15220](http://arxiv.org/abs/2509.15220)|null|
+|**2025-09-18**|**UCorr: Wire Detection and Depth Estimation for Autonomous Drones**|Benedikt Kolbeinsson et.al.|[2509.14989](http://arxiv.org/abs/2509.14989)|null|
 |**2025-07-21**|**DAViD: Data-efficient and Accurate Vision Models from Synthetic Data**|Fatemeh Saleh et.al.|[2507.15365](http://arxiv.org/abs/2507.15365)|null|
 |**2025-07-21**|**BenchDepth: Are We on the Right Way to Evaluate Depth Foundation Models?**|Zhenyu Li et.al.|[2507.15321](http://arxiv.org/abs/2507.15321)|null|
 |**2025-07-20**|**Region-aware Depth Scale Adaptation with Sparse Measurements**|Rizhao Fan et.al.|[2507.14879](http://arxiv.org/abs/2507.14879)|null|
@@ -641,6 +666,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
+|**2025-09-29**|**Vision At Night: Exploring Biologically Inspired Preprocessing For Improved Robustness Via Color And Contrast Transformations**|Lorena Stracke et.al.|[2509.24863](http://arxiv.org/abs/2509.24863)|null|
+|**2025-09-29**|**Evaluation of Polarimetric Fusion for Semantic Segmentation in Aquatic Environments**|Luis F. W. Batista et.al.|[2509.24731](http://arxiv.org/abs/2509.24731)|null|
+|**2025-09-29**|**CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D**|Mohamad Amin Mirzaei et.al.|[2509.24528](http://arxiv.org/abs/2509.24528)|null|
+|**2025-09-29**|**Robust Multimodal Semantic Segmentation with Balanced Modality Contributions**|Jiaqi Tan et.al.|[2509.24505](http://arxiv.org/abs/2509.24505)|null|
+|**2025-09-28**|**Bridging the Task Gap: Multi-Task Adversarial Transferability in CLIP and Its Derivatives**|Kuanrong Liu et.al.|[2509.23917](http://arxiv.org/abs/2509.23917)|null|
+|**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
+|**2025-09-28**|**Foundation Model-Based Adaptive Semantic Image Transmission for Dynamic Wireless Environments**|Fangyu Liu et.al.|[2509.23590](http://arxiv.org/abs/2509.23590)|null|
+|**2025-09-27**|**On the Impact of LiDAR Point Cloud Compression on Remote Semantic Segmentation**|Tiago de S. Fernandes et.al.|[2509.23341](http://arxiv.org/abs/2509.23341)|null|
+|**2025-09-23**|**GZSL-MoE: Apprentissage G{é}n{é}ralis{é} Z{é}ro-Shot bas{é} sur le M{é}lange d'Experts pour la Segmentation S{é}mantique de Nuages de Points 3DAppliqu{é} {à} un Jeu de Donn{é}es d'Environnement de Collaboration Humain-Robot**|Ahed Alboody et.al.|[2509.22708](http://arxiv.org/abs/2509.22708)|null|
+|**2025-09-26**|**SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion**|Zixian Zhao et.al.|[2509.22450](http://arxiv.org/abs/2509.22450)|null|
+|**2025-09-26**|**Integrating Background Knowledge in Medical Semantic Segmentation with Logic Tensor Networks**|Luca Bergamin et.al.|[2509.22399](http://arxiv.org/abs/2509.22399)|null|
+|**2025-09-26**|**Wavelet-Induced Rotary Encodings: RoPE Meets Graphs**|Isaac Reid et.al.|[2509.22259](http://arxiv.org/abs/2509.22259)|null|
+|**2025-09-26**|**Polysemous Language Gaussian Splatting via Matching-based Mask Lifting**|Jiayu Ding et.al.|[2509.22225](http://arxiv.org/abs/2509.22225)|null|
+|**2025-09-25**|**SwinMamba: A hybrid local-global mamba framework for enhancing semantic segmentation of remotely sensed images**|Qinfeng Zhu et.al.|[2509.20918](http://arxiv.org/abs/2509.20918)|null|
+|**2025-09-25**|**Finding 3D Positions of Distant Objects from Noisy Camera Movement and Semantic Segmentation Sequences**|Julius Pesonen et.al.|[2509.20906](http://arxiv.org/abs/2509.20906)|null|
+|**2025-09-25**|**ArchGPT: Understanding the World's Architectures with Large Multimodal Models**|Yuze Wang et.al.|[2509.20858](http://arxiv.org/abs/2509.20858)|null|
+|**2025-09-24**|**Boosting LiDAR-Based Localization with Semantic Insight: Camera Projection versus Direct LiDAR Segmentation**|Sven Ochs et.al.|[2509.20486](http://arxiv.org/abs/2509.20486)|null|
+|**2025-09-24**|**Shared Neural Space: Unified Precomputed Feature Encoding for Multi-Task and Cross Domain Vision**|Jing Li et.al.|[2509.20481](http://arxiv.org/abs/2509.20481)|null|
+|**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
+|**2025-09-24**|**Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics**|Eleftherios Papadopoulos et.al.|[2509.19957](http://arxiv.org/abs/2509.19957)|null|
+|**2025-09-25**|**Interpreting ResNet-based CLIP via Neuron-Attention Decomposition**|Edmund Bu et.al.|[2509.19943](http://arxiv.org/abs/2509.19943)|null|
+|**2025-09-23**|**Enabling Plant Phenotyping in Weedy Environments using Multi-Modal Imagery via Synthetic and Generated Training Data**|Earl Ranario et.al.|[2509.19208](http://arxiv.org/abs/2509.19208)|null|
+|**2025-09-23**|**Weakly Supervised Food Image Segmentation using Vision Transformers and Segment Anything Model**|Ioannis Sarafis et.al.|[2509.19028](http://arxiv.org/abs/2509.19028)|null|
+|**2025-09-23**|**Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images**|Jiabao Chen et.al.|[2509.18973](http://arxiv.org/abs/2509.18973)|null|
+|**2025-09-23**|**Source-Free Domain Adaptive Semantic Segmentation of Remote Sensing Images with Diffusion-Guided Label Enrichment**|Wenjie Liu et.al.|[2509.18502](http://arxiv.org/abs/2509.18502)|null|
+|**2025-09-22**|**Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers**|Chaehyun Kim et.al.|[2509.18096](http://arxiv.org/abs/2509.18096)|null|
+|**2025-09-22**|**Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology**|Saghir Alfasly et.al.|[2509.17847](http://arxiv.org/abs/2509.17847)|null|
+|**2025-09-22**|**Enhancing Semantic Segmentation with Continual Self-Supervised Pre-training**|Brown Ebouky et.al.|[2509.17816](http://arxiv.org/abs/2509.17816)|null|
+|**2025-09-22**|**Depth Edge Alignment Loss: DEALing with Depth in Weakly Supervised Semantic Segmentation**|Patrick Schmidt et.al.|[2509.17702](http://arxiv.org/abs/2509.17702)|null|
 |**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
 |**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624](http://arxiv.org/abs/2507.16624)|null|
 |**2025-07-22**|**Semantic Segmentation for Preoperative Planning in Transcatheter Aortic Valve Replacement**|Cedric Zöllner et.al.|[2507.16573](http://arxiv.org/abs/2507.16573)|null|
