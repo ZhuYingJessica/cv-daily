@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
-|**2025-09-29**|**BRIDGE - Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|null|
+|**2025-09-29**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|null|
 |**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
 |**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|**[link](https://github.com/jdk9405/RPG360)**|
 |**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](http://arxiv.org/abs/2509.23733)|null|
@@ -30,7 +30,7 @@
 |**2025-09-25**|**Finding 3D Positions of Distant Objects from Noisy Camera Movement and Semantic Segmentation Sequences**|Julius Pesonen et.al.|[2509.20906](http://arxiv.org/abs/2509.20906)|null|
 |**2025-09-24**|**Shared Neural Space: Unified Precomputed Feature Encoding for Multi-Task and Cross Domain Vision**|Jing Li et.al.|[2509.20481](http://arxiv.org/abs/2509.20481)|null|
 |**2025-09-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al.|[2509.19793](http://arxiv.org/abs/2509.19793)|null|
-|**2025-09-24**|**VIMD: Monocular Visual-Inertial Motion and Depth Estimation**|Saimouli Katragadda et.al.|[2509.19713](http://arxiv.org/abs/2509.19713)|null|
+|**2025-09-29**|**VIMD: Monocular Visual-Inertial Motion and Depth Estimation**|Saimouli Katragadda et.al.|[2509.19713](http://arxiv.org/abs/2509.19713)|null|
 |**2025-09-24**|**Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies**|Sumit Mamtani et.al.|[2509.19687](http://arxiv.org/abs/2509.19687)|null|
 |**2025-09-24**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
 |**2025-09-23**|**RS3DBench: A Comprehensive Benchmark for 3D Spatial Perception in Remote Sensing**|Jiayu Wang et.al.|[2509.18897](http://arxiv.org/abs/2509.18897)|null|
@@ -660,7 +660,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -678,7 +678,7 @@
 |**2025-09-23**|**GZSL-MoE: Apprentissage G{é}n{é}ralis{é} Z{é}ro-Shot bas{é} sur le M{é}lange d'Experts pour la Segmentation S{é}mantique de Nuages de Points 3DAppliqu{é} {à} un Jeu de Donn{é}es d'Environnement de Collaboration Humain-Robot**|Ahed Alboody et.al.|[2509.22708](http://arxiv.org/abs/2509.22708)|null|
 |**2025-09-26**|**SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion**|Zixian Zhao et.al.|[2509.22450](http://arxiv.org/abs/2509.22450)|null|
 |**2025-09-26**|**Integrating Background Knowledge in Medical Semantic Segmentation with Logic Tensor Networks**|Luca Bergamin et.al.|[2509.22399](http://arxiv.org/abs/2509.22399)|null|
-|**2025-09-26**|**Wavelet-Induced Rotary Encodings: RoPE Meets Graphs**|Isaac Reid et.al.|[2509.22259](http://arxiv.org/abs/2509.22259)|null|
+|**2025-09-29**|**Wavelet-Induced Rotary Encodings: RoPE Meets Graphs**|Isaac Reid et.al.|[2509.22259](http://arxiv.org/abs/2509.22259)|null|
 |**2025-09-26**|**Polysemous Language Gaussian Splatting via Matching-based Mask Lifting**|Jiayu Ding et.al.|[2509.22225](http://arxiv.org/abs/2509.22225)|null|
 |**2025-09-25**|**SwinMamba: A hybrid local-global mamba framework for enhancing semantic segmentation of remotely sensed images**|Qinfeng Zhu et.al.|[2509.20918](http://arxiv.org/abs/2509.20918)|null|
 |**2025-09-25**|**Finding 3D Positions of Distant Objects from Noisy Camera Movement and Semantic Segmentation Sequences**|Julius Pesonen et.al.|[2509.20906](http://arxiv.org/abs/2509.20906)|null|
@@ -1978,7 +1978,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
