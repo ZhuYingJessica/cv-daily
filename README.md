@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**DA $^2$ : Depth Anything in Any Direction**|Haodong Li et.al.|[2509.26618](http://arxiv.org/abs/2509.26618)|**[link](https://github.com/EnVision-Research/DA-2)**|
+|**2025-09-30**|**DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance**|Jijun Xiang et.al.|[2509.26498](http://arxiv.org/abs/2509.26498)|null|
+|**2025-09-30**|**EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models**|Seamie Hayes et.al.|[2509.26087](http://arxiv.org/abs/2509.26087)|null|
+|**2025-09-30**|**PFDepth: Heterogeneous Pinhole-Fisheye Joint Depth Estimation via Distortion-aware Gaussian-Splatted Volumetric Fusion**|Zhiwei Zhang et.al.|[2509.26008](http://arxiv.org/abs/2509.26008)|null|
+|**2025-09-29**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/abs/2509.25413)|null|
 |**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
-|**2025-09-29**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|null|
+|**2025-09-30**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|null|
 |**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
-|**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|**[link](https://github.com/jdk9405/RPG360)**|
+|**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|null|
 |**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](http://arxiv.org/abs/2509.23733)|null|
 |**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
 |**2025-09-26**|**CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach**|Alexandre Lopes et.al.|[2509.22627](http://arxiv.org/abs/2509.22627)|null|
@@ -660,12 +665,15 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Transformer Classification of Breast Lesions: The BreastDCEDL_AMBL Benchmark Dataset and 0.92 AUC Baseline**|Naomi Fridman et.al.|[2509.26440](http://arxiv.org/abs/2509.26440)|null|
+|**2025-09-29**|**AttentionViG: Cross-Attention-Based Dynamic Neighbor Aggregation in Vision GNNs**|Hakan Emre Gedik et.al.|[2509.25570](http://arxiv.org/abs/2509.25570)|null|
+|**2025-09-28**|**Evaluating the Impact of Radiographic Noise on Chest X-ray Semantic Segmentation and Disease Classification Using a Scalable Noise Injection Framework**|Derek Jiu et.al.|[2509.25265](http://arxiv.org/abs/2509.25265)|null|
 |**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
 |**2025-09-29**|**Vision At Night: Exploring Biologically Inspired Preprocessing For Improved Robustness Via Color And Contrast Transformations**|Lorena Stracke et.al.|[2509.24863](http://arxiv.org/abs/2509.24863)|null|
 |**2025-09-29**|**Evaluation of Polarimetric Fusion for Semantic Segmentation in Aquatic Environments**|Luis F. W. Batista et.al.|[2509.24731](http://arxiv.org/abs/2509.24731)|null|
@@ -1978,7 +1986,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
