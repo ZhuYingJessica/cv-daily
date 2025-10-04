@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.03
+## Updated on 2025.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Non-Rigid Structure-from-Motion via Differential Geometry with Recoverable Conformal Scale**|Yongbo Chen et.al.|[2510.01665](http://arxiv.org/abs/2510.01665)|null|
+|**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Yanbo Xu et.al.|[2510.01184](http://arxiv.org/abs/2510.01184)|**[link](https://github.com/temporalscorerescaling/TSR)**|
 |**2025-09-30**|**DA $^2$ : Depth Anything in Any Direction**|Haodong Li et.al.|[2509.26618](http://arxiv.org/abs/2509.26618)|**[link](https://github.com/EnVision-Research/DA-2)**|
 |**2025-09-30**|**DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance**|Jijun Xiang et.al.|[2509.26498](http://arxiv.org/abs/2509.26498)|null|
 |**2025-09-30**|**EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models**|Seamie Hayes et.al.|[2509.26087](http://arxiv.org/abs/2509.26087)|null|
@@ -3585,6 +3587,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**GeoPurify: A Data-Efficient Geometric Distillation Framework for Open-Vocabulary 3D Segmentation**|Weijia Dou et.al.|[2510.02186](http://arxiv.org/abs/2510.02186)|null|
+|**2025-10-02**|**FRIEREN: Federated Learning with Vision-Language Regularization for Segmentation**|Ding-Ruei Shen et.al.|[2510.02114](http://arxiv.org/abs/2510.02114)|null|
+|**2025-10-02**|**A Multicentric Dataset for Training and Benchmarking Breast Cancer Segmentation in H&E Slides**|Carlijn Lems et.al.|[2510.02037](http://arxiv.org/abs/2510.02037)|null|
+|**2025-10-02**|**ClustViT: Clustering-based Token Merging for Semantic Segmentation**|Fabio Montello et.al.|[2510.01948](http://arxiv.org/abs/2510.01948)|null|
+|**2025-10-01**|**GeoSURGE: Geo-localization using Semantic Fusion with Hierarchy of Geographic Embeddings**|Angel Daruna et.al.|[2510.01448](http://arxiv.org/abs/2510.01448)|null|
+|**2025-10-01**|**PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset**|Thomas Campagnolo et.al.|[2510.00818](http://arxiv.org/abs/2510.00818)|null|
+|**2025-10-01**|**Solar PV Installation Potential Assessment on Building Facades Based on Vision and Language Foundation Models**|Ruyu Liu et.al.|[2510.00797](http://arxiv.org/abs/2510.00797)|null|
+|**2025-09-29**|**FSDENet: A Frequency and Spatial Domains based Detail Enhancement Network for Remote Sensing Semantic Segmentation**|Jiahao Fu et.al.|[2510.00059](http://arxiv.org/abs/2510.00059)|null|
 |**2025-09-30**|**Transformer Classification of Breast Lesions: The BreastDCEDL_AMBL Benchmark Dataset and 0.92 AUC Baseline**|Naomi Fridman et.al.|[2509.26440](http://arxiv.org/abs/2509.26440)|null|
 |**2025-09-29**|**AttentionViG: Cross-Attention-Based Dynamic Neighbor Aggregation in Vision GNNs**|Hakan Emre Gedik et.al.|[2509.25570](http://arxiv.org/abs/2509.25570)|null|
 |**2025-09-28**|**Evaluating the Impact of Radiographic Noise on Chest X-ray Semantic Segmentation and Disease Classification Using a Scalable Noise Injection Framework**|Derek Jiu et.al.|[2509.25265](http://arxiv.org/abs/2509.25265)|null|
