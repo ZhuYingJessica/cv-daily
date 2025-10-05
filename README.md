@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.04
+## Updated on 2025.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2025-09-24**|**Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies**|Sumit Mamtani et.al.|[2509.19687](http://arxiv.org/abs/2509.19687)|null|
 |**2025-09-24**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
 |**2025-09-23**|**RS3DBench: A Comprehensive Benchmark for 3D Spatial Perception in Remote Sensing**|Jiayu Wang et.al.|[2509.18897](http://arxiv.org/abs/2509.18897)|null|
-|**2025-09-23**|**Zero-shot Monocular Metric Depth for Endoscopic Images**|Nicolas Toussaint et.al.|[2509.18642](http://arxiv.org/abs/2509.18642)|null|
+|**2025-09-23**|**Zero-shot Monocular Metric Depth for Endoscopic Images**|Nicolas Toussaint et.al.|[2509.18642](http://arxiv.org/abs/2509.18642)|**[link](https://github.com/TouchSurgery/EndoSynth)**|
 |**2025-09-22**|**RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds**|Bin Zhao et.al.|[2509.18068](http://arxiv.org/abs/2509.18068)|null|
 |**2025-09-22**|**Predicting Depth Maps from Single RGB Images and Addressing Missing Information in Depth Estimation**|Mohamad Mofeed Chaar et.al.|[2509.17686](http://arxiv.org/abs/2509.17686)|null|
 |**2025-09-22**|**Evict3R: Training-Free Token Eviction for Memory-Bounded Streaming Visual Geometry Transformers**|Soroush Mahdi et.al.|[2509.17650](http://arxiv.org/abs/2509.17650)|null|
@@ -667,7 +667,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -1996,7 +1996,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
