@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2957,10 +2957,10 @@ layout: default
 |**2025-09-24**|**Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies**|Sumit Mamtani et.al.|[2509.19687](http://arxiv.org/abs/2509.19687)|null|
 |**2025-09-24**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
 |**2025-09-23**|**RS3DBench: A Comprehensive Benchmark for 3D Spatial Perception in Remote Sensing**|Jiayu Wang et.al.|[2509.18897](http://arxiv.org/abs/2509.18897)|null|
-|**2025-09-23**|**Zero-shot Monocular Metric Depth for Endoscopic Images**|Nicolas Toussaint et.al.|[2509.18642](http://arxiv.org/abs/2509.18642)|**[link](https://github.com/TouchSurgery/EndoSynth)**|
+|**2025-09-23**|**Zero-shot Monocular Metric Depth for Endoscopic Images**|Nicolas Toussaint et.al.|[2509.18642](http://arxiv.org/abs/2509.18642)|null|
 |**2025-09-22**|**RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds**|Bin Zhao et.al.|[2509.18068](http://arxiv.org/abs/2509.18068)|null|
 |**2025-09-22**|**Predicting Depth Maps from Single RGB Images and Addressing Missing Information in Depth Estimation**|Mohamad Mofeed Chaar et.al.|[2509.17686](http://arxiv.org/abs/2509.17686)|null|
-|**2025-09-22**|**Evict3R: Training-Free Token Eviction for Memory-Bounded Streaming Visual Geometry Transformers**|Soroush Mahdi et.al.|[2509.17650](http://arxiv.org/abs/2509.17650)|null|
+|**2025-10-02**|**Evict3R: Training-Free Token Eviction for Memory-Bounded Streaming Visual Geometry Transformers**|Soroush Mahdi et.al.|[2509.17650](http://arxiv.org/abs/2509.17650)|null|
 |**2025-09-22**|**GPS Denied IBVS-Based Navigation and Collision Avoidance of UAV Using a Low-Cost RGB Camera**|Xiaoyu Wang et.al.|[2509.17435](http://arxiv.org/abs/2509.17435)|null|
 |**2025-09-21**|**ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM**|Amanuel T. Dufera et.al.|[2509.16863](http://arxiv.org/abs/2509.16863)|null|
 |**2025-09-23**|**3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction**|Maria Taktasheva et.al.|[2509.16423](http://arxiv.org/abs/2509.16423)|null|
