@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
+|**2025-10-07**|**EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark**|Deheng Zhang et.al.|[2510.06218](http://arxiv.org/abs/2510.06218)|null|
+|**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|
+|**2025-10-07**|**DeLTa: Demonstration and Language-Guided Novel Transparent Object Manipulation**|Taeyeop Lee et.al.|[2510.05662](http://arxiv.org/abs/2510.05662)|null|
+|**2025-10-07**|**Human Action Recognition from Point Clouds over Time**|James Dickens et.al.|[2510.05506](http://arxiv.org/abs/2510.05506)|null|
 |**2025-10-06**|**HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model**|Peter Van Katwyk et.al.|[2510.05054](http://arxiv.org/abs/2510.05054)|null|
 |**2025-10-06**|**Benchmark on Monocular Metric Depth Estimation in Wildlife Setting**|Niccolò Niccoli et.al.|[2510.04723](http://arxiv.org/abs/2510.04723)|null|
 |**2025-10-04**|**Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics**|Hanwen Zhang et.al.|[2510.03750](http://arxiv.org/abs/2510.03750)|null|
-|**2025-10-03**|**Whisker-based Tactile Flight for Tiny Drones**|Chaoxiang Ye et.al.|[2510.03119](http://arxiv.org/abs/2510.03119)|**[link](https://github.com/BioMorphic-Intelligence-Lab/Whiskered-drone)**|
+|**2025-10-03**|**Whisker-based Tactile Flight for Tiny Drones**|Chaoxiang Ye et.al.|[2510.03119](http://arxiv.org/abs/2510.03119)|null|
 |**2025-10-02**|**Non-Rigid Structure-from-Motion via Differential Geometry with Recoverable Conformal Scale**|Yongbo Chen et.al.|[2510.01665](http://arxiv.org/abs/2510.01665)|null|
-|**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Yanbo Xu et.al.|[2510.01184](http://arxiv.org/abs/2510.01184)|**[link](https://github.com/temporalscorerescaling/TSR)**|
+|**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Yanbo Xu et.al.|[2510.01184](http://arxiv.org/abs/2510.01184)|null|
 |**2025-09-30**|**DA $^2$ : Depth Anything in Any Direction**|Haodong Li et.al.|[2509.26618](http://arxiv.org/abs/2509.26618)|null|
 |**2025-09-30**|**DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance**|Jijun Xiang et.al.|[2509.26498](http://arxiv.org/abs/2509.26498)|null|
 |**2025-09-30**|**EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models**|Seamie Hayes et.al.|[2509.26087](http://arxiv.org/abs/2509.26087)|null|
@@ -2947,7 +2952,7 @@ layout: default
 |**2025-10-01**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/abs/2509.25413)|null|
 |**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
 |**2025-09-30**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|null|
-|**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
+|**2025-10-07**|**HBSplat: Robust Sparse-View Gaussian Reconstruction with Hybrid-Loss Guided Depth and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
 |**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|null|
 |**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](http://arxiv.org/abs/2509.23733)|null|
 |**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
@@ -3591,6 +3596,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Shaken or Stirred? An Analysis of MetaFormer's Token Mixing for Medical Imaging**|Ron Keuth et.al.|[2510.05971](http://arxiv.org/abs/2510.05971)|null|
+|**2025-10-07**|**Data Factory with Minimal Human Effort Using VLMs**|Jiaojiao Ye et.al.|[2510.05722](http://arxiv.org/abs/2510.05722)|null|
+|**2025-10-07**|**Midway Network: Learning Representations for Recognition and Motion from Latent Dynamics**|Christopher Hoang et.al.|[2510.05558](http://arxiv.org/abs/2510.05558)|null|
+|**2025-10-06**|**Attention-Enhanced Prototypical Learning for Few-Shot Infrastructure Defect Segmentation**|Christina Thrainer et.al.|[2510.05266](http://arxiv.org/abs/2510.05266)|null|
 |**2025-10-04**|**Joint Neural SDF Reconstruction and Semantic Segmentation for CAD Models**|Shen Fan et.al.|[2510.03837](http://arxiv.org/abs/2510.03837)|null|
 |**2025-10-04**|**Robust Visual Embodiment: How Robots Discover Their Bodies in Real Environments**|Salim Rezvani et.al.|[2510.03677](http://arxiv.org/abs/2510.03677)|null|
 |**2025-10-03**|**Domain Generalization for Semantic Segmentation: A Survey**|Manuel Schwonberg et.al.|[2510.03540](http://arxiv.org/abs/2510.03540)|null|
