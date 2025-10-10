@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,11 +2934,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-08**|**Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers**|Gangwei Xu et.al.|[2510.07316](http://arxiv.org/abs/2510.07316)|null|
+|**2025-10-08**|**MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis**|Yihao Zhi et.al.|[2510.07190](http://arxiv.org/abs/2510.07190)|**[link](https://github.com/zyhbili/MV-Performer)**|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
 |**2025-10-07**|**EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark**|Deheng Zhang et.al.|[2510.06218](http://arxiv.org/abs/2510.06218)|null|
 |**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|
 |**2025-10-07**|**DeLTa: Demonstration and Language-Guided Novel Transparent Object Manipulation**|Taeyeop Lee et.al.|[2510.05662](http://arxiv.org/abs/2510.05662)|null|
-|**2025-10-07**|**Human Action Recognition from Point Clouds over Time**|James Dickens et.al.|[2510.05506](http://arxiv.org/abs/2510.05506)|null|
+|**2025-10-09**|**Human Action Recognition from Point Clouds over Time**|James Dickens et.al.|[2510.05506](http://arxiv.org/abs/2510.05506)|null|
 |**2025-10-06**|**HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model**|Peter Van Katwyk et.al.|[2510.05054](http://arxiv.org/abs/2510.05054)|null|
 |**2025-10-06**|**Benchmark on Monocular Metric Depth Estimation in Wildlife Setting**|Niccolò Niccoli et.al.|[2510.04723](http://arxiv.org/abs/2510.04723)|null|
 |**2025-10-04**|**Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics**|Hanwen Zhang et.al.|[2510.03750](http://arxiv.org/abs/2510.03750)|null|
@@ -2952,7 +2954,7 @@ layout: default
 |**2025-10-01**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/abs/2509.25413)|null|
 |**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
 |**2025-09-30**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|null|
-|**2025-10-07**|**HBSplat: Robust Sparse-View Gaussian Reconstruction with Hybrid-Loss Guided Depth and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
+|**2025-10-08**|**HBSplat: Robust Sparse-View Gaussian Reconstruction with Hybrid-Loss Guided Depth and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
 |**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|null|
 |**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](http://arxiv.org/abs/2509.23733)|null|
 |**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
@@ -3596,6 +3598,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-08**|**HARP-NeXt: High-Speed and Accurate Range-Point Fusion Network for 3D LiDAR Semantic Segmentation**|Samir Abou Haidar et.al.|[2510.06876](http://arxiv.org/abs/2510.06876)|null|
+|**2025-10-08**|**Semantic Segmentation Algorithm Based on Light Field and LiDAR Fusion**|Jie Luo et.al.|[2510.06687](http://arxiv.org/abs/2510.06687)|null|
+|**2025-10-08**|**Through the Perspective of LiDAR: A Feature-Enriched and Uncertainty-Aware Annotation Pipeline for Terrestrial Point Cloud Segmentation**|Fei Zhang et.al.|[2510.06582](http://arxiv.org/abs/2510.06582)|null|
 |**2025-10-07**|**Shaken or Stirred? An Analysis of MetaFormer's Token Mixing for Medical Imaging**|Ron Keuth et.al.|[2510.05971](http://arxiv.org/abs/2510.05971)|null|
 |**2025-10-07**|**Data Factory with Minimal Human Effort Using VLMs**|Jiaojiao Ye et.al.|[2510.05722](http://arxiv.org/abs/2510.05722)|null|
 |**2025-10-07**|**Midway Network: Learning Representations for Recognition and Motion from Latent Dynamics**|Christopher Hoang et.al.|[2510.05558](http://arxiv.org/abs/2510.05558)|null|
@@ -3621,7 +3626,7 @@ layout: default
 |**2025-09-29**|**Fast Feature Field ( $\text{F}^3$ ): A Predictive Representation of Events**|Richeek Das et.al.|[2509.25146](http://arxiv.org/abs/2509.25146)|null|
 |**2025-09-29**|**Vision At Night: Exploring Biologically Inspired Preprocessing For Improved Robustness Via Color And Contrast Transformations**|Lorena Stracke et.al.|[2509.24863](http://arxiv.org/abs/2509.24863)|null|
 |**2025-09-29**|**Evaluation of Polarimetric Fusion for Semantic Segmentation in Aquatic Environments**|Luis F. W. Batista et.al.|[2509.24731](http://arxiv.org/abs/2509.24731)|null|
-|**2025-09-29**|**CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D**|Mohamad Amin Mirzaei et.al.|[2509.24528](http://arxiv.org/abs/2509.24528)|null|
+|**2025-10-09**|**CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D**|Mohamad Amin Mirzaei et.al.|[2509.24528](http://arxiv.org/abs/2509.24528)|null|
 |**2025-09-29**|**Robust Multimodal Semantic Segmentation with Balanced Modality Contributions**|Jiaqi Tan et.al.|[2509.24505](http://arxiv.org/abs/2509.24505)|null|
 |**2025-09-28**|**Bridging the Task Gap: Multi-Task Adversarial Transferability in CLIP and Its Derivatives**|Kuanrong Liu et.al.|[2509.23917](http://arxiv.org/abs/2509.23917)|null|
 |**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
