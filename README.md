@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.10
+## Updated on 2025.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|**[link](https://github.com/wangsh0111/RayFusion)**|
+|**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang et.al.|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
+|**2025-10-09**|**An End-to-End Room Geometry Constrained Depth Estimation Framework for Indoor Panorama Images**|Kanglin Ning et.al.|[2510.07817](http://arxiv.org/abs/2510.07817)|**[link](https://github.com/EmiyaNing/RGCNet)**|
 |**2025-10-08**|**Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers**|Gangwei Xu et.al.|[2510.07316](http://arxiv.org/abs/2510.07316)|null|
 |**2025-10-08**|**MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis**|Yihao Zhi et.al.|[2510.07190](http://arxiv.org/abs/2510.07190)|**[link](https://github.com/zyhbili/MV-Performer)**|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
@@ -678,7 +681,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -2021,7 +2024,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
