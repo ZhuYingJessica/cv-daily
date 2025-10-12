@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.11
+## Updated on 2025.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -681,7 +681,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -703,7 +703,7 @@
 |**2025-10-02**|**Multimodal Large Language Model Framework for Safe and Interpretable Grid-Integrated EVs**|Jean Douglas Carvalho et.al.|[2510.02592](http://arxiv.org/abs/2510.02592)|null|
 |**2025-10-02**|**GeoPurify: A Data-Efficient Geometric Distillation Framework for Open-Vocabulary 3D Segmentation**|Weijia Dou et.al.|[2510.02186](http://arxiv.org/abs/2510.02186)|null|
 |**2025-10-02**|**FRIEREN: Federated Learning with Vision-Language Regularization for Segmentation**|Ding-Ruei Shen et.al.|[2510.02114](http://arxiv.org/abs/2510.02114)|null|
-|**2025-10-02**|**A Multicentric Dataset for Training and Benchmarking Breast Cancer Segmentation in H&E Slides**|Carlijn Lems et.al.|[2510.02037](http://arxiv.org/abs/2510.02037)|null|
+|**2025-10-02**|**A Multicentric Dataset for Training and Benchmarking Breast Cancer Segmentation in H&E Slides**|Carlijn Lems et.al.|[2510.02037](http://arxiv.org/abs/2510.02037)|**[link](https://github.com/DIAGNijmegen/beetle)**|
 |**2025-10-02**|**ClustViT: Clustering-based Token Merging for Semantic Segmentation**|Fabio Montello et.al.|[2510.01948](http://arxiv.org/abs/2510.01948)|null|
 |**2025-10-01**|**GeoSURGE: Geo-localization using Semantic Fusion with Hierarchy of Geographic Embeddings**|Angel Daruna et.al.|[2510.01448](http://arxiv.org/abs/2510.01448)|null|
 |**2025-10-01**|**PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset**|Thomas Campagnolo et.al.|[2510.00818](http://arxiv.org/abs/2510.00818)|null|
@@ -2024,7 +2024,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.11
+## Updated on 2025.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3617,7 +3617,7 @@ layout: default
 |**2025-10-02**|**Multimodal Large Language Model Framework for Safe and Interpretable Grid-Integrated EVs**|Jean Douglas Carvalho et.al.|[2510.02592](http://arxiv.org/abs/2510.02592)|null|
 |**2025-10-02**|**GeoPurify: A Data-Efficient Geometric Distillation Framework for Open-Vocabulary 3D Segmentation**|Weijia Dou et.al.|[2510.02186](http://arxiv.org/abs/2510.02186)|null|
 |**2025-10-02**|**FRIEREN: Federated Learning with Vision-Language Regularization for Segmentation**|Ding-Ruei Shen et.al.|[2510.02114](http://arxiv.org/abs/2510.02114)|null|
-|**2025-10-02**|**A Multicentric Dataset for Training and Benchmarking Breast Cancer Segmentation in H&E Slides**|Carlijn Lems et.al.|[2510.02037](http://arxiv.org/abs/2510.02037)|null|
+|**2025-10-02**|**A Multicentric Dataset for Training and Benchmarking Breast Cancer Segmentation in H&E Slides**|Carlijn Lems et.al.|[2510.02037](http://arxiv.org/abs/2510.02037)|**[link](https://github.com/DIAGNijmegen/beetle)**|
 |**2025-10-02**|**ClustViT: Clustering-based Token Merging for Semantic Segmentation**|Fabio Montello et.al.|[2510.01948](http://arxiv.org/abs/2510.01948)|null|
 |**2025-10-01**|**GeoSURGE: Geo-localization using Semantic Fusion with Hierarchy of Geographic Embeddings**|Angel Daruna et.al.|[2510.01448](http://arxiv.org/abs/2510.01448)|null|
 |**2025-10-01**|**PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset**|Thomas Campagnolo et.al.|[2510.00818](http://arxiv.org/abs/2510.00818)|null|
