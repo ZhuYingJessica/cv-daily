@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,13 +2934,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](http://arxiv.org/abs/2510.12753)|**[link](https://github.com/WU-CVGL/E-MoFlow)**|
+|**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li et.al.|[2510.12276](http://arxiv.org/abs/2510.12276)|**[link](https://github.com/OpenHelix-Team/Spatial-Forcing)**|
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305](http://arxiv.org/abs/2510.11305)|null|
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
 |**2025-10-10**|**Fast Self-Supervised depth and mask aware Association for Multi-Object Tracking**|Milad Khanchi et.al.|[2510.09878](http://arxiv.org/abs/2510.09878)|**[link](https://github.com/Milad-Khanchi/SelfTrEncMOT)**|
 |**2025-10-10**|**Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**|Wenyao Zhang et.al.|[2510.09320](http://arxiv.org/abs/2510.09320)|null|
 |**2025-10-10**|**Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption**|Johann-Friedrich Feiden et.al.|[2510.09182](http://arxiv.org/abs/2510.09182)|null|
 |**2025-10-08**|**Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry**|Thomas Fel et.al.|[2510.08638](http://arxiv.org/abs/2510.08638)|null|
-|**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|**[link](https://github.com/wangsh0111/RayFusion)**|
+|**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|null|
 |**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang et.al.|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
 |**2025-10-09**|**An End-to-End Room Geometry Constrained Depth Estimation Framework for Indoor Panorama Images**|Kanglin Ning et.al.|[2510.07817](http://arxiv.org/abs/2510.07817)|null|
 |**2025-10-08**|**Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers**|Gangwei Xu et.al.|[2510.07316](http://arxiv.org/abs/2510.07316)|null|
@@ -2950,7 +2952,7 @@ layout: default
 |**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|
 |**2025-10-07**|**DeLTa: Demonstration and Language-Guided Novel Transparent Object Manipulation**|Taeyeop Lee et.al.|[2510.05662](http://arxiv.org/abs/2510.05662)|null|
 |**2025-10-09**|**Human Action Recognition from Point Clouds over Time**|James Dickens et.al.|[2510.05506](http://arxiv.org/abs/2510.05506)|null|
-|**2025-10-06**|**HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model**|Peter Van Katwyk et.al.|[2510.05054](http://arxiv.org/abs/2510.05054)|null|
+|**2025-10-14**|**HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model**|Peter Van Katwyk et.al.|[2510.05054](http://arxiv.org/abs/2510.05054)|null|
 |**2025-10-06**|**Benchmark on Monocular Metric Depth Estimation in Wildlife Setting**|Niccolò Niccoli et.al.|[2510.04723](http://arxiv.org/abs/2510.04723)|null|
 |**2025-10-04**|**Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics**|Hanwen Zhang et.al.|[2510.03750](http://arxiv.org/abs/2510.03750)|null|
 |**2025-10-03**|**Whisker-based Tactile Flight for Tiny Drones**|Chaoxiang Ye et.al.|[2510.03119](http://arxiv.org/abs/2510.03119)|null|
@@ -3607,11 +3609,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Multiplicative Loss for Enhancing Semantic Segmentation in Medical and Cellular Images**|Yuto Yokoi et.al.|[2510.12258](http://arxiv.org/abs/2510.12258)|null|
 |**2025-10-13**|**A Framework for Low-Effort Training Data Generation for Urban Semantic Segmentation**|Denis Zavadski et.al.|[2510.11567](http://arxiv.org/abs/2510.11567)|null|
 |**2025-10-13**|**Building and Evaluating a Realistic Virtual World for Large Scale Urban Exploration from 360° Videos**|Mizuki Takenawa et.al.|[2510.11447](http://arxiv.org/abs/2510.11447)|null|
 |**2025-10-13**|**Uncertainty-Aware ControlNet: Bridging Domain Gaps with Synthetic Image Generation**|Joshua Niemeijer et.al.|[2510.11346](http://arxiv.org/abs/2510.11346)|null|
 |**2025-10-12**|**DAGLFNet:Deep Attention-Guided Global-Local Feature Fusion for Pseudo-Image Point Cloud Segmentation**|Chuang Chen et.al.|[2510.10471](http://arxiv.org/abs/2510.10471)|null|
-|**2025-10-11**|**MRI Brain Tumor Detection with Computer Vision**|Jack Krolik et.al.|[2510.10250](http://arxiv.org/abs/2510.10250)|null|
+|**2025-10-11**|**MRI Brain Tumor Detection with Computer Vision**|Jack Krolik et.al.|[2510.10250](http://arxiv.org/abs/2510.10250)|**[link](https://github.com/MutukuMwende/MRI-Images-Detection-Using-Computer-Vision)**|
 |**2025-10-11**|**SparseUWSeg: Active Sparse Point-Label Augmentation for Underwater Semantic Segmentation**|César Borja et.al.|[2510.10163](http://arxiv.org/abs/2510.10163)|null|
 |**2025-10-11**|**An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing**|Frida Cantu et.al.|[2510.09977](http://arxiv.org/abs/2510.09977)|null|
 |**2025-10-10**|**Cell Instance Segmentation: The Devil Is in the Boundaries**|Peixian Liang et.al.|[2510.09848](http://arxiv.org/abs/2510.09848)|null|
