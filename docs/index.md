@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|**[link](https://github.com/lck666666/plana3r)**|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|null|
 |**2025-10-21**|**PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception**|Kaichen Zhou et.al.|[2510.17568](http://arxiv.org/abs/2510.17568)|null|
@@ -3621,6 +3622,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Uncertainty evaluation of segmentation models for Earth observation**|Melanie Rey et.al.|[2510.19586](http://arxiv.org/abs/2510.19586)|null|
 |**2025-10-21**|**ε-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data**|Sheida Rahnamai Kordasiabi et.al.|[2510.18637](http://arxiv.org/abs/2510.18637)|null|
 |**2025-10-21**|**Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning**|Daniel Bethell et.al.|[2510.18485](http://arxiv.org/abs/2510.18485)|null|
 |**2025-10-21**|**DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP**|Mariano Barone et.al.|[2510.18475](http://arxiv.org/abs/2510.18475)|null|
@@ -3643,7 +3645,7 @@ layout: default
 |**2025-10-15**|**PoissonNet: A Local-Global Approach for Learning on Surfaces**|Arman Maesumi et.al.|[2510.14146](http://arxiv.org/abs/2510.14146)|null|
 |**2025-10-15**|**Multi-Scale High-Resolution Logarithmic Grapher Module for Efficient Vision GNNs**|Mustafa Munir et.al.|[2510.13740](http://arxiv.org/abs/2510.13740)|null|
 |**2025-10-15**|**Dedelayed: Deleting remote inference delay via on-device correction**|Dan Jacobellis et.al.|[2510.13714](http://arxiv.org/abs/2510.13714)|null|
-|**2025-10-15**|**Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning**|Yang Li et.al.|[2510.13307](http://arxiv.org/abs/2510.13307)|null|
+|**2025-10-23**|**Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning**|Yang Li et.al.|[2510.13307](http://arxiv.org/abs/2510.13307)|null|
 |**2025-10-15**|**FlyAwareV2: A Multimodal Cross-Domain UAV Dataset for Urban Scene Understanding**|Francesco Barbato et.al.|[2510.13243](http://arxiv.org/abs/2510.13243)|null|
 |**2025-10-14**|**Multiplicative Loss for Enhancing Semantic Segmentation in Medical and Cellular Images**|Yuto Yokoi et.al.|[2510.12258](http://arxiv.org/abs/2510.12258)|null|
 |**2025-10-13**|**A Framework for Low-Effort Training Data Generation for Urban Semantic Segmentation**|Denis Zavadski et.al.|[2510.11567](http://arxiv.org/abs/2510.11567)|null|
