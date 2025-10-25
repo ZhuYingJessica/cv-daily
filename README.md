@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.24
+## Updated on 2025.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|**[link](https://github.com/cocowy1/PPMStereo)**|
 |**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|**[link](https://github.com/lck666666/plana3r)**|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|null|
@@ -702,12 +703,13 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**ACS-SegNet: An Attention-Based CNN-SegFormer Segmentation Network for Tissue Segmentation in Histopathology**|Nima Torbati et.al.|[2510.20754](http://arxiv.org/abs/2510.20754)|null|
 |**2025-10-22**|**Uncertainty evaluation of segmentation models for Earth observation**|Melanie Rey et.al.|[2510.19586](http://arxiv.org/abs/2510.19586)|null|
 |**2025-10-21**|**ε-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data**|Sheida Rahnamai Kordasiabi et.al.|[2510.18637](http://arxiv.org/abs/2510.18637)|null|
 |**2025-10-21**|**Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning**|Daniel Bethell et.al.|[2510.18485](http://arxiv.org/abs/2510.18485)|null|
@@ -2082,7 +2084,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

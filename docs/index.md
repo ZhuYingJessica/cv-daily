@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.24
+## Updated on 2025.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|**[link](https://github.com/cocowy1/PPMStereo)**|
 |**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|**[link](https://github.com/lck666666/plana3r)**|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|null|
@@ -3622,6 +3623,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**ACS-SegNet: An Attention-Based CNN-SegFormer Segmentation Network for Tissue Segmentation in Histopathology**|Nima Torbati et.al.|[2510.20754](http://arxiv.org/abs/2510.20754)|null|
 |**2025-10-22**|**Uncertainty evaluation of segmentation models for Earth observation**|Melanie Rey et.al.|[2510.19586](http://arxiv.org/abs/2510.19586)|null|
 |**2025-10-21**|**ε-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data**|Sheida Rahnamai Kordasiabi et.al.|[2510.18637](http://arxiv.org/abs/2510.18637)|null|
 |**2025-10-21**|**Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning**|Daniel Bethell et.al.|[2510.18485](http://arxiv.org/abs/2510.18485)|null|
