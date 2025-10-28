@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2025-10-16**|**Multi-modal video data-pipelines for machine learning with minimal human supervision**|Mihai-Cristian Pîrvu et.al.|[2510.14862](http://arxiv.org/abs/2510.14862)|null|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|null|
 |**2025-10-15**|**FlyAwareV2: A Multimodal Cross-Domain UAV Dataset for Urban Scene Understanding**|Francesco Barbato et.al.|[2510.13243](http://arxiv.org/abs/2510.13243)|null|
-|**2025-10-14**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](http://arxiv.org/abs/2510.12753)|null|
+|**2025-10-24**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](http://arxiv.org/abs/2510.12753)|null|
 |**2025-10-17**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li et.al.|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305](http://arxiv.org/abs/2510.11305)|null|
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
@@ -703,12 +703,15 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-24**|**AURASeg: Attention Guided Upsampling with Residual Boundary-Assistive Refinement for Drivable-Area Segmentation**|Narendhiran Vijayakumar et.al.|[2510.21536](http://arxiv.org/abs/2510.21536)|null|
+|**2025-10-24**|**Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks**|Jieyuan Zhang et.al.|[2510.21403](http://arxiv.org/abs/2510.21403)|null|
+|**2025-10-24**|**WaveSeg: Enhancing Segmentation Precision via High-Frequency Prior and Mamba-Driven Spectrum Decomposition**|Guoan Xu et.al.|[2510.21079](http://arxiv.org/abs/2510.21079)|null|
 |**2025-10-23**|**ACS-SegNet: An Attention-Based CNN-SegFormer Segmentation Network for Tissue Segmentation in Histopathology**|Nima Torbati et.al.|[2510.20754](http://arxiv.org/abs/2510.20754)|null|
 |**2025-10-22**|**Uncertainty evaluation of segmentation models for Earth observation**|Melanie Rey et.al.|[2510.19586](http://arxiv.org/abs/2510.19586)|null|
 |**2025-10-21**|**ε-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data**|Sheida Rahnamai Kordasiabi et.al.|[2510.18637](http://arxiv.org/abs/2510.18637)|null|
@@ -2084,7 +2087,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
