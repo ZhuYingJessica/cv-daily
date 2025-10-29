@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](http://arxiv.org/abs/2510.23574)|**[link](https://github.com/H-EmbodVis/MERGE)**|
+|**2025-10-27**|**Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation**|Oskar Natan et.al.|[2510.23057](http://arxiv.org/abs/2510.23057)|null|
+|**2025-10-25**|**EndoSfM3D: Learning to 3D Reconstruct Any Endoscopic Surgery Scene using Self-supervised Foundation Model**|Changhao Zhang et.al.|[2510.22359](http://arxiv.org/abs/2510.22359)|**[link](https://github.com/MOYF-beta/EndoSfM3D)**|
 |**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|**[link](https://github.com/cocowy1/PPMStereo)**|
 |**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|**[link](https://github.com/lck666666/plana3r)**|
@@ -2951,7 +2954,7 @@ layout: default
 |**2025-10-24**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](http://arxiv.org/abs/2510.12753)|null|
 |**2025-10-17**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li et.al.|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305](http://arxiv.org/abs/2510.11305)|null|
-|**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
+|**2025-10-27**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
 |**2025-10-10**|**Fast Self-Supervised depth and mask aware Association for Multi-Object Tracking**|Milad Khanchi et.al.|[2510.09878](http://arxiv.org/abs/2510.09878)|null|
 |**2025-10-10**|**Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**|Wenyao Zhang et.al.|[2510.09320](http://arxiv.org/abs/2510.09320)|null|
 |**2025-10-10**|**Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption**|Johann-Friedrich Feiden et.al.|[2510.09182](http://arxiv.org/abs/2510.09182)|null|
@@ -3623,6 +3626,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**|Wanmeng Li et.al.|[2510.23525](http://arxiv.org/abs/2510.23525)|null|
+|**2025-10-27**|**Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation**|Oskar Natan et.al.|[2510.23057](http://arxiv.org/abs/2510.23057)|null|
+|**2025-10-26**|**WaveMAE: Wavelet decomposition Masked Auto-Encoder for Remote Sensing**|Vittorio Bernuzzi et.al.|[2510.22697](http://arxiv.org/abs/2510.22697)|null|
+|**2025-10-26**|**SABlock: Semantic-Aware KV Cache Eviction with Adaptive Compression Block Size**|Jinhan Chen et.al.|[2510.22556](http://arxiv.org/abs/2510.22556)|null|
+|**2025-10-25**|**Real-Time Semantic Segmentation on FPGA for Autonomous Vehicles Using LMIINet with the CGRA4ML Framework**|Amir Mohammad Khadem Hosseini et.al.|[2510.22243](http://arxiv.org/abs/2510.22243)|null|
+|**2025-10-25**|**Diffusion-Driven Two-Stage Active Learning for Low-Budget Semantic Segmentation**|Jeongin Kim et.al.|[2510.22229](http://arxiv.org/abs/2510.22229)|null|
+|**2025-10-25**|**Simplifying Knowledge Transfer in Pretrained Models**|Siddharth Jain et.al.|[2510.22208](http://arxiv.org/abs/2510.22208)|null|
+|**2025-10-25**|**Bridging Perception and Reasoning: Dual-Pipeline Neuro-Symbolic Landing for UAVs in Cluttered Environments**|Weixian Qian et.al.|[2510.22204](http://arxiv.org/abs/2510.22204)|null|
 |**2025-10-24**|**AURASeg: Attention Guided Upsampling with Residual Boundary-Assistive Refinement for Drivable-Area Segmentation**|Narendhiran Vijayakumar et.al.|[2510.21536](http://arxiv.org/abs/2510.21536)|null|
 |**2025-10-24**|**Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks**|Jieyuan Zhang et.al.|[2510.21403](http://arxiv.org/abs/2510.21403)|null|
 |**2025-10-24**|**WaveSeg: Enhancing Segmentation Precision via High-Frequency Prior and Mamba-Driven Spectrum Decomposition**|Guoan Xu et.al.|[2510.21079](http://arxiv.org/abs/2510.21079)|null|
@@ -3638,7 +3649,7 @@ layout: default
 |**2025-10-19**|**ArmFormer: Lightweight Transformer Architecture for Real-Time Multi-Class Weapon Segmentation and Classification**|Akhila Kambhatla et.al.|[2510.16854](http://arxiv.org/abs/2510.16854)|null|
 |**2025-10-19**|**Needles in the Landscape: Semi-Supervised Pseudolabeling for Archaeological Site Discovery under Label Scarcity**|Simon Jaxy et.al.|[2510.16814](http://arxiv.org/abs/2510.16814)|null|
 |**2025-10-19**|**An Efficient Semantic Segmentation Decoder for In-Car or Distributed Applications**|Danish Nazir et.al.|[2510.16747](http://arxiv.org/abs/2510.16747)|null|
-|**2025-10-19**|**UKANFormer: Noise-Robust Semantic Segmentation for Coral Reef Mapping via a Kolmogorov-Arnold Network-Transformer Hybrid**|Tianyang Dou et.al.|[2510.16730](http://arxiv.org/abs/2510.16730)|null|
+|**2025-10-27**|**UKANFormer: Noise-Robust Semantic Segmentation for Coral Reef Mapping via a Kolmogorov-Arnold Network-Transformer Hybrid**|Tianyang Dou et.al.|[2510.16730](http://arxiv.org/abs/2510.16730)|null|
 |**2025-10-18**|**Self-Supervised Learning to Fly using Efficient Semantic Segmentation and Metric Depth Estimation for Low-Cost Autonomous UAVs**|Sebastian Mocanu et.al.|[2510.16624](http://arxiv.org/abs/2510.16624)|null|
 |**2025-10-17**|**Neuro-Symbolic Spatial Reasoning in Segmentation**|Jiayi Lin et.al.|[2510.15841](http://arxiv.org/abs/2510.15841)|null|
 |**2025-10-17**|**Semantic segmentation with coarse annotations**|Jort de Jong et.al.|[2510.15756](http://arxiv.org/abs/2510.15756)|null|
