@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,13 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[2510.25463](http://arxiv.org/abs/2510.25463)|null|
+|**2025-10-29**|**Seeing Clearly and Deeply: An RGBD Imaging Approach with a Bio-inspired Monocentric Design**|Zongxi Yu et.al.|[2510.25314](http://arxiv.org/abs/2510.25314)|null|
 |**2025-10-28**|**GeVI-SLAM: Gravity-Enhanced Stereo Visua Inertial SLAM for Underwater Robots**|Yuan Shen et.al.|[2510.24533](http://arxiv.org/abs/2510.24533)|null|
 |**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](http://arxiv.org/abs/2510.23574)|**[link](https://github.com/H-EmbodVis/MERGE)**|
 |**2025-10-27**|**Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation**|Oskar Natan et.al.|[2510.23057](http://arxiv.org/abs/2510.23057)|null|
 |**2025-10-25**|**EndoSfM3D: Learning to 3D Reconstruct Any Endoscopic Surgery Scene using Self-supervised Foundation Model**|Changhao Zhang et.al.|[2510.22359](http://arxiv.org/abs/2510.22359)|**[link](https://github.com/MOYF-beta/EndoSfM3D)**|
-|**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|**[link](https://github.com/cocowy1/PPMStereo)**|
+|**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|null|
 |**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
-|**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|**[link](https://github.com/lck666666/plana3r)**|
+|**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|null|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|null|
 |**2025-10-21**|**PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception**|Kaichen Zhou et.al.|[2510.17568](http://arxiv.org/abs/2510.17568)|null|
 |**2025-10-19**|**How Universal Are SAM2 Features?**|Masoud Khairi Atani et.al.|[2510.17051](http://arxiv.org/abs/2510.17051)|null|
@@ -707,12 +709,17 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA**|Yuhang Hu et.al.|[2510.25332](http://arxiv.org/abs/2510.25332)|null|
+|**2025-10-29**|**LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation**|Yang Miao et.al.|[2510.25263](http://arxiv.org/abs/2510.25263)|null|
+|**2025-10-29**|**Mapping and Classification of Trees Outside Forests using Deep Learning**|Moritz Lucas et.al.|[2510.25239](http://arxiv.org/abs/2510.25239)|null|
+|**2025-10-29**|**Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation**|Huadong Tang et.al.|[2510.25174](http://arxiv.org/abs/2510.25174)|null|
+|**2025-10-29**|**Region-CAM: Towards Accurate Object Regions in Class Activation Maps for Weakly Supervised Learning Tasks**|Qingdong Cai et.al.|[2510.25134](http://arxiv.org/abs/2510.25134)|null|
 |**2025-10-28**|**XAI Evaluation Framework for Semantic Segmentation**|Reem Hammoud et.al.|[2510.24414](http://arxiv.org/abs/2510.24414)|null|
 |**2025-10-27**|**Improving Visual Discriminability of CLIP for Training-Free Open-Vocabulary Semantic Segmentation**|Jinxin Zhou et.al.|[2510.23894](http://arxiv.org/abs/2510.23894)|null|
 |**2025-10-27**|**DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**|Wanmeng Li et.al.|[2510.23525](http://arxiv.org/abs/2510.23525)|null|
@@ -2101,7 +2108,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
