@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.03
+## Updated on 2025.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2941,7 +2941,7 @@ layout: default
 |**2025-10-27**|**Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation**|Oskar Natan et.al.|[2510.23057](http://arxiv.org/abs/2510.23057)|null|
 |**2025-10-25**|**EndoSfM3D: Learning to 3D Reconstruct Any Endoscopic Surgery Scene using Self-supervised Foundation Model**|Changhao Zhang et.al.|[2510.22359](http://arxiv.org/abs/2510.22359)|**[link](https://github.com/MOYF-beta/EndoSfM3D)**|
 |**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|null|
-|**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
+|**2025-10-30**|**How Should One Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|null|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|null|
 |**2025-10-21**|**PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception**|Kaichen Zhou et.al.|[2510.17568](http://arxiv.org/abs/2510.17568)|null|
@@ -3629,11 +3629,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[2510.27646](http://arxiv.org/abs/2510.27646)|null|
+|**2025-10-31**|**SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|[2510.27219](http://arxiv.org/abs/2510.27219)|null|
+|**2025-10-31**|**MLPerf Automotive**|Radoyeh Shojaei et.al.|[2510.27065](http://arxiv.org/abs/2510.27065)|null|
+|**2025-10-30**|**AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception**|Mario Camarena et.al.|[2510.27047](http://arxiv.org/abs/2510.27047)|null|
 |**2025-10-30**|**Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance**|Valentyna Starodub et.al.|[2510.26778](http://arxiv.org/abs/2510.26778)|null|
 |**2025-10-30**|**Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws**|Lin Guo et.al.|[2510.26268](http://arxiv.org/abs/2510.26268)|null|
 |**2025-10-29**|**BikeScenes: Online LiDAR Semantic Segmentation for Bicycles**|Denniz Goren et.al.|[2510.25901](http://arxiv.org/abs/2510.25901)|null|
 |**2025-10-29**|**StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA**|Yuhang Hu et.al.|[2510.25332](http://arxiv.org/abs/2510.25332)|null|
-|**2025-10-29**|**LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation**|Yang Miao et.al.|[2510.25263](http://arxiv.org/abs/2510.25263)|null|
+|**2025-10-31**|**LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation**|Yang Miao et.al.|[2510.25263](http://arxiv.org/abs/2510.25263)|null|
 |**2025-10-29**|**Mapping and Classification of Trees Outside Forests using Deep Learning**|Moritz Lucas et.al.|[2510.25239](http://arxiv.org/abs/2510.25239)|null|
 |**2025-10-29**|**Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation**|Huadong Tang et.al.|[2510.25174](http://arxiv.org/abs/2510.25174)|null|
 |**2025-10-29**|**Region-CAM: Towards Accurate Object Regions in Class Activation Maps for Weakly Supervised Learning Tasks**|Qingdong Cai et.al.|[2510.25134](http://arxiv.org/abs/2510.25134)|null|
@@ -3652,7 +3656,7 @@ layout: default
 |**2025-10-24**|**WaveSeg: Enhancing Segmentation Precision via High-Frequency Prior and Mamba-Driven Spectrum Decomposition**|Guoan Xu et.al.|[2510.21079](http://arxiv.org/abs/2510.21079)|null|
 |**2025-10-23**|**ACS-SegNet: An Attention-Based CNN-SegFormer Segmentation Network for Tissue Segmentation in Histopathology**|Nima Torbati et.al.|[2510.20754](http://arxiv.org/abs/2510.20754)|null|
 |**2025-10-22**|**Uncertainty evaluation of segmentation models for Earth observation**|Melanie Rey et.al.|[2510.19586](http://arxiv.org/abs/2510.19586)|null|
-|**2025-10-21**|**ε-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data**|Sheida Rahnamai Kordasiabi et.al.|[2510.18637](http://arxiv.org/abs/2510.18637)|null|
+|**2025-10-30**|**ε-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data**|Sheida Rahnamai Kordasiabi et.al.|[2510.18637](http://arxiv.org/abs/2510.18637)|null|
 |**2025-10-21**|**Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning**|Daniel Bethell et.al.|[2510.18485](http://arxiv.org/abs/2510.18485)|null|
 |**2025-10-21**|**DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP**|Mariano Barone et.al.|[2510.18475](http://arxiv.org/abs/2510.18475)|null|
 |**2025-10-20**|**Accelerating Vision Transformers with Adaptive Patch Sizes**|Rohan Choudhury et.al.|[2510.18091](http://arxiv.org/abs/2510.18091)|null|
