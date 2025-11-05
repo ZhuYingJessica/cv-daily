@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.04
+## Updated on 2025.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -709,7 +709,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -727,7 +727,7 @@
 |**2025-10-29**|**Mapping and Classification of Trees Outside Forests using Deep Learning**|Moritz Lucas et.al.|[2510.25239](http://arxiv.org/abs/2510.25239)|null|
 |**2025-10-29**|**Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation**|Huadong Tang et.al.|[2510.25174](http://arxiv.org/abs/2510.25174)|null|
 |**2025-10-29**|**Region-CAM: Towards Accurate Object Regions in Class Activation Maps for Weakly Supervised Learning Tasks**|Qingdong Cai et.al.|[2510.25134](http://arxiv.org/abs/2510.25134)|null|
-|**2025-10-28**|**XAI Evaluation Framework for Semantic Segmentation**|Reem Hammoud et.al.|[2510.24414](http://arxiv.org/abs/2510.24414)|null|
+|**2025-11-03**|**A Quantitative Evaluation Framework for Explainable AI in Semantic Segmentation**|Reem Hammoud et.al.|[2510.24414](http://arxiv.org/abs/2510.24414)|null|
 |**2025-10-27**|**Improving Visual Discriminability of CLIP for Training-Free Open-Vocabulary Semantic Segmentation**|Jinxin Zhou et.al.|[2510.23894](http://arxiv.org/abs/2510.23894)|null|
 |**2025-10-27**|**DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**|Wanmeng Li et.al.|[2510.23525](http://arxiv.org/abs/2510.23525)|null|
 |**2025-10-27**|**Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation**|Oskar Natan et.al.|[2510.23057](http://arxiv.org/abs/2510.23057)|null|
@@ -2115,7 +2115,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
