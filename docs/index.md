@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.05
+## Updated on 2025.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Monocular absolute depth estimation from endoscopy via domain-invariant feature learning and latent consistency**|Hao Li et.al.|[2511.02247](http://arxiv.org/abs/2511.02247)|null|
+|**2025-11-03**|**Opto-Electronic Convolutional Neural Network Design Via Direct Kernel Optimization**|Ali Almuallem et.al.|[2511.02065](http://arxiv.org/abs/2511.02065)|null|
 |**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[2510.25463](http://arxiv.org/abs/2510.25463)|null|
 |**2025-10-29**|**Seeing Clearly and Deeply: An RGBD Imaging Approach with a Bio-inspired Monocentric Design**|Zongxi Yu et.al.|[2510.25314](http://arxiv.org/abs/2510.25314)|null|
 |**2025-10-28**|**GeVI-SLAM: Gravity-Enhanced Stereo Visua Inertial SLAM for Underwater Robots**|Yuan Shen et.al.|[2510.24533](http://arxiv.org/abs/2510.24533)|null|
-|**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](http://arxiv.org/abs/2510.23574)|**[link](https://github.com/H-EmbodVis/MERGE)**|
+|**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](http://arxiv.org/abs/2510.23574)|null|
 |**2025-10-27**|**Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation**|Oskar Natan et.al.|[2510.23057](http://arxiv.org/abs/2510.23057)|null|
-|**2025-10-25**|**EndoSfM3D: Learning to 3D Reconstruct Any Endoscopic Surgery Scene using Self-supervised Foundation Model**|Changhao Zhang et.al.|[2510.22359](http://arxiv.org/abs/2510.22359)|**[link](https://github.com/MOYF-beta/EndoSfM3D)**|
+|**2025-10-25**|**EndoSfM3D: Learning to 3D Reconstruct Any Endoscopic Surgery Scene using Self-supervised Foundation Model**|Changhao Zhang et.al.|[2510.22359](http://arxiv.org/abs/2510.22359)|null|
 |**2025-10-23**|**PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching**|Yun Wang et.al.|[2510.20178](http://arxiv.org/abs/2510.20178)|null|
 |**2025-10-30**|**How Should One Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|null|
@@ -3629,6 +3631,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Synthetic Crop-Weed Image Generation and its Impact on Model Generalization**|Garen Boyadjian et.al.|[2511.02417](http://arxiv.org/abs/2511.02417)|null|
+|**2025-11-04**|**Revisiting put-that-there, context aware window interactions via LLMs**|Riccardo Bovo et.al.|[2511.02378](http://arxiv.org/abs/2511.02378)|null|
+|**2025-11-03**|**Terrain-Enhanced Resolution-aware Refinement Attention for Off-Road Segmentation**|Seongkyu Choi et.al.|[2511.01434](http://arxiv.org/abs/2511.01434)|null|
+|**2025-11-03**|**Source-Only Cross-Weather LiDAR via Geometry-Aware Point Drop**|YoungJae Cheong et.al.|[2511.01250](http://arxiv.org/abs/2511.01250)|null|
+|**2025-10-31**|**Predicting the spatial distribution and demographics of commercial swine farms in the United States**|Felipe E. Sanchez et.al.|[2511.00132](http://arxiv.org/abs/2511.00132)|null|
+|**2025-10-29**|**Habitat and Land Cover Change Detection in Alpine Protected Areas: A Comparison of AI Architectures**|Harald Kristen et.al.|[2511.00073](http://arxiv.org/abs/2511.00073)|null|
 |**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[2510.27646](http://arxiv.org/abs/2510.27646)|null|
 |**2025-10-31**|**SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|[2510.27219](http://arxiv.org/abs/2510.27219)|null|
 |**2025-10-31**|**MLPerf Automotive**|Radoyeh Shojaei et.al.|[2510.27065](http://arxiv.org/abs/2510.27065)|null|
@@ -3641,7 +3649,7 @@ layout: default
 |**2025-10-29**|**Mapping and Classification of Trees Outside Forests using Deep Learning**|Moritz Lucas et.al.|[2510.25239](http://arxiv.org/abs/2510.25239)|null|
 |**2025-10-29**|**Classifier Enhancement Using Extended Context and Domain Experts for Semantic Segmentation**|Huadong Tang et.al.|[2510.25174](http://arxiv.org/abs/2510.25174)|null|
 |**2025-10-29**|**Region-CAM: Towards Accurate Object Regions in Class Activation Maps for Weakly Supervised Learning Tasks**|Qingdong Cai et.al.|[2510.25134](http://arxiv.org/abs/2510.25134)|null|
-|**2025-11-03**|**A Quantitative Evaluation Framework for Explainable AI in Semantic Segmentation**|Reem Hammoud et.al.|[2510.24414](http://arxiv.org/abs/2510.24414)|null|
+|**2025-11-04**|**A Quantitative Evaluation Framework for Explainable AI in Semantic Segmentation**|Reem Hammoud et.al.|[2510.24414](http://arxiv.org/abs/2510.24414)|null|
 |**2025-10-27**|**Improving Visual Discriminability of CLIP for Training-Free Open-Vocabulary Semantic Segmentation**|Jinxin Zhou et.al.|[2510.23894](http://arxiv.org/abs/2510.23894)|null|
 |**2025-10-27**|**DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**|Wanmeng Li et.al.|[2510.23525](http://arxiv.org/abs/2510.23525)|null|
 |**2025-10-27**|**Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation**|Oskar Natan et.al.|[2510.23057](http://arxiv.org/abs/2510.23057)|null|
