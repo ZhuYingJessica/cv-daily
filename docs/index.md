@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.07
+## Updated on 2025.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**|Chang Liu et.al.|[2511.04388](http://arxiv.org/abs/2511.04388)|null|
+|**2025-11-06**|**Simple 3D Pose Features Support Human and Machine Social Scene Understanding**|Wenshuo Qin et.al.|[2511.03988](http://arxiv.org/abs/2511.03988)|null|
 |**2025-11-04**|**EvtSlowTV -- A Large and Diverse Dataset for Event-Based Depth Estimation**|Sadiq Layi Macaulay et.al.|[2511.02953](http://arxiv.org/abs/2511.02953)|null|
 |**2025-11-04**|**Monocular absolute depth estimation from endoscopy via domain-invariant feature learning and latent consistency**|Hao Li et.al.|[2511.02247](http://arxiv.org/abs/2511.02247)|null|
 |**2025-11-03**|**Opto-Electronic Convolutional Neural Network Design Via Direct Kernel Optimization**|Ali Almuallem et.al.|[2511.02065](http://arxiv.org/abs/2511.02065)|null|
@@ -3637,7 +3639,7 @@ layout: default
 |**2025-11-04**|**Synthetic Crop-Weed Image Generation and its Impact on Model Generalization**|Garen Boyadjian et.al.|[2511.02417](http://arxiv.org/abs/2511.02417)|null|
 |**2025-11-04**|**Revisiting put-that-there, context aware window interactions via LLMs**|Riccardo Bovo et.al.|[2511.02378](http://arxiv.org/abs/2511.02378)|null|
 |**2025-11-03**|**Terrain-Enhanced Resolution-aware Refinement Attention for Off-Road Segmentation**|Seongkyu Choi et.al.|[2511.01434](http://arxiv.org/abs/2511.01434)|null|
-|**2025-11-03**|**Source-Only Cross-Weather LiDAR via Geometry-Aware Point Drop**|YoungJae Cheong et.al.|[2511.01250](http://arxiv.org/abs/2511.01250)|null|
+|**2025-11-06**|**Source-Only Cross-Weather LiDAR via Geometry-Aware Point Drop**|YoungJae Cheong et.al.|[2511.01250](http://arxiv.org/abs/2511.01250)|null|
 |**2025-10-31**|**Predicting the spatial distribution and demographics of commercial swine farms in the United States**|Felipe E. Sanchez et.al.|[2511.00132](http://arxiv.org/abs/2511.00132)|null|
 |**2025-10-29**|**Habitat and Land Cover Change Detection in Alpine Protected Areas: A Comparison of AI Architectures**|Harald Kristen et.al.|[2511.00073](http://arxiv.org/abs/2511.00073)|null|
 |**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[2510.27646](http://arxiv.org/abs/2510.27646)|null|
