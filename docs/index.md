@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.08
+## Updated on 2025.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3647,7 +3647,7 @@ layout: default
 |**2025-10-31**|**MLPerf Automotive**|Radoyeh Shojaei et.al.|[2510.27065](http://arxiv.org/abs/2510.27065)|null|
 |**2025-10-30**|**AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception**|Mario Camarena et.al.|[2510.27047](http://arxiv.org/abs/2510.27047)|null|
 |**2025-10-30**|**Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance**|Valentyna Starodub et.al.|[2510.26778](http://arxiv.org/abs/2510.26778)|null|
-|**2025-10-30**|**Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws**|Lin Guo et.al.|[2510.26268](http://arxiv.org/abs/2510.26268)|null|
+|**2025-10-30**|**Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws**|Lin Guo et.al.|[2510.26268](http://arxiv.org/abs/2510.26268)|**[link](https://github.com/lxq-jnu/HCLFuse)**|
 |**2025-10-29**|**BikeScenes: Online LiDAR Semantic Segmentation for Bicycles**|Denniz Goren et.al.|[2510.25901](http://arxiv.org/abs/2510.25901)|null|
 |**2025-10-29**|**StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA**|Yuhang Hu et.al.|[2510.25332](http://arxiv.org/abs/2510.25332)|null|
 |**2025-10-31**|**LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation**|Yang Miao et.al.|[2510.25263](http://arxiv.org/abs/2510.25263)|null|
