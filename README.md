@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -714,7 +714,7 @@
 |**2024-05-16**|**KPNDepth: Depth Estimation of Lane Images under Complex Rainy Environment**|Zhengxu Shi et.al.|[2405.09964](http://arxiv.org/abs/2405.09964)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -733,7 +733,7 @@
 |**2025-10-31**|**MLPerf Automotive**|Radoyeh Shojaei et.al.|[2510.27065](http://arxiv.org/abs/2510.27065)|null|
 |**2025-10-30**|**AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception**|Mario Camarena et.al.|[2510.27047](http://arxiv.org/abs/2510.27047)|null|
 |**2025-10-30**|**Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance**|Valentyna Starodub et.al.|[2510.26778](http://arxiv.org/abs/2510.26778)|null|
-|**2025-10-30**|**Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws**|Lin Guo et.al.|[2510.26268](http://arxiv.org/abs/2510.26268)|**[link](https://github.com/lxq-jnu/HCLFuse)**|
+|**2025-10-30**|**Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws**|Lin Guo et.al.|[2510.26268](http://arxiv.org/abs/2510.26268)|null|
 |**2025-10-29**|**BikeScenes: Online LiDAR Semantic Segmentation for Bicycles**|Denniz Goren et.al.|[2510.25901](http://arxiv.org/abs/2510.25901)|null|
 |**2025-10-29**|**StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA**|Yuhang Hu et.al.|[2510.25332](http://arxiv.org/abs/2510.25332)|null|
 |**2025-10-31**|**LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation**|Yang Miao et.al.|[2510.25263](http://arxiv.org/abs/2510.25263)|null|
@@ -2128,7 +2128,7 @@
 |**2024-05-16**|**Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation**|Jihwan Kwak et.al.|[2405.09858](http://arxiv.org/abs/2405.09858)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
