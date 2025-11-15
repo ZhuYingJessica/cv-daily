@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.13
+## Updated on 2025.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](http://arxiv.org/abs/2511.10647)|null|
+|**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://github.com/Livioni/OmniVGGT-offcial)**|
+|**2025-11-13**|**A scalable and accurate framework for self-calibrating null depth retrieval using neural posterior estimation**|Baoyi Zeng et.al.|[2511.10455](http://arxiv.org/abs/2511.10455)|null|
+|**2025-11-13**|**Assessing Finite Scalability in Early Fault-Tolerant Quantum Computing for Homogeneous Catalysts**|Yanbing Zhou et.al.|[2511.10388](http://arxiv.org/abs/2511.10388)|null|
+|**2025-11-13**|**Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision**|Yu Deng et.al.|[2511.10316](http://arxiv.org/abs/2511.10316)|null|
+|**2025-11-13**|**Estimation of the surface mechanical properties of soft tissues mimicking phantoms using impact analyses: a comparative study**|Arthur Bouffandeau et.al.|[2511.10123](http://arxiv.org/abs/2511.10123)|null|
+|**2025-11-13**|**RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo**|Jueun Ko et.al.|[2511.10107](http://arxiv.org/abs/2511.10107)|null|
+|**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|null|
+|**2025-11-12**|**Efficient and Noise-Resilient Molecular Quantum Simulation with the Generalized Superfast Encoding**|James Brown et.al.|[2511.09322](http://arxiv.org/abs/2511.09322)|null|
+|**2025-11-12**|**Multi-step Predictive Coding Leads To Simplicity Bias**|Aviv Ratzon et.al.|[2511.09290](http://arxiv.org/abs/2511.09290)|null|
+|**2025-11-12**|**PIFF: A Physics-Informed Generative Flow Model for Real-Time Flood Depth Mapping**|ChunLiang Wu et.al.|[2511.09130](http://arxiv.org/abs/2511.09130)|null|
+|**2025-11-11**|**Adaptive graph Kolmogorov-Arnold network for 3D human pose estimation**|Abu Taib Mohammed Shahjahan et.al.|[2511.08809](http://arxiv.org/abs/2511.08809)|null|
+|**2025-11-11**|**The FLuid Allocation of Surface code Qubits (FLASQ) cost model for early fault-tolerant quantum algorithms**|William J. Huggins et.al.|[2511.08508](http://arxiv.org/abs/2511.08508)|null|
+|**2025-11-11**|**RAPTR: Radar-based 3D Pose Estimation using Transformer**|Sorachi Kato et.al.|[2511.08387](http://arxiv.org/abs/2511.08387)|null|
+|**2025-11-11**|**Top2Ground: A Height-Aware Dual Conditioning Diffusion Model for Robust Aerial-to-Ground View Generation**|Jae Joong Lee et.al.|[2511.08258](http://arxiv.org/abs/2511.08258)|null|
+|**2025-11-11**|**Quantum Markov Chains: Hub-Pruned Estimation for Fashion Recommenders**|Or Peretz et.al.|[2511.08200](http://arxiv.org/abs/2511.08200)|null|
+|**2025-11-11**|**WEDepth: Efficient Adaptation of World Knowledge for Monocular Depth Estimation**|Gongshu Wang et.al.|[2511.08036](http://arxiv.org/abs/2511.08036)|null|
+|**2025-11-11**|**An Image-Based Path Planning Algorithm Using a UAV Equipped with Stereo Vision**|Selim Ahmet Iz et.al.|[2511.07928](http://arxiv.org/abs/2511.07928)|null|
+|**2025-11-11**|**Visual Bridge: Universal Visual Perception Representations Generating**|Yilin Gao et.al.|[2511.07877](http://arxiv.org/abs/2511.07877)|null|
+|**2025-11-10**|**FlowFeat: Pixel-Dense Embedding of Motion Profiles**|Nikita Araslanov et.al.|[2511.07696](http://arxiv.org/abs/2511.07696)|null|
+|**2025-11-10**|**Search for steady and flaring neutrino emission from cosmic sources using the complete ANTARES dataset**|ANTARES Collaboration et.al.|[2511.07239](http://arxiv.org/abs/2511.07239)|null|
+|**2025-11-10**|**ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives**|Bartłomiej Baranowski et.al.|[2511.06810](http://arxiv.org/abs/2511.06810)|null|
+|**2025-11-10**|**SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection**|Yifan Wang et.al.|[2511.06702](http://arxiv.org/abs/2511.06702)|null|
+|**2025-11-09**|**Acceleration for Distributed Transshipment and Parallel Maximum Flow**|Christoph Grunau et.al.|[2511.06581](http://arxiv.org/abs/2511.06581)|null|
+|**2025-11-09**|**How Wide and How Deep? Mitigating Over-Squashing of GNNs via Channel Capacity Constrained Estimation**|Zinuo You et.al.|[2511.06443](http://arxiv.org/abs/2511.06443)|null|
+|**2025-11-09**|**GazeVLM: A Vision-Language Model for Multi-Task Gaze Understanding**|Athul M. Mathew et.al.|[2511.06348](http://arxiv.org/abs/2511.06348)|null|
+|**2025-11-09**|**Bayesian spatio-temporal disaggregation modeling using a diffusion-SPDE approach: a case study of Aerosol Optical Depth in India**|Fernando Rodriguez Avellaneda et.al.|[2511.06276](http://arxiv.org/abs/2511.06276)|null|
+|**2025-11-09**|**Temporal-Guided Visual Foundation Models for Event-Based Vision**|Ruihao Xia et.al.|[2511.06238](http://arxiv.org/abs/2511.06238)|null|
+|**2025-11-08**|**Light-Field Dataset for Disparity Based Depth Estimation**|Suresh Nehra et.al.|[2511.05866](http://arxiv.org/abs/2511.05866)|null|
 |**2025-11-07**|**No Pose Estimation? No Problem: Pose-Agnostic and Instance-Aware Test-Time Adaptation for Monocular Depth Estimation**|Mingyu Sung et.al.|[2511.05055](http://arxiv.org/abs/2511.05055)|null|
 |**2025-11-06**|**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**|Chang Liu et.al.|[2511.04388](http://arxiv.org/abs/2511.04388)|null|
 |**2025-11-06**|**Simple 3D Pose Features Support Human and Machine Social Scene Understanding**|Wenshuo Qin et.al.|[2511.03988](http://arxiv.org/abs/2511.03988)|null|
@@ -738,12 +767,42 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations**|Willem Bonnaffé et.al.|[2511.10432](http://arxiv.org/abs/2511.10432)|null|
+|**2025-11-13**|**Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment**|Wenti Yin et.al.|[2511.10334](http://arxiv.org/abs/2511.10334)|null|
+|**2025-11-13**|**DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Instance Segmentation**|Xuexun Liu et.al.|[2511.10003](http://arxiv.org/abs/2511.10003)|null|
+|**2025-11-12**|**Soiling detection for Advanced Driver Assistance Systems**|Filip Beránek et.al.|[2511.09740](http://arxiv.org/abs/2511.09740)|null|
+|**2025-11-12**|**IFG: Internet-Scale Guidance for Functional Grasping Generation**|Ray Muxin Liu et.al.|[2511.09558](http://arxiv.org/abs/2511.09558)|null|
+|**2025-11-12**|**OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS**|Haiyi Li et.al.|[2511.09397](http://arxiv.org/abs/2511.09397)|null|
+|**2025-11-12**|**HyperD: Hybrid Periodicity Decoupling Framework for Traffic Forecasting**|Minlan Shao et.al.|[2511.09275](http://arxiv.org/abs/2511.09275)|null|
+|**2025-11-12**|**Towards a Generalisable Cyber Defence Agent for Real-World Computer Networks**|Tim Dudman et.al.|[2511.09114](http://arxiv.org/abs/2511.09114)|null|
+|**2025-11-11**|**VideoChain: A Transformer-Based Framework for Multi-hop Video Question Generation**|Arpan Phukan et.al.|[2511.08348](http://arxiv.org/abs/2511.08348)|null|
+|**2025-11-11**|**Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation**|Nan Bao et.al.|[2511.08269](http://arxiv.org/abs/2511.08269)|null|
+|**2025-11-11**|**NERVE: Neighbourhood & Entropy-guided Random-walk for training free open-Vocabulary sEgmentation**|Kunal Mahatha et.al.|[2511.08248](http://arxiv.org/abs/2511.08248)|null|
+|**2025-11-11**|**Hierarchical Direction Perception via Atomic Dot-Product Operators for Rotation-Invariant Point Clouds Learning**|Chenyu Hu et.al.|[2511.08240](http://arxiv.org/abs/2511.08240)|null|
+|**2025-11-11**|**Encoder Fine-tuning with Stochastic Sampling Outperforms Open-weight GPT in Astronomy Knowledge Extraction**|Shivam Rawat et.al.|[2511.08204](http://arxiv.org/abs/2511.08204)|null|
+|**2025-11-11**|**LandSegmenter: Towards a Flexible Foundation Model for Land Use and Land Cover Mapping**|Chenying Liu et.al.|[2511.08156](http://arxiv.org/abs/2511.08156)|null|
+|**2025-11-11**|**Exploring the Underwater World Segmentation without Extra Training**|Bingyu Li et.al.|[2511.07923](http://arxiv.org/abs/2511.07923)|null|
+|**2025-11-10**|**FlowFeat: Pixel-Dense Embedding of Motion Profiles**|Nikita Araslanov et.al.|[2511.07696](http://arxiv.org/abs/2511.07696)|null|
+|**2025-11-10**|**StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression**|Yilong Chen et.al.|[2511.07278](http://arxiv.org/abs/2511.07278)|null|
+|**2025-11-10**|**Leveraging Text-Driven Semantic Variation for Robust OOD Segmentation**|Seungheon Song et.al.|[2511.07238](http://arxiv.org/abs/2511.07238)|null|
+|**2025-11-10**|**HENet++: Hybrid Encoding and Multi-task Learning for 3D Perception and End-to-end Autonomous Driving**|Zhongyu Xia et.al.|[2511.07106](http://arxiv.org/abs/2511.07106)|null|
+|**2025-11-10**|**Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**|Mayank Mishra et.al.|[2511.07075](http://arxiv.org/abs/2511.07075)|null|
+|**2025-11-10**|**TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding**|Duc Nguyen et.al.|[2511.07007](http://arxiv.org/abs/2511.07007)|null|
+|**2025-11-11**|**Adaptive Morph-Patch Transformer for Aortic Vessel Segmentation**|Zhenxi Zhang et.al.|[2511.06897](http://arxiv.org/abs/2511.06897)|null|
+|**2025-11-10**|**Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation**|Fanding Li et.al.|[2511.06857](http://arxiv.org/abs/2511.06857)|null|
+|**2025-11-10**|**Vision-Aided Online A* Path Planning for Efficient and Safe Navigation of Service Robots**|Praveen Kumar et.al.|[2511.06801](http://arxiv.org/abs/2511.06801)|null|
+|**2025-11-10**|**GRAPH-GRPO-LEX: Contract Graph Modeling and Reinforcement Learning with Group Relative Policy Optimization**|Moriya Dechtiar et.al.|[2511.06618](http://arxiv.org/abs/2511.06618)|null|
+|**2025-11-09**|**EIDSeg: A Pixel-Level Semantic Segmentation Dataset for Post-Earthquake Damage Assessment from Social Media Images**|Huili Huang et.al.|[2511.06456](http://arxiv.org/abs/2511.06456)|null|
+|**2025-11-09**|**Label-Efficient 3D Forest Mapping: Self-Supervised and Transfer Learning for Individual, Structural, and Species Analysis**|Aldino Rizaldy et.al.|[2511.06331](http://arxiv.org/abs/2511.06331)|null|
+|**2025-11-09**|**Temporal-Guided Visual Foundation Models for Event-Based Vision**|Ruihao Xia et.al.|[2511.06238](http://arxiv.org/abs/2511.06238)|null|
+|**2025-11-08**|**A Dual-Mode ViT-Conditioned Diffusion Framework with an Adaptive Conditioning Bridge for Breast Cancer Segmentation**|Prateek Singh et.al.|[2511.05989](http://arxiv.org/abs/2511.05989)|null|
+|**2025-11-08**|**TCSA-UDA: Text-Driven Cross-Semantic Alignment for Unsupervised Domain Adaptation in Medical Image Segmentation**|Lalit Maurya et.al.|[2511.05782](http://arxiv.org/abs/2511.05782)|null|
 |**2025-11-07**|**How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?**|Tuan Anh Tran et.al.|[2511.05449](http://arxiv.org/abs/2511.05449)|null|
 |**2025-11-04**|**Learning with less: label-efficient land cover classification at very high spatial resolution using self-supervised deep learning**|Dakota Hester et.al.|[2511.03004](http://arxiv.org/abs/2511.03004)|null|
 |**2025-11-04**|**Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data**|Syed Mostaquim Ali et.al.|[2511.02994](http://arxiv.org/abs/2511.02994)|null|
@@ -2178,7 +2237,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
