@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.18
+## Updated on 2025.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,12 +18,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
+|**2025-11-17**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](http://arxiv.org/abs/2511.13282)|null|
+|**2025-11-17**|**Difficulty-Aware Label-Guided Denoising for Monocular 3D Object Detection**|Soyul Lee et.al.|[2511.13195](http://arxiv.org/abs/2511.13195)|null|
+|**2025-11-16**|**QPU Micro-Kernels for Stencil Computation**|Stefano Markidis et.al.|[2511.12617](http://arxiv.org/abs/2511.12617)|null|
+|**2025-11-15**|**Quantum Amplitude-Amplification Eigensolver: A State-Learning-Assisted Approach beyond Energy-Gradient-Based Heuristics**|Kyunghyun Baek et.al.|[2511.12062](http://arxiv.org/abs/2511.12062)|null|
+|**2025-11-15**|**Real-Time Physics-Aware Battery Health Monitoring from Partial Charging Profiles via Physics-Informed Neural Networks**|Xubo Gu et.al.|[2511.12053](http://arxiv.org/abs/2511.12053)|null|
 |**2025-11-14**|**LARM: A Large Articulated-Object Reconstruction Model**|Sylvia Yuan et.al.|[2511.11563](http://arxiv.org/abs/2511.11563)|null|
-|**2025-11-14**|**TrackHHL: A Quantum Computing Algorithm for Track Reconstruction at the LHCb**|Xenofon Chiotopoulos et.al.|[2511.11458](http://arxiv.org/abs/2511.11458)|**[link](https://github.com/AlainChance/LHCb_VeLo_Toy_Model_1-Bit_HHL)**|
+|**2025-11-14**|**TrackHHL: A Quantum Computing Algorithm for Track Reconstruction at the LHCb**|Xenofon Chiotopoulos et.al.|[2511.11458](http://arxiv.org/abs/2511.11458)|null|
 |**2025-11-14**|**Rethinking Autoregressive Models for Lossless Image Compression via Hierarchical Parallelism and Progressive Adaptation**|Daxin Li et.al.|[2511.10991](http://arxiv.org/abs/2511.10991)|null|
 |**2025-11-14**|**Tracking EEG Thalamic and Cortical Focal Brain Activity using Standardized Kalman Filtering with Kinematics Modeling**|Veikka Piispa et.al.|[2511.10877](http://arxiv.org/abs/2511.10877)|null|
 |**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](http://arxiv.org/abs/2511.10647)|null|
-|**2025-11-14**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://github.com/Livioni/OmniVGGT-official)**|
+|**2025-11-14**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|null|
 |**2025-11-13**|**A scalable and accurate framework for self-calibrating null depth retrieval using neural posterior estimation**|Baoyi Zeng et.al.|[2511.10455](http://arxiv.org/abs/2511.10455)|null|
 |**2025-11-13**|**Assessing Finite Scalability in Early Fault-Tolerant Quantum Computing for Homogeneous Catalysts**|Yanbing Zhou et.al.|[2511.10388](http://arxiv.org/abs/2511.10388)|null|
 |**2025-11-13**|**Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision**|Yu Deng et.al.|[2511.10316](http://arxiv.org/abs/2511.10316)|null|
@@ -771,12 +777,33 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
+|**2025-11-17**|**Tissue Aware Nuclei Detection and Classification Model for Histopathology Images**|Kesi Xu et.al.|[2511.13615](http://arxiv.org/abs/2511.13615)|null|
+|**2025-11-17**|**Mapping the Vanishing and Transformation of Urban Villages in China**|Wenyu Zhang et.al.|[2511.13507](http://arxiv.org/abs/2511.13507)|null|
+|**2025-11-17**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al.|[2511.13204](http://arxiv.org/abs/2511.13204)|null|
+|**2025-11-17**|**FGNet: Leveraging Feature-Guided Attention to Refine SAM2 for 3D EM Neuron Segmentation**|Zhenghua Li et.al.|[2511.13063](http://arxiv.org/abs/2511.13063)|null|
+|**2025-11-17**|**DiffPixelFormer: Differential Pixel-Aware Transformer for RGB-D Indoor Scene Segmentation**|Yan Gong et.al.|[2511.13047](http://arxiv.org/abs/2511.13047)|null|
+|**2025-11-17**|**Towards 3D Object-Centric Feature Learning for Semantic Scene Completion**|Weihua Wang et.al.|[2511.13031](http://arxiv.org/abs/2511.13031)|null|
+|**2025-11-17**|**Medal S: Spatio-Textual Prompt Model for Medical Segmentation**|Pengcheng Shi et.al.|[2511.13001](http://arxiv.org/abs/2511.13001)|null|
+|**2025-11-17**|**Semantic Prioritization in Visual Counterfactual Explanations with Weighted Segmentation and Auto-Adaptive Region Selection**|Lintong Zhang et.al.|[2511.12992](http://arxiv.org/abs/2511.12992)|null|
+|**2025-11-17**|**Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views**|Junyi Ma et.al.|[2511.12878](http://arxiv.org/abs/2511.12878)|null|
+|**2025-11-16**|**Atomic Gliders and CA as Language Generators (Extended Version)**|Dana Fisman et.al.|[2511.12656](http://arxiv.org/abs/2511.12656)|null|
+|**2025-11-15**|**FaNe: Towards Fine-Grained Cross-Modal Contrast with False-Negative Reduction and Text-Conditioned Sparse Attention**|Peng Zhang et.al.|[2511.12215](http://arxiv.org/abs/2511.12215)|null|
+|**2025-11-15**|**Bridging Granularity Gaps: Hierarchical Semantic Learning for Cross-domain Few-shot Segmentation**|Sujun Sun et.al.|[2511.12200](http://arxiv.org/abs/2511.12200)|null|
+|**2025-11-15**|**DINOv3-Guided Cross Fusion Framework for Semantic-aware CT generation from MRI and CBCT**|Xianhao Zhou et.al.|[2511.12098](http://arxiv.org/abs/2511.12098)|null|
+|**2025-11-15**|**MovSemCL: Movement-Semantics Contrastive Learning for Trajectory Similarity**|Zhichen Lai et.al.|[2511.12061](http://arxiv.org/abs/2511.12061)|null|
+|**2025-11-15**|**Uncertainty-Guided Selective Adaptation Enables Cross-Platform Predictive Fluorescence Microscopy**|Kai-Wen K. Yang et.al.|[2511.12006](http://arxiv.org/abs/2511.12006)|null|
+|**2025-11-15**|**Evaluation of Attention Mechanisms in U-Net Architectures for Semantic Segmentation of Brazilian Rock Art Petroglyphs**|Leonardi Melo et.al.|[2511.11959](http://arxiv.org/abs/2511.11959)|null|
+|**2025-11-14**|**Chain-of-Generation: Progressive Latent Diffusion for Text-Guided Molecular Design**|Lingxiao Li et.al.|[2511.11894](http://arxiv.org/abs/2511.11894)|null|
+|**2025-11-13**|**AdaptFly: Prompt-Guided Adaptation of Foundation Models for Low-Altitude UAV Networks**|Jiao Chen et.al.|[2511.11720](http://arxiv.org/abs/2511.11720)|null|
+|**2025-11-12**|**Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom**|Hugo Huang et.al.|[2511.11703](http://arxiv.org/abs/2511.11703)|null|
+|**2025-11-12**|**Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement**|Lian He et.al.|[2511.11702](http://arxiv.org/abs/2511.11702)|null|
 |**2025-11-14**|**Terrain Costmap Generation via Scaled Preference Conditioning**|Luisa Mao et.al.|[2511.11529](http://arxiv.org/abs/2511.11529)|null|
 |**2025-11-14**|**DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding**|Tanveer Hannan et.al.|[2511.11313](http://arxiv.org/abs/2511.11313)|null|
 |**2025-11-14**|**Accelerating Controllable Generation via Hybrid-grained Cache**|Lin Liu et.al.|[2511.11031](http://arxiv.org/abs/2511.11031)|null|
@@ -2244,7 +2271,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
