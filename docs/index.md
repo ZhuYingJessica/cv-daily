@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising**|Yifan Wang et.al.|[2511.14719](http://arxiv.org/abs/2511.14719)|**[link](https://github.com/wyf0824/Video_Realism_Enhancement)**|
+|**2025-11-18**|**Decoupling Urban Food Accessibility Resilience during Disasters through Time-Series Analysis of Human Mobility and Power Outages**|Junwei Ma et.al.|[2511.14706](http://arxiv.org/abs/2511.14706)|null|
+|**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|**[link](https://github.com/miya-oi/SparseSurf)**|
+|**2025-11-18**|**From Flash to Crater: Morphological and Spectral Analysis of the Brightest Lunar Impact on 11 September 2013 using LRO Data**|J. L. Rizos et.al.|[2511.14442](http://arxiv.org/abs/2511.14442)|null|
+|**2025-11-18**|**Perception-aware Exploration for Consumer-grade UAVs**|Svetlana Seliunina et.al.|[2511.14393](http://arxiv.org/abs/2511.14393)|null|
+|**2025-11-18**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](http://arxiv.org/abs/2511.14386)|null|
+|**2025-11-18**|**QHSC: The Quasar Candidate Catalog for the Hyper Suprime-Cam Subaru Strategic Program**|Rui Zhu et.al.|[2511.14369](http://arxiv.org/abs/2511.14369)|null|
+|**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|null|
+|**2025-11-18**|**Don't Miss the Forest for the Trees: In-Depth Confidence Estimation for LLMs via Reasoning over the Answer Space**|Ante Wang et.al.|[2511.14275](http://arxiv.org/abs/2511.14275)|null|
+|**2025-11-18**|**Enhancing Generalization of Depth Estimation Foundation Model via Weakly-Supervised Adaptation with Regularization**|Yan Huang et.al.|[2511.14238](http://arxiv.org/abs/2511.14238)|null|
+|**2025-11-18**|**RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment**|Zeyu Cheng et.al.|[2511.14107](http://arxiv.org/abs/2511.14107)|null|
+|**2025-11-18**|**ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders**|Junsik Kim et.al.|[2511.14070](http://arxiv.org/abs/2511.14070)|null|
 |**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
 |**2025-11-17**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](http://arxiv.org/abs/2511.13282)|null|
 |**2025-11-17**|**Difficulty-Aware Label-Guided Denoising for Monocular 3D Object Detection**|Soyul Lee et.al.|[2511.13195](http://arxiv.org/abs/2511.13195)|null|
@@ -3697,13 +3709,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Subword Tokenization Strategies for Kurdish Word Embeddings**|Ali Salehi et.al.|[2511.14696](http://arxiv.org/abs/2511.14696)|null|
+|**2025-11-18**|**CCSD: Cross-Modal Compositional Self-Distillation for Robust Brain Tumor Segmentation with Missing Modalities**|Dongqing Xie et.al.|[2511.14599](http://arxiv.org/abs/2511.14599)|null|
+|**2025-11-18**|**Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation**|Aditi Agarwal et.al.|[2511.14481](http://arxiv.org/abs/2511.14481)|null|
+|**2025-11-18**|**From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs**|Heng Zhao et.al.|[2511.14467](http://arxiv.org/abs/2511.14467)|null|
+|**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
+|**2025-11-18**|**Step by Step Network**|Dongchen Han et.al.|[2511.14329](http://arxiv.org/abs/2511.14329)|null|
+|**2025-11-18**|**Count The Notes: Histogram-Based Supervision for Automatic Music Transcription**|Jonathan Yaffe et.al.|[2511.14250](http://arxiv.org/abs/2511.14250)|null|
+|**2025-11-18**|**Enhancing Generalization of Depth Estimation Foundation Model via Weakly-Supervised Adaptation with Regularization**|Yan Huang et.al.|[2511.14238](http://arxiv.org/abs/2511.14238)|null|
+|**2025-11-18**|**Hierarchical Semantic Learning for Multi-Class Aorta Segmentation**|Pengcheng Shi et.al.|[2511.14187](http://arxiv.org/abs/2511.14187)|null|
+|**2025-11-18**|**CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs**|Jingyu Lei et.al.|[2511.14072](http://arxiv.org/abs/2511.14072)|null|
+|**2025-11-17**|**Revisiting Data Scaling Law for Medical Segmentation**|Yuetan Chu et.al.|[2511.13883](http://arxiv.org/abs/2511.13883)|null|
 |**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
 |**2025-11-17**|**Tissue Aware Nuclei Detection and Classification Model for Histopathology Images**|Kesi Xu et.al.|[2511.13615](http://arxiv.org/abs/2511.13615)|null|
 |**2025-11-17**|**Mapping the Vanishing and Transformation of Urban Villages in China**|Wenyu Zhang et.al.|[2511.13507](http://arxiv.org/abs/2511.13507)|null|
 |**2025-11-17**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al.|[2511.13204](http://arxiv.org/abs/2511.13204)|null|
 |**2025-11-17**|**FGNet: Leveraging Feature-Guided Attention to Refine SAM2 for 3D EM Neuron Segmentation**|Zhenghua Li et.al.|[2511.13063](http://arxiv.org/abs/2511.13063)|null|
 |**2025-11-17**|**DiffPixelFormer: Differential Pixel-Aware Transformer for RGB-D Indoor Scene Segmentation**|Yan Gong et.al.|[2511.13047](http://arxiv.org/abs/2511.13047)|null|
-|**2025-11-17**|**Towards 3D Object-Centric Feature Learning for Semantic Scene Completion**|Weihua Wang et.al.|[2511.13031](http://arxiv.org/abs/2511.13031)|null|
+|**2025-11-18**|**Towards 3D Object-Centric Feature Learning for Semantic Scene Completion**|Weihua Wang et.al.|[2511.13031](http://arxiv.org/abs/2511.13031)|null|
 |**2025-11-17**|**Medal S: Spatio-Textual Prompt Model for Medical Segmentation**|Pengcheng Shi et.al.|[2511.13001](http://arxiv.org/abs/2511.13001)|null|
 |**2025-11-17**|**Semantic Prioritization in Visual Counterfactual Explanations with Weighted Segmentation and Auto-Adaptive Region Selection**|Lintong Zhang et.al.|[2511.12992](http://arxiv.org/abs/2511.12992)|null|
 |**2025-11-17**|**Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views**|Junyi Ma et.al.|[2511.12878](http://arxiv.org/abs/2511.12878)|null|
@@ -3719,7 +3742,7 @@ layout: default
 |**2025-11-12**|**Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom**|Hugo Huang et.al.|[2511.11703](http://arxiv.org/abs/2511.11703)|null|
 |**2025-11-12**|**Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement**|Lian He et.al.|[2511.11702](http://arxiv.org/abs/2511.11702)|null|
 |**2025-11-14**|**Terrain Costmap Generation via Scaled Preference Conditioning**|Luisa Mao et.al.|[2511.11529](http://arxiv.org/abs/2511.11529)|null|
-|**2025-11-14**|**DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding**|Tanveer Hannan et.al.|[2511.11313](http://arxiv.org/abs/2511.11313)|null|
+|**2025-11-17**|**DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding**|Tanveer Hannan et.al.|[2511.11313](http://arxiv.org/abs/2511.11313)|null|
 |**2025-11-14**|**Accelerating Controllable Generation via Hybrid-grained Cache**|Lin Liu et.al.|[2511.11031](http://arxiv.org/abs/2511.11031)|null|
 |**2025-11-13**|**Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations**|Willem Bonnaffé et.al.|[2511.10432](http://arxiv.org/abs/2511.10432)|null|
 |**2025-11-13**|**Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment**|Wenti Yin et.al.|[2511.10334](http://arxiv.org/abs/2511.10334)|null|
