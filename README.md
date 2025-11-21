@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,12 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation**|Simon Boeder et.al.|[2511.15396](http://arxiv.org/abs/2511.15396)|null|
+|**2025-11-19**|**Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation**|Jing Cao et.al.|[2511.15167](http://arxiv.org/abs/2511.15167)|null|
+|**2025-11-18**|**EGSA-PT:Edge-Guided Spatial Attention with Progressive Training for Monocular Depth Estimation and Segmentation of Transparent Objects**|Gbenga Omotara et.al.|[2511.14970](http://arxiv.org/abs/2511.14970)|null|
+|**2025-11-18**|**Variability-selected AGN in dwarf galaxies: the incidence of AGN in dwarf and massive galaxies is similar**|S. Kaviraj et.al.|[2511.14842](http://arxiv.org/abs/2511.14842)|null|
 |**2025-11-18**|**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising**|Yifan Wang et.al.|[2511.14719](http://arxiv.org/abs/2511.14719)|**[link](https://github.com/wyf0824/Video_Realism_Enhancement)**|
-|**2025-11-18**|**Decoupling Urban Food Accessibility Resilience during Disasters through Time-Series Analysis of Human Mobility and Power Outages**|Junwei Ma et.al.|[2511.14706](http://arxiv.org/abs/2511.14706)|null|
-|**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|**[link](https://github.com/miya-oi/SparseSurf)**|
+|**2025-11-19**|**Decoupling Urban Food Accessibility Resilience during Disasters through Time-Series Analysis of Human Mobility and Power Outages**|Junwei Ma et.al.|[2511.14706](http://arxiv.org/abs/2511.14706)|null|
+|**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|null|
 |**2025-11-18**|**From Flash to Crater: Morphological and Spectral Analysis of the Brightest Lunar Impact on 11 September 2013 using LRO Data**|J. L. Rizos et.al.|[2511.14442](http://arxiv.org/abs/2511.14442)|null|
 |**2025-11-18**|**Perception-aware Exploration for Consumer-grade UAVs**|Svetlana Seliunina et.al.|[2511.14393](http://arxiv.org/abs/2511.14393)|null|
-|**2025-11-18**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](http://arxiv.org/abs/2511.14386)|null|
+|**2025-11-19**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](http://arxiv.org/abs/2511.14386)|null|
 |**2025-11-18**|**QHSC: The Quasar Candidate Catalog for the Hyper Suprime-Cam Subaru Strategic Program**|Rui Zhu et.al.|[2511.14369](http://arxiv.org/abs/2511.14369)|null|
 |**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|null|
 |**2025-11-18**|**Don't Miss the Forest for the Trees: In-Depth Confidence Estimation for LLMs via Reasoning over the Answer Space**|Ante Wang et.al.|[2511.14275](http://arxiv.org/abs/2511.14275)|null|
@@ -789,12 +793,22 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**MaskMed: Decoupled Mask and Class Prediction for Medical Image Segmentation**|Bin Xie et.al.|[2511.15603](http://arxiv.org/abs/2511.15603)|null|
+|**2025-11-19**|**Multi-Text Guided Few-Shot Semantic Segmentation**|Qiang Jiao et.al.|[2511.15515](http://arxiv.org/abs/2511.15515)|null|
+|**2025-11-19**|**WarNav: An Autonomous Driving Benchmark for Segmentation of Navigable Zones in War Scenes**|Marc-Emmanuel Coupvent des Graviers et.al.|[2511.15429](http://arxiv.org/abs/2511.15429)|null|
+|**2025-11-19**|**Controlling False Positives in Image Segmentation via Conformal Prediction**|Luca Mossina et.al.|[2511.15406](http://arxiv.org/abs/2511.15406)|null|
+|**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
+|**2025-11-19**|**SafeRBench: A Comprehensive Benchmark for Safety Assessment in Large Reasoning Models**|Xin Gao et.al.|[2511.15169](http://arxiv.org/abs/2511.15169)|null|
+|**2025-11-19**|**Unbiased Semantic Decoding with Vision Foundation Models for Few-shot Segmentation**|Jin Wang et.al.|[2511.15118](http://arxiv.org/abs/2511.15118)|**[link](https://github.com/vangjin/USD)**|
+|**2025-11-19**|**BBox DocVQA: A Large Scale Bounding Box Grounded Dataset for Enhancing Reasoning in Document Visual Question Answer**|Wenhan Yu et.al.|[2511.15090](http://arxiv.org/abs/2511.15090)|null|
+|**2025-11-18**|**EGSA-PT:Edge-Guided Spatial Attention with Progressive Training for Monocular Depth Estimation and Segmentation of Transparent Objects**|Gbenga Omotara et.al.|[2511.14970](http://arxiv.org/abs/2511.14970)|null|
+|**2025-11-18**|**FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding**|Zhenshi Li et.al.|[2511.14901](http://arxiv.org/abs/2511.14901)|null|
 |**2025-11-18**|**Subword Tokenization Strategies for Kurdish Word Embeddings**|Ali Salehi et.al.|[2511.14696](http://arxiv.org/abs/2511.14696)|null|
 |**2025-11-18**|**CCSD: Cross-Modal Compositional Self-Distillation for Robust Brain Tumor Segmentation with Missing Modalities**|Dongqing Xie et.al.|[2511.14599](http://arxiv.org/abs/2511.14599)|null|
 |**2025-11-18**|**Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation**|Aditi Agarwal et.al.|[2511.14481](http://arxiv.org/abs/2511.14481)|null|
@@ -2294,7 +2308,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
