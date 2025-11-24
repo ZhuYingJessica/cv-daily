@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2025-11-20**|**Lite Any Stereo: Efficient Zero-Shot Stereo Matching**|Junpeng Jing et.al.|[2511.16555](http://arxiv.org/abs/2511.16555)|**[link](https://github.com/TomTomTommi/LiteAnyStereo)**|
 |**2025-11-20**|**Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation**|Zongcai Tan et.al.|[2511.16494](http://arxiv.org/abs/2511.16494)|null|
 |**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](http://arxiv.org/abs/2511.16428)|**[link](https://github.com/abualhanud/CylinderDepth)**|
-|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|null|
+|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|**[link](https://github.com/seominseok0429/Upsample-Anything-A-Simple-and-Hard-to-Beat-Baseline-for-Feature-Upsampling)**|
 |**2025-11-20**|**Absorption effects in the expanding Universe: spectral transmittance functions of intergalactic medium for distant sources**|Anguohao Yang et.al.|[2511.16291](http://arxiv.org/abs/2511.16291)|null|
 |**2025-11-20**|**How Robot Dogs See the Unseeable**|Oliver Bimber et.al.|[2511.16262](http://arxiv.org/abs/2511.16262)|null|
 |**2025-11-19**|**Box6D : Zero-shot Category-level 6D Pose Estimation of Warehouse Boxes**|Yintao Ma et.al.|[2511.15884](http://arxiv.org/abs/2511.15884)|null|
@@ -801,14 +801,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-11-20**|**Late-decoupled 3D Hierarchical Semantic Segmentation with Semantic Prototype Discrimination based Bi-branch Supervision**|Shuyu Cao et.al.|[2511.16650](http://arxiv.org/abs/2511.16650)|null|
-|**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[2511.16618](http://arxiv.org/abs/2511.16618)|null|
+|**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[2511.16618](http://arxiv.org/abs/2511.16618)|**[link](https://github.com/jinlab-imvr/SAM2S)**|
 |**2025-11-20**|**Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks**|Nirjhor Datta et.al.|[2511.16574](http://arxiv.org/abs/2511.16574)|null|
 |**2025-11-20**|**Beyond Visual Cues: Leveraging General Semantics as Support for Few-Shot Segmentation**|Jin Wang et.al.|[2511.16435](http://arxiv.org/abs/2511.16435)|null|
 |**2025-11-20**|**Graph Neural Networks for Surgical Scene Segmentation**|Yihan Li et.al.|[2511.16430](http://arxiv.org/abs/2511.16430)|null|
@@ -2326,7 +2326,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
