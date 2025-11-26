@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-21**|**Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal**|Xiaolong Qian et.al.|[2511.17353](http://arxiv.org/abs/2511.17353)|**[link](https://github.com/XiaolongQian/DeVeiler)**|
+|**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
+|**2025-11-24**|**DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting**|Phurtivilai Patt et.al.|[2511.19294](http://arxiv.org/abs/2511.19294)|null|
+|**2025-11-24**|**Understanding Task Transfer in Vision-Language Models**|Bhuvan Sachdeva et.al.|[2511.18787](http://arxiv.org/abs/2511.18787)|**[link](https://github.com/Bhuvan-21/task-transfer-vlms)**|
+|**2025-11-24**|**GRIT-LP: Graph Transformer with Long-Range Skip Connection and Partitioned Spatial Graphs for Accurate Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2511.18716](http://arxiv.org/abs/2511.18716)|null|
+|**2025-11-23**|**From Classical to Quantum Machine Learning: Different Approaches in Fission Barrier Height Estimation**|Serkan Akkoyun et.al.|[2511.18350](http://arxiv.org/abs/2511.18350)|null|
+|**2025-11-22**|**AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens**|Purvish Jajal et.al.|[2511.18105](http://arxiv.org/abs/2511.18105)|null|
+|**2025-11-21**|**Vision-Guided Optic Flow Navigation for Small Lunar Missions**|Sean Cowan et.al.|[2511.17720](http://arxiv.org/abs/2511.17720)|null|
+|**2025-11-21**|**Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal**|Xiaolong Qian et.al.|[2511.17353](http://arxiv.org/abs/2511.17353)|null|
 |**2025-11-21**|**FisheyeGaussianLift: BEV Feature Lifting for Surround-View Fisheye Camera Perception**|Shubham Sonarghare et.al.|[2511.17210](http://arxiv.org/abs/2511.17210)|null|
-|**2025-11-21**|**SPAGS: Sparse-View Articulated Object Reconstruction from Single State via Planar Gaussian Splatting**|Di Wu et.al.|[2511.17092](http://arxiv.org/abs/2511.17092)|null|
-|**2025-11-21**|**REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting**|Di Wu et.al.|[2511.17059](http://arxiv.org/abs/2511.17059)|null|
+|**2025-11-24**|**SPAGS: Sparse-View Articulated Object Reconstruction from Single State via Planar Gaussian Splatting**|Di Wu et.al.|[2511.17092](http://arxiv.org/abs/2511.17092)|null|
+|**2025-11-24**|**REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting**|Di Wu et.al.|[2511.17059](http://arxiv.org/abs/2511.17059)|null|
 |**2025-11-21**|**Parameter-Free Neural Lens Blur Rendering for High-Fidelity Composites**|Lingyan Ruan et.al.|[2511.17014](http://arxiv.org/abs/2511.17014)|null|
 |**2025-11-21**|**Stable Offline Hand-Eye Calibration for any Robot with Just One Mark**|Sicheng Xie et.al.|[2511.17001](http://arxiv.org/abs/2511.17001)|null|
 |**2025-11-21**|**DepthFocus: Controllable Depth Estimation for See-Through Scenes**|Junhong Min et.al.|[2511.16993](http://arxiv.org/abs/2511.16993)|null|
@@ -2947,7 +2954,7 @@ layout: default
 |**2025-11-20**|**Lite Any Stereo: Efficient Zero-Shot Stereo Matching**|Junpeng Jing et.al.|[2511.16555](http://arxiv.org/abs/2511.16555)|null|
 |**2025-11-20**|**Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation**|Zongcai Tan et.al.|[2511.16494](http://arxiv.org/abs/2511.16494)|null|
 |**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](http://arxiv.org/abs/2511.16428)|null|
-|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|null|
+|**2025-11-24**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|null|
 |**2025-11-20**|**Absorption effects in the expanding Universe: spectral transmittance functions of intergalactic medium for distant sources**|Anguohao Yang et.al.|[2511.16291](http://arxiv.org/abs/2511.16291)|null|
 |**2025-11-20**|**How Robot Dogs See the Unseeable**|Oliver Bimber et.al.|[2511.16262](http://arxiv.org/abs/2511.16262)|null|
 |**2025-11-19**|**Box6D : Zero-shot Category-level 6D Pose Estimation of Warehouse Boxes**|Yintao Ma et.al.|[2511.15884](http://arxiv.org/abs/2511.15884)|null|
@@ -3730,6 +3737,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Weiliang Tang et.al.|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
+|**2025-11-24**|**nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation**|Carsten T. Lüth et.al.|[2511.19183](http://arxiv.org/abs/2511.19183)|null|
+|**2025-11-24**|**DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection**|Hai Ci et.al.|[2511.19111](http://arxiv.org/abs/2511.19111)|null|
+|**2025-11-24**|**MedSAM3: Delving into Segment Anything with Medical Concepts**|Anglin Liu et.al.|[2511.19046](http://arxiv.org/abs/2511.19046)|null|
+|**2025-11-24**|**Facade Segmentation for Solar Photovoltaic Suitability**|Ayca Duran et.al.|[2511.18882](http://arxiv.org/abs/2511.18882)|null|
+|**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|null|
+|**2025-11-24**|**PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion**|Yichen Yang et.al.|[2511.18801](http://arxiv.org/abs/2511.18801)|null|
+|**2025-11-23**|**Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation**|Samarth Chopra et.al.|[2511.18525](http://arxiv.org/abs/2511.18525)|null|
+|**2025-11-23**|**Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation**|Gia Huy Thai et.al.|[2511.18493](http://arxiv.org/abs/2511.18493)|null|
+|**2025-11-23**|**RegDeepLab: A Two-Stage Decoupled Framework for Interpretable Embryo Fragmentation Grading**|Ming-Jhe Lee et.al.|[2511.18454](http://arxiv.org/abs/2511.18454)|null|
+|**2025-11-23**|**SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation**|Peter Siegel et.al.|[2511.18386](http://arxiv.org/abs/2511.18386)|null|
+|**2025-11-23**|**UniFlow: Towards Zero-Shot LiDAR Scene Flow for Autonomous Vehicles via Cross-Domain Generalization**|Siyi Li et.al.|[2511.18254](http://arxiv.org/abs/2511.18254)|null|
+|**2025-11-22**|**Nested Unfolding Network for Real-World Concealed Object Segmentation**|Chunming He et.al.|[2511.18164](http://arxiv.org/abs/2511.18164)|null|
+|**2025-11-22**|**Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design**|Pasquale De Marinis et.al.|[2511.18163](http://arxiv.org/abs/2511.18163)|null|
+|**2025-11-22**|**AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens**|Purvish Jajal et.al.|[2511.18105](http://arxiv.org/abs/2511.18105)|null|
+|**2025-11-22**|**HyM-UNet: Synergizing Local Texture and Global Context via Hybrid CNN-Mamba Architecture for Medical Image Segmentation**|Haodong Chen et.al.|[2511.17988](http://arxiv.org/abs/2511.17988)|null|
+|**2025-11-21**|**Attention Guided Alignment in Efficient Vision-Language Models**|Shweta Mahajan et.al.|[2511.17793](http://arxiv.org/abs/2511.17793)|null|
+|**2025-11-21**|**CORA: Consistency-Guided Semi-Supervised Framework for Reasoning Segmentation**|Prantik Howlader et.al.|[2511.17755](http://arxiv.org/abs/2511.17755)|null|
+|**2025-11-21**|**Towards Open-Ended Visual Scientific Discovery with Sparse Autoencoders**|Samuel Stevens et.al.|[2511.17735](http://arxiv.org/abs/2511.17735)|null|
+|**2025-11-21**|**MedPEFT-CL: Dual-Phase Parameter-Efficient Continual Learning with Medical Semantic Adapter and Bidirectional Memory Consolidation**|Ziyuan Gao et.al.|[2511.17668](http://arxiv.org/abs/2511.17668)|null|
 |**2025-11-21**|**Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift**|Björn Michele et.al.|[2511.17455](http://arxiv.org/abs/2511.17455)|null|
 |**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](http://arxiv.org/abs/2511.17442)|null|
 |**2025-11-21**|**DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture**|Xiangteng He et.al.|[2511.17354](http://arxiv.org/abs/2511.17354)|null|
