@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.26
+## Updated on 2025.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,9 +2934,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[2511.20646](http://arxiv.org/abs/2511.20646)|**[link](https://github.com/WeiHongLee/CrossView3DMTL)**|
+|**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343](http://arxiv.org/abs/2511.20343)|**[link](https://github.com/HengyiWang/amb3r)**|
+|**2025-11-25**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157](http://arxiv.org/abs/2511.20157)|**[link](https://github.com/Intellindust-AI-Lab/SKEL-CF)**|
+|**2025-11-25**|**DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination**|Mingyang Ou et.al.|[2511.20058](http://arxiv.org/abs/2511.20058)|**[link](https://github.com/ComgLq24/AAAI-2026-DeLightMono)**|
+|**2025-11-24**|**Towards Reconciling Reionization with JWST: The Role of Bright Galaxies and Strong Feedback**|Ankita Bera et.al.|[2511.19600](http://arxiv.org/abs/2511.19600)|null|
 |**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
 |**2025-11-24**|**DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting**|Phurtivilai Patt et.al.|[2511.19294](http://arxiv.org/abs/2511.19294)|null|
-|**2025-11-24**|**Understanding Task Transfer in Vision-Language Models**|Bhuvan Sachdeva et.al.|[2511.18787](http://arxiv.org/abs/2511.18787)|**[link](https://github.com/Bhuvan-21/task-transfer-vlms)**|
+|**2025-11-24**|**Understanding Task Transfer in Vision-Language Models**|Bhuvan Sachdeva et.al.|[2511.18787](http://arxiv.org/abs/2511.18787)|null|
 |**2025-11-24**|**GRIT-LP: Graph Transformer with Long-Range Skip Connection and Partitioned Spatial Graphs for Accurate Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2511.18716](http://arxiv.org/abs/2511.18716)|null|
 |**2025-11-23**|**From Classical to Quantum Machine Learning: Different Approaches in Fission Barrier Height Estimation**|Serkan Akkoyun et.al.|[2511.18350](http://arxiv.org/abs/2511.18350)|null|
 |**2025-11-22**|**AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens**|Purvish Jajal et.al.|[2511.18105](http://arxiv.org/abs/2511.18105)|null|
@@ -3737,6 +3742,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**Automated Monitoring of Cultural Heritage Artifacts Using Semantic Segmentation**|Andrea Ranieri et.al.|[2511.20541](http://arxiv.org/abs/2511.20541)|null|
+|**2025-11-25**|**NVIDIA Nemotron Parse 1.1**|Kateryna Chumachenko et.al.|[2511.20478](http://arxiv.org/abs/2511.20478)|null|
+|**2025-11-25**|**CrossEarth-Gate: Fisher-Guided Adaptive Tuning Engine for Efficient Adaptation of Cross-Domain Remote Sensing Semantic Segmentation**|Shilei Cao et.al.|[2511.20302](http://arxiv.org/abs/2511.20302)|null|
+|**2025-11-25**|**SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM**|Lin Chen et.al.|[2511.20027](http://arxiv.org/abs/2511.20027)|null|
+|**2025-11-25**|**Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos**|Youngseo Kim et.al.|[2511.19936](http://arxiv.org/abs/2511.19936)|null|
+|**2025-11-24**|**Lightweight Transformer Framework for Weakly Supervised Semantic Segmentation**|Ali Torabi et.al.|[2511.19765](http://arxiv.org/abs/2511.19765)|null|
+|**2025-11-24**|**Vision--Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation**|Jiaqi Guo et.al.|[2511.19759](http://arxiv.org/abs/2511.19759)|null|
+|**2025-11-24**|**RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models**|Omar Alama et.al.|[2511.19704](http://arxiv.org/abs/2511.19704)|null|
+|**2025-11-24**|**Studying Maps at Scale: A Digital Investigation of Cartography and the Evolution of Figuration**|Remi Petitpierre et.al.|[2511.19538](http://arxiv.org/abs/2511.19538)|null|
 |**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Weiliang Tang et.al.|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
 |**2025-11-24**|**nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation**|Carsten T. Lüth et.al.|[2511.19183](http://arxiv.org/abs/2511.19183)|null|
 |**2025-11-24**|**DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection**|Hai Ci et.al.|[2511.19111](http://arxiv.org/abs/2511.19111)|null|
@@ -3745,7 +3759,7 @@ layout: default
 |**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|null|
 |**2025-11-24**|**PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion**|Yichen Yang et.al.|[2511.18801](http://arxiv.org/abs/2511.18801)|null|
 |**2025-11-23**|**Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation**|Samarth Chopra et.al.|[2511.18525](http://arxiv.org/abs/2511.18525)|null|
-|**2025-11-23**|**Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation**|Gia Huy Thai et.al.|[2511.18493](http://arxiv.org/abs/2511.18493)|null|
+|**2025-11-25**|**Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation**|Gia Huy Thai et.al.|[2511.18493](http://arxiv.org/abs/2511.18493)|null|
 |**2025-11-23**|**RegDeepLab: A Two-Stage Decoupled Framework for Interpretable Embryo Fragmentation Grading**|Ming-Jhe Lee et.al.|[2511.18454](http://arxiv.org/abs/2511.18454)|null|
 |**2025-11-23**|**SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation**|Peter Siegel et.al.|[2511.18386](http://arxiv.org/abs/2511.18386)|null|
 |**2025-11-23**|**UniFlow: Towards Zero-Shot LiDAR Scene Flow for Autonomous Vehicles via Cross-Domain Generalization**|Siyi Li et.al.|[2511.18254](http://arxiv.org/abs/2511.18254)|null|
