@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Phase Estimation with Compressed Controlled Time Evolution**|Erenay Karacan et.al.|[2511.21225](http://arxiv.org/abs/2511.21225)|null|
+|**2025-11-26**|**Nonconvex Penalized LAD Estimation in Partial Linear Models with DNNs: Asymptotic Analysis and Proximal Algorithms**|Lechen Feng et.al.|[2511.21115](http://arxiv.org/abs/2511.21115)|null|
+|**2025-11-25**|**Estimating Fog Parameters from a Sequence of Stereo Images**|Yining Ding et.al.|[2511.20865](http://arxiv.org/abs/2511.20865)|**[link](https://github.com/SenseRoboticsLab/estimating-fog-parameters)**|
+|**2025-11-25**|**MODEST: Multi-Optics Depth-of-Field Stereo Dataset**|Nisarg K. Trivedi et.al.|[2511.20853](http://arxiv.org/abs/2511.20853)|null|
+|**2025-11-25**|**Closed-Loop Phase-Coherence Compensation for Superconducting Qubits Integrated Computational and Hardware Validation of the Aurora Method**|Futoshi Hamanoue et.al.|[2511.20741](http://arxiv.org/abs/2511.20741)|null|
 |**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[2511.20646](http://arxiv.org/abs/2511.20646)|**[link](https://github.com/WeiHongLee/CrossView3DMTL)**|
-|**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343](http://arxiv.org/abs/2511.20343)|**[link](https://github.com/HengyiWang/amb3r)**|
-|**2025-11-25**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157](http://arxiv.org/abs/2511.20157)|**[link](https://github.com/Intellindust-AI-Lab/SKEL-CF)**|
-|**2025-11-25**|**DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination**|Mingyang Ou et.al.|[2511.20058](http://arxiv.org/abs/2511.20058)|**[link](https://github.com/ComgLq24/AAAI-2026-DeLightMono)**|
+|**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343](http://arxiv.org/abs/2511.20343)|null|
+|**2025-11-26**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157](http://arxiv.org/abs/2511.20157)|null|
+|**2025-11-25**|**DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination**|Mingyang Ou et.al.|[2511.20058](http://arxiv.org/abs/2511.20058)|null|
 |**2025-11-24**|**Towards Reconciling Reionization with JWST: The Role of Bright Galaxies and Strong Feedback**|Ankita Bera et.al.|[2511.19600](http://arxiv.org/abs/2511.19600)|null|
 |**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
 |**2025-11-24**|**DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting**|Phurtivilai Patt et.al.|[2511.19294](http://arxiv.org/abs/2511.19294)|null|
@@ -822,24 +827,33 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images**|M. Naseer Subhani et.al.|[2511.21606](http://arxiv.org/abs/2511.21606)|null|
+|**2025-11-26**|**From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings**|Jiajie Zhang et.al.|[2511.21428](http://arxiv.org/abs/2511.21428)|null|
+|**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
+|**2025-11-26**|**Shift-Equivariant Complex-Valued Convolutional Neural Networks**|Quentin Gabot et.al.|[2511.21250](http://arxiv.org/abs/2511.21250)|null|
+|**2025-11-26**|**3-Tracer: A Tri-level Temporal-Aware Framework for Audio Forgery Detection and Localization**|Shuhan Xia et.al.|[2511.21237](http://arxiv.org/abs/2511.21237)|null|
+|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|null|
+|**2025-11-26**|**CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion**|Dianbing Xi et.al.|[2511.21129](http://arxiv.org/abs/2511.21129)|null|
+|**2025-11-25**|**Open Vocabulary Compositional Explanations for Neuron Alignment**|Biagio La Rosa et.al.|[2511.20931](http://arxiv.org/abs/2511.20931)|null|
+|**2025-11-25**|**Prompt-Aware Adaptive Elastic Weight Consolidation for Continual Learning in Medical Vision-Language Models**|Ziyuan Gao et.al.|[2511.20732](http://arxiv.org/abs/2511.20732)|null|
 |**2025-11-25**|**Automated Monitoring of Cultural Heritage Artifacts Using Semantic Segmentation**|Andrea Ranieri et.al.|[2511.20541](http://arxiv.org/abs/2511.20541)|null|
 |**2025-11-25**|**NVIDIA Nemotron Parse 1.1**|Kateryna Chumachenko et.al.|[2511.20478](http://arxiv.org/abs/2511.20478)|null|
-|**2025-11-25**|**CrossEarth-Gate: Fisher-Guided Adaptive Tuning Engine for Efficient Adaptation of Cross-Domain Remote Sensing Semantic Segmentation**|Shilei Cao et.al.|[2511.20302](http://arxiv.org/abs/2511.20302)|null|
+|**2025-11-26**|**CrossEarth-Gate: Fisher-Guided Adaptive Tuning Engine for Efficient Adaptation of Cross-Domain Remote Sensing Semantic Segmentation**|Shilei Cao et.al.|[2511.20302](http://arxiv.org/abs/2511.20302)|null|
 |**2025-11-25**|**SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM**|Lin Chen et.al.|[2511.20027](http://arxiv.org/abs/2511.20027)|null|
 |**2025-11-25**|**Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos**|Youngseo Kim et.al.|[2511.19936](http://arxiv.org/abs/2511.19936)|null|
 |**2025-11-24**|**Lightweight Transformer Framework for Weakly Supervised Semantic Segmentation**|Ali Torabi et.al.|[2511.19765](http://arxiv.org/abs/2511.19765)|null|
-|**2025-11-24**|**Vision--Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation**|Jiaqi Guo et.al.|[2511.19759](http://arxiv.org/abs/2511.19759)|null|
+|**2025-11-26**|**Vision-Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation**|Jiaqi Guo et.al.|[2511.19759](http://arxiv.org/abs/2511.19759)|null|
 |**2025-11-24**|**RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models**|Omar Alama et.al.|[2511.19704](http://arxiv.org/abs/2511.19704)|null|
 |**2025-11-24**|**Studying Maps at Scale: A Digital Investigation of Cartography and the Evolution of Figuration**|Remi Petitpierre et.al.|[2511.19538](http://arxiv.org/abs/2511.19538)|null|
 |**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Weiliang Tang et.al.|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
 |**2025-11-24**|**nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation**|Carsten T. Lüth et.al.|[2511.19183](http://arxiv.org/abs/2511.19183)|null|
-|**2025-11-24**|**DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection**|Hai Ci et.al.|[2511.19111](http://arxiv.org/abs/2511.19111)|null|
+|**2025-11-26**|**DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection**|Hai Ci et.al.|[2511.19111](http://arxiv.org/abs/2511.19111)|null|
 |**2025-11-24**|**MedSAM3: Delving into Segment Anything with Medical Concepts**|Anglin Liu et.al.|[2511.19046](http://arxiv.org/abs/2511.19046)|null|
 |**2025-11-24**|**Facade Segmentation for Solar Photovoltaic Suitability**|Ayca Duran et.al.|[2511.18882](http://arxiv.org/abs/2511.18882)|null|
 |**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|null|
@@ -2383,7 +2397,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
