@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,14 +18,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**COMPAS: A Distributed Multi-Party SWAP Test for Parallel Quantum Algorithms**|Brayden Goldstein-Gelb et.al.|[2511.23434](http://arxiv.org/abs/2511.23434)|null|
+|**2025-11-28**|**Detection of the Pairwise Kinematic Sunyaev-Zel'dovich Effect and Pairwise Velocity with DESI DR1 Galaxies and ACT DR6 and Planck CMB Data**|Yulin Gong et.al.|[2511.23417](http://arxiv.org/abs/2511.23417)|null|
+|**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044](http://arxiv.org/abs/2511.23044)|null|
+|**2025-11-28**|**A Trainable Centrality Framework for Modern Data**|Minh Duc Vu et.al.|[2511.22959](http://arxiv.org/abs/2511.22959)|null|
+|**2025-11-28**|**MARVO: Marine-Adaptive Radiance-aware Visual Odometry**|Sacchin Sundar et.al.|[2511.22860](http://arxiv.org/abs/2511.22860)|null|
+|**2025-11-28**|**Threat-Aware UAV Dodging of Human-Thrown Projectiles with an RGB-D Camera**|Yuying Zhang et.al.|[2511.22847](http://arxiv.org/abs/2511.22847)|null|
+|**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|null|
+|**2025-11-27**|**Advances in electromagnetic techniques for subsurface infrastructure detection: A comprehensive review of methods, challenges, and innovations**|Arasti Afrasiabi et.al.|[2511.22673](http://arxiv.org/abs/2511.22673)|null|
+|**2025-11-27**|**ColonAdapter: Geometry Estimation Through Foundation Model Adaptation for Colonoscopy**|Zhiyi Jiang et.al.|[2511.22250](http://arxiv.org/abs/2511.22250)|null|
+|**2025-11-27**|**IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution**|Xiang Feng et.al.|[2511.22233](http://arxiv.org/abs/2511.22233)|null|
 |**2025-11-26**|**Phase Estimation with Compressed Controlled Time Evolution**|Erenay Karacan et.al.|[2511.21225](http://arxiv.org/abs/2511.21225)|null|
 |**2025-11-26**|**Nonconvex Penalized LAD Estimation in Partial Linear Models with DNNs: Asymptotic Analysis and Proximal Algorithms**|Lechen Feng et.al.|[2511.21115](http://arxiv.org/abs/2511.21115)|null|
-|**2025-11-25**|**Estimating Fog Parameters from a Sequence of Stereo Images**|Yining Ding et.al.|[2511.20865](http://arxiv.org/abs/2511.20865)|**[link](https://github.com/SenseRoboticsLab/estimating-fog-parameters)**|
+|**2025-11-25**|**Estimating Fog Parameters from a Sequence of Stereo Images**|Yining Ding et.al.|[2511.20865](http://arxiv.org/abs/2511.20865)|null|
 |**2025-11-25**|**MODEST: Multi-Optics Depth-of-Field Stereo Dataset**|Nisarg K. Trivedi et.al.|[2511.20853](http://arxiv.org/abs/2511.20853)|null|
 |**2025-11-25**|**Closed-Loop Phase-Coherence Compensation for Superconducting Qubits Integrated Computational and Hardware Validation of the Aurora Method**|Futoshi Hamanoue et.al.|[2511.20741](http://arxiv.org/abs/2511.20741)|null|
-|**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[2511.20646](http://arxiv.org/abs/2511.20646)|**[link](https://github.com/WeiHongLee/CrossView3DMTL)**|
+|**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[2511.20646](http://arxiv.org/abs/2511.20646)|null|
 |**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343](http://arxiv.org/abs/2511.20343)|null|
-|**2025-11-26**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157](http://arxiv.org/abs/2511.20157)|null|
+|**2025-11-27**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157](http://arxiv.org/abs/2511.20157)|null|
 |**2025-11-25**|**DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination**|Mingyang Ou et.al.|[2511.20058](http://arxiv.org/abs/2511.20058)|null|
 |**2025-11-24**|**Towards Reconciling Reionization with JWST: The Role of Bright Galaxies and Strong Feedback**|Ankita Bera et.al.|[2511.19600](http://arxiv.org/abs/2511.19600)|null|
 |**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
@@ -827,12 +837,22 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding**|Jin-Seop Lee et.al.|[2511.23151](http://arxiv.org/abs/2511.23151)|null|
+|**2025-11-28**|**Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM**|Shouhe Zhang et.al.|[2511.22968](http://arxiv.org/abs/2511.22968)|null|
+|**2025-11-28**|**Do We Need Perfect Data? Leveraging Noise for Domain Generalized Segmentation**|Taeyeong Kim et.al.|[2511.22948](http://arxiv.org/abs/2511.22948)|null|
+|**2025-11-27**|**GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing**|Xiaoyin Yang et.al.|[2511.22607](http://arxiv.org/abs/2511.22607)|null|
+|**2025-11-27**|**HarmoCLIP: Harmonizing Global and Regional Representations in Contrastive Vision-Language Models**|Haoxi Zeng et.al.|[2511.22594](http://arxiv.org/abs/2511.22594)|null|
+|**2025-11-27**|**RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding**|Xiyan Liu et.al.|[2511.22466](http://arxiv.org/abs/2511.22466)|null|
+|**2025-11-27**|**Prompt-based Consistent Video Colorization**|Silvia Dani et.al.|[2511.22330](http://arxiv.org/abs/2511.22330)|null|
+|**2025-11-27**|**3D Affordance Keypoint Detection for Robotic Manipulation**|Zhiyang Liu et.al.|[2511.22195](http://arxiv.org/abs/2511.22195)|null|
+|**2025-11-26**|**OpenTwinMap: An Open-Source Digital Twin Generator for Urban Autonomous Driving**|Alex Richardson et.al.|[2511.21925](http://arxiv.org/abs/2511.21925)|null|
+|**2025-11-26**|**UniArt: Unified 3D Representation for Generating 3D Articulated Objects with Open-Set Articulation**|Bu Jin et.al.|[2511.21887](http://arxiv.org/abs/2511.21887)|null|
 |**2025-11-26**|**ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images**|M. Naseer Subhani et.al.|[2511.21606](http://arxiv.org/abs/2511.21606)|null|
 |**2025-11-26**|**From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings**|Jiajie Zhang et.al.|[2511.21428](http://arxiv.org/abs/2511.21428)|null|
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
@@ -2397,7 +2417,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
