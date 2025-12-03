@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889](http://arxiv.org/abs/2512.01889)|null|
+|**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](http://arxiv.org/abs/2512.01366)|null|
+|**2025-12-01**|**Data-Driven Learnability Transition of Measurement-Induced Entanglement**|Dongheng Qian et.al.|[2512.01317](http://arxiv.org/abs/2512.01317)|null|
+|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|null|
+|**2025-11-30**|**PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery**|Bo Guo et.al.|[2512.00794](http://arxiv.org/abs/2512.00794)|null|
+|**2025-11-30**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771](http://arxiv.org/abs/2512.00771)|null|
+|**2025-11-29**|**Layer Probing Improves Kinase Functional Prediction with Protein Language Models**|Ajit Kumar et.al.|[2512.00376](http://arxiv.org/abs/2512.00376)|null|
+|**2025-11-26**|**Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs**|Davide Nadalini et.al.|[2512.00086](http://arxiv.org/abs/2512.00086)|null|
+|**2025-11-25**|**Conceptual Evaluation of Deep Visual Stereo Odometry for the MARWIN Radiation Monitoring Robot in Accelerator Tunnels**|André Dehne et.al.|[2512.00080](http://arxiv.org/abs/2512.00080)|null|
 |**2025-11-28**|**COMPAS: A Distributed Multi-Party SWAP Test for Parallel Quantum Algorithms**|Brayden Goldstein-Gelb et.al.|[2511.23434](http://arxiv.org/abs/2511.23434)|null|
 |**2025-11-28**|**Detection of the Pairwise Kinematic Sunyaev-Zel'dovich Effect and Pairwise Velocity with DESI DR1 Galaxies and ACT DR6 and Planck CMB Data**|Yulin Gong et.al.|[2511.23417](http://arxiv.org/abs/2511.23417)|null|
 |**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044](http://arxiv.org/abs/2511.23044)|null|
@@ -837,12 +846,32 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005](http://arxiv.org/abs/2512.02005)|null|
+|**2025-12-01**|**SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning**|Xu Zhang et.al.|[2512.01975](http://arxiv.org/abs/2512.01975)|null|
+|**2025-12-01**|**Evaluating SAM2 for Video Semantic Segmentation**|Syed Hesham Syed Ariff et.al.|[2512.01774](http://arxiv.org/abs/2512.01774)|null|
+|**2025-12-01**|**SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation**|Xiuli Bi et.al.|[2512.01701](http://arxiv.org/abs/2512.01701)|null|
+|**2025-12-01**|**ViT $^3$ : Unlocking Test-Time Training in Vision**|Dongchen Han et.al.|[2512.01643](http://arxiv.org/abs/2512.01643)|null|
+|**2025-12-01**|**Toward Content-based Indexing and Retrieval of Head and Neck CT with Abscess Segmentation**|Thao Thi Phuong Dao et.al.|[2512.01589](http://arxiv.org/abs/2512.01589)|null|
+|**2025-12-01**|**Semantic-aware Random Convolution and Source Matching for Domain Generalization in Medical Image Segmentation**|Franz Thaler et.al.|[2512.01510](http://arxiv.org/abs/2512.01510)|null|
+|**2025-12-01**|**Masked Symbol Modeling for Demodulation of Oversampled Baseband Communication Signals in Impulsive Noise-Dominated Channels**|Oguz Bedir et.al.|[2512.01428](http://arxiv.org/abs/2512.01428)|null|
+|**2025-12-01**|**Language-Guided Open-World Anomaly Segmentation**|Klara Reichard et.al.|[2512.01427](http://arxiv.org/abs/2512.01427)|null|
+|**2025-12-01**|**Panda: Self-distillation of Reusable Sensor-level Representations for High Energy Physics**|Samuel Young et.al.|[2512.01324](http://arxiv.org/abs/2512.01324)|null|
+|**2025-12-01**|**OntoMetric: An Ontology-Guided Framework for Automated ESG Knowledge Graph Construction**|Mingqin Yu et.al.|[2512.01289](http://arxiv.org/abs/2512.01289)|null|
+|**2025-11-30**|**Adaptive Evidential Learning for Temporal-Semantic Robustness in Moment Retrieval**|Haojian Huang et.al.|[2512.00953](http://arxiv.org/abs/2512.00953)|null|
+|**2025-11-30**|**Binary-Gaussian: Compact and Progressive Representation for 3D Gaussian Segmentation**|An Yang et.al.|[2512.00944](http://arxiv.org/abs/2512.00944)|null|
+|**2025-11-30**|**HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics**|Masatoshi Tateno et.al.|[2512.00885](http://arxiv.org/abs/2512.00885)|null|
+|**2025-11-30**|**A Core Ontology for Particle Accelerators: Interoperable Data and Workflows Across Facilities**|Chris Tennant et.al.|[2512.00868](http://arxiv.org/abs/2512.00868)|null|
+|**2025-11-29**|**EZ-SP: Fast and Lightweight Superpoint-Based 3D Segmentation**|Louis Geist et.al.|[2512.00385](http://arxiv.org/abs/2512.00385)|null|
+|**2025-11-29**|**Breaking It Down: Domain-Aware Semantic Segmentation for Retrieval Augmented Generation**|Aparajitha Allamraju et.al.|[2512.00367](http://arxiv.org/abs/2512.00367)|null|
+|**2025-11-29**|**Towards aligned body representations in vision models**|Andrey Gizdov et.al.|[2512.00365](http://arxiv.org/abs/2512.00365)|null|
+|**2025-11-29**|**MedCondDiff: Lightweight, Robust, Semantically Guided Diffusion for Medical Image Segmentation**|Ruirui Huang et.al.|[2512.00350](http://arxiv.org/abs/2512.00350)|null|
+|**2025-11-28**|**Chunking Strategies for Multimodal AI Systems**|Shashanka B R et.al.|[2512.00185](http://arxiv.org/abs/2512.00185)|null|
 |**2025-11-28**|**Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding**|Jin-Seop Lee et.al.|[2511.23151](http://arxiv.org/abs/2511.23151)|null|
 |**2025-11-28**|**Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM**|Shouhe Zhang et.al.|[2511.22968](http://arxiv.org/abs/2511.22968)|null|
 |**2025-11-28**|**Do We Need Perfect Data? Leveraging Noise for Domain Generalized Segmentation**|Taeyeong Kim et.al.|[2511.22948](http://arxiv.org/abs/2511.22948)|null|
@@ -2417,7 +2446,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
