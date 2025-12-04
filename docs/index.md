@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|**[link](https://github.com/Dynamics-X/DynamicVerse)**|
+|**2025-12-02**|**BEVDilation: LiDAR-Centric Multi-Modal Fusion for 3D Object Detection**|Guowen Zhang et.al.|[2512.02972](http://arxiv.org/abs/2512.02972)|**[link](https://github.com/gwenzhang/BEVDilation)**|
+|**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727](http://arxiv.org/abs/2512.02727)|null|
+|**2025-12-01**|**DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction**|Xia Su et.al.|[2512.02263](http://arxiv.org/abs/2512.02263)|null|
 |**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889](http://arxiv.org/abs/2512.01889)|null|
 |**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](http://arxiv.org/abs/2512.01366)|null|
 |**2025-12-01**|**Data-Driven Learnability Transition of Measurement-Induced Entanglement**|Dongheng Qian et.al.|[2512.01317](http://arxiv.org/abs/2512.01317)|null|
@@ -2949,7 +2953,7 @@ layout: default
 |**2025-11-28**|**A Trainable Centrality Framework for Modern Data**|Minh Duc Vu et.al.|[2511.22959](http://arxiv.org/abs/2511.22959)|null|
 |**2025-11-28**|**MARVO: Marine-Adaptive Radiance-aware Visual Odometry**|Sacchin Sundar et.al.|[2511.22860](http://arxiv.org/abs/2511.22860)|null|
 |**2025-11-28**|**Threat-Aware UAV Dodging of Human-Thrown Projectiles with an RGB-D Camera**|Yuying Zhang et.al.|[2511.22847](http://arxiv.org/abs/2511.22847)|null|
-|**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|null|
+|**2025-12-01**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|null|
 |**2025-11-27**|**Advances in electromagnetic techniques for subsurface infrastructure detection: A comprehensive review of methods, challenges, and innovations**|Arasti Afrasiabi et.al.|[2511.22673](http://arxiv.org/abs/2511.22673)|null|
 |**2025-11-27**|**ColonAdapter: Geometry Estimation Through Foundation Model Adaptation for Colonoscopy**|Zhiyi Jiang et.al.|[2511.22250](http://arxiv.org/abs/2511.22250)|null|
 |**2025-11-27**|**IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution**|Xiang Feng et.al.|[2511.22233](http://arxiv.org/abs/2511.22233)|null|
@@ -3766,12 +3770,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks**|Matthew Dutson et.al.|[2512.03014](http://arxiv.org/abs/2512.03014)|null|
+|**2025-12-02**|**TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond**|Yifei Zeng et.al.|[2512.02993](http://arxiv.org/abs/2512.02993)|null|
+|**2025-12-02**|**U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences**|Xiang Xu et.al.|[2512.02982](http://arxiv.org/abs/2512.02982)|null|
+|**2025-12-02**|**ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning**|Yifan Li et.al.|[2512.02835](http://arxiv.org/abs/2512.02835)|null|
+|**2025-12-02**|**ClimaOoD: Improving Anomaly Segmentation via Physically Realistic Synthetic Data**|Yuxing Liu et.al.|[2512.02686](http://arxiv.org/abs/2512.02686)|null|
+|**2025-12-02**|**WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning**|Woongyeong Yeo et.al.|[2512.02425](http://arxiv.org/abs/2512.02425)|null|
+|**2025-12-02**|**MitUNet: Enhancing Floor Plan Recognition using a Hybrid Mix-Transformer and U-Net Architecture**|Dmitriy Parashchuk et.al.|[2512.02413](http://arxiv.org/abs/2512.02413)|null|
+|**2025-12-02**|**Reproducing and Extending RaDelft 4D Radar with Camera-Assisted Labels**|Kejia Hu et.al.|[2512.02394](http://arxiv.org/abs/2512.02394)|null|
+|**2025-12-02**|**SAGE: Style-Adaptive Generalization for Privacy-Constrained Semantic Segmentation Across Domains**|Qingmei Li et.al.|[2512.02369](http://arxiv.org/abs/2512.02369)|null|
+|**2025-12-01**|**Multifractal Recalibration of Neural Networks for Medical Imaging Segmentation**|Miguel L. Martins et.al.|[2512.02198](http://arxiv.org/abs/2512.02198)|null|
 |**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005](http://arxiv.org/abs/2512.02005)|null|
 |**2025-12-01**|**SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning**|Xu Zhang et.al.|[2512.01975](http://arxiv.org/abs/2512.01975)|null|
 |**2025-12-01**|**Evaluating SAM2 for Video Semantic Segmentation**|Syed Hesham Syed Ariff et.al.|[2512.01774](http://arxiv.org/abs/2512.01774)|null|
 |**2025-12-01**|**SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation**|Xiuli Bi et.al.|[2512.01701](http://arxiv.org/abs/2512.01701)|null|
 |**2025-12-01**|**ViT $^3$ : Unlocking Test-Time Training in Vision**|Dongchen Han et.al.|[2512.01643](http://arxiv.org/abs/2512.01643)|null|
-|**2025-12-01**|**Toward Content-based Indexing and Retrieval of Head and Neck CT with Abscess Segmentation**|Thao Thi Phuong Dao et.al.|[2512.01589](http://arxiv.org/abs/2512.01589)|null|
+|**2025-12-02**|**Toward Content-based Indexing and Retrieval of Head and Neck CT with Abscess Segmentation**|Thao Thi Phuong Dao et.al.|[2512.01589](http://arxiv.org/abs/2512.01589)|null|
 |**2025-12-01**|**Semantic-aware Random Convolution and Source Matching for Domain Generalization in Medical Image Segmentation**|Franz Thaler et.al.|[2512.01510](http://arxiv.org/abs/2512.01510)|null|
 |**2025-12-01**|**Masked Symbol Modeling for Demodulation of Oversampled Baseband Communication Signals in Impulsive Noise-Dominated Channels**|Oguz Bedir et.al.|[2512.01428](http://arxiv.org/abs/2512.01428)|null|
 |**2025-12-01**|**Language-Guided Open-World Anomaly Segmentation**|Klara Reichard et.al.|[2512.01427](http://arxiv.org/abs/2512.01427)|null|
