@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,8 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|**[link](https://github.com/Dynamics-X/DynamicVerse)**|
-|**2025-12-02**|**BEVDilation: LiDAR-Centric Multi-Modal Fusion for 3D Object Detection**|Guowen Zhang et.al.|[2512.02972](http://arxiv.org/abs/2512.02972)|**[link](https://github.com/gwenzhang/BEVDilation)**|
+|**2025-12-03**|**Unique Lives, Shared World: Learning from Single-Life Videos**|Tengda Han et.al.|[2512.04085](http://arxiv.org/abs/2512.04085)|null|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**Approximate Optimal Active Learning of Decision Trees**|Zunchen Huang et.al.|[2512.03971](http://arxiv.org/abs/2512.03971)|null|
+|**2025-12-03**|**MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation**|Xiaobei Zhao et.al.|[2512.03958](http://arxiv.org/abs/2512.03958)|**[link](https://github.com/AlexTraveling/MDE-AgriVLN)**|
+|**2025-12-03**|**Three-dimensional modelling of drag anchor penetration using the material point method**|Robert E. Bird et.al.|[2512.03632](http://arxiv.org/abs/2512.03632)|null|
+|**2025-12-03**|**Postseismicity of slow-slip doublets discerned on the outermost of the Nankai Trough subduction megathrust**|Dye SK Sato et.al.|[2512.03559](http://arxiv.org/abs/2512.03559)|null|
+|**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427](http://arxiv.org/abs/2512.03427)|null|
+|**2025-12-03**|**A three-dimensional model for the reversal in the local large-scale interstellar magnetic field**|Rebecca A. Booth et.al.|[2512.03332](http://arxiv.org/abs/2512.03332)|null|
+|**2025-12-03**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|null|
+|**2025-12-02**|**BEVDilation: LiDAR-Centric Multi-Modal Fusion for 3D Object Detection**|Guowen Zhang et.al.|[2512.02972](http://arxiv.org/abs/2512.02972)|null|
 |**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727](http://arxiv.org/abs/2512.02727)|null|
 |**2025-12-01**|**DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction**|Xia Su et.al.|[2512.02263](http://arxiv.org/abs/2512.02263)|null|
 |**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889](http://arxiv.org/abs/2512.01889)|null|
@@ -850,12 +858,23 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Lean Unet: A Compact Model for Image Segmentation**|Ture Hassler et.al.|[2512.03834](http://arxiv.org/abs/2512.03834)|null|
+|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Ziwen Li et.al.|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
+|**2025-12-03**|**Context-Aware Hierarchical Learning: A Two-Step Paradigm towards Safer LLMs**|Tengyun Ma et.al.|[2512.03720](http://arxiv.org/abs/2512.03720)|null|
+|**2025-12-03**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2512.03684](http://arxiv.org/abs/2512.03684)|null|
+|**2025-12-03**|**Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding**|Haoran Zhou et.al.|[2512.03601](http://arxiv.org/abs/2512.03601)|null|
+|**2025-12-03**|**Exploiting Domain Properties in Language-Driven Domain Generalization for Semantic Segmentation**|Seogkyu Jeon et.al.|[2512.03508](http://arxiv.org/abs/2512.03508)|null|
+|**2025-12-03**|**EEA: Exploration-Exploitation Agent for Long Video Understanding**|Te Yang et.al.|[2512.03500](http://arxiv.org/abs/2512.03500)|null|
+|**2025-12-03**|**NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation**|Renqi Chen et.al.|[2512.03499](http://arxiv.org/abs/2512.03499)|null|
+|**2025-12-03**|**Procedural Mistake Detection via Action Effect Modeling**|Wenliang Guo et.al.|[2512.03474](http://arxiv.org/abs/2512.03474)|null|
+|**2025-12-03**|**HalluGen: Synthesizing Realistic and Controllable Hallucinations for Evaluating Image Restoration**|Seunghoi Kim et.al.|[2512.03345](http://arxiv.org/abs/2512.03345)|null|
+|**2025-12-02**|**LLM-Guided Material Inference for 3D Point Clouds**|Nafiseh Izadyar et.al.|[2512.03237](http://arxiv.org/abs/2512.03237)|null|
 |**2025-12-02**|**Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks**|Matthew Dutson et.al.|[2512.03014](http://arxiv.org/abs/2512.03014)|null|
 |**2025-12-02**|**TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond**|Yifei Zeng et.al.|[2512.02993](http://arxiv.org/abs/2512.02993)|null|
 |**2025-12-02**|**U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences**|Xiang Xu et.al.|[2512.02982](http://arxiv.org/abs/2512.02982)|null|
@@ -2460,7 +2479,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
