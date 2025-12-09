@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|null|
+|**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|null|
 |**2025-12-04**|**Ground state energy and phase transitions of Long-range XXZ using VQE**|Mrinal Dev et.al.|[2512.04615](http://arxiv.org/abs/2512.04615)|null|
 |**2025-12-04**|**Supramolecular approach-based intermolecular interaction energy calculations using quantum phase estimation algorithm**|Yuhei Tachi et.al.|[2512.04587](http://arxiv.org/abs/2512.04587)|null|
 |**2025-12-04**|**COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence**|Zefeng Zhang et.al.|[2512.04563](http://arxiv.org/abs/2512.04563)|**[link](https://github.com/zhangzef/COOPER)**|
@@ -38,7 +40,7 @@
 |**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889](http://arxiv.org/abs/2512.01889)|null|
 |**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](http://arxiv.org/abs/2512.01366)|null|
 |**2025-12-01**|**Data-Driven Learnability Transition of Measurement-Induced Entanglement**|Dongheng Qian et.al.|[2512.01317](http://arxiv.org/abs/2512.01317)|null|
-|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|null|
+|**2025-12-04**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|null|
 |**2025-11-30**|**PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery**|Bo Guo et.al.|[2512.00794](http://arxiv.org/abs/2512.00794)|null|
 |**2025-11-30**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771](http://arxiv.org/abs/2512.00771)|null|
 |**2025-11-29**|**Layer Probing Improves Kinase Functional Prediction with Protein Language Models**|Ajit Kumar et.al.|[2512.00376](http://arxiv.org/abs/2512.00376)|null|
@@ -863,12 +865,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.05922](http://arxiv.org/abs/2512.05922)|null|
+|**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759](http://arxiv.org/abs/2512.05759)|null|
+|**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[2512.05613](http://arxiv.org/abs/2512.05613)|null|
+|**2025-12-01**|**FlowEO: Generative Unsupervised Domain Adaptation for Earth Observation**|Georges Le Bellier et.al.|[2512.05140](http://arxiv.org/abs/2512.05140)|null|
 |**2025-12-04**|**GeoPE:A Unified Geometric Positional Embedding for Structured Tensors**|Yupu Yao et.al.|[2512.04963](http://arxiv.org/abs/2512.04963)|null|
 |**2025-12-04**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](http://arxiv.org/abs/2512.04734)|null|
 |**2025-12-04**|**SAM3-I: Segment Anything with Instructions**|Jingjing Li et.al.|[2512.04585](http://arxiv.org/abs/2512.04585)|null|
@@ -2490,7 +2496,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

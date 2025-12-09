@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|null|
+|**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|null|
 |**2025-12-04**|**Ground state energy and phase transitions of Long-range XXZ using VQE**|Mrinal Dev et.al.|[2512.04615](http://arxiv.org/abs/2512.04615)|null|
 |**2025-12-04**|**Supramolecular approach-based intermolecular interaction energy calculations using quantum phase estimation algorithm**|Yuhei Tachi et.al.|[2512.04587](http://arxiv.org/abs/2512.04587)|null|
 |**2025-12-04**|**COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence**|Zefeng Zhang et.al.|[2512.04563](http://arxiv.org/abs/2512.04563)|**[link](https://github.com/zhangzef/COOPER)**|
@@ -2954,7 +2956,7 @@ layout: default
 |**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889](http://arxiv.org/abs/2512.01889)|null|
 |**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](http://arxiv.org/abs/2512.01366)|null|
 |**2025-12-01**|**Data-Driven Learnability Transition of Measurement-Induced Entanglement**|Dongheng Qian et.al.|[2512.01317](http://arxiv.org/abs/2512.01317)|null|
-|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|null|
+|**2025-12-04**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|null|
 |**2025-11-30**|**PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery**|Bo Guo et.al.|[2512.00794](http://arxiv.org/abs/2512.00794)|null|
 |**2025-11-30**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771](http://arxiv.org/abs/2512.00771)|null|
 |**2025-11-29**|**Layer Probing Improves Kinase Functional Prediction with Protein Language Models**|Ajit Kumar et.al.|[2512.00376](http://arxiv.org/abs/2512.00376)|null|
@@ -3783,6 +3785,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.05922](http://arxiv.org/abs/2512.05922)|null|
+|**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759](http://arxiv.org/abs/2512.05759)|null|
+|**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[2512.05613](http://arxiv.org/abs/2512.05613)|null|
+|**2025-12-01**|**FlowEO: Generative Unsupervised Domain Adaptation for Earth Observation**|Georges Le Bellier et.al.|[2512.05140](http://arxiv.org/abs/2512.05140)|null|
 |**2025-12-04**|**GeoPE:A Unified Geometric Positional Embedding for Structured Tensors**|Yupu Yao et.al.|[2512.04963](http://arxiv.org/abs/2512.04963)|null|
 |**2025-12-04**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](http://arxiv.org/abs/2512.04734)|null|
 |**2025-12-04**|**SAM3-I: Segment Anything with Instructions**|Jingjing Li et.al.|[2512.04585](http://arxiv.org/abs/2512.04585)|null|
