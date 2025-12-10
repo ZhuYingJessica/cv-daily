@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery**|Wenzhen Dong et.al.|[2512.07596](http://arxiv.org/abs/2512.07596)|null|
+|**2025-12-07**|**CoT4Det: A Chain-of-Thought Framework for Perception-Oriented Vision-Language Tasks**|Yu Qi et.al.|[2512.06663](http://arxiv.org/abs/2512.06663)|null|
+|**2025-12-06**|**Human3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|null|
 |**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|null|
 |**2025-12-04**|**Ground state energy and phase transitions of Long-range XXZ using VQE**|Mrinal Dev et.al.|[2512.04615](http://arxiv.org/abs/2512.04615)|null|
@@ -3785,6 +3788,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation**|Qiming Huang et.al.|[2512.07360](http://arxiv.org/abs/2512.07360)|null|
+|**2025-12-08**|**Generalized Referring Expression Segmentation on Aerial Photos**|Luís Marnoto et.al.|[2512.07338](http://arxiv.org/abs/2512.07338)|null|
+|**2025-12-07**|**Power of Boundary and Reflection: Semantic Transparent Object Segmentation using Pyramid Vision Transformer with Transparent Cues**|Tuan-Anh Vu et.al.|[2512.07034](http://arxiv.org/abs/2512.07034)|null|
+|**2025-12-07**|**Selective Masking based Self-Supervised Learning for Image Semantic Segmentation**|Yuemin Wang et.al.|[2512.06981](http://arxiv.org/abs/2512.06981)|null|
+|**2025-12-07**|**Balanced Learning for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2512.06886](http://arxiv.org/abs/2512.06886)|null|
+|**2025-12-07**|**Towards Robust Pseudo-Label Learning in Semantic Segmentation: An Encoding Perspective**|Wangkai Li et.al.|[2512.06870](http://arxiv.org/abs/2512.06870)|null|
+|**2025-12-07**|**FedDSR: Federated Deep Supervision and Regularization Towards Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06676](http://arxiv.org/abs/2512.06676)|null|
+|**2025-12-07**|**Statistic-Augmented, Decoupled MoE Routing and Aggregating in Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06664](http://arxiv.org/abs/2512.06664)|null|
+|**2025-12-07**|**CoT4Det: A Chain-of-Thought Framework for Perception-Oriented Vision-Language Tasks**|Yu Qi et.al.|[2512.06663](http://arxiv.org/abs/2512.06663)|null|
+|**2025-12-03**|**Fast and Flexible Robustness Certificates for Semantic Segmentation**|Thomas Massena et.al.|[2512.06010](http://arxiv.org/abs/2512.06010)|null|
+|**2025-11-30**|**Stronger is not better: Better Augmentations in Contrastive Learning for Medical Image Segmentation**|Azeez Idris et.al.|[2512.05992](http://arxiv.org/abs/2512.05992)|null|
 |**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.05922](http://arxiv.org/abs/2512.05922)|null|
 |**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759](http://arxiv.org/abs/2512.05759)|null|
 |**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[2512.05613](http://arxiv.org/abs/2512.05613)|null|
