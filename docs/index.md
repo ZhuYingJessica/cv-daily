@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,9 +2934,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](http://arxiv.org/abs/2512.08700)|null|
+|**2025-12-09**|**Accuracy Does Not Guarantee Human-Likeness in Monocular Depth Estimators**|Yuki Kubota et.al.|[2512.08163](http://arxiv.org/abs/2512.08163)|null|
 |**2025-12-08**|**More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery**|Wenzhen Dong et.al.|[2512.07596](http://arxiv.org/abs/2512.07596)|null|
 |**2025-12-07**|**CoT4Det: A Chain-of-Thought Framework for Perception-Oriented Vision-Language Tasks**|Yu Qi et.al.|[2512.06663](http://arxiv.org/abs/2512.06663)|null|
-|**2025-12-06**|**Human3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
+|**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|null|
 |**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|null|
 |**2025-12-04**|**Ground state energy and phase transitions of Long-range XXZ using VQE**|Mrinal Dev et.al.|[2512.04615](http://arxiv.org/abs/2512.04615)|null|
@@ -3788,6 +3790,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Persistent Homology for Labeled Datasets: Gromov-Hausdorff Stability and Generalized Landscapes**|Yaoying Fu et.al.|[2512.08794](http://arxiv.org/abs/2512.08794)|null|
+|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|null|
+|**2025-12-09**|**Instance-Aware Test-Time Segmentation for Continual Domain Shifts**|Seunghwan Lee et.al.|[2512.08569](http://arxiv.org/abs/2512.08569)|null|
+|**2025-12-09**|**Query-aware Hub Prototype Learning for Few-Shot 3D Point Cloud Semantic Segmentation**|YiLin Zhou et.al.|[2512.08253](http://arxiv.org/abs/2512.08253)|null|
+|**2025-12-08**|**Restrictive Hierarchical Semantic Segmentation for Stratified Tooth Layer Detection**|Ryan Banks et.al.|[2512.07984](http://arxiv.org/abs/2512.07984)|null|
 |**2025-12-08**|**Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation**|Qiming Huang et.al.|[2512.07360](http://arxiv.org/abs/2512.07360)|null|
 |**2025-12-08**|**Generalized Referring Expression Segmentation on Aerial Photos**|Luís Marnoto et.al.|[2512.07338](http://arxiv.org/abs/2512.07338)|null|
 |**2025-12-07**|**Power of Boundary and Reflection: Semantic Transparent Object Segmentation using Pyramid Vision Transformer with Transparent Cues**|Tuan-Anh Vu et.al.|[2512.07034](http://arxiv.org/abs/2512.07034)|null|
@@ -3804,7 +3811,7 @@ layout: default
 |**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[2512.05613](http://arxiv.org/abs/2512.05613)|null|
 |**2025-12-01**|**FlowEO: Generative Unsupervised Domain Adaptation for Earth Observation**|Georges Le Bellier et.al.|[2512.05140](http://arxiv.org/abs/2512.05140)|null|
 |**2025-12-04**|**GeoPE:A Unified Geometric Positional Embedding for Structured Tensors**|Yupu Yao et.al.|[2512.04963](http://arxiv.org/abs/2512.04963)|null|
-|**2025-12-04**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](http://arxiv.org/abs/2512.04734)|null|
+|**2025-12-09**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](http://arxiv.org/abs/2512.04734)|null|
 |**2025-12-04**|**SAM3-I: Segment Anything with Instructions**|Jingjing Li et.al.|[2512.04585](http://arxiv.org/abs/2512.04585)|null|
 |**2025-12-04**|**AdmTree: Compressing Lengthy Context with Adaptive Semantic Trees**|Yangning Li et.al.|[2512.04550](http://arxiv.org/abs/2512.04550)|null|
 |**2025-12-04**|**Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation**|Chenlin Xu et.al.|[2512.04520](http://arxiv.org/abs/2512.04520)|null|
