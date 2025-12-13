@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)|null|
+|**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)|null|
+|**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
+|**2025-12-11**|**Robust Shape from Focus via Multiscale Directional Dilated Laplacian and Recurrent Network**|Khurram Ashfaq et.al.|[2512.10498](http://arxiv.org/abs/2512.10498)|**[link](https://github.com/khurramashfaq/ddl-gru-sff)**|
 |**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](http://arxiv.org/abs/2512.08700)|null|
 |**2025-12-09**|**Accuracy Does Not Guarantee Human-Likeness in Monocular Depth Estimators**|Yuki Kubota et.al.|[2512.08163](http://arxiv.org/abs/2512.08163)|null|
 |**2025-12-10**|**More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery**|Wenzhen Dong et.al.|[2512.07596](http://arxiv.org/abs/2512.07596)|null|
@@ -870,12 +874,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Take a Peek: Efficient Encoder Adaptation for Few-Shot Semantic Segmentation via LoRA**|Pasquale De Marinis et.al.|[2512.10521](http://arxiv.org/abs/2512.10521)|null|
+|**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[2512.10353](http://arxiv.org/abs/2512.10353)|null|
+|**2025-12-11**|**ConStruct: Structural Distillation of Foundation Models for Prototype-Based Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.10316](http://arxiv.org/abs/2512.10316)|null|
+|**2025-12-11**|**DualProtoSeg: Simple and Efficient Design with Text- and Image-Guided Prototype Learning for Weakly Supervised Histopathology Image Segmentation**|Anh M. Vu et.al.|[2512.10314](http://arxiv.org/abs/2512.10314)|null|
 |**2025-12-10**|**NordFKB: a fine-grained benchmark dataset for geospatial AI in Norway**|Sander Riisøen Jyhne et.al.|[2512.09913](http://arxiv.org/abs/2512.09913)|null|
 |**2025-12-09**|**SIP: Site in Pieces- A Dataset of Disaggregated Construction-Phase 3D Scans for Semantic Segmentation and Scene Understanding**|Seongyong Kim et.al.|[2512.09062](http://arxiv.org/abs/2512.09062)|null|
 |**2025-12-09**|**Persistent Homology for Labeled Datasets: Gromov-Hausdorff Stability and Generalized Landscapes**|Yaoying Fu et.al.|[2512.08794](http://arxiv.org/abs/2512.08794)|null|
@@ -2519,7 +2527,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
