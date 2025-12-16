@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,7 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)|null|
+|**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|null|
+|**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)|**[link](https://github.com/UVA-Computer-Vision-Lab/stereo-walker)**|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-11**|**Robust Shape from Focus via Multiscale Directional Dilated Laplacian and Recurrent Network**|Khurram Ashfaq et.al.|[2512.10498](http://arxiv.org/abs/2512.10498)|**[link](https://github.com/khurramashfaq/ddl-gru-sff)**|
@@ -3794,6 +3795,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Referring Change Detection in Remote Sensing Imagery**|Yilmaz Korkmaz et.al.|[2512.11719](http://arxiv.org/abs/2512.11719)|null|
+|**2025-12-12**|**DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation**|Mohamed Abdelsamad et.al.|[2512.11465](http://arxiv.org/abs/2512.11465)|null|
+|**2025-12-12**|**Out-of-Distribution Segmentation via Wasserstein-Based Evidential Uncertainty**|Arnold Brosch et.al.|[2512.11373](http://arxiv.org/abs/2512.11373)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
 |**2025-12-11**|**Take a Peek: Efficient Encoder Adaptation for Few-Shot Semantic Segmentation via LoRA**|Pasquale De Marinis et.al.|[2512.10521](http://arxiv.org/abs/2512.10521)|null|
 |**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[2512.10353](http://arxiv.org/abs/2512.10353)|null|
 |**2025-12-11**|**ConStruct: Structural Distillation of Foundation Models for Prototype-Based Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.10316](http://arxiv.org/abs/2512.10316)|null|

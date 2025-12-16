@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)|null|
+|**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|null|
+|**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)|**[link](https://github.com/UVA-Computer-Vision-Lab/stereo-walker)**|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-11**|**Robust Shape from Focus via Multiscale Directional Dilated Laplacian and Recurrent Network**|Khurram Ashfaq et.al.|[2512.10498](http://arxiv.org/abs/2512.10498)|**[link](https://github.com/khurramashfaq/ddl-gru-sff)**|
@@ -874,12 +875,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Referring Change Detection in Remote Sensing Imagery**|Yilmaz Korkmaz et.al.|[2512.11719](http://arxiv.org/abs/2512.11719)|null|
+|**2025-12-12**|**DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation**|Mohamed Abdelsamad et.al.|[2512.11465](http://arxiv.org/abs/2512.11465)|null|
+|**2025-12-12**|**Out-of-Distribution Segmentation via Wasserstein-Based Evidential Uncertainty**|Arnold Brosch et.al.|[2512.11373](http://arxiv.org/abs/2512.11373)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
 |**2025-12-11**|**Take a Peek: Efficient Encoder Adaptation for Few-Shot Semantic Segmentation via LoRA**|Pasquale De Marinis et.al.|[2512.10521](http://arxiv.org/abs/2512.10521)|null|
 |**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[2512.10353](http://arxiv.org/abs/2512.10353)|null|
 |**2025-12-11**|**ConStruct: Structural Distillation of Foundation Models for Prototype-Based Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.10316](http://arxiv.org/abs/2512.10316)|null|
@@ -2527,7 +2532,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
