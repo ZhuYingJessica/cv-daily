@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,18 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](http://arxiv.org/abs/2512.15715)|**[link](https://github.com/facebookresearch/pixio)**|
 |**2025-12-16**|**DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors**|Yiheng Huang et.al.|[2512.14536](http://arxiv.org/abs/2512.14536)|null|
 |**2025-12-16**|**Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding**|Nando Metzger et.al.|[2512.14236](http://arxiv.org/abs/2512.14236)|null|
 |**2025-12-16**|**Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding**|Jiaheng Li et.al.|[2512.14028](http://arxiv.org/abs/2512.14028)|**[link](https://github.com/Namisntimpot/NSL)**|
 |**2025-12-16**|**Deep Learning Perspective of Scene Understanding in Autonomous Robots**|Afia Maham et.al.|[2512.14020](http://arxiv.org/abs/2512.14020)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2025-12-15**|**StarryGazer: Leveraging Monocular Depth Estimation Models for Domain-Agnostic Single Depth Image Completion**|Sangmin Hong et.al.|[2512.13147](http://arxiv.org/abs/2512.13147)|null|
 |**2025-12-13**|**BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|null|
-|**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|null|
+|**2025-12-17**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|null|
 |**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)|null|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-11**|**Robust Shape from Focus via Multiscale Directional Dilated Laplacian and Recurrent Network**|Khurram Ashfaq et.al.|[2512.10498](http://arxiv.org/abs/2512.10498)|null|
 |**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](http://arxiv.org/abs/2512.08700)|null|
+|**2025-12-17**|**Development & first Performance evaluation of multi-element monolithic HPGe detector for X-ray spectroscopy**|N. Goyal et.al.|[2512.08389](http://arxiv.org/abs/2512.08389)|null|
 |**2025-12-09**|**Accuracy Does Not Guarantee Human-Likeness in Monocular Depth Estimators**|Yuki Kubota et.al.|[2512.08163](http://arxiv.org/abs/2512.08163)|null|
 |**2025-12-10**|**More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery**|Wenzhen Dong et.al.|[2512.07596](http://arxiv.org/abs/2512.07596)|null|
 |**2025-12-07**|**CoT4Det: A Chain-of-Thought Framework for Perception-Oriented Vision-Language Tasks**|Yu Qi et.al.|[2512.06663](http://arxiv.org/abs/2512.06663)|null|
@@ -881,12 +883,15 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](http://arxiv.org/abs/2512.15715)|null|
+|**2025-12-17**|**SemanticBridge -- A Dataset for 3D Semantic Segmentation of Bridges and Domain Gap Analysis**|Maximilian Kellner et.al.|[2512.15369](http://arxiv.org/abs/2512.15369)|null|
+|**2025-12-17**|**SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2512.15310](http://arxiv.org/abs/2512.15310)|null|
 |**2025-12-16**|**Segmental Attention Decoding With Long Form Acoustic Encodings**|Pawel Swietojanski et.al.|[2512.14652](http://arxiv.org/abs/2512.14652)|null|
 |**2025-12-16**|**DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance**|Shreedhar Govil et.al.|[2512.14266](http://arxiv.org/abs/2512.14266)|null|
 |**2025-12-15**|**Seeing the Whole Picture: Distribution-Guided Data-Free Distillation for Semantic Segmentation**|Hongxuan Sun et.al.|[2512.13175](http://arxiv.org/abs/2512.13175)|null|
@@ -2546,7 +2551,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
