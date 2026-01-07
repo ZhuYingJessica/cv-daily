@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**Adapting Depth Anything to Adverse Imaging Conditions with Events**|Shihan Peng et.al.|[2601.02020](http://arxiv.org/abs/2601.02020)|null|
+|**2026-01-05**|**DisCo-FLoc: Using Dual-Level Visual-Geometric Contrasts to Disambiguate Depth-Aware Visual Floorplan Localization**|Shiyong Meng et.al.|[2601.01822](http://arxiv.org/abs/2601.01822)|null|
+|**2026-01-04**|**Language as Prior, Vision as Calibration: Metric Scale Recovery for Monocular Depth Estimation**|Mingxing Zhan et.al.|[2601.01457](http://arxiv.org/abs/2601.01457)|null|
 |**2026-01-02**|**AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction**|Jiewen Chan et.al.|[2601.00796](http://arxiv.org/abs/2601.00796)|null|
 |**2025-12-31**|**Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation**|Takeru Kusakabe et.al.|[2512.24792](http://arxiv.org/abs/2512.24792)|null|
 |**2025-12-30**|**Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks**|Yongtao Chen et.al.|[2512.24111](http://arxiv.org/abs/2512.24111)|null|
@@ -904,12 +907,24 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**Joint Semantic and Rendering Enhancements in 3D Gaussian Modeling with Anisotropic Local Encoding**|Jingming He et.al.|[2601.02339](http://arxiv.org/abs/2601.02339)|null|
+|**2026-01-05**|**Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping**|Saurabh Kaushik et.al.|[2601.02315](http://arxiv.org/abs/2601.02315)|null|
+|**2026-01-05**|**TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation**|Salim Khazem et.al.|[2601.02273](http://arxiv.org/abs/2601.02273)|null|
+|**2026-01-05**|**Leveraging 2D-VLM for Label-Free 3D Segmentation in Large-Scale Outdoor Scene Understanding**|Toshihiko Nishimura et.al.|[2601.02029](http://arxiv.org/abs/2601.02029)|null|
+|**2026-01-05**|**Subimage Overlap Prediction: Task-Aligned Self-Supervised Pretraining For Semantic Segmentation In Remote Sensing Imagery**|Lakshay Sharma et.al.|[2601.01781](http://arxiv.org/abs/2601.01781)|null|
+|**2026-01-04**|**A Novel Deep Learning Method for Segmenting the Left Ventricle in Cardiac Cine MRI**|Wenhui Chu et.al.|[2601.01512](http://arxiv.org/abs/2601.01512)|null|
+|**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456](http://arxiv.org/abs/2601.01456)|null|
+|**2026-01-04**|**In defense of the two-stage framework for open-set domain adaptive semantic segmentation**|Wenqi Ren et.al.|[2601.01439](http://arxiv.org/abs/2601.01439)|null|
+|**2026-01-03**|**Seamlessly Natural: Image Stitching with Natural Appearance Preservation**|Gaetane Lorna N. Tchana et.al.|[2601.01257](http://arxiv.org/abs/2601.01257)|null|
+|**2026-01-03**|**Cross-Layer Attentive Feature Upsampling for Low-latency Semantic Segmentation**|Tianheng Cheng et.al.|[2601.01167](http://arxiv.org/abs/2601.01167)|null|
+|**2026-01-02**|**Learning to Segment Liquids in Real-world Images**|Jonas Li et.al.|[2601.00940](http://arxiv.org/abs/2601.00940)|null|
+|**2026-01-01**|**MetaFormer-driven Encoding Network for Robust Medical Semantic Segmentation**|Le-Anh Tran et.al.|[2601.00922](http://arxiv.org/abs/2601.00922)|null|
 |**2026-01-01**|**Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers**|Söhnke Benedikt Fischedick et.al.|[2601.00359](http://arxiv.org/abs/2601.00359)|null|
 |**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 |**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](http://arxiv.org/abs/2512.24593)|null|
@@ -2600,7 +2615,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
