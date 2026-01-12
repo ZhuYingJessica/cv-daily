@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3859,7 +3859,7 @@ layout: default
 |**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 |**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](http://arxiv.org/abs/2512.24593)|null|
 |**2026-01-01**|**From Static to Dynamic: Evaluating the Perceptual Impact of Dynamic Elements in Urban Scenes via MLLM-Guided Generative Inpainting**|Zhiwei Wei et.al.|[2512.24513](http://arxiv.org/abs/2512.24513)|null|
-|**2025-12-30**|**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**|Fuqiang Gu et.al.|[2512.24243](http://arxiv.org/abs/2512.24243)|**[link](https://github.com/CQU-UISC/MambaSeg)**|
+|**2025-12-30**|**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**|Fuqiang Gu et.al.|[2512.24243](http://arxiv.org/abs/2512.24243)|null|
 |**2025-12-30**|**ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation**|Ziquan Liu et.al.|[2512.24224](http://arxiv.org/abs/2512.24224)|null|
 |**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201](http://arxiv.org/abs/2512.24201)|null|
 |**2025-12-30**|**Targeted Semantic Segmentation of Himalayan Glacial Lakes Using Time-Series SAR: Towards Automated GLOF Early Warning**|Pawan Adhikari et.al.|[2512.24117](http://arxiv.org/abs/2512.24117)|null|
