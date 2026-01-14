@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,13 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-11**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
 |**2026-01-09**|**GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras**|Weimin Liu et.al.|[2601.05839](http://arxiv.org/abs/2601.05839)|null|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
 |**2026-01-07**|**IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting**|Wei Long et.al.|[2601.03824](http://arxiv.org/abs/2601.03824)|**[link](https://github.com/CVL-UESTC/IDESplat)**|
 |**2026-01-06**|**Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views**|Xiang Zhang et.al.|[2601.03362](http://arxiv.org/abs/2601.03362)|null|
 |**2026-01-06**|**VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models**|Jianke Zhang et.al.|[2601.03309](http://arxiv.org/abs/2601.03309)|null|
-|**2026-01-06**|**InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields**|Hao Yu et.al.|[2601.03252](http://arxiv.org/abs/2601.03252)|**[link](https://github.com/zju3dv/InfiniDepth)**|
+|**2026-01-06**|**InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields**|Hao Yu et.al.|[2601.03252](http://arxiv.org/abs/2601.03252)|null|
 |**2026-01-06**|**Reinforcement Learning for Follow-the-Leader Robotic Endoscopic Navigation via Synthetic Data**|Sicong Gao et.al.|[2601.02798](http://arxiv.org/abs/2601.02798)|null|
 |**2026-01-06**|**StableDPT: Temporal Stable Monocular Video Depth Estimation**|Ivan Sobko et.al.|[2601.02793](http://arxiv.org/abs/2601.02793)|null|
 |**2026-01-06**|**AnyDepth: Depth Estimation Made Easy**|Zeyu Ren et.al.|[2601.02760](http://arxiv.org/abs/2601.02760)|null|
@@ -917,17 +918,21 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**Exchange Is All You Need for Remote Sensing Change Detection**|Sijun Dong et.al.|[2601.07805](http://arxiv.org/abs/2601.07805)|null|
+|**2026-01-12**|**PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion**|Mahdi Chamseddine et.al.|[2601.07447](http://arxiv.org/abs/2601.07447)|null|
+|**2026-01-10**|**Boosting Overlapping Organoid Instance Segmentation Using Pseudo-Label Unmixing and Synthesis-Assisted Learning**|Gui Huang et.al.|[2601.06642](http://arxiv.org/abs/2601.06642)|null|
+|**2026-01-08**|**When Imbalance Comes Twice: Active Learning under Simulated Class Imbalance and Label Shift in Binary Semantic Segmentation**|Julien Combes et.al.|[2601.06209](http://arxiv.org/abs/2601.06209)|null|
 |**2026-01-09**|**Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens**|Yohann Perron et.al.|[2601.05927](http://arxiv.org/abs/2601.05927)|null|
 |**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](http://arxiv.org/abs/2601.05105)|null|
 |**2026-01-08**|**TEA: Temporal Adaptive Satellite Image Semantic Segmentation**|Juyuan Kang et.al.|[2601.04956](http://arxiv.org/abs/2601.04956)|null|
 |**2026-01-07**|**Physics-Constrained Cross-Resolution Enhancement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2601.03526](http://arxiv.org/abs/2601.03526)|null|
-|**2026-01-07**|**A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving**|Liangdong Zhang et.al.|[2601.03519](http://arxiv.org/abs/2601.03519)|null|
+|**2026-01-12**|**A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving**|Liangdong Zhang et.al.|[2601.03519](http://arxiv.org/abs/2601.03519)|null|
 |**2026-01-07**|**G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Semantic Segmentation**|Hojun Song et.al.|[2601.03510](http://arxiv.org/abs/2601.03510)|null|
 |**2026-01-06**|**EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework**|Junjue Wang et.al.|[2601.02783](http://arxiv.org/abs/2601.02783)|null|
 |**2026-01-06**|**M-SEVIQ: A Multi-band Stereo Event Visual-Inertial Quadruped-based Dataset for Perception under Rapid Motion and Challenging Illumination**|Jingcheng Cao et.al.|[2601.02777](http://arxiv.org/abs/2601.02777)|null|
@@ -2633,7 +2638,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
