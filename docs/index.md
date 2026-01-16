@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3839,6 +3839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series**|Kai Hu et.al.|[2601.09110](http://arxiv.org/abs/2601.09110)|null|
+|**2026-01-14**|**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**|Lachlan Holden et.al.|[2601.09107](http://arxiv.org/abs/2601.09107)|null|
 |**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](http://arxiv.org/abs/2601.08797)|null|
 |**2026-01-13**|**WaveFormer: Frequency-Time Decoupled Vision Modeling with Wave Equation**|Zishan Shu et.al.|[2601.08602](http://arxiv.org/abs/2601.08602)|null|
 |**2026-01-13**|**Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation**|Yuan Gao et.al.|[2601.08375](http://arxiv.org/abs/2601.08375)|null|

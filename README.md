@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -919,12 +919,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-14**|**SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series**|Kai Hu et.al.|[2601.09110](http://arxiv.org/abs/2601.09110)|null|
+|**2026-01-14**|**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**|Lachlan Holden et.al.|[2601.09107](http://arxiv.org/abs/2601.09107)|null|
 |**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](http://arxiv.org/abs/2601.08797)|null|
 |**2026-01-13**|**WaveFormer: Frequency-Time Decoupled Vision Modeling with Wave Equation**|Zishan Shu et.al.|[2601.08602](http://arxiv.org/abs/2601.08602)|null|
 |**2026-01-13**|**Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation**|Yuan Gao et.al.|[2601.08375](http://arxiv.org/abs/2601.08375)|null|
@@ -2645,7 +2647,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
