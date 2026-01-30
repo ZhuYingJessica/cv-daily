@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,7 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-27**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|null|
+|**2026-01-28**|**Physically Guided Visual Mass Estimation from a Single RGB Image**|Sungjae Lee et.al.|[2601.20303](http://arxiv.org/abs/2601.20303)|null|
+|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
 |**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[2601.19461](http://arxiv.org/abs/2601.19461)|null|
 |**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](http://arxiv.org/abs/2601.19385)|**[link](https://github.com/J-Britten/MIRAGE)**|
 |**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
@@ -2942,7 +2944,7 @@ layout: default
 |**2026-01-25**|**SPACE-CLIP: Spatial Perception via Adaptive CLIP Embeddings for Monocular Depth Estimation**|Taewan Cho et.al.|[2601.17657](http://arxiv.org/abs/2601.17657)|null|
 |**2026-01-24**|**AsterNav: Autonomous Aerial Robot Navigation In Darkness Using Passive Computation**|Deepak Singh et.al.|[2601.17550](http://arxiv.org/abs/2601.17550)|null|
 |**2026-01-24**|**Cross360: 360° Monocular Depth Estimation via Cross Projections Across Scales**|Kun Huang et.al.|[2601.17271](http://arxiv.org/abs/2601.17271)|null|
-|**2026-01-27**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|null|
+|**2026-01-28**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|null|
 |**2026-01-26**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](http://arxiv.org/abs/2601.16532)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
 |**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|null|
@@ -3854,10 +3856,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation**|Zhen Yao et.al.|[2601.20064](http://arxiv.org/abs/2601.20064)|null|
 |**2026-01-27**|**Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|[2601.19403](http://arxiv.org/abs/2601.19403)|null|
 |**2026-01-25**|**RegGuard: AI-Powered Retrieval-Enhanced Assistant for Pharmaceutical Regulatory Compliance**|Siyuan Yang et.al.|[2601.17826](http://arxiv.org/abs/2601.17826)|null|
 |**2026-01-24**|**STARS: Shared-specific Translation and Alignment for missing-modality Remote Sensing Semantic Segmentation**|Tong Wang et.al.|[2601.17342](http://arxiv.org/abs/2601.17342)|null|
-|**2026-01-27**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|null|
+|**2026-01-28**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|null|
 |**2026-01-20**|**MANGO: A Global Single-Date Paired Dataset for Mangrove Segmentation**|Junhyuk Heo et.al.|[2601.17039](http://arxiv.org/abs/2601.17039)|null|
 |**2026-01-23**|**Domain-invariant Mixed-domain Semi-supervised Medical Image Segmentation with Clustered Maximum Mean Discrepancy Alignment**|Ba-Thinh Lam et.al.|[2601.16954](http://arxiv.org/abs/2601.16954)|null|
 |**2026-01-23**|**REL-SF4PASS: Panoramic Semantic Segmentation with REL Depth Representation and Spherical Fusion**|Xuewei Li et.al.|[2601.16788](http://arxiv.org/abs/2601.16788)|null|
@@ -3877,7 +3880,7 @@ layout: default
 |**2026-01-16**|**Context-Aware Semantic Segmentation via Stage-Wise Attention**|Antoine Carreaud et.al.|[2601.11310](http://arxiv.org/abs/2601.11310)|null|
 |**2026-01-16**|**Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis**|Shangbo Yuan et.al.|[2601.11102](http://arxiv.org/abs/2601.11102)|null|
 |**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477](http://arxiv.org/abs/2601.10477)|null|
-|**2026-01-14**|**SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series**|Kai Hu et.al.|[2601.09110](http://arxiv.org/abs/2601.09110)|null|
+|**2026-01-28**|**SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series**|Kai Hu et.al.|[2601.09110](http://arxiv.org/abs/2601.09110)|null|
 |**2026-01-14**|**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**|Lachlan Holden et.al.|[2601.09107](http://arxiv.org/abs/2601.09107)|null|
 |**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](http://arxiv.org/abs/2601.08797)|null|
 |**2026-01-13**|**WaveFormer: Frequency-Time Decoupled Vision Modeling with Wave Equation**|Zishan Shu et.al.|[2601.08602](http://arxiv.org/abs/2601.08602)|null|
