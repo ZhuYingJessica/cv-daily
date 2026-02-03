@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Deep in the Jungle: Towards Automating Chimpanzee Population Estimation**|Tom Raynes et.al.|[2601.22917](http://arxiv.org/abs/2601.22917)|null|
 |**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
 |**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[2601.21935](http://arxiv.org/abs/2601.21935)|null|
 |**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|null|
@@ -2945,10 +2946,10 @@ layout: default
 |**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929](http://arxiv.org/abs/2601.18929)|null|
 |**2026-01-25**|**SPACE-CLIP: Spatial Perception via Adaptive CLIP Embeddings for Monocular Depth Estimation**|Taewan Cho et.al.|[2601.17657](http://arxiv.org/abs/2601.17657)|null|
 |**2026-01-29**|**AsterNav: Autonomous Aerial Robot Navigation In Darkness Using Passive Computation**|Deepak Singh et.al.|[2601.17550](http://arxiv.org/abs/2601.17550)|null|
-|**2026-01-24**|**Cross360: 360° Monocular Depth Estimation via Cross Projections Across Scales**|Kun Huang et.al.|[2601.17271](http://arxiv.org/abs/2601.17271)|**[link](https://github.com/huangkun101230/Cross360)**|
+|**2026-01-24**|**Cross360: 360° Monocular Depth Estimation via Cross Projections Across Scales**|Kun Huang et.al.|[2601.17271](http://arxiv.org/abs/2601.17271)|null|
 |**2026-01-28**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|null|
 |**2026-01-26**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](http://arxiv.org/abs/2601.16532)|null|
-|**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|**[link](https://github.com/Lucas-707/RayRoPE)**|
+|**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
 |**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|null|
 |**2026-01-16**|**SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models**|Turhan Can Kargin et.al.|[2601.11729](http://arxiv.org/abs/2601.11729)|null|
 |**2026-01-20**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](http://arxiv.org/abs/2601.10814)|null|
@@ -3858,9 +3859,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](http://arxiv.org/abs/2601.22529)|null|
+|**2026-01-30**|**Class-Aware Permutation-Invariant Signal-to-Distortion Ratio for Semantic Segmentation of Sound Scene with Same-Class Sources**|Binh Thien Nguyen et.al.|[2601.22504](http://arxiv.org/abs/2601.22504)|null|
 |**2026-01-29**|**Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery**|Jianzheng Wang et.al.|[2601.21159](http://arxiv.org/abs/2601.21159)|null|
 |**2026-01-27**|**DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation**|Zhen Yao et.al.|[2601.20064](http://arxiv.org/abs/2601.20064)|null|
-|**2026-01-27**|**Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|[2601.19403](http://arxiv.org/abs/2601.19403)|**[link](https://github.com/puostyoon/learned-split-spectrum-metalens-public)**|
+|**2026-01-27**|**Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|[2601.19403](http://arxiv.org/abs/2601.19403)|null|
 |**2026-01-25**|**RegGuard: AI-Powered Retrieval-Enhanced Assistant for Pharmaceutical Regulatory Compliance**|Siyuan Yang et.al.|[2601.17826](http://arxiv.org/abs/2601.17826)|null|
 |**2026-01-24**|**STARS: Shared-specific Translation and Alignment for missing-modality Remote Sensing Semantic Segmentation**|Tong Wang et.al.|[2601.17342](http://arxiv.org/abs/2601.17342)|null|
 |**2026-01-28**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|null|
