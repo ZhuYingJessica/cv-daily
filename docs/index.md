@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](http://arxiv.org/abs/2602.01899)|null|
+|**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|null|
 |**2026-01-30**|**Deep in the Jungle: Towards Automating Chimpanzee Population Estimation**|Tom Raynes et.al.|[2601.22917](http://arxiv.org/abs/2601.22917)|null|
 |**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
 |**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[2601.21935](http://arxiv.org/abs/2601.21935)|null|
@@ -3859,6 +3861,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](http://arxiv.org/abs/2602.02171)|null|
+|**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](http://arxiv.org/abs/2602.01899)|null|
+|**2026-02-02**|**Physics Informed Generative AI Enabling Labour Free Segmentation For Microscopy Analysis**|Salma Zahran et.al.|[2602.01710](http://arxiv.org/abs/2602.01710)|null|
+|**2026-02-01**|**Sem-NaVAE: Semantically-Guided Outdoor Mapless Navigation via Generative Trajectory Priors**|Gonzalo Olguin et.al.|[2602.01429](http://arxiv.org/abs/2602.01429)|null|
+|**2026-02-01**|**Instance-Guided Unsupervised Domain Adaptation for Robotic Semantic Segmentation**|Michele Antonazzi et.al.|[2602.01389](http://arxiv.org/abs/2602.01389)|null|
+|**2026-02-01**|**Semantically Aware UAV Landing Site Assessment from Remote Sensing Imagery via Multimodal Large Language Models**|Chunliang Hua et.al.|[2602.01163](http://arxiv.org/abs/2602.01163)|null|
+|**2026-01-31**|**SPARK: Stochastic Propagation via Affinity-guided Random walK for training-free unsupervised segmentation**|Kunal Mahatha et.al.|[2602.00516](http://arxiv.org/abs/2602.00516)|null|
+|**2026-01-31**|**ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation**|Pengyu Chen et.al.|[2602.00470](http://arxiv.org/abs/2602.00470)|null|
+|**2026-01-30**|**Vision-Language Model Purified Semi-Supervised Semantic Segmentation for Remote Sensing Images**|Shanwen Wang et.al.|[2602.00202](http://arxiv.org/abs/2602.00202)|null|
 |**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](http://arxiv.org/abs/2601.22529)|null|
 |**2026-01-30**|**Class-Aware Permutation-Invariant Signal-to-Distortion Ratio for Semantic Segmentation of Sound Scene with Same-Class Sources**|Binh Thien Nguyen et.al.|[2601.22504](http://arxiv.org/abs/2601.22504)|null|
 |**2026-01-29**|**Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery**|Jianzheng Wang et.al.|[2601.21159](http://arxiv.org/abs/2601.21159)|null|

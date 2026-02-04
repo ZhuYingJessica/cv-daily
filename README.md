@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](http://arxiv.org/abs/2602.01899)|null|
+|**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|null|
 |**2026-01-30**|**Deep in the Jungle: Towards Automating Chimpanzee Population Estimation**|Tom Raynes et.al.|[2601.22917](http://arxiv.org/abs/2601.22917)|null|
 |**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
 |**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[2601.21935](http://arxiv.org/abs/2601.21935)|null|
@@ -939,12 +941,21 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](http://arxiv.org/abs/2602.02171)|null|
+|**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](http://arxiv.org/abs/2602.01899)|null|
+|**2026-02-02**|**Physics Informed Generative AI Enabling Labour Free Segmentation For Microscopy Analysis**|Salma Zahran et.al.|[2602.01710](http://arxiv.org/abs/2602.01710)|null|
+|**2026-02-01**|**Sem-NaVAE: Semantically-Guided Outdoor Mapless Navigation via Generative Trajectory Priors**|Gonzalo Olguin et.al.|[2602.01429](http://arxiv.org/abs/2602.01429)|null|
+|**2026-02-01**|**Instance-Guided Unsupervised Domain Adaptation for Robotic Semantic Segmentation**|Michele Antonazzi et.al.|[2602.01389](http://arxiv.org/abs/2602.01389)|null|
+|**2026-02-01**|**Semantically Aware UAV Landing Site Assessment from Remote Sensing Imagery via Multimodal Large Language Models**|Chunliang Hua et.al.|[2602.01163](http://arxiv.org/abs/2602.01163)|null|
+|**2026-01-31**|**SPARK: Stochastic Propagation via Affinity-guided Random walK for training-free unsupervised segmentation**|Kunal Mahatha et.al.|[2602.00516](http://arxiv.org/abs/2602.00516)|null|
+|**2026-01-31**|**ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation**|Pengyu Chen et.al.|[2602.00470](http://arxiv.org/abs/2602.00470)|null|
+|**2026-01-30**|**Vision-Language Model Purified Semi-Supervised Semantic Segmentation for Remote Sensing Images**|Shanwen Wang et.al.|[2602.00202](http://arxiv.org/abs/2602.00202)|null|
 |**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](http://arxiv.org/abs/2601.22529)|null|
 |**2026-01-30**|**Class-Aware Permutation-Invariant Signal-to-Distortion Ratio for Semantic Segmentation of Sound Scene with Same-Class Sources**|Binh Thien Nguyen et.al.|[2601.22504](http://arxiv.org/abs/2601.22504)|null|
 |**2026-01-29**|**Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery**|Jianzheng Wang et.al.|[2601.21159](http://arxiv.org/abs/2601.21159)|null|
@@ -2694,7 +2705,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
