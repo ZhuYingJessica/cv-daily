@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.05
+## Updated on 2026.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**|Rio Aguina-Kang et.al.|[2602.04053](http://arxiv.org/abs/2602.04053)|null|
 |**2026-02-03**|**Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements**|Marco Job et.al.|[2602.03209](http://arxiv.org/abs/2602.03209)|null|
 |**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](http://arxiv.org/abs/2602.01899)|null|
 |**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|null|
@@ -942,12 +943,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation**|Buddhi Wijenayake et.al.|[2602.04749](http://arxiv.org/abs/2602.04749)|null|
+|**2026-02-04**|**PEPR: Privileged Event-based Predictive Regularization for Domain Generalization**|Gabriele Magrini et.al.|[2602.04583](http://arxiv.org/abs/2602.04583)|null|
+|**2026-02-03**|**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**|Rio Aguina-Kang et.al.|[2602.04053](http://arxiv.org/abs/2602.04053)|null|
+|**2026-02-03**|**Artifact Removal and Image Restoration in AFM:A Structured Mask-Guided Directional Inpainting Approach**|Juntao Zhang et.al.|[2602.04051](http://arxiv.org/abs/2602.04051)|null|
 |**2026-02-03**|**Multi-Objective Optimization for Synthetic-to-Real Style Transfer**|Estelle Chigot et.al.|[2602.03625](http://arxiv.org/abs/2602.03625)|null|
 |**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](http://arxiv.org/abs/2602.02171)|null|
 |**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](http://arxiv.org/abs/2602.01899)|null|
@@ -2707,7 +2712,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
