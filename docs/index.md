@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|null|
+|**2026-02-05**|**AnyThermal: Towards Learning Universal Representations for Thermal Perception**|Parv Maheshwari et.al.|[2602.06203](http://arxiv.org/abs/2602.06203)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|null|
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
@@ -3869,6 +3871,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**PANC: Prior-Aware Normalized Cut for Object Segmentation**|Juan Gutiérrez et.al.|[2602.06912](http://arxiv.org/abs/2602.06912)|null|
+|**2026-02-06**|**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**|Meng Lou et.al.|[2602.06862](http://arxiv.org/abs/2602.06862)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[2602.05937](http://arxiv.org/abs/2602.05937)|null|
 |**2026-02-05**|**LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation**|Junyang Chen et.al.|[2602.05578](http://arxiv.org/abs/2602.05578)|null|
