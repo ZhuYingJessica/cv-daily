@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization**|Yikun Liu et.al.|[2602.09934](http://arxiv.org/abs/2602.09934)|null|
+|**2026-02-10**|**RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes**|Michael Baltaxe et.al.|[2602.09532](http://arxiv.org/abs/2602.09532)|null|
 |**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|null|
 |**2026-02-05**|**AnyThermal: Towards Learning Universal Representations for Thermal Perception**|Parv Maheshwari et.al.|[2602.06203](http://arxiv.org/abs/2602.06203)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
@@ -951,12 +953,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Spatio-Temporal Attention for Consistent Video Semantic Segmentation in Automated Driving**|Serin Varghese et.al.|[2602.10052](http://arxiv.org/abs/2602.10052)|null|
+|**2026-02-10**|**VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization**|Yikun Liu et.al.|[2602.09934](http://arxiv.org/abs/2602.09934)|null|
+|**2026-02-10**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[2602.09648](http://arxiv.org/abs/2602.09648)|null|
+|**2026-02-10**|**FD-DB: Frequency-Decoupled Dual-Branch Network for Unpaired Synthetic-to-Real Domain Translation**|Chuanhai Zang et.al.|[2602.09476](http://arxiv.org/abs/2602.09476)|null|
 |**2026-02-09**|**Geospatial-Reasoning-Driven Vocabulary-Agnostic Remote Sensing Semantic Segmentation**|Chufeng Zhou et.al.|[2602.08206](http://arxiv.org/abs/2602.08206)|null|
 |**2026-02-09**|**DAS-SK: An Adaptive Model Integrating Dual Atrous Separable and Selective Kernel CNN for Agriculture Semantic Segmentation**|Mei Ling Chee et.al.|[2602.08168](http://arxiv.org/abs/2602.08168)|null|
 |**2026-02-07**|**All-Optical Segmentation via Diffractive Neural Networks for Autonomous Driving**|Yingjie Li et.al.|[2602.07717](http://arxiv.org/abs/2602.07717)|null|
@@ -982,7 +988,7 @@
 |**2026-02-01**|**Semantically Aware UAV Landing Site Assessment from Remote Sensing Imagery via Multimodal Large Language Models**|Chunliang Hua et.al.|[2602.01163](http://arxiv.org/abs/2602.01163)|null|
 |**2026-01-31**|**SPARK: Stochastic Propagation via Affinity-guided Random walK for training-free unsupervised segmentation**|Kunal Mahatha et.al.|[2602.00516](http://arxiv.org/abs/2602.00516)|null|
 |**2026-01-31**|**ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation**|Pengyu Chen et.al.|[2602.00470](http://arxiv.org/abs/2602.00470)|null|
-|**2026-01-30**|**Vision-Language Model Purified Semi-Supervised Semantic Segmentation for Remote Sensing Images**|Shanwen Wang et.al.|[2602.00202](http://arxiv.org/abs/2602.00202)|null|
+|**2026-01-30**|**Vision-Language Model Purified Semi-Supervised Semantic Segmentation for Remote Sensing Images**|Shanwen Wang et.al.|[2602.00202](http://arxiv.org/abs/2602.00202)|**[link](https://github.com/wangshanwen001/SemiEarth)**|
 |**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](http://arxiv.org/abs/2601.22529)|null|
 |**2026-01-30**|**Class-Aware Permutation-Invariant Signal-to-Distortion Ratio for Semantic Segmentation of Sound Scene with Same-Class Sources**|Binh Thien Nguyen et.al.|[2601.22504](http://arxiv.org/abs/2601.22504)|null|
 |**2026-01-29**|**Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery**|Jianzheng Wang et.al.|[2601.21159](http://arxiv.org/abs/2601.21159)|null|
@@ -2732,7 +2738,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
