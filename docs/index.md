@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3881,6 +3881,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Bridging Day and Night: Target-Class Hallucination Suppression in Unpaired Image Translation**|Shuwei Li et.al.|[2602.15383](http://arxiv.org/abs/2602.15383)|null|
+|**2026-02-14**|**Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis**|Rut Pate et.al.|[2602.15067](http://arxiv.org/abs/2602.15067)|null|
 |**2026-02-16**|**SAILS: Segment Anything with Incrementally Learned Semantics for Task-Invariant and Training-Free Continual Learning**|Shishir Muralidhara et.al.|[2602.14767](http://arxiv.org/abs/2602.14767)|null|
 |**2026-02-16**|**Cross-view Domain Generalization via Geometric Consistency for LiDAR Semantic Segmentation**|Jindong Zhao et.al.|[2602.14525](http://arxiv.org/abs/2602.14525)|null|
 |**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](http://arxiv.org/abs/2602.14134)|null|
