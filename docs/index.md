@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Breaking the Sub-Millimeter Barrier: Eyeframe Acquisition from Color Images**|Manel Guzmán et.al.|[2602.16281](http://arxiv.org/abs/2602.16281)|null|
 |**2026-02-16**|**AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories**|Zun Wang et.al.|[2602.14941](http://arxiv.org/abs/2602.14941)|**[link](https://github.com/wz0919/AnchorWeave)**|
 |**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](http://arxiv.org/abs/2602.14134)|null|
 |**2026-02-10**|**Sim2Radar: Toward Bridging the Radar Sim-to-Real Gap with VLM-Guided Scene Reconstruction**|Emily Bejerano et.al.|[2602.13314](http://arxiv.org/abs/2602.13314)|null|
@@ -3889,7 +3890,7 @@ layout: default
 |**2026-02-15**|**Restoration Adaptation for Semantic Segmentation on Low Quality Images**|Kai Guan et.al.|[2602.14042](http://arxiv.org/abs/2602.14042)|null|
 |**2026-02-14**|**Privacy-Concealing Cooperative Perception for BEV Scene Segmentation**|Song Wang et.al.|[2602.13555](http://arxiv.org/abs/2602.13555)|null|
 |**2026-02-12**|**An Integrated Causal Inference Framework for Traffic Safety Modeling with Semantic Street-View Visual Features**|Lishan Sun et.al.|[2602.13339](http://arxiv.org/abs/2602.13339)|null|
-|**2026-02-07**|**COOPERTRIM: Adaptive Data Selection for Uncertainty-Aware Cooperative Perception**|Shilpa Mukhopadhyay et.al.|[2602.13287](http://arxiv.org/abs/2602.13287)|null|
+|**2026-02-17**|**COOPERTRIM: Adaptive Data Selection for Uncertainty-Aware Cooperative Perception**|Shilpa Mukhopadhyay et.al.|[2602.13287](http://arxiv.org/abs/2602.13287)|null|
 |**2026-02-13**|**DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation**|Boujemaa Guermazi et.al.|[2602.13020](http://arxiv.org/abs/2602.13020)|null|
 |**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871](http://arxiv.org/abs/2602.10871)|null|
 |**2026-02-16**|**AMAP-APP: Efficient Segmentation and Morphometry Quantification of Fluorescent Microscopy Images of Podocytes**|Arash Fatehi et.al.|[2602.10663](http://arxiv.org/abs/2602.10663)|null|
