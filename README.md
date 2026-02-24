@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,11 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|null|
 |**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|**[link](https://github.com/AIGeeksGroup/StereoAdapter-2)**|
 |**2026-02-18**|**Breaking the Sub-Millimeter Barrier: Eyeframe Acquisition from Color Images**|Manel Guzmán et.al.|[2602.16281](http://arxiv.org/abs/2602.16281)|null|
 |**2026-02-16**|**AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories**|Zun Wang et.al.|[2602.14941](http://arxiv.org/abs/2602.14941)|**[link](https://github.com/wz0919/AnchorWeave)**|
 |**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](http://arxiv.org/abs/2602.14134)|null|
-|**2026-02-10**|**Sim2Radar: Toward Bridging the Radar Sim-to-Real Gap with VLM-Guided Scene Reconstruction**|Emily Bejerano et.al.|[2602.13314](http://arxiv.org/abs/2602.13314)|null|
+|**2026-02-20**|**Sim2Radar: Toward Bridging the Radar Sim-to-Real Gap with VLM-Guided Scene Reconstruction**|Emily Bejerano et.al.|[2602.13314](http://arxiv.org/abs/2602.13314)|null|
 |**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
 |**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](http://arxiv.org/abs/2602.11323)|null|
 |**2026-02-11**|**PuriLight: A Lightweight Shuffle and Purification Framework for Monocular Depth Estimation**|Yujie Chen et.al.|[2602.11066](http://arxiv.org/abs/2602.11066)|null|
@@ -963,12 +965,15 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Faster Training, Fewer Labels: Self-Supervised Pretraining for Fine-Grained BEV Segmentation**|Daniel Busch et.al.|[2602.18066](http://arxiv.org/abs/2602.18066)|null|
+|**2026-02-19**|**Neural Prior Estimation: Learning Class Priors from Latent Representations**|Masoud Yavari et.al.|[2602.17853](http://arxiv.org/abs/2602.17853)|null|
+|**2026-02-19**|**Enabling Training-Free Text-Based Remote Sensing Segmentation**|Jose Sosa et.al.|[2602.17799](http://arxiv.org/abs/2602.17799)|null|
 |**2026-02-19**|**RA-Nav: A Risk-Aware Navigation System Based on Semantic Segmentation for Aerial Robots in Unpredictable Environments**|Ziyi Zong et.al.|[2602.17515](http://arxiv.org/abs/2602.17515)|null|
 |**2026-02-17**|**Bridging Day and Night: Target-Class Hallucination Suppression in Unpaired Image Translation**|Shuwei Li et.al.|[2602.15383](http://arxiv.org/abs/2602.15383)|null|
 |**2026-02-14**|**Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis**|Rut Pate et.al.|[2602.15067](http://arxiv.org/abs/2602.15067)|null|
@@ -2762,7 +2767,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
