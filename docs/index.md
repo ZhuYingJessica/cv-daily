@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.27
+## Updated on 2026.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-25**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](http://arxiv.org/abs/2602.21893)|null|
+|**2026-02-26**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](http://arxiv.org/abs/2602.21893)|null|
 |**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|**[link](https://github.com/YyangJJuan/PC-S2I)**|
 |**2026-02-23**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](http://arxiv.org/abs/2602.19766)|null|
 |**2026-02-23**|**Training Deep Stereo Matching Networks on Tree Branch Imagery: A Benchmark Study for Real-Time UAV Forestry Applications**|Yida Lin et.al.|[2602.19763](http://arxiv.org/abs/2602.19763)|null|
-|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|null|
-|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|null|
+|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|**[link](https://github.com/ShngJZ/Marginalized-Bundle-Adjustment)**|
+|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|null|
 |**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|null|
 |**2026-02-18**|**Breaking the Sub-Millimeter Barrier: Eyeframe Acquisition from Color Images**|Manel Guzmán et.al.|[2602.16281](http://arxiv.org/abs/2602.16281)|null|
@@ -3890,6 +3890,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Align then Adapt: Rethinking Parameter-Efficient Transfer Learning in 4D Perception**|Yiding Sun et.al.|[2602.23069](http://arxiv.org/abs/2602.23069)|null|
+|**2026-02-26**|**SO3UFormer: Learning Intrinsic Spherical Features for Rotation-Robust Panoramic Segmentation**|Qinfeng Zhu et.al.|[2602.22867](http://arxiv.org/abs/2602.22867)|null|
+|**2026-02-26**|**A data- and compute-efficient chest X-ray foundation model beyond aggressive scaling**|Chong Wang et.al.|[2602.22843](http://arxiv.org/abs/2602.22843)|null|
 |**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
 |**2026-02-25**|**Assessing airborne laser scanning and aerial photogrammetry for deep learning-based stand delineation**|Håkon Næss Sandum et.al.|[2602.21709](http://arxiv.org/abs/2602.21709)|null|
 |**2026-02-25**|**Tokenizing Semantic Segmentation with RLE**|Abhineet Singh et.al.|[2602.21627](http://arxiv.org/abs/2602.21627)|null|
