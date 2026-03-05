@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,16 +2934,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|**[link](https://github.com/reubendocea/d4d)**|
+|**2026-03-03**|**DREAM: Where Visual Understanding Meets Text-to-Image Generation**|Chao Li et.al.|[2603.02667](http://arxiv.org/abs/2603.02667)|null|
+|**2026-03-02**|**TruckDrive: Long-Range Autonomous Highway Driving Dataset**|Filippo Ghilotti et.al.|[2603.02413](http://arxiv.org/abs/2603.02413)|null|
 |**2026-03-02**|**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**|Jan Finke et.al.|[2603.01999](http://arxiv.org/abs/2603.01999)|null|
 |**2026-03-02**|**WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments**|Joshua Knights et.al.|[2603.01475](http://arxiv.org/abs/2603.01475)|**[link](https://github.com/csiro-robotics/WildCross)**|
 |**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](http://arxiv.org/abs/2603.01007)|null|
 |**2026-02-27**|**Altitude-Aware Visual Place Recognition in Top-Down View**|Xingyu Shao et.al.|[2602.23872](http://arxiv.org/abs/2602.23872)|null|
 |**2026-02-26**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](http://arxiv.org/abs/2602.21893)|null|
-|**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|**[link](https://github.com/YyangJJuan/PC-S2I)**|
+|**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|null|
 |**2026-02-27**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](http://arxiv.org/abs/2602.19766)|null|
 |**2026-02-23**|**Training Deep Stereo Matching Networks on Tree Branch Imagery: A Benchmark Study for Real-Time UAV Forestry Applications**|Yida Lin et.al.|[2602.19763](http://arxiv.org/abs/2602.19763)|null|
 |**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|null|
-|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|null|
+|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|null|
 |**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|null|
 |**2026-02-18**|**Breaking the Sub-Millimeter Barrier: Eyeframe Acquisition from Color Images**|Manel Guzmán et.al.|[2602.16281](http://arxiv.org/abs/2602.16281)|null|
@@ -3894,6 +3897,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**TinyIceNet: Low-Power SAR Sea Ice Segmentation for On-Board FPGA Inference**|Mhd Rashed Al Koutayni et.al.|[2603.03075](http://arxiv.org/abs/2603.03075)|null|
+|**2026-03-03**|**Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers**|Youngjun Jun et.al.|[2603.02919](http://arxiv.org/abs/2603.02919)|null|
+|**2026-03-03**|**DREAM: Where Visual Understanding Meets Text-to-Image Generation**|Chao Li et.al.|[2603.02667](http://arxiv.org/abs/2603.02667)|null|
+|**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[2603.02560](http://arxiv.org/abs/2603.02560)|null|
+|**2026-03-03**|**Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation**|Chonghua Lv et.al.|[2603.02554](http://arxiv.org/abs/2603.02554)|null|
+|**2026-03-03**|**SGMA: Semantic-Guided Modality-Aware Segmentation for Remote Sensing with Incomplete Multimodal Data**|Lekang Wen et.al.|[2603.02505](http://arxiv.org/abs/2603.02505)|null|
+|**2026-03-02**|**Advancing Earth Observation Through Machine Learning: A TorchGeo Tutorial**|Caleb Robinson et.al.|[2603.02386](http://arxiv.org/abs/2603.02386)|null|
 |**2026-03-02**|**Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design**|Bosen Lin et.al.|[2603.01767](http://arxiv.org/abs/2603.01767)|null|
 |**2026-03-02**|**Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing**|Zijin Yin et.al.|[2603.01535](http://arxiv.org/abs/2603.01535)|null|
 |**2026-03-01**|**Open-Vocabulary vs Supervised Learning Methods for Post-Disaster Visual Scene Understanding**|Anna Michailidou et.al.|[2603.01324](http://arxiv.org/abs/2603.01324)|null|
