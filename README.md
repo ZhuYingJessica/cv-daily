@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Viewpoint-Agnostic Grasp Pipeline using VLM and Partial Observations**|Dilermando Almeida et.al.|[2603.07866](http://arxiv.org/abs/2603.07866)|null|
+|**2026-03-08**|**FrameVGGT: Frame Evidence Rolling Memory for streaming VGGT**|Zhisong Xu et.al.|[2603.07690](http://arxiv.org/abs/2603.07690)|null|
+|**2026-03-06**|**SurgSync: Time-Synchronized Multi-Modal Data Collection Framework and Dataset for Surgical Robotics**|Haoying Zhou et.al.|[2603.06919](http://arxiv.org/abs/2603.06919)|**[link](https://github.com/surgsync/surgsync.github.io)**|
 |**2026-03-06**|**CHMv2: Improvements in Global Canopy Height Mapping using DINOv3**|John Brandt et.al.|[2603.06382](http://arxiv.org/abs/2603.06382)|null|
 |**2026-03-06**|**RePer-360: Releasing Perspective Priors for 360 $^\circ$ Depth Estimation via Self-Modulation**|Cheng Guan et.al.|[2603.05999](http://arxiv.org/abs/2603.05999)|null|
 |**2026-03-06**|**EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition**|Adam D. Hines et.al.|[2603.05807](http://arxiv.org/abs/2603.05807)|null|
@@ -36,8 +39,8 @@
 |**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|null|
 |**2026-02-27**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](http://arxiv.org/abs/2602.19766)|null|
 |**2026-02-23**|**Training Deep Stereo Matching Networks on Tree Branch Imagery: A Benchmark Study for Real-Time UAV Forestry Applications**|Yida Lin et.al.|[2602.19763](http://arxiv.org/abs/2602.19763)|null|
-|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|**[link](https://github.com/ShngJZ/Marginalized-Bundle-Adjustment)**|
-|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|null|
+|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|null|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|null|
 |**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|null|
 |**2026-02-18**|**Breaking the Sub-Millimeter Barrier: Eyeframe Acquisition from Color Images**|Manel Guzmán et.al.|[2602.16281](http://arxiv.org/abs/2602.16281)|null|
@@ -984,20 +987,24 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation**|Hikmat Khan et.al.|[2603.08605](http://arxiv.org/abs/2603.08605)|null|
+|**2026-03-08**|**Efficient RGB-D Scene Understanding via Multi-task Adaptive Learning and Cross-dimensional Feature Guidance**|Guodong Sun et.al.|[2603.07570](http://arxiv.org/abs/2603.07570)|null|
+|**2026-03-08**|**Defect Detection in Magnetic Systems Using U-Net and Statistical Measures**|Ross Knapman et.al.|[2603.07542](http://arxiv.org/abs/2603.07542)|null|
+|**2026-03-08**|**SIGMAE: A Spectral-Index-Guided Foundation Model for Multispectral Remote Sensing**|Xiaokang Zhang et.al.|[2603.07463](http://arxiv.org/abs/2603.07463)|null|
 |**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[2603.06374](http://arxiv.org/abs/2603.06374)|null|
-|**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[2603.06321](http://arxiv.org/abs/2603.06321)|**[link](https://github.com/lixinzhan98/P-SLCR)**|
+|**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[2603.06321](http://arxiv.org/abs/2603.06321)|null|
 |**2026-03-06**|**Making Training-Free Diffusion Segmentors Scale with the Generative Power**|Benyuan Meng et.al.|[2603.06178](http://arxiv.org/abs/2603.06178)|null|
 |**2026-03-06**|**JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas**|Sandeep Inuganti et.al.|[2603.06168](http://arxiv.org/abs/2603.06168)|null|
 |**2026-03-05**|**Generalizable Multiscale Segmentation of Heterogeneous Map Collections**|Remi Petitpierre et.al.|[2603.05037](http://arxiv.org/abs/2603.05037)|null|
 |**2026-03-04**|**Semantic Bridging Domains: Pseudo-Source as Test-Time Connector**|Xizhong Yang et.al.|[2603.03844](http://arxiv.org/abs/2603.03844)|null|
 |**2026-03-03**|**TinyIceNet: Low-Power SAR Sea Ice Segmentation for On-Board FPGA Inference**|Mhd Rashed Al Koutayni et.al.|[2603.03075](http://arxiv.org/abs/2603.03075)|null|
-|**2026-03-03**|**Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers**|Youngjun Jun et.al.|[2603.02919](http://arxiv.org/abs/2603.02919)|null|
+|**2026-03-09**|**Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers**|Youngjun Jun et.al.|[2603.02919](http://arxiv.org/abs/2603.02919)|null|
 |**2026-03-03**|**DREAM: Where Visual Understanding Meets Text-to-Image Generation**|Chao Li et.al.|[2603.02667](http://arxiv.org/abs/2603.02667)|null|
 |**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[2603.02560](http://arxiv.org/abs/2603.02560)|null|
 |**2026-03-03**|**Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation**|Chonghua Lv et.al.|[2603.02554](http://arxiv.org/abs/2603.02554)|null|
@@ -2827,7 +2834,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
