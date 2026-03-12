@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,9 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**SurgFed: Language-guided Multi-Task Federated Learning for Surgical Video Understanding**|Zheng Fang et.al.|[2603.09496](http://arxiv.org/abs/2603.09496)|null|
+|**2026-03-10**|**EventVGGT: Exploring Cross-Modal Distillation for Consistent Event-based Depth Estimation**|Yinrui Ren et.al.|[2603.09385](http://arxiv.org/abs/2603.09385)|null|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320](http://arxiv.org/abs/2603.09320)|**[link](https://github.com/wuaodi/SpaceSense-Bench)**|
 |**2026-03-09**|**Viewpoint-Agnostic Grasp Pipeline using VLM and Partial Observations**|Dilermando Almeida et.al.|[2603.07866](http://arxiv.org/abs/2603.07866)|null|
 |**2026-03-08**|**FrameVGGT: Frame Evidence Rolling Memory for streaming VGGT**|Zhisong Xu et.al.|[2603.07690](http://arxiv.org/abs/2603.07690)|null|
-|**2026-03-06**|**SurgSync: Time-Synchronized Multi-Modal Data Collection Framework and Dataset for Surgical Robotics**|Haoying Zhou et.al.|[2603.06919](http://arxiv.org/abs/2603.06919)|**[link](https://github.com/surgsync/surgsync.github.io)**|
+|**2026-03-06**|**SurgSync: Time-Synchronized Multi-Modal Data Collection Framework and Dataset for Surgical Robotics**|Haoying Zhou et.al.|[2603.06919](http://arxiv.org/abs/2603.06919)|null|
 |**2026-03-06**|**CHMv2: Improvements in Global Canopy Height Mapping using DINOv3**|John Brandt et.al.|[2603.06382](http://arxiv.org/abs/2603.06382)|null|
 |**2026-03-06**|**RePer-360: Releasing Perspective Priors for 360 $^\circ$ Depth Estimation via Self-Modulation**|Cheng Guan et.al.|[2603.05999](http://arxiv.org/abs/2603.05999)|null|
 |**2026-03-06**|**EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition**|Adam D. Hines et.al.|[2603.05807](http://arxiv.org/abs/2603.05807)|null|
@@ -987,19 +990,24 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding**|Wenzhao Xiang et.al.|[2603.09955](http://arxiv.org/abs/2603.09955)|null|
+|**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320](http://arxiv.org/abs/2603.09320)|null|
+|**2026-03-10**|**RTFDNet: Fusion-Decoupling for Robust RGB-T Segmentation**|Kunyu Tan et.al.|[2603.09149](http://arxiv.org/abs/2603.09149)|null|
+|**2026-03-10**|**Rotation Equivariant Mamba for Vision Tasks**|Zhongchen Zhao et.al.|[2603.09138](http://arxiv.org/abs/2603.09138)|null|
 |**2026-03-09**|**Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation**|Hikmat Khan et.al.|[2603.08605](http://arxiv.org/abs/2603.08605)|null|
 |**2026-03-08**|**Efficient RGB-D Scene Understanding via Multi-task Adaptive Learning and Cross-dimensional Feature Guidance**|Guodong Sun et.al.|[2603.07570](http://arxiv.org/abs/2603.07570)|null|
 |**2026-03-08**|**Defect Detection in Magnetic Systems Using U-Net and Statistical Measures**|Ross Knapman et.al.|[2603.07542](http://arxiv.org/abs/2603.07542)|null|
 |**2026-03-08**|**SIGMAE: A Spectral-Index-Guided Foundation Model for Multispectral Remote Sensing**|Xiaokang Zhang et.al.|[2603.07463](http://arxiv.org/abs/2603.07463)|null|
 |**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[2603.06374](http://arxiv.org/abs/2603.06374)|null|
 |**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[2603.06321](http://arxiv.org/abs/2603.06321)|null|
-|**2026-03-06**|**Making Training-Free Diffusion Segmentors Scale with the Generative Power**|Benyuan Meng et.al.|[2603.06178](http://arxiv.org/abs/2603.06178)|null|
+|**2026-03-10**|**Making Training-Free Diffusion Segmentors Scale with the Generative Power**|Benyuan Meng et.al.|[2603.06178](http://arxiv.org/abs/2603.06178)|null|
 |**2026-03-06**|**JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas**|Sandeep Inuganti et.al.|[2603.06168](http://arxiv.org/abs/2603.06168)|null|
 |**2026-03-05**|**Generalizable Multiscale Segmentation of Heterogeneous Map Collections**|Remi Petitpierre et.al.|[2603.05037](http://arxiv.org/abs/2603.05037)|null|
 |**2026-03-04**|**Semantic Bridging Domains: Pseudo-Source as Test-Time Connector**|Xizhong Yang et.al.|[2603.03844](http://arxiv.org/abs/2603.03844)|null|
@@ -2834,7 +2842,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
