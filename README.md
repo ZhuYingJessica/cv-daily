@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1013,12 +1013,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale**|Markus Gross et.al.|[2603.17920](http://arxiv.org/abs/2603.17920)|null|
+|**2026-03-18**|**Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation**|Haocheng Li et.al.|[2603.17705](http://arxiv.org/abs/2603.17705)|null|
+|**2026-03-18**|**AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data**|Cai Xu et.al.|[2603.17610](http://arxiv.org/abs/2603.17610)|null|
+|**2026-03-18**|**Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis**|Jaein Kim et.al.|[2603.17538](http://arxiv.org/abs/2603.17538)|null|
 |**2026-03-18**|**SafeLand: Safe Autonomous Landing in Unknown Environments with Bayesian Semantic Mapping**|Markus Gross et.al.|[2603.17430](http://arxiv.org/abs/2603.17430)|null|
 |**2026-03-18**|**Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge**|Adam Dai et.al.|[2603.17232](http://arxiv.org/abs/2603.17232)|null|
 |**2026-03-17**|**DesertFormer: Transformer-Based Semantic Segmentation for Off-Road Desert Terrain Classification in Autonomous Navigation Systems**|Yasaswini Chebolu et.al.|[2603.17056](http://arxiv.org/abs/2603.17056)|null|
@@ -2886,7 +2890,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

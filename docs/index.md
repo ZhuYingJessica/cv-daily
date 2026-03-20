@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3933,6 +3933,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale**|Markus Gross et.al.|[2603.17920](http://arxiv.org/abs/2603.17920)|null|
+|**2026-03-18**|**Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation**|Haocheng Li et.al.|[2603.17705](http://arxiv.org/abs/2603.17705)|null|
+|**2026-03-18**|**AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data**|Cai Xu et.al.|[2603.17610](http://arxiv.org/abs/2603.17610)|null|
+|**2026-03-18**|**Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis**|Jaein Kim et.al.|[2603.17538](http://arxiv.org/abs/2603.17538)|null|
 |**2026-03-18**|**SafeLand: Safe Autonomous Landing in Unknown Environments with Bayesian Semantic Mapping**|Markus Gross et.al.|[2603.17430](http://arxiv.org/abs/2603.17430)|null|
 |**2026-03-18**|**Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge**|Adam Dai et.al.|[2603.17232](http://arxiv.org/abs/2603.17232)|null|
 |**2026-03-17**|**DesertFormer: Transformer-Based Semantic Segmentation for Off-Road Desert Terrain Classification in Autonomous Navigation Systems**|Yasaswini Chebolu et.al.|[2603.17056](http://arxiv.org/abs/2603.17056)|null|
