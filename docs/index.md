@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**CeRLP: A Cross-embodiment Robot Local Planning Framework for Visual Navigation**|Haoyu Xi et.al.|[2603.19602](http://arxiv.org/abs/2603.19602)|null|
+|**2026-03-20**|**StreetForward: Perceiving Dynamic Street with Feedforward Causal Attention**|Zhongrui Yu et.al.|[2603.19552](http://arxiv.org/abs/2603.19552)|null|
+|**2026-03-20**|**SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification**|Xiaoying Wang et.al.|[2603.19547](http://arxiv.org/abs/2603.19547)|null|
 |**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|null|
 |**2026-03-18**|**Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting**|Guillem Casadesus Vila et.al.|[2603.18218](http://arxiv.org/abs/2603.18218)|null|
 |**2026-03-18**|**UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images**|Guibiao Liao et.al.|[2603.17519](http://arxiv.org/abs/2603.17519)|null|
@@ -3935,6 +3938,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy**|Carolin Teuber et.al.|[2603.19802](http://arxiv.org/abs/2603.19802)|null|
+|**2026-03-20**|**Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19757](http://arxiv.org/abs/2603.19757)|null|
+|**2026-03-20**|**MagicSeg: Open-World Segmentation Pretraining via Counterfactural Diffusion-Based Auto-Generation**|Kaixin Cai et.al.|[2603.19575](http://arxiv.org/abs/2603.19575)|null|
+|**2026-03-19**|**dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3**|Saikat Dutta et.al.|[2603.19531](http://arxiv.org/abs/2603.19531)|null|
 |**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[2603.19219](http://arxiv.org/abs/2603.19219)|null|
 |**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
 |**2026-03-19**|**Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation**|Yuchen Li et.al.|[2603.18795](http://arxiv.org/abs/2603.18795)|null|
