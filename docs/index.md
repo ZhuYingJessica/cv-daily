@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3938,6 +3938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models**|Puskal Khadka et.al.|[2603.20074](http://arxiv.org/abs/2603.20074)|null|
 |**2026-03-20**|**Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy**|Carolin Teuber et.al.|[2603.19802](http://arxiv.org/abs/2603.19802)|null|
 |**2026-03-20**|**Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19757](http://arxiv.org/abs/2603.19757)|null|
 |**2026-03-20**|**MagicSeg: Open-World Segmentation Pretraining via Counterfactural Diffusion-Based Auto-Generation**|Kaixin Cai et.al.|[2603.19575](http://arxiv.org/abs/2603.19575)|null|
