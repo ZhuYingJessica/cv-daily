@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|**[link](https://github.com/AdrienRR/ovie)**|
 |**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[2603.23112](http://arxiv.org/abs/2603.23112)|null|
 |**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[2603.23032](http://arxiv.org/abs/2603.23032)|**[link](https://github.com/uzh-rpg/generative_event_pretraining)**|
 |**2026-03-23**|**GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning**|Yixuan Luo et.al.|[2603.22270](http://arxiv.org/abs/2603.22270)|null|
@@ -3944,9 +3945,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-24**|**Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation**|ByeongCheol Lee et.al.|[2603.23030](http://arxiv.org/abs/2603.23030)|**[link](https://github.com/2btlFe/GLA-CLIP)**|
+|**2026-03-25**|**Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Shiqin Wang et.al.|[2603.24322](http://arxiv.org/abs/2603.24322)|null|
+|**2026-03-25**|**RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation**|Kai Zhu et.al.|[2603.24295](http://arxiv.org/abs/2603.24295)|null|
+|**2026-03-25**|**InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**|Zixin Guo et.al.|[2603.24240](http://arxiv.org/abs/2603.24240)|null|
+|**2026-03-24**|**Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation**|ByeongCheol Lee et.al.|[2603.23030](http://arxiv.org/abs/2603.23030)|null|
 |**2026-03-23**|**Toward Faithful Segmentation Attribution via Benchmarking and Dual-Evidence Fusion**|Abu Noman Md Sakib et.al.|[2603.22624](http://arxiv.org/abs/2603.22624)|null|
-|**2026-03-23**|**CanViT: Toward Active-Vision Foundation Models**|Yohaï-Eliel Berreby et.al.|[2603.22570](http://arxiv.org/abs/2603.22570)|**[link](https://github.com/m2b3/CanViT-PyTorch)**|
+|**2026-03-23**|**CanViT: Toward Active-Vision Foundation Models**|Yohaï-Eliel Berreby et.al.|[2603.22570](http://arxiv.org/abs/2603.22570)|null|
 |**2026-03-23**|**UrbanVGGT: Scalable Sidewalk Width Estimation from Street View Images**|Kaizhen Tan et.al.|[2603.22531](http://arxiv.org/abs/2603.22531)|null|
 |**2026-03-23**|**Spatially-Aware Evaluation Framework for Aerial LiDAR Point Cloud Semantic Segmentation: Distance-Based Metrics on Challenging Regions**|Alex Salvatierra et.al.|[2603.22420](http://arxiv.org/abs/2603.22420)|null|
 |**2026-03-23**|**Riverine Land Cover Mapping through Semantic Segmentation of Multispectral Point Clouds**|Sopitta Thurachen et.al.|[2603.22230](http://arxiv.org/abs/2603.22230)|null|
