@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.26
+## Updated on 2026.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Falong Fan et.al.|[2603.24577](http://arxiv.org/abs/2603.24577)|null|
 |**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|**[link](https://github.com/AdrienRR/ovie)**|
 |**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[2603.23112](http://arxiv.org/abs/2603.23112)|null|
 |**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[2603.23032](http://arxiv.org/abs/2603.23032)|**[link](https://github.com/uzh-rpg/generative_event_pretraining)**|
@@ -1025,14 +1026,18 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation**|Ishaan Gakhar et.al.|[2603.25689](http://arxiv.org/abs/2603.25689)|null|
+|**2026-03-26**|**Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al.|[2603.25255](http://arxiv.org/abs/2603.25255)|null|
+|**2026-03-26**|**A Unified Spatial Alignment Framework for Highly Transferable Transformation-Based Attacks on Spatially Structured Tasks**|Jiaming Liang et.al.|[2603.25230](http://arxiv.org/abs/2603.25230)|null|
+|**2026-03-26**|**Denoise and Align: Towards Source-Free UDA for Robust Panoramic Semantic Segmentation**|Yaowen Chang et.al.|[2603.25131](http://arxiv.org/abs/2603.25131)|null|
 |**2026-03-25**|**Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Shiqin Wang et.al.|[2603.24322](http://arxiv.org/abs/2603.24322)|null|
-|**2026-03-25**|**RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation**|Kai Zhu et.al.|[2603.24295](http://arxiv.org/abs/2603.24295)|null|
+|**2026-03-26**|**RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation**|Kai Zhu et.al.|[2603.24295](http://arxiv.org/abs/2603.24295)|null|
 |**2026-03-25**|**InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**|Zixin Guo et.al.|[2603.24240](http://arxiv.org/abs/2603.24240)|null|
 |**2026-03-24**|**Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation**|ByeongCheol Lee et.al.|[2603.23030](http://arxiv.org/abs/2603.23030)|null|
 |**2026-03-23**|**Toward Faithful Segmentation Attribution via Benchmarking and Dual-Evidence Fusion**|Abu Noman Md Sakib et.al.|[2603.22624](http://arxiv.org/abs/2603.22624)|null|
@@ -2931,7 +2936,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
