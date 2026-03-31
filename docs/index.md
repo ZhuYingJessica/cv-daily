@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**S3KF: Spherical State-Space Kalman Filtering for Panoramic 3D Multi-Object Tracking**|Zhongyuan Liu et.al.|[2603.27534](http://arxiv.org/abs/2603.27534)|null|
+|**2026-03-28**|**UniDAC: Universal Metric Depth Estimation for Any Camera**|Girish Chandar Ganesan et.al.|[2603.27105](http://arxiv.org/abs/2603.27105)|null|
+|**2026-03-27**|**Computer Vision with a Superpixelation Camera**|Sasidharan Mahalingam et.al.|[2603.26900](http://arxiv.org/abs/2603.26900)|null|
+|**2026-03-26**|**Deep Learning Aided Vision System for Planetary Rovers**|Lomash Relia et.al.|[2603.26802](http://arxiv.org/abs/2603.26802)|null|
+|**2026-03-26**|**Seeing Through Smoke: Surgical Desmoking for Improved Visual Perception**|Jingpei Lu et.al.|[2603.25867](http://arxiv.org/abs/2603.25867)|null|
 |**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Falong Fan et.al.|[2603.24577](http://arxiv.org/abs/2603.24577)|null|
-|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|**[link](https://github.com/AdrienRR/ovie)**|
+|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|null|
 |**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[2603.23112](http://arxiv.org/abs/2603.23112)|null|
-|**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[2603.23032](http://arxiv.org/abs/2603.23032)|**[link](https://github.com/uzh-rpg/generative_event_pretraining)**|
+|**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[2603.23032](http://arxiv.org/abs/2603.23032)|null|
 |**2026-03-23**|**GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning**|Yixuan Luo et.al.|[2603.22270](http://arxiv.org/abs/2603.22270)|null|
 |**2026-03-22**|**PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences**|Lanbo Xu et.al.|[2603.21436](http://arxiv.org/abs/2603.21436)|null|
 |**2026-03-22**|**Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving**|Haixi Zhang et.al.|[2603.21061](http://arxiv.org/abs/2603.21061)|null|
@@ -2951,7 +2956,7 @@ layout: default
 |**2026-03-18**|**Stereo World Model: Camera-Guided Stereo Video Generation**|Yang-Tian Sun et.al.|[2603.17375](http://arxiv.org/abs/2603.17375)|null|
 |**2026-03-23**|**LLM-Powered Flood Depth Estimation from Social Media Imagery: A Vision-Language Model Framework with Mechanistic Interpretability for Transportation Resilience**|Nafis Fuad et.al.|[2603.17108](http://arxiv.org/abs/2603.17108)|null|
 |**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868](http://arxiv.org/abs/2603.16868)|null|
-|**2026-03-17**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|null|
+|**2026-03-27**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|null|
 |**2026-03-17**|**$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation**|Ruizhi Wang et.al.|[2603.16362](http://arxiv.org/abs/2603.16362)|null|
 |**2026-03-19**|**Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation**|Xinhao Cai et.al.|[2603.16340](http://arxiv.org/abs/2603.16340)|null|
 |**2026-03-17**|**PureCLIP-Depth: Prompt-Free and Decoder-Free Monocular Depth Estimation within CLIP Embedding Space**|Ryutaro Miya et.al.|[2603.16238](http://arxiv.org/abs/2603.16238)|null|
@@ -3946,6 +3951,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Transferring Physical Priors into Remote Sensing Segmentation via Large Language Models**|Yuxi Lu et.al.|[2603.27504](http://arxiv.org/abs/2603.27504)|null|
+|**2026-03-28**|**Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation**|Guohuan Xie et.al.|[2603.27206](http://arxiv.org/abs/2603.27206)|null|
+|**2026-03-28**|**PRUE: A Practical Recipe for Field Boundary Segmentation at Scale**|Gedeon Muhawenayo et.al.|[2603.27101](http://arxiv.org/abs/2603.27101)|null|
+|**2026-03-24**|**JND-Guided Neural Watermarking with Spatial Transformer Decoding for Screen-Capture Robustness**|Jiayi Qin et.al.|[2603.26766](http://arxiv.org/abs/2603.26766)|null|
+|**2026-03-27**|**Tunable Soft Equivariance with Guarantees**|Md Ashiqur Rahman et.al.|[2603.26657](http://arxiv.org/abs/2603.26657)|null|
+|**2026-03-27**|**Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones**|Moritz Nottebaum et.al.|[2603.26551](http://arxiv.org/abs/2603.26551)|null|
+|**2026-03-27**|**Learnable Quantum Efficiency Filters for Urban Hyperspectral Segmentation**|Imad Ali Shah et.al.|[2603.26528](http://arxiv.org/abs/2603.26528)|null|
+|**2026-03-27**|**CPUBone: Efficient Vision Backbone Design for Devices with Low Parallelization Capabilities**|Moritz Nottebaum et.al.|[2603.26425](http://arxiv.org/abs/2603.26425)|null|
+|**2026-03-27**|**DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation**|Tomoya Miyawaki et.al.|[2603.26263](http://arxiv.org/abs/2603.26263)|null|
+|**2026-03-27**|**GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation**|Xujing Tao et.al.|[2603.26260](http://arxiv.org/abs/2603.26260)|null|
 |**2026-03-26**|**LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation**|Ishaan Gakhar et.al.|[2603.25689](http://arxiv.org/abs/2603.25689)|null|
 |**2026-03-26**|**Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al.|[2603.25255](http://arxiv.org/abs/2603.25255)|null|
 |**2026-03-26**|**A Unified Spatial Alignment Framework for Highly Transferable Transformation-Based Attacks on Spatially Structured Tasks**|Jiaming Liang et.al.|[2603.25230](http://arxiv.org/abs/2603.25230)|null|
