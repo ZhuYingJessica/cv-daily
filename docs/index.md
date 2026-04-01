@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Extend3D: Town-Scale 3D Generation**|Seungwoo Yoon et.al.|[2603.29387](http://arxiv.org/abs/2603.29387)|null|
+|**2026-03-31**|**StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision**|Ziyang Chen et.al.|[2603.29368](http://arxiv.org/abs/2603.29368)|null|
 |**2026-03-29**|**S3KF: Spherical State-Space Kalman Filtering for Panoramic 3D Multi-Object Tracking**|Zhongyuan Liu et.al.|[2603.27534](http://arxiv.org/abs/2603.27534)|null|
 |**2026-03-28**|**UniDAC: Universal Metric Depth Estimation for Any Camera**|Girish Chandar Ganesan et.al.|[2603.27105](http://arxiv.org/abs/2603.27105)|null|
 |**2026-03-27**|**Computer Vision with a Superpixelation Camera**|Sasidharan Mahalingam et.al.|[2603.26900](http://arxiv.org/abs/2603.26900)|null|
@@ -3951,6 +3953,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Polyhedral Unmixing: Bridging Semantic Segmentation with Hyperspectral Unmixing via Polyhedral-Cone Partitioning**|Antoine Bottenmuller et.al.|[2603.29438](http://arxiv.org/abs/2603.29438)|null|
+|**2026-03-31**|**ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation**|Wenyang Chen et.al.|[2603.29271](http://arxiv.org/abs/2603.29271)|null|
+|**2026-03-31**|**Detection of Adversarial Attacks in Robotic Perception**|Ziad Sharawy et.al.|[2603.28594](http://arxiv.org/abs/2603.28594)|null|
+|**2026-03-30**|**Unified Restoration-Perception Learning: Maritime Infrared-Visible Image Fusion and Segmentation**|Weichao Cai et.al.|[2603.28414](http://arxiv.org/abs/2603.28414)|null|
+|**2026-03-30**|**RecycleLoRA: Rank-Revealing QR-Based Dual-LoRA Subspace Adaptation for Domain Generalized Semantic Segmentation**|Chanseul Cho et.al.|[2603.28142](http://arxiv.org/abs/2603.28142)|null|
+|**2026-03-30**|**Transcription and Recognition of Italian Parliamentary Speeches Using Vision-Language Models**|Luigi Curini et.al.|[2603.28103](http://arxiv.org/abs/2603.28103)|null|
+|**2026-03-30**|**SegRGB-X: General RGB-X Semantic Segmentation Model**|Jiong Liu et.al.|[2603.28023](http://arxiv.org/abs/2603.28023)|null|
+|**2026-03-30**|**Progressive Prompt-Guided Cross-Modal Reasoning for Referring Image Segmentation**|Jiachen Li et.al.|[2603.27993](http://arxiv.org/abs/2603.27993)|null|
+|**2026-03-30**|**A Cross-Scale Decoder with Token Refinement for Off-Road Semantic Segmentation**|Seongkyu Choi Jhonghyun An et.al.|[2603.27931](http://arxiv.org/abs/2603.27931)|null|
+|**2026-03-30**|**ForestSim: A Synthetic Benchmark for Intelligent Vehicle Perception in Unstructured Forest Environments**|Pragat Wagle et.al.|[2603.27923](http://arxiv.org/abs/2603.27923)|null|
+|**2026-03-29**|**Towards Context-Aware Image Anonymization with Multi-Agent Reasoning**|Robert Aufschläger et.al.|[2603.27817](http://arxiv.org/abs/2603.27817)|null|
+|**2026-03-29**|**E-TIDE: Fast, Structure-Preserving Motion Forecasting from Event Sequences**|Biswadeep Sen et.al.|[2603.27757](http://arxiv.org/abs/2603.27757)|null|
+|**2026-03-29**|**Can Unsupervised Segmentation Reduce Annotation Costs for Video Semantic Segmentation?**|Samik Some et.al.|[2603.27697](http://arxiv.org/abs/2603.27697)|null|
 |**2026-03-29**|**Transferring Physical Priors into Remote Sensing Segmentation via Large Language Models**|Yuxi Lu et.al.|[2603.27504](http://arxiv.org/abs/2603.27504)|null|
 |**2026-03-28**|**Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation**|Guohuan Xie et.al.|[2603.27206](http://arxiv.org/abs/2603.27206)|null|
 |**2026-03-28**|**PRUE: A Practical Recipe for Field Boundary Segmentation at Scale**|Gedeon Muhawenayo et.al.|[2603.27101](http://arxiv.org/abs/2603.27101)|null|
@@ -3958,7 +3973,7 @@ layout: default
 |**2026-03-27**|**Tunable Soft Equivariance with Guarantees**|Md Ashiqur Rahman et.al.|[2603.26657](http://arxiv.org/abs/2603.26657)|null|
 |**2026-03-27**|**Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones**|Moritz Nottebaum et.al.|[2603.26551](http://arxiv.org/abs/2603.26551)|null|
 |**2026-03-27**|**Learnable Quantum Efficiency Filters for Urban Hyperspectral Segmentation**|Imad Ali Shah et.al.|[2603.26528](http://arxiv.org/abs/2603.26528)|null|
-|**2026-03-27**|**CPUBone: Efficient Vision Backbone Design for Devices with Low Parallelization Capabilities**|Moritz Nottebaum et.al.|[2603.26425](http://arxiv.org/abs/2603.26425)|null|
+|**2026-03-30**|**CPUBone: Efficient Vision Backbone Design for Devices with Low Parallelization Capabilities**|Moritz Nottebaum et.al.|[2603.26425](http://arxiv.org/abs/2603.26425)|null|
 |**2026-03-27**|**DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation**|Tomoya Miyawaki et.al.|[2603.26263](http://arxiv.org/abs/2603.26263)|null|
 |**2026-03-27**|**GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation**|Xujing Tao et.al.|[2603.26260](http://arxiv.org/abs/2603.26260)|null|
 |**2026-03-26**|**LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation**|Ishaan Gakhar et.al.|[2603.25689](http://arxiv.org/abs/2603.25689)|null|
