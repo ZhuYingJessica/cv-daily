@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,13 +2934,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting**|Wenhui Xiao et.al.|[2604.05715](http://arxiv.org/abs/2604.05715)|null|
+|**2026-04-06**|**Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking**|Alessandro Tarsi et.al.|[2604.04690](http://arxiv.org/abs/2604.04690)|null|
+|**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667](http://arxiv.org/abs/2604.04667)|null|
+|**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642](http://arxiv.org/abs/2604.04642)|null|
+|**2026-04-06**|**NAIMA: Semantics Aware RGB Guided Depth Super-Resolution**|Tayyab Nasir et.al.|[2604.04407](http://arxiv.org/abs/2604.04407)|null|
 |**2026-04-03**|**Hierarchical Awareness Adapters with Hybrid Pyramid Feature Fusion for Dense Depth Prediction**|Wuqi Su et.al.|[2604.03339](http://arxiv.org/abs/2604.03339)|null|
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
 |**2026-04-03**|**Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles**|Weimin Liu et.al.|[2604.02639](http://arxiv.org/abs/2604.02639)|null|
 |**2026-04-02**|**Environment-Aware Channel Prediction for Vehicular Communications: A Multimodal Visual Feature Fusion Framework**|Xuejian Zhang et.al.|[2604.02396](http://arxiv.org/abs/2604.02396)|null|
-|**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|**[link](https://github.com/osherr1996/Prior2DSM)**|
+|**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|null|
 |**2026-04-02**|**PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency**|Leezy Han et.al.|[2604.01791](http://arxiv.org/abs/2604.01791)|null|
-|**2026-04-02**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|null|
+|**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|null|
 |**2026-04-01**|**Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation**|Reyhaneh Ahani Manghotay et.al.|[2604.01118](http://arxiv.org/abs/2604.01118)|null|
 |**2026-04-01**|**Towards Viewpoint-Robust End-to-End Autonomous Driving with 3D Foundation Model Priors**|Hiroki Hashimoto et.al.|[2604.00597](http://arxiv.org/abs/2604.00597)|null|
 |**2026-03-31**|**Extend3D: Town-Scale 3D Generation**|Seungwoo Yoon et.al.|[2603.29387](http://arxiv.org/abs/2603.29387)|null|
@@ -3962,6 +3967,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**MPM: Mutual Pair Merging for Efficient Vision Transformers**|Simon Ravé et.al.|[2604.05718](http://arxiv.org/abs/2604.05718)|null|
+|**2026-04-07**|**Few-Shot Semantic Segmentation Meets SAM3**|Yi-Jen Tsai et.al.|[2604.05433](http://arxiv.org/abs/2604.05433)|null|
+|**2026-04-07**|**Cross-Stage Attention Propagation for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2604.05431](http://arxiv.org/abs/2604.05431)|null|
+|**2026-04-06**|**Beyond Standard Benchmarks: A Systematic Audit of Vision-Language Model's Robustness to Natural Semantic Variation Across Diverse Tasks**|Jia Chengyu et.al.|[2604.04473](http://arxiv.org/abs/2604.04473)|null|
 |**2026-04-05**|**Multimodal Structure Learning: Disentangling Shared and Specific Topology via Cross-Modal Graphical Lasso**|Fei Wang et.al.|[2604.03953](http://arxiv.org/abs/2604.03953)|null|
 |**2026-04-03**|**CrossWeaver: Cross-modal Weaving for Arbitrary-Modality Semantic Segmentation**|Zelin Zhang et.al.|[2604.02948](http://arxiv.org/abs/2604.02948)|null|
 |**2026-04-03**|**PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis**|Dexiang Li et.al.|[2604.02804](http://arxiv.org/abs/2604.02804)|null|
