@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.12
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|**[link](https://github.com/Self-Evo/SelfEvo)**|
+|**2026-04-16**|**Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments**|Enrico Francesco Giannico et.al.|[2604.14781](http://arxiv.org/abs/2604.14781)|null|
+|**2026-04-15**|**Reconstruction of a 3D wireframe from a single line drawing via generative depth estimation**|Elton Cao et.al.|[2604.13549](http://arxiv.org/abs/2604.13549)|null|
+|**2026-04-14**|**PAT-VCM: Plug-and-Play Auxiliary Tokens for Video Coding for Machines**|Wei Jiang et.al.|[2604.13294](http://arxiv.org/abs/2604.13294)|null|
+|**2026-04-14**|**The Impact of Qubit Connectivity on Quantum Advantage in Noisy IQP Circuits**|Leonardo Placidi et.al.|[2604.12635](http://arxiv.org/abs/2604.12635)|null|
+|**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|null|
+|**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|null|
+|**2026-04-13**|**CDPR: Cross-modal Diffusion with Polarization for Reliable Monocular Depth Estimation**|Rongjia Yu et.al.|[2604.11097](http://arxiv.org/abs/2604.11097)|null|
+|**2026-04-10**|**FF3R: Feedforward Feature 3D Reconstruction from Unconstrained views**|Chaoyi Zhou et.al.|[2604.09862](http://arxiv.org/abs/2604.09862)|null|
+|**2026-04-10**|**LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation**|Aytaç Sekmen et.al.|[2604.09352](http://arxiv.org/abs/2604.09352)|null|
+|**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|null|
 |**2026-04-09**|**Multimodal Latent Reasoning via Predictive Embeddings**|Ashutosh Adhikari et.al.|[2604.08065](http://arxiv.org/abs/2604.08065)|null|
 |**2026-04-09**|**SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations**|Yunnan Wang et.al.|[2604.07990](http://arxiv.org/abs/2604.07990)|null|
 |**2026-04-09**|**Object-Centric Stereo Ranging for Autonomous Driving: From Dense Disparity to Census-Based Template Matching**|Qihao Huang et.al.|[2604.07980](http://arxiv.org/abs/2604.07980)|null|
@@ -1057,12 +1066,42 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Identification and Structural Characterization of Twisted Atomically Thin Bilayer Materials by Deep Learning**|Haitao Yang et.al.|[2604.15960](http://arxiv.org/abs/2604.15960)|null|
+|**2026-04-17**|**SENSE: Stereo OpEN Vocabulary SEmantic Segmentation**|Thomas Campagnolo et.al.|[2604.15946](http://arxiv.org/abs/2604.15946)|null|
+|**2026-04-17**|**Robust Multispectral Semantic Segmentation under Missing or Full Modalities via Structured Latent Projection**|Irem Ulku et.al.|[2604.15856](http://arxiv.org/abs/2604.15856)|null|
+|**2026-04-17**|**SegMix:Shuffle-based Feedback Learning for Semantic Segmentation of Pathology Images**|Zhiling Yan et.al.|[2604.15777](http://arxiv.org/abs/2604.15777)|null|
+|**2026-04-16**|**UA-Net: Uncertainty-Aware Network for TRISO Image Semantic Segmentation**|Kyle Lucke et.al.|[2604.15542](http://arxiv.org/abs/2604.15542)|null|
+|**2026-04-16**|**From Boundaries to Semantics: Prompt-Guided Multi-Task Learning for Petrographic Thin-section Segmentation**|Yili Ren et.al.|[2604.14805](http://arxiv.org/abs/2604.14805)|null|
+|**2026-04-15**|**A deep learning framework for glomeruli segmentation with boundary attention**|Behnaz Elhaminia et.al.|[2604.14263](http://arxiv.org/abs/2604.14263)|null|
+|**2026-04-15**|**A Case Study on Energy-Efficient Edge AI Crack Segmentation**|Matthias Tschope et.al.|[2604.13933](http://arxiv.org/abs/2604.13933)|null|
+|**2026-04-15**|**Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation**|Svetlana Pavlitska et.al.|[2604.13761](http://arxiv.org/abs/2604.13761)|null|
+|**2026-04-15**|**Automatic Charge State Tuning of 300 mm FDSOI Quantum Dots Using Neural Network Segmentation of Charge Stability Diagram**|Peter Samaha et.al.|[2604.13662](http://arxiv.org/abs/2604.13662)|null|
+|**2026-04-16**|**VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation**|Yulu Gao et.al.|[2604.13596](http://arxiv.org/abs/2604.13596)|null|
+|**2026-04-15**|**Learning Class Difficulty in Imbalanced Histopathology Segmentation via Dynamic Focal Attention**|Lakmali Nadeesha Kumari et.al.|[2604.13479](http://arxiv.org/abs/2604.13479)|null|
+|**2026-04-14**|**Right Regions, Wrong Labels: Semantic Label Flips in Segmentation under Correlation Shift**|Akshit Achara et.al.|[2604.13326](http://arxiv.org/abs/2604.13326)|null|
+|**2026-04-14**|**See&Say: Vision Language Guided Safe Zone Detection for Autonomous Package Delivery Drones**|Mahyar Ghazanfari et.al.|[2604.13292](http://arxiv.org/abs/2604.13292)|null|
+|**2026-04-14**|**Cross-Attentive Multiview Fusion of Vision-Language Embeddings**|Tomas Berriel Martins et.al.|[2604.12551](http://arxiv.org/abs/2604.12551)|null|
+|**2026-04-14**|**HyperLiDAR: Adaptive Post-Deployment LiDAR Segmentation via Hyperdimensional Computing**|Ivannia Gomez Moreno et.al.|[2604.12331](http://arxiv.org/abs/2604.12331)|null|
+|**2026-04-15**|**RSGMamba: Reliability-Aware Self-Gated State Space Model for Multimodal Semantic Segmentation**|Guoan Xu et.al.|[2604.12319](http://arxiv.org/abs/2604.12319)|null|
+|**2026-04-13**|**Privacy-Preserving Structureless Visual Localization via Image Obfuscation**|Vojtech Panek et.al.|[2604.12068](http://arxiv.org/abs/2604.12068)|null|
+|**2026-04-13**|**STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding**|Wenhao Li et.al.|[2604.11637](http://arxiv.org/abs/2604.11637)|null|
+|**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|null|
+|**2026-04-13**|**GS4City: Hierarchical Semantic Gaussian Splatting via City-Model Priors**|Qilin Zhang et.al.|[2604.11401](http://arxiv.org/abs/2604.11401)|null|
+|**2026-04-13**|**Seg2Change: Adapting Open-Vocabulary Semantic Segmentation Model for Remote Sensing Change Detection**|You Su et.al.|[2604.11231](http://arxiv.org/abs/2604.11231)|null|
+|**2026-04-13**|**Do Instance Priors Help Weakly Supervised Semantic Segmentation?**|Anurag Das et.al.|[2604.11170](http://arxiv.org/abs/2604.11170)|null|
+|**2026-04-13**|**Data-Efficient Semantic Segmentation of 3D Point Clouds via Open-Vocabulary Image Segmentation-based Pseudo-Labeling**|Takahiko Furuya et.al.|[2604.11007](http://arxiv.org/abs/2604.11007)|null|
+|**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
+|**2026-04-12**|**LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning**|Said Ohamouddou et.al.|[2604.10780](http://arxiv.org/abs/2604.10780)|null|
+|**2026-04-10**|**FF3R: Feedforward Feature 3D Reconstruction from Unconstrained views**|Chaoyi Zhou et.al.|[2604.09862](http://arxiv.org/abs/2604.09862)|null|
+|**2026-04-10**|**UniSemAlign: Text-Prototype Alignment with a Foundation Encoder for Semi-Supervised Histopathology Segmentation**|Le-Van Thai et.al.|[2604.09169](http://arxiv.org/abs/2604.09169)|null|
+|**2026-04-10**|**Benchmarking CNN- and Transformer-Based Models for Surgical Instrument Segmentation in Robotic-Assisted Surgery**|Sara Ameli et.al.|[2604.09151](http://arxiv.org/abs/2604.09151)|null|
+|**2026-04-10**|**Dynamic Class-Aware Active Learning for Unbiased Satellite Image Segmentation**|Gadi Hemanth Kumar et.al.|[2604.08965](http://arxiv.org/abs/2604.08965)|null|
 |**2026-04-09**|**OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation**|Seungjae Moon et.al.|[2604.08110](http://arxiv.org/abs/2604.08110)|null|
 |**2026-04-09**|**Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation**|Jiahao Li et.al.|[2604.07723](http://arxiv.org/abs/2604.07723)|null|
 |**2026-04-08**|**Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator**|Takahiro Mano et.al.|[2604.07122](http://arxiv.org/abs/2604.07122)|null|
@@ -3012,7 +3051,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
