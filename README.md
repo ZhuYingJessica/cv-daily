@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,11 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy**|Liangjing Shao et.al.|[2605.13038](http://arxiv.org/abs/2605.13038)|null|
+|**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
+|**2026-05-12**|**A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline**|Mohamed Ahmed Mohamed et.al.|[2605.12608](http://arxiv.org/abs/2605.12608)|null|
+|**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027](http://arxiv.org/abs/2605.12027)|null|
 |**2026-05-12**|**Selection, Not Fusion: Radar-Modulated State Space Models for Radar-Camera Depth Estimation**|Zhangcheng Hou et.al.|[2605.11840](http://arxiv.org/abs/2605.11840)|null|
-|**2026-05-12**|**Focusable Monocular Depth Estimation**|Yuxin Du et.al.|[2605.11756](http://arxiv.org/abs/2605.11756)|**[link](https://github.com/DepthComputation/InSpaceType_Benchmark)**|
+|**2026-05-12**|**Focusable Monocular Depth Estimation**|Yuxin Du et.al.|[2605.11756](http://arxiv.org/abs/2605.11756)|null|
 |**2026-05-12**|**The Midas Touch for Metric Depth**|Yu Ma et.al.|[2605.11578](http://arxiv.org/abs/2605.11578)|null|
 |**2026-05-11**|**Neuromorphic Monocular Depth Estimation with Uncertainty Modeling**|Viktor Bergkvist et.al.|[2605.10675](http://arxiv.org/abs/2605.10675)|null|
-|**2026-05-12**|**GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth**|Yuecheng Liu et.al.|[2605.10525](http://arxiv.org/abs/2605.10525)|null|
+|**2026-05-13**|**GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth**|Yuecheng Liu et.al.|[2605.10525](http://arxiv.org/abs/2605.10525)|null|
 |**2026-05-11**|**Improving Human Image Animation via Semantic Representation Alignment**|Chang Liu et.al.|[2605.10523](http://arxiv.org/abs/2605.10523)|null|
 |**2026-05-11**|**Efficient Hybrid CNN-GNN Architecture for Monocular Depth Estimation**|Ishan Narayan et.al.|[2605.10251](http://arxiv.org/abs/2605.10251)|null|
 |**2026-05-11**|**Learning to Perceive "Where": Spatial Pretext Tasks for Robust Self-Supervised Learning**|Yang Shen et.al.|[2605.09963](http://arxiv.org/abs/2605.09963)|null|
@@ -1096,12 +1100,17 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
+|**2026-05-13**|**Seg-Agent: Test-Time Multimodal Reasoning for Training-Free Language-Guided Segmentation**|Chao Hao et.al.|[2605.12953](http://arxiv.org/abs/2605.12953)|null|
+|**2026-05-12**|**AOI-SSL: Self-Supervised Framework for Efficient Segmentation of Wire-bonded Semiconductors In Optical Inspection**|Joaquín Figueira et.al.|[2605.12430](http://arxiv.org/abs/2605.12430)|null|
+|**2026-05-13**|**VIP: Visual-guided Prompt Evolution for Efficient Dense Vision-Language Inference**|Hao Zhu et.al.|[2605.12325](http://arxiv.org/abs/2605.12325)|null|
+|**2026-05-12**|**What-Where Transformer: A Slot-Centric Visual Backbone for Concurrent Representation and Localization**|Ryota Yoshihashi et.al.|[2605.12021](http://arxiv.org/abs/2605.12021)|null|
 |**2026-05-12**|**TCP-SSM: Efficient Vision State Space Models with Token-Conditioned Poles**|Sara Shoouri et.al.|[2605.11563](http://arxiv.org/abs/2605.11563)|null|
 |**2026-05-11**|**Can Graphs Help Vision SSMs See Better?**|Dhruv Parikh et.al.|[2605.11300](http://arxiv.org/abs/2605.11300)|null|
 |**2026-05-11**|**MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation**|Ziyi Wang et.al.|[2605.10769](http://arxiv.org/abs/2605.10769)|null|
@@ -3111,7 +3120,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
