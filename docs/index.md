@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
 |**2026-05-13**|**CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy**|Liangjing Shao et.al.|[2605.13038](http://arxiv.org/abs/2605.13038)|null|
 |**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
 |**2026-05-12**|**A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline**|Mohamed Ahmed Mohamed et.al.|[2605.12608](http://arxiv.org/abs/2605.12608)|null|
@@ -4020,6 +4021,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**UniTriGen: Unified Triplet Generation of Aligned Visible-Infrared-Label for Few-Shot RGB-T Semantic Segmentation**|Ping Zhou et.al.|[2605.14626](http://arxiv.org/abs/2605.14626)|null|
+|**2026-05-14**|**Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems**|Emilio Mastriani et.al.|[2605.14318](http://arxiv.org/abs/2605.14318)|null|
+|**2026-05-14**|**Automatic Landmark-Based Segmentation of Human Subcortical Structures in MRI**|Ahmed Rekik et.al.|[2605.14221](http://arxiv.org/abs/2605.14221)|null|
+|**2026-05-13**|**OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation**|Youquan Liu et.al.|[2605.13815](http://arxiv.org/abs/2605.13815)|null|
+|**2026-05-13**|**Weakly Supervised Segmentation as Semantic-Based Regularization**|Stefano Colamonaco et.al.|[2605.13674](http://arxiv.org/abs/2605.13674)|null|
 |**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
 |**2026-05-13**|**Seg-Agent: Test-Time Multimodal Reasoning for Training-Free Language-Guided Segmentation**|Chao Hao et.al.|[2605.12953](http://arxiv.org/abs/2605.12953)|null|
 |**2026-05-12**|**AOI-SSL: Self-Supervised Framework for Efficient Segmentation of Wire-bonded Semiconductors In Optical Inspection**|Joaquín Figueira et.al.|[2605.12430](http://arxiv.org/abs/2605.12430)|null|
