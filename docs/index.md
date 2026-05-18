@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.15
+## Updated on 2026.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**EndoGSim: Physics-Aware 4D Dynamic Endoscopic Scene Simulations via MLLM-Guided Gaussian Splatting**|Changjing Liu et.al.|[2605.16022](http://arxiv.org/abs/2605.16022)|null|
+|**2026-05-15**|**Unlocking Dense Metric Depth Estimation in VLMs**|Hanxun Yu et.al.|[2605.15876](http://arxiv.org/abs/2605.15876)|null|
+|**2026-05-15**|**On RGB-TIR Stereo Calibration under Extreme Resolution Asymmetry**|Michał Król et.al.|[2605.15860](http://arxiv.org/abs/2605.15860)|null|
+|**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828](http://arxiv.org/abs/2605.15828)|null|
 |**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
 |**2026-05-13**|**CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy**|Liangjing Shao et.al.|[2605.13038](http://arxiv.org/abs/2605.13038)|null|
 |**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
@@ -4021,6 +4025,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation**|Shuaiyi Li et.al.|[2605.15913](http://arxiv.org/abs/2605.15913)|null|
+|**2026-05-13**|**FSCM: Frequency-Enhanced Spatial-Spectral Coupled Mamba for Infrared Hyperspectral Image Colorization**|Tingting Liu et.al.|[2605.15880](http://arxiv.org/abs/2605.15880)|null|
+|**2026-05-15**|**Bidirectional Fusion Guided by Cardiac Patterns for Semi-Supervised ECG Segmentation**|Jeonghwa Lim et.al.|[2605.15722](http://arxiv.org/abs/2605.15722)|null|
+|**2026-05-15**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|null|
+|**2026-05-14**|**A Unified Non-Parametric and Interpretable Point Cloud Analysis via t-FCW Graph Representation**|Haijian Lai et.al.|[2605.15475](http://arxiv.org/abs/2605.15475)|null|
+|**2026-05-14**|**ELDOR: A Dataset and Benchmark for Illegal Gold Mining in the Amazon Rainforest**|Kangning Cui et.al.|[2605.15397](http://arxiv.org/abs/2605.15397)|null|
+|**2026-05-14**|**Representative Attention For Vision Transformers**|Yuntong Li et.al.|[2605.14913](http://arxiv.org/abs/2605.14913)|null|
 |**2026-05-14**|**UniTriGen: Unified Triplet Generation of Aligned Visible-Infrared-Label for Few-Shot RGB-T Semantic Segmentation**|Ping Zhou et.al.|[2605.14626](http://arxiv.org/abs/2605.14626)|null|
 |**2026-05-14**|**Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems**|Emilio Mastriani et.al.|[2605.14318](http://arxiv.org/abs/2605.14318)|null|
 |**2026-05-14**|**Automatic Landmark-Based Segmentation of Human Subcortical Structures in MRI**|Ahmed Rekik et.al.|[2605.14221](http://arxiv.org/abs/2605.14221)|null|
