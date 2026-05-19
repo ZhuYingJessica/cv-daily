@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,8 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-16**|**A Single Atlas is All You Need: Decoder-Side Gaussian Splatting for Immersive Video**|Dawid Mieloch et.al.|[2605.17002](http://arxiv.org/abs/2605.17002)|null|
+|**2026-05-15**|**SCARED-C: Corrected Camera Poses for Endoscopic Depth Estimation**|John J. Han et.al.|[2605.16628](http://arxiv.org/abs/2605.16628)|null|
 |**2026-05-15**|**EndoGSim: Physics-Aware 4D Dynamic Endoscopic Scene Simulations via MLLM-Guided Gaussian Splatting**|Changjing Liu et.al.|[2605.16022](http://arxiv.org/abs/2605.16022)|null|
-|**2026-05-15**|**Unlocking Dense Metric Depth Estimation in VLMs**|Hanxun Yu et.al.|[2605.15876](http://arxiv.org/abs/2605.15876)|null|
+|**2026-05-15**|**Unlocking Dense Metric Depth Estimation in VLMs**|Hanxun Yu et.al.|[2605.15876](http://arxiv.org/abs/2605.15876)|**[link](https://github.com/hanxunyu/DepthVLM)**|
 |**2026-05-15**|**On RGB-TIR Stereo Calibration under Extreme Resolution Asymmetry**|Michał Król et.al.|[2605.15860](http://arxiv.org/abs/2605.15860)|null|
 |**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828](http://arxiv.org/abs/2605.15828)|null|
 |**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
@@ -4025,10 +4027,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-16**|**OPTNet: Ordering Point Transformer Network for Post-disaster 3D Semantic Segmentation**|Nhut Le et.al.|[2605.17197](http://arxiv.org/abs/2605.17197)|null|
+|**2026-05-16**|**Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation**|Bin Yang et.al.|[2605.17135](http://arxiv.org/abs/2605.17135)|null|
+|**2026-05-16**|**A Systematic Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation**|Minhas Kamal et.al.|[2605.17131](http://arxiv.org/abs/2605.17131)|null|
+|**2026-05-16**|**1GC-7RC: One Graphic Card -- Seven Research Challenges! How Good Are AI Agents at Doing Your Job?**|Robin-Nico Kampa et.al.|[2605.17046](http://arxiv.org/abs/2605.17046)|null|
+|**2026-05-16**|**Axial-Relation Guided Fusion State Space Model for Optical-Elevation Sensing Image Segmentation**|Feng Gao et.al.|[2605.16768](http://arxiv.org/abs/2605.16768)|null|
+|**2026-05-12**|**Vision Transformer-Conditioned UNet for Domain-Adaptive Semantic Segmentation**|Joel Valdivia Ortega et.al.|[2605.16393](http://arxiv.org/abs/2605.16393)|null|
 |**2026-05-15**|**Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation**|Shuaiyi Li et.al.|[2605.15913](http://arxiv.org/abs/2605.15913)|null|
 |**2026-05-13**|**FSCM: Frequency-Enhanced Spatial-Spectral Coupled Mamba for Infrared Hyperspectral Image Colorization**|Tingting Liu et.al.|[2605.15880](http://arxiv.org/abs/2605.15880)|null|
 |**2026-05-15**|**Bidirectional Fusion Guided by Cardiac Patterns for Semi-Supervised ECG Segmentation**|Jeonghwa Lim et.al.|[2605.15722](http://arxiv.org/abs/2605.15722)|null|
-|**2026-05-15**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|null|
+|**2026-05-15**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|**[link](https://github.com/Gumpest/SEED)**|
 |**2026-05-14**|**A Unified Non-Parametric and Interpretable Point Cloud Analysis via t-FCW Graph Representation**|Haijian Lai et.al.|[2605.15475](http://arxiv.org/abs/2605.15475)|null|
 |**2026-05-14**|**ELDOR: A Dataset and Benchmark for Illegal Gold Mining in the Amazon Rainforest**|Kangning Cui et.al.|[2605.15397](http://arxiv.org/abs/2605.15397)|null|
 |**2026-05-14**|**Representative Attention For Vision Transformers**|Yuntong Li et.al.|[2605.14913](http://arxiv.org/abs/2605.14913)|null|
