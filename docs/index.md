@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.19
+## Updated on 2026.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Understanding Model Behavior in Monocular Polyp Sizing**|Xinqi Xiong et.al.|[2605.20461](http://arxiv.org/abs/2605.20461)|**[link](https://github.com/anaxqx/polyp-sizing-audit)**|
+|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](http://arxiv.org/abs/2605.19797)|null|
+|**2026-05-19**|**Smartphone-based Circular Plot Sampling for Forest Inventory**|Su Sun et.al.|[2605.19213](http://arxiv.org/abs/2605.19213)|null|
+|**2026-05-18**|**Towards Universal Physical Adversarial Attacks via a Joint Multi-Objective and Multi-Model Optimization Framework**|Ziyang Liu et.al.|[2605.17772](http://arxiv.org/abs/2605.17772)|null|
+|**2026-05-20**|**Weighted Reverse Convolution for Feature Upsampling**|Wentong Li et.al.|[2605.17472](http://arxiv.org/abs/2605.17472)|**[link](https://github.com/PolyU-VCLab/WRC)**|
 |**2026-05-16**|**A Single Atlas is All You Need: Decoder-Side Gaussian Splatting for Immersive Video**|Dawid Mieloch et.al.|[2605.17002](http://arxiv.org/abs/2605.17002)|null|
 |**2026-05-15**|**SCARED-C: Corrected Camera Poses for Endoscopic Depth Estimation**|John J. Han et.al.|[2605.16628](http://arxiv.org/abs/2605.16628)|null|
 |**2026-05-15**|**EndoGSim: Physics-Aware 4D Dynamic Endoscopic Scene Simulations via MLLM-Guided Gaussian Splatting**|Changjing Liu et.al.|[2605.16022](http://arxiv.org/abs/2605.16022)|null|
-|**2026-05-15**|**Unlocking Dense Metric Depth Estimation in VLMs**|Hanxun Yu et.al.|[2605.15876](http://arxiv.org/abs/2605.15876)|**[link](https://github.com/hanxunyu/DepthVLM)**|
+|**2026-05-20**|**Unlocking Dense Metric Depth Estimation in VLMs**|Hanxun Yu et.al.|[2605.15876](http://arxiv.org/abs/2605.15876)|null|
 |**2026-05-15**|**On RGB-TIR Stereo Calibration under Extreme Resolution Asymmetry**|Michał Król et.al.|[2605.15860](http://arxiv.org/abs/2605.15860)|null|
 |**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828](http://arxiv.org/abs/2605.15828)|null|
 |**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
@@ -2949,7 +2954,7 @@ layout: default
 |**2026-05-12**|**Focusable Monocular Depth Estimation**|Yuxin Du et.al.|[2605.11756](http://arxiv.org/abs/2605.11756)|null|
 |**2026-05-12**|**The Midas Touch for Metric Depth**|Yu Ma et.al.|[2605.11578](http://arxiv.org/abs/2605.11578)|null|
 |**2026-05-11**|**Neuromorphic Monocular Depth Estimation with Uncertainty Modeling**|Viktor Bergkvist et.al.|[2605.10675](http://arxiv.org/abs/2605.10675)|null|
-|**2026-05-13**|**GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth**|Yuecheng Liu et.al.|[2605.10525](http://arxiv.org/abs/2605.10525)|null|
+|**2026-05-19**|**GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth**|Yuecheng Liu et.al.|[2605.10525](http://arxiv.org/abs/2605.10525)|null|
 |**2026-05-11**|**Improving Human Image Animation via Semantic Representation Alignment**|Chang Liu et.al.|[2605.10523](http://arxiv.org/abs/2605.10523)|null|
 |**2026-05-11**|**Efficient Hybrid CNN-GNN Architecture for Monocular Depth Estimation**|Ishan Narayan et.al.|[2605.10251](http://arxiv.org/abs/2605.10251)|null|
 |**2026-05-11**|**Learning to Perceive "Where": Spatial Pretext Tasks for Robust Self-Supervised Learning**|Yang Shen et.al.|[2605.09963](http://arxiv.org/abs/2605.09963)|null|
@@ -4027,16 +4032,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**SubTGraph: Large-Scale Subterranean Environment Synthesis with Controllable Topological Variability for Robotic Autonomy Validation**|F. Labra Caso et.al.|[2605.20917](http://arxiv.org/abs/2605.20917)|null|
+|**2026-05-20**|**Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models**|Jeffrey Wang et.al.|[2605.20839](http://arxiv.org/abs/2605.20839)|null|
+|**2026-05-20**|**Interaction Locality in Hierarchical Recursive Reasoning**|Yosuke Miyanishi et.al.|[2605.20784](http://arxiv.org/abs/2605.20784)|null|
+|**2026-05-19**|**Continual Segmentation under Joint Nonstationarity**|Prashant Pandey et.al.|[2605.20538](http://arxiv.org/abs/2605.20538)|null|
+|**2026-05-19**|**Latent Space Guided Scenario Sampling for Multimodal Segmentation Under Missing Modalities**|Irem Ulku et.al.|[2605.20372](http://arxiv.org/abs/2605.20372)|null|
+|**2026-05-19**|**WBCAtt+: Fine-Grained Pixel-Level Morphological Annotations for White Blood Cell Images**|Satoshi Tsutsui et.al.|[2605.19692](http://arxiv.org/abs/2605.19692)|null|
+|**2026-05-19**|**Selective, Regularized, and Calibrated: Harnessing Vision Foundation Models for Cross-Domain Few-Shot Semantic Segmentation**|Junyuan Ma et.al.|[2605.19340](http://arxiv.org/abs/2605.19340)|null|
+|**2026-05-19**|**PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM**|Eunsoo Im et.al.|[2605.19257](http://arxiv.org/abs/2605.19257)|null|
+|**2026-05-18**|**CosFly: Plan in the Matrix, Fly in the World**|Hanxuan Chen et.al.|[2605.19120](http://arxiv.org/abs/2605.19120)|null|
+|**2026-05-18**|**SGSoft: Learning Fused Semantic-Geometric Features for 3D Shape Correspondence via Template-Guided Soft Signals**|Soyeon Yoon et.al.|[2605.18039](http://arxiv.org/abs/2605.18039)|null|
+|**2026-05-20**|**CosFly-Track: A Large-Scale Multi-Modal Dataset for UAV Visual Tracking via Multi-Constraint Trajectory Optimization**|Xiangyue Wang et.al.|[2605.17776](http://arxiv.org/abs/2605.17776)|null|
+|**2026-05-18**|**Towards Universal Physical Adversarial Attacks via a Joint Multi-Objective and Multi-Model Optimization Framework**|Ziyang Liu et.al.|[2605.17772](http://arxiv.org/abs/2605.17772)|null|
+|**2026-05-18**|**MoASE++: Mixture of Activation Sparsity Experts with Domain-Adaptive On-policy Distillation for Continual Test Time Adaptation**|Ronyu Zhang et.al.|[2605.17743](http://arxiv.org/abs/2605.17743)|null|
+|**2026-05-19**|**SegRAG: Training-Free Retrieval-Augmented Semantic Segmentation**|Abderrahmene Boudiaf et.al.|[2605.17630](http://arxiv.org/abs/2605.17630)|null|
+|**2026-05-17**|**Multi-task learning on partially labeled datasets via invariant/equivariant semi-supervised learning**|Miquel Martí i Rabadán et.al.|[2605.17624](http://arxiv.org/abs/2605.17624)|null|
+|**2026-05-17**|**HyperVision: A Channel-Adaptive Ground-Based Hyperspectral Vision Pre-trained Backbone**|Guanyiman Fu et.al.|[2605.17286](http://arxiv.org/abs/2605.17286)|null|
 |**2026-05-16**|**OPTNet: Ordering Point Transformer Network for Post-disaster 3D Semantic Segmentation**|Nhut Le et.al.|[2605.17197](http://arxiv.org/abs/2605.17197)|null|
 |**2026-05-16**|**Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation**|Bin Yang et.al.|[2605.17135](http://arxiv.org/abs/2605.17135)|null|
 |**2026-05-16**|**A Systematic Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation**|Minhas Kamal et.al.|[2605.17131](http://arxiv.org/abs/2605.17131)|null|
-|**2026-05-16**|**1GC-7RC: One Graphic Card -- Seven Research Challenges! How Good Are AI Agents at Doing Your Job?**|Robin-Nico Kampa et.al.|[2605.17046](http://arxiv.org/abs/2605.17046)|null|
+|**2026-05-19**|**1GC-7RC: One Graphic Card -- Seven Research Challenges! How Good Are AI Agents at Doing Your Job?**|Robin-Nico Kampa et.al.|[2605.17046](http://arxiv.org/abs/2605.17046)|null|
 |**2026-05-16**|**Axial-Relation Guided Fusion State Space Model for Optical-Elevation Sensing Image Segmentation**|Feng Gao et.al.|[2605.16768](http://arxiv.org/abs/2605.16768)|null|
 |**2026-05-12**|**Vision Transformer-Conditioned UNet for Domain-Adaptive Semantic Segmentation**|Joel Valdivia Ortega et.al.|[2605.16393](http://arxiv.org/abs/2605.16393)|null|
 |**2026-05-15**|**Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation**|Shuaiyi Li et.al.|[2605.15913](http://arxiv.org/abs/2605.15913)|null|
 |**2026-05-13**|**FSCM: Frequency-Enhanced Spatial-Spectral Coupled Mamba for Infrared Hyperspectral Image Colorization**|Tingting Liu et.al.|[2605.15880](http://arxiv.org/abs/2605.15880)|null|
 |**2026-05-15**|**Bidirectional Fusion Guided by Cardiac Patterns for Semi-Supervised ECG Segmentation**|Jeonghwa Lim et.al.|[2605.15722](http://arxiv.org/abs/2605.15722)|null|
-|**2026-05-15**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|**[link](https://github.com/Gumpest/SEED)**|
+|**2026-05-20**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|null|
 |**2026-05-14**|**A Unified Non-Parametric and Interpretable Point Cloud Analysis via t-FCW Graph Representation**|Haijian Lai et.al.|[2605.15475](http://arxiv.org/abs/2605.15475)|null|
 |**2026-05-14**|**ELDOR: A Dataset and Benchmark for Illegal Gold Mining in the Amazon Rainforest**|Kangning Cui et.al.|[2605.15397](http://arxiv.org/abs/2605.15397)|null|
 |**2026-05-14**|**Representative Attention For Vision Transformers**|Yuntong Li et.al.|[2605.14913](http://arxiv.org/abs/2605.14913)|null|
