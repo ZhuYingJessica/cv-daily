@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.21
+## Updated on 2026.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,17 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**DepthAgent: Towards Better Universal Depth Estimation via Sample-wise Expert Selection**|Jie Zhu et.al.|[2605.23281](http://arxiv.org/abs/2605.23281)|null|
+|**2026-05-21**|**UfM*: Uncertainty from Motion* for DNN Depth Estimation Using Gaussians**|Soumya Sudhakar et.al.|[2605.23098](http://arxiv.org/abs/2605.23098)|null|
+|**2026-05-21**|**Dithering Defense: Adversarial Robustness of Vision Foundation Models via Multi-Level Floyd-Steinberg Dithering**|Yury Belousov et.al.|[2605.23065](http://arxiv.org/abs/2605.23065)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-05-19**|**Understanding Model Behavior in Monocular Polyp Sizing**|Xinqi Xiong et.al.|[2605.20461](http://arxiv.org/abs/2605.20461)|**[link](https://github.com/anaxqx/polyp-sizing-audit)**|
 |**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](http://arxiv.org/abs/2605.19797)|null|
 |**2026-05-19**|**Smartphone-based Circular Plot Sampling for Forest Inventory**|Su Sun et.al.|[2605.19213](http://arxiv.org/abs/2605.19213)|null|
 |**2026-05-18**|**Towards Universal Physical Adversarial Attacks via a Joint Multi-Objective and Multi-Model Optimization Framework**|Ziyang Liu et.al.|[2605.17772](http://arxiv.org/abs/2605.17772)|null|
-|**2026-05-20**|**Weighted Reverse Convolution for Feature Upsampling**|Wentong Li et.al.|[2605.17472](http://arxiv.org/abs/2605.17472)|**[link](https://github.com/PolyU-VCLab/WRC)**|
+|**2026-05-20**|**Weighted Reverse Convolution for Feature Upsampling**|Wentong Li et.al.|[2605.17472](http://arxiv.org/abs/2605.17472)|null|
 |**2026-05-16**|**A Single Atlas is All You Need: Decoder-Side Gaussian Splatting for Immersive Video**|Dawid Mieloch et.al.|[2605.17002](http://arxiv.org/abs/2605.17002)|null|
 |**2026-05-15**|**SCARED-C: Corrected Camera Poses for Endoscopic Depth Estimation**|John J. Han et.al.|[2605.16628](http://arxiv.org/abs/2605.16628)|null|
 |**2026-05-15**|**EndoGSim: Physics-Aware 4D Dynamic Endoscopic Scene Simulations via MLLM-Guided Gaussian Splatting**|Changjing Liu et.al.|[2605.16022](http://arxiv.org/abs/2605.16022)|null|
 |**2026-05-20**|**Unlocking Dense Metric Depth Estimation in VLMs**|Hanxun Yu et.al.|[2605.15876](http://arxiv.org/abs/2605.15876)|null|
 |**2026-05-15**|**On RGB-TIR Stereo Calibration under Extreme Resolution Asymmetry**|Michał Król et.al.|[2605.15860](http://arxiv.org/abs/2605.15860)|null|
-|**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828](http://arxiv.org/abs/2605.15828)|null|
+|**2026-05-22**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828](http://arxiv.org/abs/2605.15828)|null|
 |**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
 |**2026-05-13**|**CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy**|Liangjing Shao et.al.|[2605.13038](http://arxiv.org/abs/2605.13038)|null|
 |**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
@@ -1112,12 +1115,19 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**Rethinking Transfer Learning for Industrial Inspection: DINOv3 vs. ImageNet Pretraining Across RGB and X-ray Tasks**|Mehdi Gharbage et.al.|[2605.23472](http://arxiv.org/abs/2605.23472)|null|
+|**2026-05-21**|**Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations**|Safwen Naimi et.al.|[2605.22904](http://arxiv.org/abs/2605.22904)|null|
+|**2026-05-21**|**Training-Free Fine-Grained Semantic Segmentations in Low Data Regimes: A FungiTastic Baseline**|Sebastian Cavada et.al.|[2605.22492](http://arxiv.org/abs/2605.22492)|null|
+|**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467](http://arxiv.org/abs/2605.22467)|null|
+|**2026-05-21**|**3D LULC classification using multispectral LiDAR and deep learning: current and prospective schemes**|Narges Takhtkeshha et.al.|[2605.22328](http://arxiv.org/abs/2605.22328)|null|
+|**2026-05-22**|**A Robust Semantic Segmentation Pipeline for the CVPR 2026 8th UG2+ Challenge Track 2**|Jinming Chai et.al.|[2605.22216](http://arxiv.org/abs/2605.22216)|null|
+|**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|null|
 |**2026-05-20**|**SubTGraph: Large-Scale Subterranean Environment Synthesis with Controllable Topological Variability for Robotic Autonomy Validation**|F. Labra Caso et.al.|[2605.20917](http://arxiv.org/abs/2605.20917)|null|
 |**2026-05-20**|**Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models**|Jeffrey Wang et.al.|[2605.20839](http://arxiv.org/abs/2605.20839)|null|
 |**2026-05-20**|**Interaction Locality in Hierarchical Recursive Reasoning**|Yosuke Miyanishi et.al.|[2605.20784](http://arxiv.org/abs/2605.20784)|null|
@@ -1140,7 +1150,7 @@
 |**2026-05-19**|**1GC-7RC: One Graphic Card -- Seven Research Challenges! How Good Are AI Agents at Doing Your Job?**|Robin-Nico Kampa et.al.|[2605.17046](http://arxiv.org/abs/2605.17046)|null|
 |**2026-05-16**|**Axial-Relation Guided Fusion State Space Model for Optical-Elevation Sensing Image Segmentation**|Feng Gao et.al.|[2605.16768](http://arxiv.org/abs/2605.16768)|null|
 |**2026-05-12**|**Vision Transformer-Conditioned UNet for Domain-Adaptive Semantic Segmentation**|Joel Valdivia Ortega et.al.|[2605.16393](http://arxiv.org/abs/2605.16393)|null|
-|**2026-05-15**|**Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation**|Shuaiyi Li et.al.|[2605.15913](http://arxiv.org/abs/2605.15913)|null|
+|**2026-05-22**|**Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation**|Shuaiyi Li et.al.|[2605.15913](http://arxiv.org/abs/2605.15913)|null|
 |**2026-05-13**|**FSCM: Frequency-Enhanced Spatial-Spectral Coupled Mamba for Infrared Hyperspectral Image Colorization**|Tingting Liu et.al.|[2605.15880](http://arxiv.org/abs/2605.15880)|null|
 |**2026-05-15**|**Bidirectional Fusion Guided by Cardiac Patterns for Semi-Supervised ECG Segmentation**|Jeonghwa Lim et.al.|[2605.15722](http://arxiv.org/abs/2605.15722)|null|
 |**2026-05-20**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|null|
@@ -3166,7 +3176,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
