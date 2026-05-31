@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.25
+## Updated on 2026.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
+|**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|**[link](https://github.com/pkqbajng/ldcm)**|
+|**2026-05-28**|**Towards Consistent Video Geometry Estimation**|Zhu Yu et.al.|[2605.30060](http://arxiv.org/abs/2605.30060)|**[link](https://github.com/aigc3d/ViGeo)**|
+|**2026-05-27**|**SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping**|Hongyu Wen et.al.|[2605.28735](http://arxiv.org/abs/2605.28735)|**[link](https://github.com/princeton-vl/SeeGroup)**|
+|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|**[link](https://github.com/Runningchauncey/SA4Depth)**|
+|**2026-05-27**|**A Digital Twin Framework for Virtual Visuo-Haptic Teleoperation of Complex-Shaped Optical Microrobots**|Zongcai Tan et.al.|[2605.28448](http://arxiv.org/abs/2605.28448)|**[link](https://github.com/Zongcai23/digital-twin-visuo-haptic)**|
+|**2026-05-25**|**NightSight: Passive Computation for Navigation in Dark Using Events**|Deepak Singh et.al.|[2605.26330](http://arxiv.org/abs/2605.26330)|null|
+|**2026-05-23**|**Unified 3D Scene Understanding Through Physical World Modeling**|Wanhee Lee et.al.|[2605.24321](http://arxiv.org/abs/2605.24321)|**[link](https://github.com/lee-wanhee/3WM)**|
+|**2026-05-22**|**WideDepth: Millimeter-Accurate Benchmark for Fisheye Depth Estimation**|Ilia Indyk et.al.|[2605.24074](http://arxiv.org/abs/2605.24074)|null|
 |**2026-05-22**|**DepthAgent: Towards Better Universal Depth Estimation via Sample-wise Expert Selection**|Jie Zhu et.al.|[2605.23281](http://arxiv.org/abs/2605.23281)|null|
 |**2026-05-21**|**UfM*: Uncertainty from Motion* for DNN Depth Estimation Using Gaussians**|Soumya Sudhakar et.al.|[2605.23098](http://arxiv.org/abs/2605.23098)|null|
-|**2026-05-21**|**Dithering Defense: Adversarial Robustness of Vision Foundation Models via Multi-Level Floyd-Steinberg Dithering**|Yury Belousov et.al.|[2605.23065](http://arxiv.org/abs/2605.23065)|**[link](https://github.com/Ufere/Assingment_1)**|
-|**2026-05-19**|**Understanding Model Behavior in Monocular Polyp Sizing**|Xinqi Xiong et.al.|[2605.20461](http://arxiv.org/abs/2605.20461)|**[link](https://github.com/anaxqx/polyp-sizing-audit)**|
+|**2026-05-21**|**Dithering Defense: Adversarial Robustness of Vision Foundation Models via Multi-Level Floyd-Steinberg Dithering**|Yury Belousov et.al.|[2605.23065](http://arxiv.org/abs/2605.23065)|null|
+|**2026-05-19**|**Understanding Model Behavior in Monocular Polyp Sizing**|Xinqi Xiong et.al.|[2605.20461](http://arxiv.org/abs/2605.20461)|null|
 |**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](http://arxiv.org/abs/2605.19797)|null|
 |**2026-05-19**|**Smartphone-based Circular Plot Sampling for Forest Inventory**|Su Sun et.al.|[2605.19213](http://arxiv.org/abs/2605.19213)|null|
 |**2026-05-18**|**Towards Universal Physical Adversarial Attacks via a Joint Multi-Objective and Multi-Model Optimization Framework**|Ziyang Liu et.al.|[2605.17772](http://arxiv.org/abs/2605.17772)|null|
@@ -4035,8 +4044,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|null|
+|**2026-05-28**|**Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation**|Boyuan Zhang et.al.|[2605.29773](http://arxiv.org/abs/2605.29773)|null|
+|**2026-05-28**|**Unsupervised Semantic Segmentation Facilitates Model Understanding**|Xiaoyan Yu et.al.|[2605.29691](http://arxiv.org/abs/2605.29691)|null|
+|**2026-05-28**|**How to Relieve Distribution Shifts in Semantic Segmentation for Off-Road Environments**|Ji-Hoon Hwang et.al.|[2605.29599](http://arxiv.org/abs/2605.29599)|null|
+|**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
+|**2026-05-27**|**MORI-Seg: Learning Morphological Geometry for Instance Segmentation without Instance Annotations**|Leiyue Zhao et.al.|[2605.28261](http://arxiv.org/abs/2605.28261)|null|
+|**2026-05-27**|**SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving**|Toomas Tahves et.al.|[2605.28136](http://arxiv.org/abs/2605.28136)|null|
+|**2026-05-27**|**Bridging the Generalization Gap in Adverse Weather Segmentation: A Training Recipe Perspective**|Cong Xu et.al.|[2605.27962](http://arxiv.org/abs/2605.27962)|null|
+|**2026-05-26**|**Trinity: Unifying Class-Agnostic Terrain and Semantic Segmentation for Unstructured Outdoor Environments by Leveraging Synthetic Data**|Marcus G Müller et.al.|[2605.27644](http://arxiv.org/abs/2605.27644)|null|
+|**2026-05-26**|**PILOT: A Data-Free Continual Learning Approach for Real-Time Semantic Segmentation via Boundary Guidance**|Yujing Zhou et.al.|[2605.27128](http://arxiv.org/abs/2605.27128)|null|
+|**2026-05-25**|**Frequency-Guided Fusion For RGB-Thermal Semantic Segmentation**|İsmail Emre Canıtez et.al.|[2605.26273](http://arxiv.org/abs/2605.26273)|null|
+|**2026-05-25**|**ATV-Net: Adaptive Triple-View Network with Dynamic Feature Fusion**|Hsin-Jui Pan et.al.|[2605.25803](http://arxiv.org/abs/2605.25803)|null|
+|**2026-05-24**|**D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation**|Wenjie Zheng et.al.|[2605.25022](http://arxiv.org/abs/2605.25022)|null|
+|**2026-05-22**|**Plume Segmentation from MethaneSAT with Cross-Sensor Transfer Learning and Physics-Informed Postprocessing**|Manuel Pérez-Carrasco et.al.|[2605.24273](http://arxiv.org/abs/2605.24273)|null|
+|**2026-05-22**|**GIBLy: Improving 3D Semantic Segmentation through an Architecture-Agnostic Lightweight Geometric Inductive Bias Layer**|Diogo Lavado et.al.|[2605.24243](http://arxiv.org/abs/2605.24243)|null|
+|**2026-05-20**|**SkySeg: Collaborative Onboard Semantic Segmentation with Heterogeneous UAVs in the Wild**|Anqi Lu et.al.|[2605.24014](http://arxiv.org/abs/2605.24014)|null|
+|**2026-05-22**|**Vision Transformers Need Better Token Interaction**|Linxiang Su et.al.|[2605.23868](http://arxiv.org/abs/2605.23868)|null|
 |**2026-05-22**|**Rethinking Transfer Learning for Industrial Inspection: DINOv3 vs. ImageNet Pretraining Across RGB and X-ray Tasks**|Mehdi Gharbage et.al.|[2605.23472](http://arxiv.org/abs/2605.23472)|null|
-|**2026-05-21**|**Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations**|Safwen Naimi et.al.|[2605.22904](http://arxiv.org/abs/2605.22904)|null|
+|**2026-05-25**|**Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations**|Safwen Naimi et.al.|[2605.22904](http://arxiv.org/abs/2605.22904)|null|
 |**2026-05-21**|**Training-Free Fine-Grained Semantic Segmentations in Low Data Regimes: A FungiTastic Baseline**|Sebastian Cavada et.al.|[2605.22492](http://arxiv.org/abs/2605.22492)|null|
 |**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467](http://arxiv.org/abs/2605.22467)|null|
 |**2026-05-21**|**3D LULC classification using multispectral LiDAR and deep learning: current and prospective schemes**|Narges Takhtkeshha et.al.|[2605.22328](http://arxiv.org/abs/2605.22328)|null|
