@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,14 +2934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561](http://arxiv.org/abs/2605.30561)|null|
+|**2026-05-28**|**A Novel Computer Vision Approach for Assessing Fish Responses to Intrusive Objects in Aquaculture**|Hanne-Grete Alvheim et.al.|[2605.30399](http://arxiv.org/abs/2605.30399)|null|
 |**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
 |**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|**[link](https://github.com/pkqbajng/ldcm)**|
-|**2026-05-28**|**Towards Consistent Video Geometry Estimation**|Zhu Yu et.al.|[2605.30060](http://arxiv.org/abs/2605.30060)|**[link](https://github.com/aigc3d/ViGeo)**|
-|**2026-05-27**|**SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping**|Hongyu Wen et.al.|[2605.28735](http://arxiv.org/abs/2605.28735)|**[link](https://github.com/princeton-vl/SeeGroup)**|
-|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|**[link](https://github.com/Runningchauncey/SA4Depth)**|
-|**2026-05-27**|**A Digital Twin Framework for Virtual Visuo-Haptic Teleoperation of Complex-Shaped Optical Microrobots**|Zongcai Tan et.al.|[2605.28448](http://arxiv.org/abs/2605.28448)|**[link](https://github.com/Zongcai23/digital-twin-visuo-haptic)**|
+|**2026-05-29**|**Towards Consistent Video Geometry Estimation**|Zhu Yu et.al.|[2605.30060](http://arxiv.org/abs/2605.30060)|**[link](https://github.com/aigc3d/ViGeo)**|
+|**2026-05-27**|**SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping**|Hongyu Wen et.al.|[2605.28735](http://arxiv.org/abs/2605.28735)|null|
+|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|null|
+|**2026-05-27**|**A Digital Twin Framework for Virtual Visuo-Haptic Teleoperation of Complex-Shaped Optical Microrobots**|Zongcai Tan et.al.|[2605.28448](http://arxiv.org/abs/2605.28448)|null|
 |**2026-05-25**|**NightSight: Passive Computation for Navigation in Dark Using Events**|Deepak Singh et.al.|[2605.26330](http://arxiv.org/abs/2605.26330)|null|
-|**2026-05-23**|**Unified 3D Scene Understanding Through Physical World Modeling**|Wanhee Lee et.al.|[2605.24321](http://arxiv.org/abs/2605.24321)|**[link](https://github.com/lee-wanhee/3WM)**|
+|**2026-05-23**|**Unified 3D Scene Understanding Through Physical World Modeling**|Wanhee Lee et.al.|[2605.24321](http://arxiv.org/abs/2605.24321)|null|
 |**2026-05-22**|**WideDepth: Millimeter-Accurate Benchmark for Fisheye Depth Estimation**|Ilia Indyk et.al.|[2605.24074](http://arxiv.org/abs/2605.24074)|null|
 |**2026-05-22**|**DepthAgent: Towards Better Universal Depth Estimation via Sample-wise Expert Selection**|Jie Zhu et.al.|[2605.23281](http://arxiv.org/abs/2605.23281)|null|
 |**2026-05-21**|**UfM*: Uncertainty from Motion* for DNN Depth Estimation Using Gaussians**|Soumya Sudhakar et.al.|[2605.23098](http://arxiv.org/abs/2605.23098)|null|
@@ -4044,7 +4046,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|null|
+|**2026-05-29**|**Vanilla ViT for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2605.31177](http://arxiv.org/abs/2605.31177)|null|
+|**2026-05-29**|**Remembering by Reconstructing: Domain Incremental Learning With Test-Time Training on Video Streams**|Jonathan Swinnen et.al.|[2605.31108](http://arxiv.org/abs/2605.31108)|null|
+|**2026-05-29**|**Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation**|Erik Großkopf et.al.|[2605.31094](http://arxiv.org/abs/2605.31094)|null|
+|**2026-05-29**|**Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling**|Shipeng Liu et.al.|[2605.31048](http://arxiv.org/abs/2605.31048)|null|
+|**2026-05-29**|**Reading Between the Citations: A Typed Claim Network for Scientific Literature**|Ning Ding et.al.|[2605.30966](http://arxiv.org/abs/2605.30966)|null|
+|**2026-05-29**|**PRISM: Progressive Reasoning through Iterative Slot Memory for Vision**|Ziyu Wang et.al.|[2605.30942](http://arxiv.org/abs/2605.30942)|null|
+|**2026-05-29**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|null|
 |**2026-05-28**|**Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation**|Boyuan Zhang et.al.|[2605.29773](http://arxiv.org/abs/2605.29773)|null|
 |**2026-05-28**|**Unsupervised Semantic Segmentation Facilitates Model Understanding**|Xiaoyan Yu et.al.|[2605.29691](http://arxiv.org/abs/2605.29691)|null|
 |**2026-05-28**|**How to Relieve Distribution Shifts in Semantic Segmentation for Off-Road Environments**|Ji-Hoon Hwang et.al.|[2605.29599](http://arxiv.org/abs/2605.29599)|null|
