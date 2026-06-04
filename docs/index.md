@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.03
+## Updated on 2026.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4051,6 +4051,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation**|Amirhossein Movahedisefat et.al.|[2606.04705](http://arxiv.org/abs/2606.04705)|null|
+|**2026-06-02**|**Weakly Supervised Incremental Segmentation via Semantic Anchors and Spatial Arbitration**|Zhonggai Wang et.al.|[2606.04060](http://arxiv.org/abs/2606.04060)|null|
 |**2026-06-02**|**UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion**|Ye Wu et.al.|[2606.03581](http://arxiv.org/abs/2606.03581)|null|
 |**2026-06-02**|**Towards Compact Autonomous Driving Perception with Balanced Learning and Multi-sensor Fusion**|Oskar Natan et.al.|[2606.02979](http://arxiv.org/abs/2606.02979)|null|
 |**2026-06-01**|**Edge Prediction for Roof Wireframe Reconstruction with Transformers**|Gustav Hanning et.al.|[2606.02406](http://arxiv.org/abs/2606.02406)|null|
@@ -4067,7 +4069,7 @@ layout: default
 |**2026-05-29**|**Vanilla ViT for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2605.31177](http://arxiv.org/abs/2605.31177)|null|
 |**2026-05-29**|**Remembering by Reconstructing: Domain Incremental Learning With Test-Time Training on Video Streams**|Jonathan Swinnen et.al.|[2605.31108](http://arxiv.org/abs/2605.31108)|null|
 |**2026-05-29**|**Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation**|Erik Großkopf et.al.|[2605.31094](http://arxiv.org/abs/2605.31094)|null|
-|**2026-05-29**|**Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling**|Shipeng Liu et.al.|[2605.31048](http://arxiv.org/abs/2605.31048)|null|
+|**2026-05-29**|**Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling**|Shipeng Liu et.al.|[2605.31048](http://arxiv.org/abs/2605.31048)|**[link](https://github.com/xauat-liushipeng/RIFT)**|
 |**2026-05-29**|**Reading Between the Citations: A Typed Claim Network for Scientific Literature**|Ning Ding et.al.|[2605.30966](http://arxiv.org/abs/2605.30966)|null|
 |**2026-05-29**|**PRISM: Progressive Reasoning through Iterative Slot Memory for Vision**|Ziyu Wang et.al.|[2605.30942](http://arxiv.org/abs/2605.30942)|null|
 |**2026-05-29**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|null|
