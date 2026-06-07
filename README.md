@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.04
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1131,7 +1131,7 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -1155,7 +1155,7 @@
 |**2026-05-29**|**Vanilla ViT for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2605.31177](http://arxiv.org/abs/2605.31177)|null|
 |**2026-05-29**|**Remembering by Reconstructing: Domain Incremental Learning With Test-Time Training on Video Streams**|Jonathan Swinnen et.al.|[2605.31108](http://arxiv.org/abs/2605.31108)|null|
 |**2026-05-29**|**Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation**|Erik Großkopf et.al.|[2605.31094](http://arxiv.org/abs/2605.31094)|null|
-|**2026-05-29**|**Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling**|Shipeng Liu et.al.|[2605.31048](http://arxiv.org/abs/2605.31048)|**[link](https://github.com/xauat-liushipeng/RIFT)**|
+|**2026-05-29**|**Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling**|Shipeng Liu et.al.|[2605.31048](http://arxiv.org/abs/2605.31048)|null|
 |**2026-05-29**|**Reading Between the Citations: A Typed Claim Network for Scientific Literature**|Ning Ding et.al.|[2605.30966](http://arxiv.org/abs/2605.30966)|null|
 |**2026-05-29**|**PRISM: Progressive Reasoning through Iterative Slot Memory for Vision**|Ziyu Wang et.al.|[2605.30942](http://arxiv.org/abs/2605.30942)|null|
 |**2026-05-29**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|null|
@@ -3230,7 +3230,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
