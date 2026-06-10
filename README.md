@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628](http://arxiv.org/abs/2606.10628)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
 |**2026-06-02**|**PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation**|Shinjeong Kim et.al.|[2606.03989](http://arxiv.org/abs/2606.03989)|null|
 |**2026-06-02**|**Towards Compact Autonomous Driving Perception with Balanced Learning and Multi-sensor Fusion**|Oskar Natan et.al.|[2606.02979](http://arxiv.org/abs/2606.02979)|**[link](https://github.com/oskarnatan/compact-perception)**|
@@ -1132,12 +1133,20 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**Globally Localizing Lunar Rover in Pixels via Graph Alignment**|Mao Chen et.al.|[2606.10602](http://arxiv.org/abs/2606.10602)|null|
+|**2026-06-08**|**iSAGE: A Human-in-the-Loop Framework for Remote Sensing Semantic Segmentation via Sparse Point Supervision**|Osmar Luiz Ferreira de Carvalho et.al.|[2606.10136](http://arxiv.org/abs/2606.10136)|null|
+|**2026-06-08**|**Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation**|Lucas Görnhardt et.al.|[2606.09536](http://arxiv.org/abs/2606.09536)|null|
+|**2026-06-08**|**Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration**|Silas Kwabla Gah et.al.|[2606.09474](http://arxiv.org/abs/2606.09474)|null|
+|**2026-06-08**|**Zero-Parameter Geometric Gating for Temporally Stable Low-Altitude UAV Video Semantic Segmentation**|Jingpu Yang et.al.|[2606.09162](http://arxiv.org/abs/2606.09162)|null|
+|**2026-06-07**|**Generalizing Geometry-Guided Mamba as a Plug-and-Play Context Module for CNN-based Semantic Segmentation**|Sheng-Wei Chan et.al.|[2606.08866](http://arxiv.org/abs/2606.08866)|null|
+|**2026-06-07**|**PairWise Image Finder: An Open-source Tool for Finding Visually Aligned Street-Level Image Pairs for Urban Perception Studies**|Jussi Torkko et.al.|[2606.08795](http://arxiv.org/abs/2606.08795)|null|
+|**2026-06-07**|**PhysGraph: A Physics-aware 3D Scene Graph for Perception and Reasoning**|Haoyu Li et.al.|[2606.08655](http://arxiv.org/abs/2606.08655)|null|
 |**2026-06-06**|**GVC-Seg: Training-Free 3D Instance Segmentation via Geometric Visual Correspondence**|Liang Xu et.al.|[2606.08014](http://arxiv.org/abs/2606.08014)|null|
 |**2026-06-06**|**Learning a Semantic Calibration Network for Open-Vocabulary Semantic Segmentation**|Yang Sun et.al.|[2606.08001](http://arxiv.org/abs/2606.08001)|null|
 |**2026-06-05**|**Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation**|Zihao Zhang et.al.|[2606.07280](http://arxiv.org/abs/2606.07280)|null|
@@ -3235,7 +3244,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
