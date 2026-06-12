@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-10**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|**[link](https://github.com/PolyU-VCLab/DepthMaster)**|
+|**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
+|**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
+|**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|**[link](https://github.com/testideah2/d2606401b130281be8b7b83efa95d311)**|
+|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|**[link](https://github.com/PolyU-VCLab/DepthMaster)**|
 |**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
 |**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628](http://arxiv.org/abs/2606.10628)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
@@ -1135,12 +1138,13 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**To GAN or Not To GAN: Segmentation Analysis on Mars DEM**|Douglas Dziedzorm Agbeve et.al.|[2606.13252](http://arxiv.org/abs/2606.13252)|null|
 |**2026-06-10**|**LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semantic Segmentation**|Liwen Yi et.al.|[2606.11837](http://arxiv.org/abs/2606.11837)|null|
 |**2026-06-09**|**PT-WNO: Point Transformer with Wavelet Neural Operator for 3D Point Cloud Semantic Segmentation**|Nhut Le et.al.|[2606.11466](http://arxiv.org/abs/2606.11466)|null|
 |**2026-06-09**|**Semantic Segmentation of Node and Edge Diagrams for Assistive Technology**|Michael Cormier et.al.|[2606.11320](http://arxiv.org/abs/2606.11320)|null|
@@ -3249,7 +3253,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
