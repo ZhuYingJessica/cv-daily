@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
+|**2026-06-12**|**ViT-Up: Faithful Feature Upsampling for Vision Transformers**|Krispin Wandel et.al.|[2606.14024](http://arxiv.org/abs/2606.14024)|**[link](https://github.com/krispinwandel/vit-up)**|
 |**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
 |**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
-|**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|**[link](https://github.com/testideah2/d2606401b130281be8b7b83efa95d311)**|
-|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|**[link](https://github.com/PolyU-VCLab/DepthMaster)**|
+|**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|null|
+|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|null|
 |**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
 |**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628](http://arxiv.org/abs/2606.10628)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
@@ -36,7 +39,7 @@
 |**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|null|
 |**2026-05-29**|**Towards Consistent Video Geometry Estimation**|Zhu Yu et.al.|[2605.30060](http://arxiv.org/abs/2605.30060)|null|
 |**2026-05-27**|**SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping**|Hongyu Wen et.al.|[2605.28735](http://arxiv.org/abs/2605.28735)|null|
-|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|null|
+|**2026-06-11**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|null|
 |**2026-05-27**|**A Digital Twin Framework for Virtual Visuo-Haptic Teleoperation of Complex-Shaped Optical Microrobots**|Zongcai Tan et.al.|[2605.28448](http://arxiv.org/abs/2605.28448)|null|
 |**2026-05-25**|**NightSight: Passive Computation for Navigation in Dark Using Events**|Deepak Singh et.al.|[2605.26330](http://arxiv.org/abs/2605.26330)|null|
 |**2026-05-23**|**Unified 3D Scene Understanding Through Physical World Modeling**|Wanhee Lee et.al.|[2605.24321](http://arxiv.org/abs/2605.24321)|null|
@@ -1138,17 +1141,19 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests**|Constanza A. Molina Catricheo et.al.|[2606.14562](http://arxiv.org/abs/2606.14562)|null|
+|**2026-06-12**|**ViT-Up: Faithful Feature Upsampling for Vision Transformers**|Krispin Wandel et.al.|[2606.14024](http://arxiv.org/abs/2606.14024)|null|
 |**2026-06-11**|**To GAN or Not To GAN: Segmentation Analysis on Mars DEM**|Douglas Dziedzorm Agbeve et.al.|[2606.13252](http://arxiv.org/abs/2606.13252)|null|
 |**2026-06-10**|**LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semantic Segmentation**|Liwen Yi et.al.|[2606.11837](http://arxiv.org/abs/2606.11837)|null|
 |**2026-06-09**|**PT-WNO: Point Transformer with Wavelet Neural Operator for 3D Point Cloud Semantic Segmentation**|Nhut Le et.al.|[2606.11466](http://arxiv.org/abs/2606.11466)|null|
 |**2026-06-09**|**Semantic Segmentation of Node and Edge Diagrams for Assistive Technology**|Michael Cormier et.al.|[2606.11320](http://arxiv.org/abs/2606.11320)|null|
-|**2026-06-09**|**Globally Localizing Lunar Rover in Pixels via Graph Alignment**|Mao Chen et.al.|[2606.10602](http://arxiv.org/abs/2606.10602)|null|
+|**2026-06-09**|**Globally Localizing Lunar Rover in Pixels via Graph Alignment**|Mao Chen et.al.|[2606.10602](http://arxiv.org/abs/2606.10602)|**[link](https://github.com/maochen-casia/warg)**|
 |**2026-06-08**|**iSAGE: A Human-in-the-Loop Framework for Remote Sensing Semantic Segmentation via Sparse Point Supervision**|Osmar Luiz Ferreira de Carvalho et.al.|[2606.10136](http://arxiv.org/abs/2606.10136)|null|
 |**2026-06-08**|**Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation**|Lucas Görnhardt et.al.|[2606.09536](http://arxiv.org/abs/2606.09536)|null|
 |**2026-06-08**|**Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration**|Silas Kwabla Gah et.al.|[2606.09474](http://arxiv.org/abs/2606.09474)|null|
@@ -3253,7 +3258,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
