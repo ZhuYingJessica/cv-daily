@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.15
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,9 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340](http://arxiv.org/abs/2606.17340)|null|
+|**2026-06-15**|**MMDiff: Extending Diffusion Transformers for Multi-Modal Generation**|Yagmur Akarken et.al.|[2606.16673](http://arxiv.org/abs/2606.16673)|**[link](https://github.com/yagmurakarken/mmdiff)**|
+|**2026-06-15**|**Instance-Aware Knowledge Distillation for Semi-Supervised Learning of an On-Board Multi-Task Dense Prediction Model for Collision Avoidance System**|Gyutae Hwang et.al.|[2606.16414](http://arxiv.org/abs/2606.16414)|null|
+|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|null|
 |**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|null|
 |**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
-|**2026-06-12**|**ViT-Up: Faithful Feature Upsampling for Vision Transformers**|Krispin Wandel et.al.|[2606.14024](http://arxiv.org/abs/2606.14024)|**[link](https://github.com/krispinwandel/vit-up)**|
+|**2026-06-12**|**ViT-Up: Faithful Feature Upsampling for Vision Transformers**|Krispin Wandel et.al.|[2606.14024](http://arxiv.org/abs/2606.14024)|null|
 |**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
 |**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
 |**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|null|
@@ -1141,19 +1145,29 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Reload-Mamba: Hierarchical Anti-Dilution State-Space Modeling for Multi-Class Semantic Segmentation**|Sheng-Wei Chan et.al.|[2606.17966](http://arxiv.org/abs/2606.17966)|null|
+|**2026-06-16**|**SegTME-UNI2: A Foundation Model-Based Framework for Generalisable Multiclass Cell Segmentation and LLM-Driven Tumour Microenvironment Characterisation in Histopathology**|Wan Siti Halimatul Munirah Wan Ahmad et.al.|[2606.17702](http://arxiv.org/abs/2606.17702)|null|
+|**2026-06-15**|**ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation**|Tran Dinh Tien et.al.|[2606.16996](http://arxiv.org/abs/2606.16996)|null|
+|**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|null|
+|**2026-06-15**|**MMDiff: Extending Diffusion Transformers for Multi-Modal Generation**|Yagmur Akarken et.al.|[2606.16673](http://arxiv.org/abs/2606.16673)|null|
+|**2026-06-15**|**LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching**|Jaward Sesay et.al.|[2606.16428](http://arxiv.org/abs/2606.16428)|null|
+|**2026-06-16**|**GOOSE-M2F: Adapting Mask2Former for High-Fidelity, Long-Tailed Fine-Grained Semantic Segmentation in Unstructured Outdoor Terrain**|Jyothiraditya Lingam et.al.|[2606.15937](http://arxiv.org/abs/2606.15937)|null|
+|**2026-06-13**|**Texture-Shape Bias Balancing for Robust Synthetic-to-Real Semantic Segmentation in Automotive NIR Imagery**|Felix Stillger et.al.|[2606.15072](http://arxiv.org/abs/2606.15072)|null|
+|**2026-06-09**|**Synthetic-to-Real Pipeline for Safe Landing Zone Detection**|Shrikant Banerjee et.al.|[2606.14767](http://arxiv.org/abs/2606.14767)|null|
+|**2026-06-07**|**Sub-Semantic Image Segmentation**|Aviad Cohen Zada et.al.|[2606.14754](http://arxiv.org/abs/2606.14754)|null|
 |**2026-06-12**|**NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests**|Constanza A. Molina Catricheo et.al.|[2606.14562](http://arxiv.org/abs/2606.14562)|null|
 |**2026-06-12**|**ViT-Up: Faithful Feature Upsampling for Vision Transformers**|Krispin Wandel et.al.|[2606.14024](http://arxiv.org/abs/2606.14024)|null|
 |**2026-06-11**|**To GAN or Not To GAN: Segmentation Analysis on Mars DEM**|Douglas Dziedzorm Agbeve et.al.|[2606.13252](http://arxiv.org/abs/2606.13252)|null|
 |**2026-06-10**|**LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semantic Segmentation**|Liwen Yi et.al.|[2606.11837](http://arxiv.org/abs/2606.11837)|null|
 |**2026-06-09**|**PT-WNO: Point Transformer with Wavelet Neural Operator for 3D Point Cloud Semantic Segmentation**|Nhut Le et.al.|[2606.11466](http://arxiv.org/abs/2606.11466)|null|
 |**2026-06-09**|**Semantic Segmentation of Node and Edge Diagrams for Assistive Technology**|Michael Cormier et.al.|[2606.11320](http://arxiv.org/abs/2606.11320)|null|
-|**2026-06-09**|**Globally Localizing Lunar Rover in Pixels via Graph Alignment**|Mao Chen et.al.|[2606.10602](http://arxiv.org/abs/2606.10602)|**[link](https://github.com/maochen-casia/warg)**|
+|**2026-06-09**|**Globally Localizing Lunar Rover in Pixels via Graph Alignment**|Mao Chen et.al.|[2606.10602](http://arxiv.org/abs/2606.10602)|null|
 |**2026-06-08**|**iSAGE: A Human-in-the-Loop Framework for Remote Sensing Semantic Segmentation via Sparse Point Supervision**|Osmar Luiz Ferreira de Carvalho et.al.|[2606.10136](http://arxiv.org/abs/2606.10136)|null|
 |**2026-06-08**|**Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation**|Lucas Görnhardt et.al.|[2606.09536](http://arxiv.org/abs/2606.09536)|null|
 |**2026-06-08**|**Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration**|Silas Kwabla Gah et.al.|[2606.09474](http://arxiv.org/abs/2606.09474)|null|
@@ -3258,7 +3272,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
