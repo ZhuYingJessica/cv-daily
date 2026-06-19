@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**TIDY: Thermal Infrared Image Denoising via Wavelet Domain Entropy and Directional Stripe Index**|Tai Hyoung Rhee et.al.|[2606.19813](http://arxiv.org/abs/2606.19813)|null|
 |**2026-06-17**|**Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation**|Thomas M. Kwok et.al.|[2606.19240](http://arxiv.org/abs/2606.19240)|null|
 |**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|null|
 |**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340](http://arxiv.org/abs/2606.17340)|null|
@@ -1147,12 +1148,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**Single-Stage Hierarchical Rectification for Weakly Supervised Histopathology Segmentation**|Duc T. Nguyen et.al.|[2606.20250](http://arxiv.org/abs/2606.20250)|null|
+|**2026-06-18**|**SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation**|Xuesong Wang et.al.|[2606.20130](http://arxiv.org/abs/2606.20130)|null|
+|**2026-06-18**|**Speeding up the annotation process in semantic segmentation industrial applications**|Marta Fernandez-Moreno et.al.|[2606.19934](http://arxiv.org/abs/2606.19934)|null|
+|**2026-06-17**|**LEAP: Layer-skipping Efficiency via Adaptive Progression for Vision Transformer Distillation**|Jiaqi Zhang et.al.|[2606.19483](http://arxiv.org/abs/2606.19483)|null|
 |**2026-06-17**|**Viking Hill Dataset: A Lidar-Radar-Camera Dataset for Detection and Segmentation in Forest Scenes**|Vladimír Kubelka et.al.|[2606.19154](http://arxiv.org/abs/2606.19154)|null|
 |**2026-06-17**|**Automatic ply-specific analyses of CFRP micrographs using shortest-path-based ply distinction**|Jonas Naumann et.al.|[2606.18894](http://arxiv.org/abs/2606.18894)|null|
 |**2026-06-17**|**LandslideAgent with Multimodal LandslideBench: A Domain-Rule-Augmented Agent for Autonomous Landslide Identification and Analysis**|Chengfu Liu et.al.|[2606.18661](http://arxiv.org/abs/2606.18661)|null|
@@ -1174,7 +1179,7 @@
 |**2026-06-09**|**PT-WNO: Point Transformer with Wavelet Neural Operator for 3D Point Cloud Semantic Segmentation**|Nhut Le et.al.|[2606.11466](http://arxiv.org/abs/2606.11466)|null|
 |**2026-06-09**|**Semantic Segmentation of Node and Edge Diagrams for Assistive Technology**|Michael Cormier et.al.|[2606.11320](http://arxiv.org/abs/2606.11320)|null|
 |**2026-06-09**|**Globally Localizing Lunar Rover in Pixels via Graph Alignment**|Mao Chen et.al.|[2606.10602](http://arxiv.org/abs/2606.10602)|null|
-|**2026-06-08**|**iSAGE: A Human-in-the-Loop Framework for Remote Sensing Semantic Segmentation via Sparse Point Supervision**|Osmar Luiz Ferreira de Carvalho et.al.|[2606.10136](http://arxiv.org/abs/2606.10136)|null|
+|**2026-06-18**|**iSAGE: A Human-in-the-Loop Framework for Remote Sensing Semantic Segmentation via Sparse Point Supervision**|Osmar Luiz Ferreira de Carvalho et.al.|[2606.10136](http://arxiv.org/abs/2606.10136)|null|
 |**2026-06-08**|**Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation**|Lucas Görnhardt et.al.|[2606.09536](http://arxiv.org/abs/2606.09536)|null|
 |**2026-06-08**|**Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration**|Silas Kwabla Gah et.al.|[2606.09474](http://arxiv.org/abs/2606.09474)|null|
 |**2026-06-08**|**Zero-Parameter Geometric Gating for Temporally Stable Low-Altitude UAV Video Semantic Segmentation**|Jingpu Yang et.al.|[2606.09162](http://arxiv.org/abs/2606.09162)|null|
@@ -3278,7 +3283,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
