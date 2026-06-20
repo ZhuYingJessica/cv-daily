@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.19
+## Updated on 2026.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2026-06-17**|**Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation**|Thomas M. Kwok et.al.|[2606.19240](http://arxiv.org/abs/2606.19240)|null|
 |**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|null|
 |**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340](http://arxiv.org/abs/2606.17340)|null|
-|**2026-06-15**|**MMDiff: Extending Diffusion Transformers for Multi-Modal Generation**|Yagmur Akarken et.al.|[2606.16673](http://arxiv.org/abs/2606.16673)|**[link](https://github.com/yagmurakarken/mmdiff)**|
+|**2026-06-15**|**MMDiff: Extending Diffusion Transformers for Multi-Modal Generation**|Yagmur Akarken et.al.|[2606.16673](http://arxiv.org/abs/2606.16673)|null|
 |**2026-06-15**|**Instance-Aware Knowledge Distillation for Semi-Supervised Learning of an On-Board Multi-Task Dense Prediction Model for Collision Avoidance System**|Gyutae Hwang et.al.|[2606.16414](http://arxiv.org/abs/2606.16414)|null|
 |**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|null|
 |**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|null|
@@ -1148,7 +1148,7 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260620>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -3283,7 +3283,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
