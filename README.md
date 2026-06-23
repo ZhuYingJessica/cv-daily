@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1148,12 +1148,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-19**|**Technical Report for ICRA 2026 GOOSE 2D Fine-Grained Semantic Segmentation Challenge: Exploring Query-Based Segmentation and Increased Spatial Context for Outdoor Scene Understanding**|David Pascual-Hernández et.al.|[2606.21456](http://arxiv.org/abs/2606.21456)|null|
+|**2026-06-18**|**BELDE: Building a Large-scale Earth-observation Land-cover Dataset for Europe**|Ümit Mert Çağlar et.al.|[2606.20909](http://arxiv.org/abs/2606.20909)|null|
 |**2026-06-18**|**Single-Stage Hierarchical Rectification for Weakly Supervised Histopathology Segmentation**|Duc T. Nguyen et.al.|[2606.20250](http://arxiv.org/abs/2606.20250)|null|
 |**2026-06-18**|**SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation**|Xuesong Wang et.al.|[2606.20130](http://arxiv.org/abs/2606.20130)|null|
 |**2026-06-18**|**Speeding up the annotation process in semantic segmentation industrial applications**|Marta Fernandez-Moreno et.al.|[2606.19934](http://arxiv.org/abs/2606.19934)|null|
@@ -3283,7 +3285,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4068,6 +4068,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-19**|**Technical Report for ICRA 2026 GOOSE 2D Fine-Grained Semantic Segmentation Challenge: Exploring Query-Based Segmentation and Increased Spatial Context for Outdoor Scene Understanding**|David Pascual-Hernández et.al.|[2606.21456](http://arxiv.org/abs/2606.21456)|null|
+|**2026-06-18**|**BELDE: Building a Large-scale Earth-observation Land-cover Dataset for Europe**|Ümit Mert Çağlar et.al.|[2606.20909](http://arxiv.org/abs/2606.20909)|null|
 |**2026-06-18**|**Single-Stage Hierarchical Rectification for Weakly Supervised Histopathology Segmentation**|Duc T. Nguyen et.al.|[2606.20250](http://arxiv.org/abs/2606.20250)|null|
 |**2026-06-18**|**SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation**|Xuesong Wang et.al.|[2606.20130](http://arxiv.org/abs/2606.20130)|null|
 |**2026-06-18**|**Speeding up the annotation process in semantic segmentation industrial applications**|Marta Fernandez-Moreno et.al.|[2606.19934](http://arxiv.org/abs/2606.19934)|null|
