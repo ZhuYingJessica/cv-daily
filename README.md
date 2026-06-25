@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,11 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|null|
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|**[link](https://github.com/DTU-PAS/shotcrete-depth)**|
 |**2026-06-22**|**Can Single-View Mesh Reconstruction Generalize to Robot Camera Rotation?**|Yu Zhan et.al.|[2606.22987](http://arxiv.org/abs/2606.22987)|null|
 |**2026-06-21**|**OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs**|Hao Vo et.al.|[2606.22617](http://arxiv.org/abs/2606.22617)|null|
 |**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|null|
-|**2026-06-18**|**TIDY: Thermal Infrared Image Denoising via Wavelet Domain Entropy and Directional Stripe Index**|Tai Hyoung Rhee et.al.|[2606.19813](http://arxiv.org/abs/2606.19813)|null|
+|**2026-06-18**|**TIDY: Thermal Infrared Image Denoising via Wavelet Domain Entropy and Directional Stripe Index**|Tai Hyoung Rhee et.al.|[2606.19813](http://arxiv.org/abs/2606.19813)|**[link](https://github.com/williamrheeth/TIDY)**|
 |**2026-06-17**|**Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation**|Thomas M. Kwok et.al.|[2606.19240](http://arxiv.org/abs/2606.19240)|null|
 |**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|null|
 |**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340](http://arxiv.org/abs/2606.17340)|null|
@@ -1152,15 +1153,17 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
+|**2026-06-23**|**Benchmarking the Alignment of Data-Quality Metrics, Human Judgment and Land-Cover Segmentation Performance for Earth Observation**|Ümit Mert Çağlar et.al.|[2606.25128](http://arxiv.org/abs/2606.25128)|null|
 |**2026-06-23**|**A Multi-Stage Separation-and-Classification Framework Guided by Complementary Acoustic-to-Semantic Clues**|Younghoo Kwon et.al.|[2606.24512](http://arxiv.org/abs/2606.24512)|null|
 |**2026-06-23**|**Tri-Efficient Transfer Learning for Point Cloud Videos**|Yiding Sun et.al.|[2606.24175](http://arxiv.org/abs/2606.24175)|null|
-|**2026-06-23**|**Ingredient-Level Food Image Segmentation for Nutrition Awareness**|Jonesh Shrestha et.al.|[2606.24059](http://arxiv.org/abs/2606.24059)|null|
+|**2026-06-24**|**Ingredient-Level Food Image Segmentation for Nutrition Awareness**|Jonesh Shrestha et.al.|[2606.24059](http://arxiv.org/abs/2606.24059)|null|
 |**2026-06-22**|**Technical Report for the ICRA 2026 GOOSE 2D Fine-Grained Semantic Segmentation Challenge: Pretraining-Diverse Ensemble of Foundation Vision Encoders for Robust Outdoor Scene Understanding**|Boyan Wang et.al.|[2606.23113](http://arxiv.org/abs/2606.23113)|null|
 |**2026-06-22**|**Learning Stable Canonical Worlds for Novel View Synthesis and Beyond**|Xiaoyu Xu et.al.|[2606.23027](http://arxiv.org/abs/2606.23027)|null|
 |**2026-06-22**|**BEV-Denoise: Learning Intrinsic Noise for Accurate Bird's-Eye-View Semantic Segmentation**|Dooseop Choi et.al.|[2606.22931](http://arxiv.org/abs/2606.22931)|null|
@@ -3297,7 +3300,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
