@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.25
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Forget, Anticipate and Adapt: Test Time Training for Long Videos**|Rajat Modi et.al.|[2606.26515](http://arxiv.org/abs/2606.26515)|null|
 |**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|null|
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|**[link](https://github.com/DTU-PAS/shotcrete-depth)**|
 |**2026-06-22**|**Can Single-View Mesh Reconstruction Generalize to Robot Camera Rotation?**|Yu Zhan et.al.|[2606.22987](http://arxiv.org/abs/2606.22987)|null|
 |**2026-06-21**|**OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs**|Hao Vo et.al.|[2606.22617](http://arxiv.org/abs/2606.22617)|null|
 |**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|null|
-|**2026-06-18**|**TIDY: Thermal Infrared Image Denoising via Wavelet Domain Entropy and Directional Stripe Index**|Tai Hyoung Rhee et.al.|[2606.19813](http://arxiv.org/abs/2606.19813)|**[link](https://github.com/williamrheeth/TIDY)**|
+|**2026-06-18**|**TIDY: Thermal Infrared Image Denoising via Wavelet Domain Entropy and Directional Stripe Index**|Tai Hyoung Rhee et.al.|[2606.19813](http://arxiv.org/abs/2606.19813)|null|
 |**2026-06-17**|**Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation**|Thomas M. Kwok et.al.|[2606.19240](http://arxiv.org/abs/2606.19240)|null|
 |**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|null|
 |**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340](http://arxiv.org/abs/2606.17340)|null|
@@ -4073,13 +4074,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|null|
 |**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
 |**2026-06-23**|**Benchmarking the Alignment of Data-Quality Metrics, Human Judgment and Land-Cover Segmentation Performance for Earth Observation**|Ümit Mert Çağlar et.al.|[2606.25128](http://arxiv.org/abs/2606.25128)|null|
 |**2026-06-23**|**A Multi-Stage Separation-and-Classification Framework Guided by Complementary Acoustic-to-Semantic Clues**|Younghoo Kwon et.al.|[2606.24512](http://arxiv.org/abs/2606.24512)|null|
 |**2026-06-23**|**Tri-Efficient Transfer Learning for Point Cloud Videos**|Yiding Sun et.al.|[2606.24175](http://arxiv.org/abs/2606.24175)|null|
 |**2026-06-24**|**Ingredient-Level Food Image Segmentation for Nutrition Awareness**|Jonesh Shrestha et.al.|[2606.24059](http://arxiv.org/abs/2606.24059)|null|
 |**2026-06-22**|**Technical Report for the ICRA 2026 GOOSE 2D Fine-Grained Semantic Segmentation Challenge: Pretraining-Diverse Ensemble of Foundation Vision Encoders for Robust Outdoor Scene Understanding**|Boyan Wang et.al.|[2606.23113](http://arxiv.org/abs/2606.23113)|null|
-|**2026-06-22**|**Learning Stable Canonical Worlds for Novel View Synthesis and Beyond**|Xiaoyu Xu et.al.|[2606.23027](http://arxiv.org/abs/2606.23027)|null|
+|**2026-06-25**|**Learning Stable Canonical Worlds for Novel View Synthesis and Beyond**|Xiaoyu Xu et.al.|[2606.23027](http://arxiv.org/abs/2606.23027)|null|
 |**2026-06-22**|**BEV-Denoise: Learning Intrinsic Noise for Accurate Bird's-Eye-View Semantic Segmentation**|Dooseop Choi et.al.|[2606.22931](http://arxiv.org/abs/2606.22931)|null|
 |**2026-06-20**|**Surgical Anatomy Recognition with Context Learning using Foundation Representations**|Ronald L. P. D. de Jong et.al.|[2606.22124](http://arxiv.org/abs/2606.22124)|null|
 |**2026-06-20**|**Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation**|Yanghui Song et.al.|[2606.21863](http://arxiv.org/abs/2606.21863)|null|
