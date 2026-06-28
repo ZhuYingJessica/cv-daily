@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.27
+## Updated on 2026.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2961,7 +2961,7 @@ layout: default
 |**2026-06-02**|**Towards Compact Autonomous Driving Perception with Balanced Learning and Multi-sensor Fusion**|Oskar Natan et.al.|[2606.02979](http://arxiv.org/abs/2606.02979)|null|
 |**2026-06-01**|**The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset**|Richard Schwarzkopf et.al.|[2606.02956](http://arxiv.org/abs/2606.02956)|null|
 |**2026-06-01**|**Depth from Dual Differential Defocus and Stereo Consensus**|Junjie Luo et.al.|[2606.02906](http://arxiv.org/abs/2606.02906)|null|
-|**2026-06-01**|**Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation**|Siyuan Bian et.al.|[2606.02552](http://arxiv.org/abs/2606.02552)|**[link](https://github.com/biansy000/MDA)**|
+|**2026-06-01**|**Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation**|Siyuan Bian et.al.|[2606.02552](http://arxiv.org/abs/2606.02552)|null|
 |**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561](http://arxiv.org/abs/2605.30561)|null|
 |**2026-05-28**|**A Novel Computer Vision Approach for Assessing Fish Responses to Intrusive Objects in Aquaculture**|Hanne-Grete Alvheim et.al.|[2605.30399](http://arxiv.org/abs/2605.30399)|null|
 |**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
@@ -4075,7 +4075,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Anthony Bisulco et.al.|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
-|**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|**[link](https://github.com/jimmy9704/TaskTok)**|
+|**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|null|
 |**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
 |**2026-06-23**|**Benchmarking the Alignment of Data-Quality Metrics, Human Judgment and Land-Cover Segmentation Performance for Earth Observation**|Ümit Mert Çağlar et.al.|[2606.25128](http://arxiv.org/abs/2606.25128)|null|
 |**2026-06-23**|**A Multi-Stage Separation-and-Classification Framework Guided by Complementary Acoustic-to-Semantic Clues**|Younghoo Kwon et.al.|[2606.24512](http://arxiv.org/abs/2606.24512)|null|
