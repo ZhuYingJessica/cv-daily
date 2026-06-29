@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|null|
 |**2026-06-25**|**Forget, Anticipate and Adapt: Test Time Training for Long Videos**|Rajat Modi et.al.|[2606.26515](http://arxiv.org/abs/2606.26515)|null|
 |**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|null|
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|**[link](https://github.com/DTU-PAS/shotcrete-depth)**|
@@ -4074,6 +4075,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|null|
 |**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Anthony Bisulco et.al.|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
 |**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|null|
 |**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
