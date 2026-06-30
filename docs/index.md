@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,8 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|null|
-|**2026-06-25**|**Forget, Anticipate and Adapt: Test Time Training for Long Videos**|Rajat Modi et.al.|[2606.26515](http://arxiv.org/abs/2606.26515)|null|
+|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|**[link](https://github.com/zhuqinfeng1999/Awesome-Panoramic-Scene-Analysis)**|
+|**2026-06-27**|**Forget, Anticipate and Adapt: Test Time Training for Long Videos**|Rajat Modi et.al.|[2606.26515](http://arxiv.org/abs/2606.26515)|null|
 |**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|null|
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|**[link](https://github.com/DTU-PAS/shotcrete-depth)**|
 |**2026-06-22**|**Can Single-View Mesh Reconstruction Generalize to Robot Camera Rotation?**|Yu Zhan et.al.|[2606.22987](http://arxiv.org/abs/2606.22987)|null|
@@ -2953,8 +2953,8 @@ layout: default
 |**2026-06-12**|**ViT-Up: Faithful Feature Upsampling for Vision Transformers**|Krispin Wandel et.al.|[2606.14024](http://arxiv.org/abs/2606.14024)|null|
 |**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
 |**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
-|**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|null|
-|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|null|
+|**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|**[link](https://github.com/testideah2/d2606401b130281be8b7b83efa95d311)**|
+|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|**[link](https://github.com/PolyU-VCLab/DepthMaster)**|
 |**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
 |**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628](http://arxiv.org/abs/2606.10628)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
@@ -4075,6 +4075,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-27**|**Semantic-Aware, Physics-Informed, Geometry-Grounded Weather Video Synthesis**|Chenghao Qian et.al.|[2606.29020](http://arxiv.org/abs/2606.29020)|null|
+|**2026-06-25**|**RSGPNet: Geometric Prompting for Remote Sensing Open-Vocabulary Semantic Segmentation**|Shanwen Wang et.al.|[2606.28410](http://arxiv.org/abs/2606.28410)|null|
+|**2026-06-24**|**Vision-driven Preference Synthesis for Mitigating Hallucinations in VLMs**|Yunhun Nam et.al.|[2606.28401](http://arxiv.org/abs/2606.28401)|null|
 |**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|null|
 |**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Anthony Bisulco et.al.|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
 |**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|null|
