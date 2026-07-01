@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|**[link](https://github.com/zhuqinfeng1999/Awesome-Panoramic-Scene-Analysis)**|
+|**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|null|
+|**2026-06-30**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
+|**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](http://arxiv.org/abs/2606.30545)|**[link](https://github.com/StringerYwh00/StereoGS)**|
+|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|**[link](https://github.com/realsee-developer/Argus)**|
+|**2026-06-29**|**Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems**|Yueteng Yang et.al.|[2606.29910](http://arxiv.org/abs/2606.29910)|null|
+|**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|null|
+|**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|null|
+|**2026-06-28**|**One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models**|Xiaohao Xu et.al.|[2606.29600](http://arxiv.org/abs/2606.29600)|null|
+|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|null|
 |**2026-06-27**|**Forget, Anticipate and Adapt: Test Time Training for Long Videos**|Rajat Modi et.al.|[2606.26515](http://arxiv.org/abs/2606.26515)|null|
 |**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|null|
-|**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|**[link](https://github.com/DTU-PAS/shotcrete-depth)**|
+|**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|null|
 |**2026-06-22**|**Can Single-View Mesh Reconstruction Generalize to Robot Camera Rotation?**|Yu Zhan et.al.|[2606.22987](http://arxiv.org/abs/2606.22987)|null|
 |**2026-06-21**|**OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs**|Hao Vo et.al.|[2606.22617](http://arxiv.org/abs/2606.22617)|null|
 |**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|null|
@@ -2953,8 +2961,8 @@ layout: default
 |**2026-06-12**|**ViT-Up: Faithful Feature Upsampling for Vision Transformers**|Krispin Wandel et.al.|[2606.14024](http://arxiv.org/abs/2606.14024)|null|
 |**2026-06-11**|**Modality Forcing for Scalable Spatial Generation**|Bardienus Pieter Duisterhof et.al.|[2606.13676](http://arxiv.org/abs/2606.13676)|null|
 |**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
-|**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|**[link](https://github.com/testideah2/d2606401b130281be8b7b83efa95d311)**|
-|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|**[link](https://github.com/PolyU-VCLab/DepthMaster)**|
+|**2026-06-11**|**Comparing Commercial Depth Sensor Accuracy for Medical Applications**|Pit Henrich et.al.|[2606.13028](http://arxiv.org/abs/2606.13028)|null|
+|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|null|
 |**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
 |**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628](http://arxiv.org/abs/2606.10628)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
@@ -4075,6 +4083,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Learning Structurally Consistent Representations for Multi-View Radar Semantic Segmentation**|Ali Zia et.al.|[2606.31609](http://arxiv.org/abs/2606.31609)|null|
+|**2026-06-30**|**Preserve the Hard, Regenerate the Rest: Uncertainty-Guided Synthetic Training Data Augmentation with Diffusion Models**|Nikolai Röhrich et.al.|[2606.31603](http://arxiv.org/abs/2606.31603)|null|
+|**2026-06-30**|**Fully Automated High-Precision Segmentation of Retinal Atrophy and Ellipsoid Zone Thickness in OCT: A Reliable Tool for Real-World GA Monitoring**|Wolf-Dieter Vogl et.al.|[2606.31502](http://arxiv.org/abs/2606.31502)|null|
+|**2026-06-30**|**Think While You Map: Asynchronous Vision-Language Agents for Incremental 3D Scene Graphs**|Deniz Bickici et.al.|[2606.31471](http://arxiv.org/abs/2606.31471)|null|
+|**2026-06-30**|**Rethinking Foundation Model Collaboration: Enhancing Specialized Models through Proxy Task Reasoning**|Hongyi Lin et.al.|[2606.31157](http://arxiv.org/abs/2606.31157)|null|
+|**2026-06-30**|**WaterGen: Decoupling Scene and Medium in Underwater Image Generation**|Jiayi Wu et.al.|[2606.31147](http://arxiv.org/abs/2606.31147)|null|
+|**2026-06-29**|**No Adaptation Without Observation: Observability-Constrained Test-Time Prompt Tuning for LiDAR Semantic Segmentation**|Linlian Jiang et.al.|[2606.30937](http://arxiv.org/abs/2606.30937)|null|
+|**2026-06-29**|**HiRes: A Hierarchical Cascaded Method for Resistor Value Identification**|Rama Y. AlHamidi et.al.|[2606.30179](http://arxiv.org/abs/2606.30179)|null|
+|**2026-06-28**|**SAD-GS: Learning Reliable 3D Semantic Gaussian Fields via Dynamic Geo-Semantic Anchoring**|Yufei Zhang et.al.|[2606.29376](http://arxiv.org/abs/2606.29376)|null|
 |**2026-06-27**|**Semantic-Aware, Physics-Informed, Geometry-Grounded Weather Video Synthesis**|Chenghao Qian et.al.|[2606.29020](http://arxiv.org/abs/2606.29020)|null|
 |**2026-06-25**|**RSGPNet: Geometric Prompting for Remote Sensing Open-Vocabulary Semantic Segmentation**|Shanwen Wang et.al.|[2606.28410](http://arxiv.org/abs/2606.28410)|null|
 |**2026-06-24**|**Vision-driven Preference Synthesis for Mitigating Hallucinations in VLMs**|Yunhun Nam et.al.|[2606.28401](http://arxiv.org/abs/2606.28401)|null|
