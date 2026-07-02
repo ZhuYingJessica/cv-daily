@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|**[link](https://github.com/startnew/flexdepth)**|
+|**2026-07-01**|**Active Spatial Guidance: Eliminating Injected Positional Mechanisms in Vision Transformers**|Cong Liu et.al.|[2607.00580](http://arxiv.org/abs/2607.00580)|null|
+|**2026-07-01**|**GTLS: A GPU-accelerated method for periodic transit detection**|Quanquan Hu et.al.|[2607.00348](http://arxiv.org/abs/2607.00348)|null|
 |**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|null|
-|**2026-06-30**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
+|**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
 |**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](http://arxiv.org/abs/2606.30545)|**[link](https://github.com/StringerYwh00/StereoGS)**|
-|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|**[link](https://github.com/realsee-developer/Argus)**|
+|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|null|
 |**2026-06-29**|**Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems**|Yueteng Yang et.al.|[2606.29910](http://arxiv.org/abs/2606.29910)|null|
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|null|
 |**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|null|
@@ -4083,6 +4086,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Privacy-Preserving Depth-Only Open-Vocabulary 3D Semantic Segmentation Via Uncertainty-Guided Test-Time Optimization**|Xuying Huang et.al.|[2607.00978](http://arxiv.org/abs/2607.00978)|null|
+|**2026-07-01**|**LeVLJEPA: End-to-End Vision-Language Pretraining Without Negatives**|Lukas Kuhn et.al.|[2607.00784](http://arxiv.org/abs/2607.00784)|null|
+|**2026-07-01**|**Active Spatial Guidance: Eliminating Injected Positional Mechanisms in Vision Transformers**|Cong Liu et.al.|[2607.00580](http://arxiv.org/abs/2607.00580)|null|
 |**2026-06-30**|**Learning Structurally Consistent Representations for Multi-View Radar Semantic Segmentation**|Ali Zia et.al.|[2606.31609](http://arxiv.org/abs/2606.31609)|null|
 |**2026-06-30**|**Preserve the Hard, Regenerate the Rest: Uncertainty-Guided Synthetic Training Data Augmentation with Diffusion Models**|Nikolai Röhrich et.al.|[2606.31603](http://arxiv.org/abs/2606.31603)|null|
 |**2026-06-30**|**Fully Automated High-Precision Segmentation of Retinal Atrophy and Ellipsoid Zone Thickness in OCT: A Reliable Tool for Real-World GA Monitoring**|Wolf-Dieter Vogl et.al.|[2606.31502](http://arxiv.org/abs/2606.31502)|null|
