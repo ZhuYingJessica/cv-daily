@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.02
+## Updated on 2026.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,13 +2934,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-01**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|**[link](https://github.com/startnew/flexdepth)**|
+|**2026-07-02**|**VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval**|Cristian-Gabriel Florea et.al.|[2607.02371](http://arxiv.org/abs/2607.02371)|null|
+|**2026-07-02**|**Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation**|Andrei-Marian Ungureanu et.al.|[2607.02298](http://arxiv.org/abs/2607.02298)|null|
+|**2026-07-02**|**FoundDP: Revisiting Weak Disparity Observability in Dual-Pixel Depth Estimation**|Fengchen He et.al.|[2607.01900](http://arxiv.org/abs/2607.01900)|**[link](https://github.com/EchoLighting/FoundDP)**|
+|**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
+|**2026-07-02**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|**[link](https://github.com/startnew/flexdepth)**|
 |**2026-07-01**|**Active Spatial Guidance: Eliminating Injected Positional Mechanisms in Vision Transformers**|Cong Liu et.al.|[2607.00580](http://arxiv.org/abs/2607.00580)|null|
 |**2026-07-01**|**GTLS: A GPU-accelerated method for periodic transit detection**|Quanquan Hu et.al.|[2607.00348](http://arxiv.org/abs/2607.00348)|null|
 |**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|null|
 |**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
-|**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](http://arxiv.org/abs/2606.30545)|**[link](https://github.com/StringerYwh00/StereoGS)**|
-|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|null|
+|**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](http://arxiv.org/abs/2606.30545)|null|
+|**2026-07-02**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|null|
 |**2026-06-29**|**Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems**|Yueteng Yang et.al.|[2606.29910](http://arxiv.org/abs/2606.29910)|null|
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|null|
 |**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|null|
@@ -4086,6 +4090,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment**|Ziyao Wang et.al.|[2607.02471](http://arxiv.org/abs/2607.02471)|null|
+|**2026-07-02**|**When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression**|Tien-Phat Nguyen et.al.|[2607.02237](http://arxiv.org/abs/2607.02237)|null|
+|**2026-07-02**|**UnderOneFacade: Worldwide Facade Semantic Segmentation Benchmark Dataset**|Yi Wang et.al.|[2607.02018](http://arxiv.org/abs/2607.02018)|null|
+|**2026-07-02**|**Rethinking Post-Hoc Calibration in Semantic Segmentation**|Tristan Kirscher et.al.|[2607.01902](http://arxiv.org/abs/2607.01902)|null|
 |**2026-07-01**|**Privacy-Preserving Depth-Only Open-Vocabulary 3D Semantic Segmentation Via Uncertainty-Guided Test-Time Optimization**|Xuying Huang et.al.|[2607.00978](http://arxiv.org/abs/2607.00978)|null|
 |**2026-07-01**|**LeVLJEPA: End-to-End Vision-Language Pretraining Without Negatives**|Lukas Kuhn et.al.|[2607.00784](http://arxiv.org/abs/2607.00784)|null|
 |**2026-07-01**|**Active Spatial Guidance: Eliminating Injected Positional Mechanisms in Vision Transformers**|Cong Liu et.al.|[2607.00580](http://arxiv.org/abs/2607.00580)|null|
