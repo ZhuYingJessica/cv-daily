@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,11 +2934,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**Learning to Suppress SPAD-based LiDAR Flare**|Xuanya Zhu et.al.|[2607.03247](http://arxiv.org/abs/2607.03247)|null|
+|**2026-07-03**|**OmniDS: Dual-Stream Context Fusion for Omnidirectional Depth from Fisheye Cameras**|Chaesong Park et.al.|[2607.03038](http://arxiv.org/abs/2607.03038)|**[link](https://github.com/parkchaesong/OmniDS)**|
+|**2026-06-27**|**Reliability-Aware Monocular Depth Supervision for Sparse-View Neural Reconstruction**|Wei-Teng Chu et.al.|[2607.02554](http://arxiv.org/abs/2607.02554)|null|
 |**2026-07-02**|**VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval**|Cristian-Gabriel Florea et.al.|[2607.02371](http://arxiv.org/abs/2607.02371)|null|
 |**2026-07-02**|**Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation**|Andrei-Marian Ungureanu et.al.|[2607.02298](http://arxiv.org/abs/2607.02298)|null|
 |**2026-07-02**|**FoundDP: Revisiting Weak Disparity Observability in Dual-Pixel Depth Estimation**|Fengchen He et.al.|[2607.01900](http://arxiv.org/abs/2607.01900)|**[link](https://github.com/EchoLighting/FoundDP)**|
 |**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
-|**2026-07-02**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|**[link](https://github.com/startnew/flexdepth)**|
+|**2026-07-02**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|null|
 |**2026-07-01**|**Active Spatial Guidance: Eliminating Injected Positional Mechanisms in Vision Transformers**|Cong Liu et.al.|[2607.00580](http://arxiv.org/abs/2607.00580)|null|
 |**2026-07-01**|**GTLS: A GPU-accelerated method for periodic transit detection**|Quanquan Hu et.al.|[2607.00348](http://arxiv.org/abs/2607.00348)|null|
 |**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|null|
@@ -2947,9 +2950,9 @@ layout: default
 |**2026-07-02**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|null|
 |**2026-06-29**|**Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems**|Yueteng Yang et.al.|[2606.29910](http://arxiv.org/abs/2606.29910)|null|
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|null|
-|**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|null|
-|**2026-06-28**|**One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models**|Xiaohao Xu et.al.|[2606.29600](http://arxiv.org/abs/2606.29600)|null|
-|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|null|
+|**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|**[link](https://github.com/kuieless/AerialMetric-ECCV2026)**|
+|**2026-06-28**|**One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models**|Xiaohao Xu et.al.|[2606.29600](http://arxiv.org/abs/2606.29600)|**[link](https://github.com/Xiaohao-Xu/Ambiguity-in-Space)**|
+|**2026-06-26**|**Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling**|Qinfeng Zhu et.al.|[2606.27745](http://arxiv.org/abs/2606.27745)|**[link](https://github.com/zhuqinfeng1999/Awesome-Panoramic-Scene-Analysis)**|
 |**2026-06-27**|**Forget, Anticipate and Adapt: Test Time Training for Long Videos**|Rajat Modi et.al.|[2606.26515](http://arxiv.org/abs/2606.26515)|null|
 |**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|null|
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|null|
@@ -4090,6 +4093,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**iVISION-2DCD: A Long-Term Change Detection Dataset for Large-Scale Outdoor Construction Monitoring**|Dayou Mao et.al.|[2607.03553](http://arxiv.org/abs/2607.03553)|null|
+|**2026-07-03**|**Semantic Segmentation-Driven Image-Level Diagnosis of Liver Cancers in Hematoxylin and Eosin Histopathology Images**|Ivica Kopriva et.al.|[2607.03253](http://arxiv.org/abs/2607.03253)|null|
+|**2026-07-03**|**Learning to Suppress SPAD-based LiDAR Flare**|Xuanya Zhu et.al.|[2607.03247](http://arxiv.org/abs/2607.03247)|null|
+|**2026-07-03**|**AirTF: Over-the-Air Token Fusion for Task-Oriented Multi-Modal Token Communications**|Bole Liu et.al.|[2607.03099](http://arxiv.org/abs/2607.03099)|null|
+|**2026-07-03**|**PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation**|Ebenezer Tarubinga et.al.|[2607.03068](http://arxiv.org/abs/2607.03068)|null|
+|**2026-07-02**|**VLRC: Vision-Language Reprojection Consistency as a scalable signal for better feed-forward 3D pretraining**|Marwane Hariat et.al.|[2607.02707](http://arxiv.org/abs/2607.02707)|null|
 |**2026-07-02**|**Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment**|Ziyao Wang et.al.|[2607.02471](http://arxiv.org/abs/2607.02471)|null|
 |**2026-07-02**|**When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression**|Tien-Phat Nguyen et.al.|[2607.02237](http://arxiv.org/abs/2607.02237)|null|
 |**2026-07-02**|**UnderOneFacade: Worldwide Facade Semantic Segmentation Benchmark Dataset**|Yi Wang et.al.|[2607.02018](http://arxiv.org/abs/2607.02018)|null|
