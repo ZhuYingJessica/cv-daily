@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Geometric Collapse: When Vision Models Fail to Verify Physical Causality**|Wentao Zhang et.al.|[2607.06871](http://arxiv.org/abs/2607.06871)|**[link](https://github.com/kanze1/Geometric-Collapse-When-Vision-Models-Fail-to-Verify-Physical-Causality)**|
+|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856](http://arxiv.org/abs/2607.06856)|null|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560](http://arxiv.org/abs/2607.06560)|**[link](https://github.com/gsavla6-hue/multimodal-ai-assistant)**|
 |**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Wei Wu et.al.|[2607.06403](http://arxiv.org/abs/2607.06403)|null|
 |**2026-07-06**|**A Task-Driven Evaluation of UAV Detection and Tracking under Synthetic Fog**|Amir Pouladi et.al.|[2607.05467](http://arxiv.org/abs/2607.05467)|null|
 |**2026-07-06**|**Vision Pretraining for Dense Spatial Perception**|Zelin Fu et.al.|[2607.05247](http://arxiv.org/abs/2607.05247)|null|
@@ -4098,19 +4101,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2607.07192](http://arxiv.org/abs/2607.07192)|null|
+|**2026-07-08**|**Sparse Attention for Dense Open-Vocabulary Prediction in CLIP**|Fatimah Zohra et.al.|[2607.07135](http://arxiv.org/abs/2607.07135)|null|
+|**2026-07-08**|**LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models**|Sojung An et.al.|[2607.06918](http://arxiv.org/abs/2607.06918)|null|
+|**2026-07-05**|**Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops**|Raunak Kumar et.al.|[2607.06585](http://arxiv.org/abs/2607.06585)|null|
 |**2026-07-07**|**EcoVision: AI-Powered Drone Imaging for Salt Marsh Vegetation Monitoring and Dominance Mapping**|Innocent Onyenonachi et.al.|[2607.06105](http://arxiv.org/abs/2607.06105)|null|
 |**2026-07-06**|**Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies**|Adrian Szvoren et.al.|[2607.05122](http://arxiv.org/abs/2607.05122)|null|
 |**2026-07-06**|**SparseOcc++: Geometry-Aware Sparse Latent Representation for Semantic Occupancy Prediction**|Pin Tang et.al.|[2607.04732](http://arxiv.org/abs/2607.04732)|null|
 |**2026-07-05**|**Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization**|Zhiran Yan et.al.|[2607.04330](http://arxiv.org/abs/2607.04330)|null|
 |**2026-07-05**|**Road-Aware Anomaly Segmentation with Query-Guided Polygons and CLIP in Autonomous Driving**|Zhiran Yan et.al.|[2607.04304](http://arxiv.org/abs/2607.04304)|null|
 |**2026-07-04**|**TestMate: Test-Time Domain Adaptation Aided by Lightweight Vision Foundation Model**|Dimitrios Fotiou et.al.|[2607.03810](http://arxiv.org/abs/2607.03810)|null|
-|**2026-07-03**|**Vision Non-Causal Trapezoidal Mamba: Eliminating Directional Scanning in Vision SSMs with Second-Order Dynamics**|Anvitha Ramachandran et.al.|[2607.03589](http://arxiv.org/abs/2607.03589)|null|
+|**2026-07-07**|**Vision Non-Causal Trapezoidal Mamba: Eliminating Directional Scanning in Vision SSMs with Second-Order Dynamics**|Anvitha Ramachandran et.al.|[2607.03589](http://arxiv.org/abs/2607.03589)|null|
 |**2026-07-03**|**iVISION-2DCD: A Long-Term Change Detection Dataset for Large-Scale Outdoor Construction Monitoring**|Dayou Mao et.al.|[2607.03553](http://arxiv.org/abs/2607.03553)|null|
 |**2026-07-03**|**Semantic Segmentation-Driven Image-Level Diagnosis of Liver Cancers in Hematoxylin and Eosin Histopathology Images**|Ivica Kopriva et.al.|[2607.03253](http://arxiv.org/abs/2607.03253)|null|
 |**2026-07-03**|**Learning to Suppress SPAD-based LiDAR Flare**|Xuanya Zhu et.al.|[2607.03247](http://arxiv.org/abs/2607.03247)|null|
 |**2026-07-03**|**AirTF: Over-the-Air Token Fusion for Task-Oriented Multi-Modal Token Communications**|Bole Liu et.al.|[2607.03099](http://arxiv.org/abs/2607.03099)|null|
 |**2026-07-03**|**PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation**|Ebenezer Tarubinga et.al.|[2607.03068](http://arxiv.org/abs/2607.03068)|null|
-|**2026-07-07**|**VLRC: Vision-Language Reprojection Consistency as a scalable signal for better feed-forward 3D pretraining**|Marwane Hariat et.al.|[2607.02707](http://arxiv.org/abs/2607.02707)|null|
+|**2026-07-08**|**VLRC: Vision-Language Reprojection Consistency as a scalable signal for better feed-forward 3D pretraining**|Marwane Hariat et.al.|[2607.02707](http://arxiv.org/abs/2607.02707)|null|
 |**2026-07-02**|**Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment**|Ziyao Wang et.al.|[2607.02471](http://arxiv.org/abs/2607.02471)|null|
 |**2026-07-02**|**When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression**|Tien-Phat Nguyen et.al.|[2607.02237](http://arxiv.org/abs/2607.02237)|null|
 |**2026-07-02**|**UnderOneFacade: Worldwide Facade Semantic Segmentation Benchmark Dataset**|Yi Wang et.al.|[2607.02018](http://arxiv.org/abs/2607.02018)|null|
