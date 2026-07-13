@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2940,7 +2940,7 @@ layout: default
 |**2026-07-08**|**Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments**|Erik Jagnandan et.al.|[2607.07885](http://arxiv.org/abs/2607.07885)|null|
 |**2026-07-08**|**Geometric Collapse: When Vision Models Fail to Verify Physical Causality**|Wentao Zhang et.al.|[2607.06871](http://arxiv.org/abs/2607.06871)|**[link](https://github.com/kanze1/Geometric-Collapse-When-Vision-Models-Fail-to-Verify-Physical-Causality)**|
 |**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856](http://arxiv.org/abs/2607.06856)|null|
-|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560](http://arxiv.org/abs/2607.06560)|**[link](https://github.com/OpenSenseNova/SenseNova-Vision)**|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560](http://arxiv.org/abs/2607.06560)|null|
 |**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Wei Wu et.al.|[2607.06403](http://arxiv.org/abs/2607.06403)|null|
 |**2026-07-06**|**A Task-Driven Evaluation of UAV Detection and Tracking under Synthetic Fog**|Amir Pouladi et.al.|[2607.05467](http://arxiv.org/abs/2607.05467)|null|
 |**2026-07-06**|**Vision Pretraining for Dense Spatial Perception**|Zelin Fu et.al.|[2607.05247](http://arxiv.org/abs/2607.05247)|null|
@@ -4105,6 +4105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling**|Jason Rojas et.al.|[2607.08867](http://arxiv.org/abs/2607.08867)|null|
 |**2026-07-08**|**Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2607.07192](http://arxiv.org/abs/2607.07192)|null|
 |**2026-07-08**|**Sparse Attention for Dense Open-Vocabulary Prediction in CLIP**|Fatimah Zohra et.al.|[2607.07135](http://arxiv.org/abs/2607.07135)|null|
 |**2026-07-08**|**LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models**|Sojung An et.al.|[2607.06918](http://arxiv.org/abs/2607.06918)|null|
