@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840](http://arxiv.org/abs/2607.10840)|**[link](https://github.com/yanqinJiang/OmniX)**|
 |**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|**[link](https://github.com/LSXI7/Wat3R)**|
 |**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|**[link](https://github.com/fabiotosi92/ZipDepth)**|
 |**2026-07-08**|**Monocular Vision Based Control Framework for Grasping**|Shail Jadav et.al.|[2607.07897](http://arxiv.org/abs/2607.07897)|null|
@@ -4105,6 +4106,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Align and Segment: Unsupervised Learning for Building Segmentation From Misaligned Labels**|Venkanna Babu Guthula et.al.|[2607.10841](http://arxiv.org/abs/2607.10841)|null|
+|**2026-07-12**|**Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images**|Dung Minh Do et.al.|[2607.10783](http://arxiv.org/abs/2607.10783)|null|
+|**2026-07-12**|**Water Reflection Detection Using Symmetric Attention**|Shuxuan Yao et.al.|[2607.10749](http://arxiv.org/abs/2607.10749)|null|
+|**2026-07-11**|**Differentiable Proxy Learning for Adaptive Quantization Control in H.264 Video Coding**|Qihan Xu et.al.|[2607.10478](http://arxiv.org/abs/2607.10478)|null|
+|**2026-07-08**|**Adversarially Guided Diffusion for LiDAR Range Image Synthesis**|Stavros Bouras et.al.|[2607.09787](http://arxiv.org/abs/2607.09787)|null|
 |**2026-07-09**|**Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling**|Jason Rojas et.al.|[2607.08867](http://arxiv.org/abs/2607.08867)|null|
 |**2026-07-08**|**Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2607.07192](http://arxiv.org/abs/2607.07192)|null|
 |**2026-07-08**|**Sparse Attention for Dense Open-Vocabulary Prediction in CLIP**|Fatimah Zohra et.al.|[2607.07135](http://arxiv.org/abs/2607.07135)|null|
