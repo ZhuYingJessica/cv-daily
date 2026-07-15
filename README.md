@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,12 +18,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|null|
+|**2026-07-14**|**ARDepth: Auto-regressive Monocular Depth Estimation with Progressive Visual Conditioning**|Zijie Wang et.al.|[2607.12433](http://arxiv.org/abs/2607.12433)|null|
+|**2026-07-14**|**DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery**|Xinyue Xu et.al.|[2607.12319](http://arxiv.org/abs/2607.12319)|null|
+|**2026-07-13**|**When Depth Is Better Told Than Shown: Depth-Ordinal Prompting for Vision-Language Spatial Reasoning**|Quynh Vo et.al.|[2607.11173](http://arxiv.org/abs/2607.11173)|null|
+|**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|**[link](https://github.com/ZhaoLl-code/GHOST)**|
 |**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840](http://arxiv.org/abs/2607.10840)|**[link](https://github.com/yanqinJiang/OmniX)**|
-|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|**[link](https://github.com/LSXI7/Wat3R)**|
-|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|**[link](https://github.com/fabiotosi92/ZipDepth)**|
+|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
+|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
 |**2026-07-08**|**Monocular Vision Based Control Framework for Grasping**|Shail Jadav et.al.|[2607.07897](http://arxiv.org/abs/2607.07897)|null|
 |**2026-07-08**|**Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments**|Erik Jagnandan et.al.|[2607.07885](http://arxiv.org/abs/2607.07885)|null|
-|**2026-07-08**|**Geometric Collapse: When Vision Models Fail to Verify Physical Causality**|Wentao Zhang et.al.|[2607.06871](http://arxiv.org/abs/2607.06871)|**[link](https://github.com/kanze1/Geometric-Collapse-When-Vision-Models-Fail-to-Verify-Physical-Causality)**|
+|**2026-07-08**|**Geometric Collapse: When Vision Models Fail to Verify Physical Causality**|Wentao Zhang et.al.|[2607.06871](http://arxiv.org/abs/2607.06871)|null|
 |**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856](http://arxiv.org/abs/2607.06856)|null|
 |**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560](http://arxiv.org/abs/2607.06560)|null|
 |**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Wei Wu et.al.|[2607.06403](http://arxiv.org/abs/2607.06403)|null|
@@ -1186,12 +1191,17 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**UMSS: Towards Unsupervised Multi-modal Semantic Segmentation**|Haitian Zhang et.al.|[2607.12372](http://arxiv.org/abs/2607.12372)|null|
+|**2026-07-13**|**From Reconstruction to Interpretation: Zero-Setup Multi-Phase Segmentation of X-ray Tomography Data**|Pradyumna Elavarthi et.al.|[2607.12175](http://arxiv.org/abs/2607.12175)|null|
+|**2026-07-13**|**Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation**|Robel Mamo et.al.|[2607.12065](http://arxiv.org/abs/2607.12065)|null|
+|**2026-07-13**|**HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment**|Caleb Robinson et.al.|[2607.11838](http://arxiv.org/abs/2607.11838)|null|
+|**2026-07-13**|**Self-supervised training for high-resolution close-range multispectral remote sensing imagery**|Leon-Friedrich Thomas et.al.|[2607.11366](http://arxiv.org/abs/2607.11366)|null|
 |**2026-07-12**|**Align and Segment: Unsupervised Learning for Building Segmentation From Misaligned Labels**|Venkanna Babu Guthula et.al.|[2607.10841](http://arxiv.org/abs/2607.10841)|null|
 |**2026-07-12**|**Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images**|Dung Minh Do et.al.|[2607.10783](http://arxiv.org/abs/2607.10783)|null|
 |**2026-07-12**|**Water Reflection Detection Using Symmetric Attention**|Shuxuan Yao et.al.|[2607.10749](http://arxiv.org/abs/2607.10749)|null|
@@ -1199,7 +1209,7 @@
 |**2026-07-08**|**Adversarially Guided Diffusion for LiDAR Range Image Synthesis**|Stavros Bouras et.al.|[2607.09787](http://arxiv.org/abs/2607.09787)|null|
 |**2026-07-09**|**Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling**|Jason Rojas et.al.|[2607.08867](http://arxiv.org/abs/2607.08867)|null|
 |**2026-07-08**|**Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2607.07192](http://arxiv.org/abs/2607.07192)|null|
-|**2026-07-08**|**Sparse Attention for Dense Open-Vocabulary Prediction in CLIP**|Fatimah Zohra et.al.|[2607.07135](http://arxiv.org/abs/2607.07135)|null|
+|**2026-07-13**|**Sparse Attention for Dense Open-Vocabulary Prediction in CLIP**|Fatimah Zohra et.al.|[2607.07135](http://arxiv.org/abs/2607.07135)|null|
 |**2026-07-08**|**LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models**|Sojung An et.al.|[2607.06918](http://arxiv.org/abs/2607.06918)|null|
 |**2026-07-05**|**Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops**|Raunak Kumar et.al.|[2607.06585](http://arxiv.org/abs/2607.06585)|null|
 |**2026-07-07**|**EcoVision: AI-Powered Drone Imaging for Salt Marsh Vegetation Monitoring and Dominance Mapping**|Innocent Onyenonachi et.al.|[2607.06105](http://arxiv.org/abs/2607.06105)|null|
@@ -3378,7 +3388,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
