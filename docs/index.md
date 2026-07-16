@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|null|
+|**2026-07-15**|**X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras**|Heng Zhou et.al.|[2607.12993](http://arxiv.org/abs/2607.12993)|null|
+|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|**[link](https://github.com/yangtiming/RINO)**|
 |**2026-07-14**|**ARDepth: Auto-regressive Monocular Depth Estimation with Progressive Visual Conditioning**|Zijie Wang et.al.|[2607.12433](http://arxiv.org/abs/2607.12433)|null|
 |**2026-07-14**|**DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery**|Xinyue Xu et.al.|[2607.12319](http://arxiv.org/abs/2607.12319)|null|
 |**2026-07-13**|**When Depth Is Better Told Than Shown: Depth-Ordinal Prompting for Vision-Language Spatial Reasoning**|Quynh Vo et.al.|[2607.11173](http://arxiv.org/abs/2607.11173)|null|
-|**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|**[link](https://github.com/ZhaoLl-code/GHOST)**|
-|**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840](http://arxiv.org/abs/2607.10840)|**[link](https://github.com/yanqinJiang/OmniX)**|
+|**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|null|
+|**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840](http://arxiv.org/abs/2607.10840)|null|
 |**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
 |**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
 |**2026-07-08**|**Monocular Vision Based Control Framework for Grasping**|Shail Jadav et.al.|[2607.07897](http://arxiv.org/abs/2607.07897)|null|
