@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.17
+## Updated on 2026.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2026-07-14**|**ARDepth: Auto-regressive Monocular Depth Estimation with Progressive Visual Conditioning**|Zijie Wang et.al.|[2607.12433](http://arxiv.org/abs/2607.12433)|null|
 |**2026-07-14**|**DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery**|Xinyue Xu et.al.|[2607.12319](http://arxiv.org/abs/2607.12319)|null|
 |**2026-07-13**|**When Depth Is Better Told Than Shown: Depth-Ordinal Prompting for Vision-Language Spatial Reasoning**|Quynh Vo et.al.|[2607.11173](http://arxiv.org/abs/2607.11173)|null|
-|**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|**[link](https://github.com/ZhaoLl-code/GHOST)**|
+|**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|null|
 |**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840](http://arxiv.org/abs/2607.10840)|null|
 |**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
 |**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
@@ -1192,7 +1192,7 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -3390,7 +3390,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
