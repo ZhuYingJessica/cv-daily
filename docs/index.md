@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Dimension-invariant uniform consistency of the empirical spatial distribution function and its associated spatial depth estimator**|Felix Gnettner et.al.|[2607.16092](http://arxiv.org/abs/2607.16092)|null|
+|**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|**[link](https://github.com/kangjehun/DPNeXt)**|
+|**2026-07-17**|**Geometric Distillation from Rectified Stereo: Leveraging Epipolar Cues for Monocular Depth**|Jung-Hee Kim et.al.|[2607.15600](http://arxiv.org/abs/2607.15600)|null|
 |**2026-07-15**|**X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras**|Heng Zhou et.al.|[2607.12993](http://arxiv.org/abs/2607.12993)|null|
 |**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|**[link](https://github.com/yangtiming/RINO)**|
 |**2026-07-14**|**ARDepth: Auto-regressive Monocular Depth Estimation with Progressive Visual Conditioning**|Zijie Wang et.al.|[2607.12433](http://arxiv.org/abs/2607.12433)|null|
@@ -2954,13 +2957,13 @@ layout: default
 |**2026-07-04**|**TRISTAR: Triple-Signal Stair Recognition and Vision-Only Indoor Navigation for Search-and-Rescue Micro-UAVs**|Octavian Gîngu et.al.|[2607.03818](http://arxiv.org/abs/2607.03818)|null|
 |**2026-07-04**|**City-Level 3D Surface Reconstruction with Viewpoint Orientation Partitioning and Scene Completion**|Liang Han et.al.|[2607.03771](http://arxiv.org/abs/2607.03771)|null|
 |**2026-07-03**|**Learning to Suppress SPAD-based LiDAR Flare**|Xuanya Zhu et.al.|[2607.03247](http://arxiv.org/abs/2607.03247)|null|
-|**2026-07-03**|**OmniDS: Dual-Stream Context Fusion for Omnidirectional Depth from Fisheye Cameras**|Chaesong Park et.al.|[2607.03038](http://arxiv.org/abs/2607.03038)|**[link](https://github.com/parkchaesong/OmniDS)**|
+|**2026-07-03**|**OmniDS: Dual-Stream Context Fusion for Omnidirectional Depth from Fisheye Cameras**|Chaesong Park et.al.|[2607.03038](http://arxiv.org/abs/2607.03038)|null|
 |**2026-06-27**|**Reliability-Aware Monocular Depth Supervision for Sparse-View Neural Reconstruction**|Wei-Teng Chu et.al.|[2607.02554](http://arxiv.org/abs/2607.02554)|null|
 |**2026-07-02**|**VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval**|Cristian-Gabriel Florea et.al.|[2607.02371](http://arxiv.org/abs/2607.02371)|null|
 |**2026-07-02**|**Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation**|Andrei-Marian Ungureanu et.al.|[2607.02298](http://arxiv.org/abs/2607.02298)|null|
-|**2026-07-02**|**FoundDP: Revisiting Weak Disparity Observability in Dual-Pixel Depth Estimation**|Fengchen He et.al.|[2607.01900](http://arxiv.org/abs/2607.01900)|**[link](https://github.com/EchoLighting/FoundDP)**|
+|**2026-07-02**|**FoundDP: Revisiting Weak Disparity Observability in Dual-Pixel Depth Estimation**|Fengchen He et.al.|[2607.01900](http://arxiv.org/abs/2607.01900)|null|
 |**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
-|**2026-07-02**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|**[link](https://github.com/startnew/flexdepth)**|
+|**2026-07-02**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|null|
 |**2026-07-01**|**Active Spatial Guidance: Eliminating Injected Positional Mechanisms in Vision Transformers**|Cong Liu et.al.|[2607.00580](http://arxiv.org/abs/2607.00580)|null|
 |**2026-07-01**|**GTLS: A GPU-accelerated method for periodic transit detection**|Quanquan Hu et.al.|[2607.00348](http://arxiv.org/abs/2607.00348)|null|
 |**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|null|
@@ -4112,9 +4115,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach**|Wasimul Karim et.al.|[2607.16056](http://arxiv.org/abs/2607.16056)|null|
+|**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|null|
 |**2026-07-15**|**OvAi Focus: AI-based Multi-class Segmentation of Functional Ovaries and Adnexal Masses in Gynecological Ultrasound**|Niccolò Tallone et.al.|[2607.14179](http://arxiv.org/abs/2607.14179)|null|
 |**2026-07-14**|**UMSS: Towards Unsupervised Multi-modal Semantic Segmentation**|Haitian Zhang et.al.|[2607.12372](http://arxiv.org/abs/2607.12372)|null|
-|**2026-07-16**|**From Reconstruction to Interpretation: Zero-Setup Multi-Phase Segmentation of X-ray Tomography Data**|Pradyumna Elavarthi et.al.|[2607.12175](http://arxiv.org/abs/2607.12175)|null|
+|**2026-07-17**|**From Reconstruction to Interpretation: Zero-Setup Multi-Phase Segmentation of X-ray Tomography Data**|Pradyumna Elavarthi et.al.|[2607.12175](http://arxiv.org/abs/2607.12175)|null|
 |**2026-07-13**|**Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation**|Robel Mamo et.al.|[2607.12065](http://arxiv.org/abs/2607.12065)|null|
 |**2026-07-13**|**HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment**|Caleb Robinson et.al.|[2607.11838](http://arxiv.org/abs/2607.11838)|null|
 |**2026-07-13**|**Self-supervised training for high-resolution close-range multispectral remote sensing imagery**|Leon-Friedrich Thomas et.al.|[2607.11366](http://arxiv.org/abs/2607.11366)|null|
