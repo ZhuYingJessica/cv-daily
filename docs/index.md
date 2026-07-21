@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,11 +2934,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|null|
+|**2026-07-19**|**DROID-ANCHOR: Odometry-Anchored Recurrent Metric Depth Estimation**|Yuxuan Chen et.al.|[2607.17058](http://arxiv.org/abs/2607.17058)|null|
+|**2026-07-11**|**Depth Estimators Are Implicit Neural Fields for 3D Scene Geometry Inpainting and Reconstruction**|Yingzhao Jian et.al.|[2607.16286](http://arxiv.org/abs/2607.16286)|null|
 |**2026-07-17**|**Dimension-invariant uniform consistency of the empirical spatial distribution function and its associated spatial depth estimator**|Felix Gnettner et.al.|[2607.16092](http://arxiv.org/abs/2607.16092)|null|
 |**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|**[link](https://github.com/kangjehun/DPNeXt)**|
 |**2026-07-17**|**Geometric Distillation from Rectified Stereo: Leveraging Epipolar Cues for Monocular Depth**|Jung-Hee Kim et.al.|[2607.15600](http://arxiv.org/abs/2607.15600)|null|
 |**2026-07-15**|**X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras**|Heng Zhou et.al.|[2607.12993](http://arxiv.org/abs/2607.12993)|null|
-|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|**[link](https://github.com/yangtiming/RINO)**|
+|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|null|
 |**2026-07-14**|**ARDepth: Auto-regressive Monocular Depth Estimation with Progressive Visual Conditioning**|Zijie Wang et.al.|[2607.12433](http://arxiv.org/abs/2607.12433)|null|
 |**2026-07-14**|**DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery**|Xinyue Xu et.al.|[2607.12319](http://arxiv.org/abs/2607.12319)|null|
 |**2026-07-13**|**When Depth Is Better Told Than Shown: Depth-Ordinal Prompting for Vision-Language Spatial Reasoning**|Quynh Vo et.al.|[2607.11173](http://arxiv.org/abs/2607.11173)|null|
@@ -4115,6 +4118,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-18**|**AirMoE: Statistic-Augmented Over-the-Air MoE for Collaborative Intelligence**|Wei-Bin Kou et.al.|[2607.16562](http://arxiv.org/abs/2607.16562)|null|
+|**2026-07-14**|**DAUPNet: Domain-Aware Uncertainty Modeling for Reliable Prototype Discrimination in Cross-Domain Few-Shot Semantic Segmentation**|Lei Yuan et.al.|[2607.16308](http://arxiv.org/abs/2607.16308)|null|
 |**2026-07-17**|**Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach**|Wasimul Karim et.al.|[2607.16056](http://arxiv.org/abs/2607.16056)|null|
 |**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|null|
 |**2026-07-15**|**OvAi Focus: AI-based Multi-class Segmentation of Functional Ovaries and Adnexal Masses in Gynecological Ultrasound**|Niccolò Tallone et.al.|[2607.14179](http://arxiv.org/abs/2607.14179)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,11 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|null|
+|**2026-07-19**|**DROID-ANCHOR: Odometry-Anchored Recurrent Metric Depth Estimation**|Yuxuan Chen et.al.|[2607.17058](http://arxiv.org/abs/2607.17058)|null|
+|**2026-07-11**|**Depth Estimators Are Implicit Neural Fields for 3D Scene Geometry Inpainting and Reconstruction**|Yingzhao Jian et.al.|[2607.16286](http://arxiv.org/abs/2607.16286)|null|
 |**2026-07-17**|**Dimension-invariant uniform consistency of the empirical spatial distribution function and its associated spatial depth estimator**|Felix Gnettner et.al.|[2607.16092](http://arxiv.org/abs/2607.16092)|null|
 |**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|**[link](https://github.com/kangjehun/DPNeXt)**|
 |**2026-07-17**|**Geometric Distillation from Rectified Stereo: Leveraging Epipolar Cues for Monocular Depth**|Jung-Hee Kim et.al.|[2607.15600](http://arxiv.org/abs/2607.15600)|null|
 |**2026-07-15**|**X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras**|Heng Zhou et.al.|[2607.12993](http://arxiv.org/abs/2607.12993)|null|
-|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|**[link](https://github.com/yangtiming/RINO)**|
+|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|null|
 |**2026-07-14**|**ARDepth: Auto-regressive Monocular Depth Estimation with Progressive Visual Conditioning**|Zijie Wang et.al.|[2607.12433](http://arxiv.org/abs/2607.12433)|null|
 |**2026-07-14**|**DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery**|Xinyue Xu et.al.|[2607.12319](http://arxiv.org/abs/2607.12319)|null|
 |**2026-07-13**|**When Depth Is Better Told Than Shown: Depth-Ordinal Prompting for Vision-Language Spatial Reasoning**|Quynh Vo et.al.|[2607.11173](http://arxiv.org/abs/2607.11173)|null|
@@ -1195,12 +1198,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-18**|**AirMoE: Statistic-Augmented Over-the-Air MoE for Collaborative Intelligence**|Wei-Bin Kou et.al.|[2607.16562](http://arxiv.org/abs/2607.16562)|null|
+|**2026-07-14**|**DAUPNet: Domain-Aware Uncertainty Modeling for Reliable Prototype Discrimination in Cross-Domain Few-Shot Semantic Segmentation**|Lei Yuan et.al.|[2607.16308](http://arxiv.org/abs/2607.16308)|null|
 |**2026-07-17**|**Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach**|Wasimul Karim et.al.|[2607.16056](http://arxiv.org/abs/2607.16056)|null|
 |**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|null|
 |**2026-07-15**|**OvAi Focus: AI-based Multi-class Segmentation of Functional Ovaries and Adnexal Masses in Gynecological Ultrasound**|Niccolò Tallone et.al.|[2607.14179](http://arxiv.org/abs/2607.14179)|null|
@@ -3395,7 +3400,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
