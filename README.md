@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.24
+## Updated on 2026.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2026-07-23**|**TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects**|Ke Ma et.al.|[2607.21071](http://arxiv.org/abs/2607.21071)|null|
 |**2026-07-23**|**WAT3R: Feedforward Underwater 3D Reconstruction**|Jiayi Xu et.al.|[2607.21023](http://arxiv.org/abs/2607.21023)|null|
 |**2026-07-21**|**Thinking Fast, Thinking Slow: Adaptive Multimodal Transformer-based Sensor Fusion for Depth Estimation on Ultra-low-power MCUs**|Luca Crupi et.al.|[2607.18897](http://arxiv.org/abs/2607.18897)|null|
-|**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Xiaozhong Lyu et.al.|[2607.17790](http://arxiv.org/abs/2607.17790)|null|
+|**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Xiaozhong Lyu et.al.|[2607.17790](http://arxiv.org/abs/2607.17790)|**[link](https://github.com/lvsean/reviv4d)**|
 |**2026-07-20**|**Depth Determination of Individual Shallow NV-Centers via Spin-Lock NMR**|Aaron Daniel et.al.|[2607.17734](http://arxiv.org/abs/2607.17734)|null|
 |**2026-07-20**|**RayOcc: Occlusion-Aware Ray Occupancy Estimation via Gaussian Mixture Intensity**|Junho Kim et.al.|[2607.17660](http://arxiv.org/abs/2607.17660)|null|
 |**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|null|
@@ -1206,12 +1206,13 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
 |**2026-07-23**|**DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation**|Sung-Hoon Yoon et.al.|[2607.21371](http://arxiv.org/abs/2607.21371)|null|
 |**2026-07-23**|**Safety-oriented sidewalk and road segmentation for smartphone-based assistive navigation**|Hakan Calim et.al.|[2607.21137](http://arxiv.org/abs/2607.21137)|null|
 |**2026-07-23**|**Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance**|Antonis Savva et.al.|[2607.21089](http://arxiv.org/abs/2607.21089)|null|
@@ -3415,7 +3416,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
