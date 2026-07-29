@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.26
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|null|
+|**2026-07-27**|**NSL-SLAM: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction**|Jiaheng Li et.al.|[2607.24495](http://arxiv.org/abs/2607.24495)|null|
+|**2026-07-27**|**SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation**|Tarun R et.al.|[2607.24249](http://arxiv.org/abs/2607.24249)|**[link](https://github.com/rtarun1/Silica)**|
+|**2026-07-24**|**JustDepth: Real-Time Radar-Camera Depth Estimation with Single-Scan LiDAR Supervision**|Wooyung Yun et.al.|[2607.22172](http://arxiv.org/abs/2607.22172)|**[link](https://github.com/TPyun/JustDepth)**|
 |**2026-07-23**|**Boosting Robustness for All-Weather Self-Supervised Depth Estimation in Autonomous Driving**|Mengshi Qi et.al.|[2607.21526](http://arxiv.org/abs/2607.21526)|null|
 |**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438](http://arxiv.org/abs/2607.21438)|**[link](https://github.com/ThisIsLT/DAPM)**|
 |**2026-07-23**|**TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects**|Ke Ma et.al.|[2607.21071](http://arxiv.org/abs/2607.21071)|null|
 |**2026-07-23**|**WAT3R: Feedforward Underwater 3D Reconstruction**|Jiayi Xu et.al.|[2607.21023](http://arxiv.org/abs/2607.21023)|null|
 |**2026-07-21**|**Thinking Fast, Thinking Slow: Adaptive Multimodal Transformer-based Sensor Fusion for Depth Estimation on Ultra-low-power MCUs**|Luca Crupi et.al.|[2607.18897](http://arxiv.org/abs/2607.18897)|null|
-|**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Xiaozhong Lyu et.al.|[2607.17790](http://arxiv.org/abs/2607.17790)|**[link](https://github.com/lvsean/reviv4d)**|
+|**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Xiaozhong Lyu et.al.|[2607.17790](http://arxiv.org/abs/2607.17790)|null|
 |**2026-07-20**|**Depth Determination of Individual Shallow NV-Centers via Spin-Lock NMR**|Aaron Daniel et.al.|[2607.17734](http://arxiv.org/abs/2607.17734)|null|
 |**2026-07-20**|**RayOcc: Occlusion-Aware Ray Occupancy Estimation via Gaussian Mixture Intensity**|Junho Kim et.al.|[2607.17660](http://arxiv.org/abs/2607.17660)|null|
 |**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|null|
@@ -4126,6 +4130,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**ObliCity: A Benchmark and Baseline for Roof-to-Ground Projection Displacement Correction**|Kai Li et.al.|[2607.25210](http://arxiv.org/abs/2607.25210)|null|
+|**2026-07-27**|**A Modern ConvNet for Solar Filament Detection**|J. R. Hu et.al.|[2607.24525](http://arxiv.org/abs/2607.24525)|null|
+|**2026-07-26**|**Perturbation-Aware Diffusion-Guided Hybrid Segmentation for Robust and Annotation-Efficient Plant Stress Phenotyping**|Gurbhit Chaurakoti et.al.|[2607.23680](http://arxiv.org/abs/2607.23680)|null|
+|**2026-07-25**|**When Less Is More: A Controlled Benchmark of Lightweight CNNs for Satellite Land-Cover Segmentation on DeepGlobe**|Atiq Ur Rehman et.al.|[2607.23024](http://arxiv.org/abs/2607.23024)|null|
+|**2026-07-21**|**Real-Time Semantic Segmentation with Optimized RetinaNet Architectures for Embedded Automotive Systems**|Sai Sidharth D et.al.|[2607.22714](http://arxiv.org/abs/2607.22714)|null|
+|**2026-07-18**|**FogDrive: A Multi-Modal Synthetic Driving Dataset for Perception under Graded Fog**|Vansh Panwar et.al.|[2607.22698](http://arxiv.org/abs/2607.22698)|null|
 |**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
 |**2026-07-23**|**DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation**|Sung-Hoon Yoon et.al.|[2607.21371](http://arxiv.org/abs/2607.21371)|null|
 |**2026-07-23**|**Safety-oriented sidewalk and road segmentation for smartphone-based assistive navigation**|Hakan Calim et.al.|[2607.21137](http://arxiv.org/abs/2607.21137)|null|
