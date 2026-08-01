@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4133,6 +4133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623](http://arxiv.org/abs/2607.28623)|null|
 |**2026-07-29**|**IGME: Efficient Chained Method Ensemble for Transferable Semantic Segmentation Attacks**|Mengqi He et.al.|[2607.27465](http://arxiv.org/abs/2607.27465)|null|
 |**2026-07-29**|**From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models**|Seunggeun Kim et.al.|[2607.26504](http://arxiv.org/abs/2607.26504)|null|
 |**2026-07-28**|**DVPSFormer: Efficient Online Depth-aware Video Panoptic Segmentation for Autonomous Driving**|Yung-Hsu Yang et.al.|[2607.26165](http://arxiv.org/abs/2607.26165)|null|
