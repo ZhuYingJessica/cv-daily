@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation**|Elena Izzo et.al.|[2608.03666](http://arxiv.org/abs/2608.03666)|null|
+|**2026-08-03**|**PixelUp: Zero-Shot Semantic Feature Upsampling for Fine-Grained Vision Tasks**|Deepank Singh et.al.|[2608.02792](http://arxiv.org/abs/2608.02792)|null|
+|**2026-08-03**|**GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation**|Xianghui Fan et.al.|[2608.02068](http://arxiv.org/abs/2608.02068)|null|
+|**2026-08-02**|**FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity**|Ganghyeon Lee et.al.|[2608.01129](http://arxiv.org/abs/2608.01129)|null|
 |**2026-08-01**|**Breaking the Horizontal Prior: From Long-Tailed Orientation Bias to Roll-Robust Monocular Depth Estimation**|Kaihua Tang et.al.|[2608.00678](http://arxiv.org/abs/2608.00678)|null|
 |**2026-08-01**|**Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment**|Liangjing Shao et.al.|[2608.00415](http://arxiv.org/abs/2608.00415)|null|
 |**2026-07-30**|**Beyond Visual Ambiguity: Guiding Robust Monocular Depth Estimation in Challenging Scenarios via Detailed Long Captions**|Junrui Zhang et.al.|[2607.28285](http://arxiv.org/abs/2607.28285)|null|
@@ -28,11 +32,11 @@
 |**2026-07-27**|**SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation**|Tarun R et.al.|[2607.24249](http://arxiv.org/abs/2607.24249)|null|
 |**2026-07-24**|**JustDepth: Real-Time Radar-Camera Depth Estimation with Single-Scan LiDAR Supervision**|Wooyung Yun et.al.|[2607.22172](http://arxiv.org/abs/2607.22172)|null|
 |**2026-07-23**|**Boosting Robustness for All-Weather Self-Supervised Depth Estimation in Autonomous Driving**|Mengshi Qi et.al.|[2607.21526](http://arxiv.org/abs/2607.21526)|null|
-|**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438](http://arxiv.org/abs/2607.21438)|**[link](https://github.com/ThisIsLT/DAPM)**|
+|**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438](http://arxiv.org/abs/2607.21438)|null|
 |**2026-07-23**|**TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects**|Ke Ma et.al.|[2607.21071](http://arxiv.org/abs/2607.21071)|null|
 |**2026-07-23**|**WAT3R: Feedforward Underwater 3D Reconstruction**|Jiayi Xu et.al.|[2607.21023](http://arxiv.org/abs/2607.21023)|null|
 |**2026-07-21**|**Thinking Fast, Thinking Slow: Adaptive Multimodal Transformer-based Sensor Fusion for Depth Estimation on Ultra-low-power MCUs**|Luca Crupi et.al.|[2607.18897](http://arxiv.org/abs/2607.18897)|null|
-|**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Xiaozhong Lyu et.al.|[2607.17790](http://arxiv.org/abs/2607.17790)|**[link](https://github.com/lvsean/reviv4d)**|
+|**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Xiaozhong Lyu et.al.|[2607.17790](http://arxiv.org/abs/2607.17790)|null|
 |**2026-07-20**|**Depth Determination of Individual Shallow NV-Centers via Spin-Lock NMR**|Aaron Daniel et.al.|[2607.17734](http://arxiv.org/abs/2607.17734)|null|
 |**2026-07-20**|**RayOcc: Occlusion-Aware Ray Occupancy Estimation via Gaussian Mixture Intensity**|Junho Kim et.al.|[2607.17660](http://arxiv.org/abs/2607.17660)|null|
 |**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|null|
@@ -1215,12 +1219,18 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Radiometric Thermal Imaging Dataset of Laboratory Rats with Anatomical Segmentation Masks**|Dima Bykhovsky et.al.|[2608.03481](http://arxiv.org/abs/2608.03481)|null|
+|**2026-08-04**|**iFAN: Inference-Aware Learning for Plain Mask Transformers**|Fang Li et.al.|[2608.03216](http://arxiv.org/abs/2608.03216)|null|
+|**2026-08-04**|**FaithIR: Rethinking Infrared Image Super-Resolution from Perceptual Sharpness to Task Relevant Fidelity**|Axi Niu et.al.|[2608.03106](http://arxiv.org/abs/2608.03106)|null|
+|**2026-08-04**|**Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing**|Changhao Zhao et.al.|[2608.03023](http://arxiv.org/abs/2608.03023)|null|
+|**2026-08-03**|**PixelUp: Zero-Shot Semantic Feature Upsampling for Fine-Grained Vision Tasks**|Deepank Singh et.al.|[2608.02792](http://arxiv.org/abs/2608.02792)|null|
+|**2026-08-02**|**ST-LoRA: Single Trajectory LoRA Ensemble for Uncertainty Aware Agricultural Segmentation**|Mohamed Farag et.al.|[2608.01530](http://arxiv.org/abs/2608.01530)|null|
 |**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623](http://arxiv.org/abs/2607.28623)|null|
 |**2026-07-29**|**IGME: Efficient Chained Method Ensemble for Transferable Semantic Segmentation Attacks**|Mengqi He et.al.|[2607.27465](http://arxiv.org/abs/2607.27465)|null|
 |**2026-07-29**|**From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models**|Seunggeun Kim et.al.|[2607.26504](http://arxiv.org/abs/2607.26504)|null|
@@ -1243,7 +1253,7 @@
 |**2026-07-18**|**AirMoE: Statistic-Augmented Over-the-Air MoE for Collaborative Intelligence**|Wei-Bin Kou et.al.|[2607.16562](http://arxiv.org/abs/2607.16562)|null|
 |**2026-07-14**|**DAUPNet: Domain-Aware Uncertainty Modeling for Reliable Prototype Discrimination in Cross-Domain Few-Shot Semantic Segmentation**|Lei Yuan et.al.|[2607.16308](http://arxiv.org/abs/2607.16308)|null|
 |**2026-07-17**|**Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach**|Wasimul Karim et.al.|[2607.16056](http://arxiv.org/abs/2607.16056)|null|
-|**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|null|
+|**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|**[link](https://github.com/kangjehun/DPNeXt)**|
 |**2026-07-15**|**OvAi Focus: AI-based Multi-class Segmentation of Functional Ovaries and Adnexal Masses in Gynecological Ultrasound**|Niccolò Tallone et.al.|[2607.14179](http://arxiv.org/abs/2607.14179)|null|
 |**2026-07-14**|**UMSS: Towards Unsupervised Multi-modal Semantic Segmentation**|Haitian Zhang et.al.|[2607.12372](http://arxiv.org/abs/2607.12372)|null|
 |**2026-07-17**|**From Reconstruction to Interpretation: Zero-Setup Multi-Phase Segmentation of X-ray Tomography Data**|Pradyumna Elavarthi et.al.|[2607.12175](http://arxiv.org/abs/2607.12175)|null|
@@ -3436,7 +3446,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
