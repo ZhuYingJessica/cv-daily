@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|null|
+|**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
+|**2026-08-04**|**LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation**|Tianbao Zhang et.al.|[2608.03851](http://arxiv.org/abs/2608.03851)|null|
 |**2026-08-04**|**XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation**|Elena Izzo et.al.|[2608.03666](http://arxiv.org/abs/2608.03666)|null|
 |**2026-08-03**|**PixelUp: Zero-Shot Semantic Feature Upsampling for Fine-Grained Vision Tasks**|Deepank Singh et.al.|[2608.02792](http://arxiv.org/abs/2608.02792)|null|
 |**2026-08-03**|**GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation**|Xianghui Fan et.al.|[2608.02068](http://arxiv.org/abs/2608.02068)|null|
@@ -1219,12 +1222,17 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Enhancing Low Back Pain Assessment with Diffusion Models for Lumbar Spine MRI Segmentation**|Maria Monzon et.al.|[2608.04906](http://arxiv.org/abs/2608.04906)|null|
+|**2026-08-05**|**StaticSegFormer: An Efficient High-Performance Semantic Segmentation Based on Static Structured Pruning**|Timo Bartels et.al.|[2608.04811](http://arxiv.org/abs/2608.04811)|null|
+|**2026-08-05**|**OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes**|Xia Yan et.al.|[2608.04560](http://arxiv.org/abs/2608.04560)|null|
+|**2026-08-05**|**SSC: A Verifiable Structured Representation for Bimanual Manipulation Labelling**|Yupu Lu et.al.|[2608.04425](http://arxiv.org/abs/2608.04425)|null|
+|**2026-08-05**|**Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation**|Wanli Ma et.al.|[2608.03991](http://arxiv.org/abs/2608.03991)|null|
 |**2026-08-04**|**Radiometric Thermal Imaging Dataset of Laboratory Rats with Anatomical Segmentation Masks**|Dima Bykhovsky et.al.|[2608.03481](http://arxiv.org/abs/2608.03481)|null|
 |**2026-08-04**|**iFAN: Inference-Aware Learning for Plain Mask Transformers**|Fang Li et.al.|[2608.03216](http://arxiv.org/abs/2608.03216)|null|
 |**2026-08-04**|**FaithIR: Rethinking Infrared Image Super-Resolution from Perceptual Sharpness to Task Relevant Fidelity**|Axi Niu et.al.|[2608.03106](http://arxiv.org/abs/2608.03106)|null|
@@ -3446,7 +3454,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

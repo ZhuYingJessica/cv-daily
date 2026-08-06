@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|null|
+|**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
+|**2026-08-04**|**LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation**|Tianbao Zhang et.al.|[2608.03851](http://arxiv.org/abs/2608.03851)|null|
 |**2026-08-04**|**XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation**|Elena Izzo et.al.|[2608.03666](http://arxiv.org/abs/2608.03666)|null|
 |**2026-08-03**|**PixelUp: Zero-Shot Semantic Feature Upsampling for Fine-Grained Vision Tasks**|Deepank Singh et.al.|[2608.02792](http://arxiv.org/abs/2608.02792)|null|
 |**2026-08-03**|**GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation**|Xianghui Fan et.al.|[2608.02068](http://arxiv.org/abs/2608.02068)|null|
@@ -4139,6 +4142,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Enhancing Low Back Pain Assessment with Diffusion Models for Lumbar Spine MRI Segmentation**|Maria Monzon et.al.|[2608.04906](http://arxiv.org/abs/2608.04906)|null|
+|**2026-08-05**|**StaticSegFormer: An Efficient High-Performance Semantic Segmentation Based on Static Structured Pruning**|Timo Bartels et.al.|[2608.04811](http://arxiv.org/abs/2608.04811)|null|
+|**2026-08-05**|**OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes**|Xia Yan et.al.|[2608.04560](http://arxiv.org/abs/2608.04560)|null|
+|**2026-08-05**|**SSC: A Verifiable Structured Representation for Bimanual Manipulation Labelling**|Yupu Lu et.al.|[2608.04425](http://arxiv.org/abs/2608.04425)|null|
+|**2026-08-05**|**Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation**|Wanli Ma et.al.|[2608.03991](http://arxiv.org/abs/2608.03991)|null|
 |**2026-08-04**|**Radiometric Thermal Imaging Dataset of Laboratory Rats with Anatomical Segmentation Masks**|Dima Bykhovsky et.al.|[2608.03481](http://arxiv.org/abs/2608.03481)|null|
 |**2026-08-04**|**iFAN: Inference-Aware Learning for Plain Mask Transformers**|Fang Li et.al.|[2608.03216](http://arxiv.org/abs/2608.03216)|null|
 |**2026-08-04**|**FaithIR: Rethinking Infrared Image Super-Resolution from Perceptual Sharpness to Task Relevant Fidelity**|Axi Niu et.al.|[2608.03106](http://arxiv.org/abs/2608.03106)|null|
