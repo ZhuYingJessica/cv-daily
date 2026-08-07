@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance**|Wayne Wonseok Rodgers et.al.|[2608.05109](http://arxiv.org/abs/2608.05109)|null|
 |**2026-08-05**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
 |**2026-08-04**|**LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation**|Tianbao Zhang et.al.|[2608.03851](http://arxiv.org/abs/2608.03851)|null|
@@ -4142,6 +4143,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**MAVISEG: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers**|Rajatsubhra Chakraborty et.al.|[2608.05878](http://arxiv.org/abs/2608.05878)|null|
+|**2026-08-06**|**URNet: A Unified Reparameterized Network for Efficient RGB-D Semantic Segmentation**|Guoan Xu et.al.|[2608.05671](http://arxiv.org/abs/2608.05671)|null|
 |**2026-08-05**|**Enhancing Low Back Pain Assessment with Diffusion Models for Lumbar Spine MRI Segmentation**|Maria Monzon et.al.|[2608.04906](http://arxiv.org/abs/2608.04906)|null|
 |**2026-08-05**|**StaticSegFormer: An Efficient High-Performance Semantic Segmentation Based on Static Structured Pruning**|Timo Bartels et.al.|[2608.04811](http://arxiv.org/abs/2608.04811)|null|
 |**2026-08-05**|**OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes**|Xia Yan et.al.|[2608.04560](http://arxiv.org/abs/2608.04560)|null|
