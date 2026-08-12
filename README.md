@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-09**|**RayLift: Lifting Complementary Ray-Wise Evidence with 3D Geometry Priors for Semantic Scene Completion**|Meng Wang et.al.|[2608.08476](http://arxiv.org/abs/2608.08476)|null|
+|**2026-08-02**|**Mechanistic Interpretability-Guided Selective Fine-Tuning of Vision-Language Models for Centimeter-Level Flood Depth Estimation**|Nafis Fuad et.al.|[2608.07562](http://arxiv.org/abs/2608.07562)|null|
 |**2026-08-05**|**AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance**|Wayne Wonseok Rodgers et.al.|[2608.05109](http://arxiv.org/abs/2608.05109)|null|
 |**2026-08-07**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
@@ -1223,12 +1225,17 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Contrastive Mask Fidelity: Reference-Free Auditing of Ground-Truth Masks in Remote Sensing Semantic Segmentation**|Shuaishuai Cao et.al.|[2608.09101](http://arxiv.org/abs/2608.09101)|null|
+|**2026-08-09**|**LASA: Language-and-Source-Anchored Alignment for Domain Generalized Semantic Segmentation**|Jinhong Zhu et.al.|[2608.08805](http://arxiv.org/abs/2608.08805)|null|
+|**2026-08-08**|**Open-World Semantic Segmentation with Sensitivity Modeling**|Anastasios Romanos Varvarigos et.al.|[2608.08308](http://arxiv.org/abs/2608.08308)|null|
+|**2026-08-08**|**Test-Time Prototype Adaptation for Open-Vocabulary Semantic Segmentation**|Haozhe Wang et.al.|[2608.08290](http://arxiv.org/abs/2608.08290)|null|
+|**2026-08-08**|**SAMOT: State-Aware Step Modulation and Optimal Transport Matching for Audio-Visual Instance Segmentation**|Kai Peng et.al.|[2608.08147](http://arxiv.org/abs/2608.08147)|null|
 |**2026-08-07**|**PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks**|Hui Xie et.al.|[2608.07066](http://arxiv.org/abs/2608.07066)|null|
 |**2026-08-06**|**MAVISEG: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers**|Rajatsubhra Chakraborty et.al.|[2608.05878](http://arxiv.org/abs/2608.05878)|null|
 |**2026-08-06**|**URNet: A Unified Reparameterized Network for Efficient RGB-D Semantic Segmentation**|Guoan Xu et.al.|[2608.05671](http://arxiv.org/abs/2608.05671)|null|
@@ -1245,7 +1252,7 @@
 |**2026-08-02**|**ST-LoRA: Single Trajectory LoRA Ensemble for Uncertainty Aware Agricultural Segmentation**|Mohamed Farag et.al.|[2608.01530](http://arxiv.org/abs/2608.01530)|null|
 |**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623](http://arxiv.org/abs/2607.28623)|null|
 |**2026-07-29**|**IGME: Efficient Chained Method Ensemble for Transferable Semantic Segmentation Attacks**|Mengqi He et.al.|[2607.27465](http://arxiv.org/abs/2607.27465)|null|
-|**2026-07-29**|**From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models**|Seunggeun Kim et.al.|[2607.26504](http://arxiv.org/abs/2607.26504)|null|
+|**2026-08-09**|**From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models**|Seunggeun Kim et.al.|[2607.26504](http://arxiv.org/abs/2607.26504)|null|
 |**2026-07-28**|**DVPSFormer: Efficient Online Depth-aware Video Panoptic Segmentation for Autonomous Driving**|Yung-Hsu Yang et.al.|[2607.26165](http://arxiv.org/abs/2607.26165)|null|
 |**2026-07-28**|**TraceCLIP: Recovering Local Semantics from Patch-to-CLS Contributions**|Xinran Liu et.al.|[2607.26107](http://arxiv.org/abs/2607.26107)|null|
 |**2026-07-28**|**ObliCity: A Benchmark and Baseline for Roof-to-Ground Projection Displacement Correction**|Kai Li et.al.|[2607.25210](http://arxiv.org/abs/2607.25210)|null|
@@ -3458,7 +3465,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
