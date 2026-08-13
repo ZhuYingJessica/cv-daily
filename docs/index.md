@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4145,6 +4145,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**Entropy-Centric Explainable AI for Remote Sensing Image Segmentation**|Ali Saleh et.al.|[2608.11064](http://arxiv.org/abs/2608.11064)|null|
+|**2026-08-11**|**Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers**|Hongsen Cao et.al.|[2608.10989](http://arxiv.org/abs/2608.10989)|null|
+|**2026-08-11**|**Multi Interests for Joint Search-Recommendation Modeling**|Xiangchen Pan et.al.|[2608.10535](http://arxiv.org/abs/2608.10535)|null|
 |**2026-08-10**|**Contrastive Mask Fidelity: Reference-Free Auditing of Ground-Truth Masks in Remote Sensing Semantic Segmentation**|Shuaishuai Cao et.al.|[2608.09101](http://arxiv.org/abs/2608.09101)|null|
 |**2026-08-09**|**LASA: Language-and-Source-Anchored Alignment for Domain Generalized Semantic Segmentation**|Jinhong Zhu et.al.|[2608.08805](http://arxiv.org/abs/2608.08805)|null|
 |**2026-08-08**|**Open-World Semantic Segmentation with Sensitivity Modeling**|Anastasios Romanos Varvarigos et.al.|[2608.08308](http://arxiv.org/abs/2608.08308)|null|

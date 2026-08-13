@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1225,12 +1225,15 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Entropy-Centric Explainable AI for Remote Sensing Image Segmentation**|Ali Saleh et.al.|[2608.11064](http://arxiv.org/abs/2608.11064)|null|
+|**2026-08-11**|**Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers**|Hongsen Cao et.al.|[2608.10989](http://arxiv.org/abs/2608.10989)|null|
+|**2026-08-11**|**Multi Interests for Joint Search-Recommendation Modeling**|Xiangchen Pan et.al.|[2608.10535](http://arxiv.org/abs/2608.10535)|null|
 |**2026-08-10**|**Contrastive Mask Fidelity: Reference-Free Auditing of Ground-Truth Masks in Remote Sensing Semantic Segmentation**|Shuaishuai Cao et.al.|[2608.09101](http://arxiv.org/abs/2608.09101)|null|
 |**2026-08-09**|**LASA: Language-and-Source-Anchored Alignment for Domain Generalized Semantic Segmentation**|Jinhong Zhu et.al.|[2608.08805](http://arxiv.org/abs/2608.08805)|null|
 |**2026-08-08**|**Open-World Semantic Segmentation with Sensitivity Modeling**|Anastasios Romanos Varvarigos et.al.|[2608.08308](http://arxiv.org/abs/2608.08308)|null|
@@ -3465,7 +3468,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
