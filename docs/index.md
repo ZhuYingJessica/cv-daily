@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**Weakly Supervised Polar Low Segmentation in Sentinel-1 SAR Imagery**|Andrea Federici et.al.|[2608.14366](http://arxiv.org/abs/2608.14366)|null|
 |**2026-08-13**|**Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes**|Nico Heider et.al.|[2608.13095](http://arxiv.org/abs/2608.13095)|null|
 |**2026-08-13**|**LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation**|Dongfang Li et.al.|[2608.12990](http://arxiv.org/abs/2608.12990)|null|
 |**2026-08-13**|**CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers**|Ebenezer Tarubinga et.al.|[2608.12773](http://arxiv.org/abs/2608.12773)|null|
