@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|**[link](https://github.com/Tony1882880/BinRVR)**|
 |**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|null|
@@ -4148,6 +4149,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Bridging the Gap between Labeled and Unlabeled Data via Unified Flow with Feature Memory Bank**|Shanwen Wang et.al.|[2608.16681](http://arxiv.org/abs/2608.16681)|null|
+|**2026-08-17**|**How Sampling Strategy Affects Imbalance Mitigation in LiDAR Segmentation: A Study of Structured vs. Random Point-Based Architectures**|Antonis Savva et.al.|[2608.16673](http://arxiv.org/abs/2608.16673)|null|
+|**2026-08-17**|**Ultra: Unsupervised Cross-Task Optimization for Reliable Restoration Segmentation Collaboration under Adverse Weather**|Shiqin Wang et.al.|[2608.16589](http://arxiv.org/abs/2608.16589)|null|
+|**2026-08-17**|**Cyclops: LiDAR as a Camera That Dreams in Color**|Wei Gao et.al.|[2608.16264](http://arxiv.org/abs/2608.16264)|null|
+|**2026-08-16**|**BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties**|Yuexi Song et.al.|[2608.15683](http://arxiv.org/abs/2608.15683)|null|
+|**2026-08-16**|**Hierarchical Adaptive Feature Refinement Network for VHR Remote Sensing Image Segmentation**|Shuaishuai Cao et.al.|[2608.15647](http://arxiv.org/abs/2608.15647)|null|
+|**2026-08-15**|**Frequency and Edge-Guided Segment Anything Model for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2608.15054](http://arxiv.org/abs/2608.15054)|null|
 |**2026-08-14**|**Weakly Supervised Polar Low Segmentation in Sentinel-1 SAR Imagery**|Andrea Federici et.al.|[2608.14366](http://arxiv.org/abs/2608.14366)|null|
 |**2026-08-13**|**Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes**|Nico Heider et.al.|[2608.13095](http://arxiv.org/abs/2608.13095)|null|
 |**2026-08-13**|**LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation**|Dongfang Li et.al.|[2608.12990](http://arxiv.org/abs/2608.12990)|null|
