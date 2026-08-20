@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
+|**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
+|**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|**[link](https://github.com/yuanzhy29/PXDepth)**|
 |**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|**[link](https://github.com/Tony1882880/BinRVR)**|
 |**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
@@ -4149,6 +4152,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Is Haar Enough? Exploring Symlets and Coiflets for Wavelet Convolution Layers**|Md Rifat Ur Rahman et.al.|[2608.17662](http://arxiv.org/abs/2608.17662)|null|
+|**2026-08-18**|**Leveraging existing sparse point annotations for benthic imagery dense segmentation**|Cesar Borja et.al.|[2608.17561](http://arxiv.org/abs/2608.17561)|null|
+|**2026-08-18**|**TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake**|Ruicheng Zhang et.al.|[2608.17421](http://arxiv.org/abs/2608.17421)|null|
+|**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
 |**2026-08-17**|**Bridging the Gap between Labeled and Unlabeled Data via Unified Flow with Feature Memory Bank**|Shanwen Wang et.al.|[2608.16681](http://arxiv.org/abs/2608.16681)|null|
 |**2026-08-17**|**How Sampling Strategy Affects Imbalance Mitigation in LiDAR Segmentation: A Study of Structured vs. Random Point-Based Architectures**|Antonis Savva et.al.|[2608.16673](http://arxiv.org/abs/2608.16673)|null|
 |**2026-08-17**|**Ultra: Unsupervised Cross-Task Optimization for Reliable Restoration Segmentation Collaboration under Adverse Weather**|Shiqin Wang et.al.|[2608.16589](http://arxiv.org/abs/2608.16589)|null|
