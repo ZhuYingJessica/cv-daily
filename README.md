@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1232,12 +1232,17 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**When Simplicity Wins: Bottleneck-Aware Context Modeling for Lightweight Semantic Segmentation**|Mian Muhammad Naeem Abid et.al.|[2608.18979](http://arxiv.org/abs/2608.18979)|null|
+|**2026-08-19**|**The Impact of CutMix on Reliability and Robustness in Semantic Segmentation**|Steven Landgraf et.al.|[2608.18715](http://arxiv.org/abs/2608.18715)|null|
+|**2026-08-19**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models for Semantic Segmentation**|Steven Landgraf et.al.|[2608.18709](http://arxiv.org/abs/2608.18709)|null|
+|**2026-08-19**|**Teeth2Point: A Two-Stage Dental CBCT ROI-to-Point Segmentation Framework**|Qi Ma et.al.|[2608.18667](http://arxiv.org/abs/2608.18667)|null|
+|**2026-08-19**|**COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts**|Yanghong Lin et.al.|[2608.18479](http://arxiv.org/abs/2608.18479)|null|
 |**2026-08-18**|**Is Haar Enough? Exploring Symlets and Coiflets for Wavelet Convolution Layers**|Md Rifat Ur Rahman et.al.|[2608.17662](http://arxiv.org/abs/2608.17662)|null|
 |**2026-08-18**|**Leveraging existing sparse point annotations for benthic imagery dense segmentation**|Cesar Borja et.al.|[2608.17561](http://arxiv.org/abs/2608.17561)|null|
 |**2026-08-18**|**TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake**|Ruicheng Zhang et.al.|[2608.17421](http://arxiv.org/abs/2608.17421)|null|
@@ -3493,7 +3498,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
