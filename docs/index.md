@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.21
+## Updated on 2026.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4152,6 +4152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformer**|Dongcheng Zhao et.al.|[2608.19238](http://arxiv.org/abs/2608.19238)|null|
 |**2026-08-19**|**When Simplicity Wins: Bottleneck-Aware Context Modeling for Lightweight Semantic Segmentation**|Mian Muhammad Naeem Abid et.al.|[2608.18979](http://arxiv.org/abs/2608.18979)|null|
 |**2026-08-19**|**The Impact of CutMix on Reliability and Robustness in Semantic Segmentation**|Steven Landgraf et.al.|[2608.18715](http://arxiv.org/abs/2608.18715)|null|
 |**2026-08-19**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models for Semantic Segmentation**|Steven Landgraf et.al.|[2608.18709](http://arxiv.org/abs/2608.18709)|null|
