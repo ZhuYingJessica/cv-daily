@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays**|Sakshi Goel et.al.|[2608.23175](http://arxiv.org/abs/2608.23175)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
 |**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|null|
@@ -4152,6 +4153,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
+|**2026-08-24**|**Quality Inspection of Printed Circuit Board Pin Insertion via Semantic Segmentation and Board-Level Feature Extraction**|Nils Rabeneck et.al.|[2608.22937](http://arxiv.org/abs/2608.22937)|null|
+|**2026-08-24**|**Contextrast++: Robust Multi-Scale Contextual Contrastive Learning for Semantic Segmentation**|Changki Sung et.al.|[2608.22679](http://arxiv.org/abs/2608.22679)|null|
+|**2026-08-24**|**Hyperbolic Hierarchical Clustering for Visual Representation Learning**|Jianan Wei et.al.|[2608.22665](http://arxiv.org/abs/2608.22665)|null|
+|**2026-08-21**|**UrbanGazeVis: A Visualization System for Analyzing Eye-Tracking Data on Urban Safety Perception**|Andres De La Puente et.al.|[2608.21686](http://arxiv.org/abs/2608.21686)|null|
 |**2026-08-21**|**The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization**|Derek R. Benham et.al.|[2608.21276](http://arxiv.org/abs/2608.21276)|null|
 |**2026-08-21**|**Towards Investigating Residual Hearing Loss: Quantification of Fibrosis in a Novel Cochlear OCT Dataset**|Julia Dietlmeier et.al.|[2608.21189](http://arxiv.org/abs/2608.21189)|null|
 |**2026-08-11**|**Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformer**|Dongcheng Zhao et.al.|[2608.19238](http://arxiv.org/abs/2608.19238)|null|
