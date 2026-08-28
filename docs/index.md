@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|null|
 |**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|**[link](https://github.com/LeonhardFeiner/corr-joint-ae-uq)**|
 |**2026-08-24**|**Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays**|Sakshi Goel et.al.|[2608.23175](http://arxiv.org/abs/2608.23175)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
-|**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|**[link](https://github.com/yuanzhy29/PXDepth)**|
-|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|**[link](https://github.com/Tony1882880/BinRVR)**|
+|**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|null|
+|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|null|
 |**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|null|
@@ -4154,6 +4155,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
+|**2026-08-27**|**Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan**|Francesca Razzano et.al.|[2608.27290](http://arxiv.org/abs/2608.27290)|null|
+|**2026-08-27**|**DINOcular: Self-Supervised Visuospatial Representations**|Farkhat Almukhamedov et.al.|[2608.27226](http://arxiv.org/abs/2608.27226)|null|
+|**2026-08-27**|**Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator**|Kumju Jo et.al.|[2608.26624](http://arxiv.org/abs/2608.26624)|null|
 |**2026-08-26**|**Difficulty-Aware Sample Allocation for Adaptive Data Augmentation in Semantic Segmentation**|Olasimbo Ayodeji Arigbabu et.al.|[2608.25710](http://arxiv.org/abs/2608.25710)|null|
 |**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642](http://arxiv.org/abs/2608.25642)|null|
 |**2026-08-25**|**Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery**|Hayat Rajani et.al.|[2608.24756](http://arxiv.org/abs/2608.24756)|null|
@@ -4164,7 +4169,7 @@ layout: default
 |**2026-08-24**|**Quality Inspection of Printed Circuit Board Pin Insertion via Semantic Segmentation and Board-Level Feature Extraction**|Nils Rabeneck et.al.|[2608.22937](http://arxiv.org/abs/2608.22937)|null|
 |**2026-08-24**|**Contextrast++: Robust Multi-Scale Contextual Contrastive Learning for Semantic Segmentation**|Changki Sung et.al.|[2608.22679](http://arxiv.org/abs/2608.22679)|null|
 |**2026-08-24**|**Hyperbolic Hierarchical Clustering for Visual Representation Learning**|Jianan Wei et.al.|[2608.22665](http://arxiv.org/abs/2608.22665)|null|
-|**2026-08-21**|**UrbanGazeVis: A Visualization System for Analyzing Eye-Tracking Data on Urban Safety Perception**|Andres De La Puente et.al.|[2608.21686](http://arxiv.org/abs/2608.21686)|null|
+|**2026-08-26**|**UrbanGazeVis: A Visualization System for Analyzing Eye-Tracking Data on Urban Safety Perception**|Andres De La Puente et.al.|[2608.21686](http://arxiv.org/abs/2608.21686)|null|
 |**2026-08-21**|**The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization**|Derek R. Benham et.al.|[2608.21276](http://arxiv.org/abs/2608.21276)|null|
 |**2026-08-21**|**Towards Investigating Residual Hearing Loss: Quantification of Fibrosis in a Novel Cochlear OCT Dataset**|Julia Dietlmeier et.al.|[2608.21189](http://arxiv.org/abs/2608.21189)|null|
 |**2026-08-11**|**Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformer**|Dongcheng Zhao et.al.|[2608.19238](http://arxiv.org/abs/2608.19238)|null|
