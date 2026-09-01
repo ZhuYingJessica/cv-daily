@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,14 +18,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-28**|**From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation**|Rit Gangopadhyay et.al.|[2608.27860](http://arxiv.org/abs/2608.27860)|**[link](https://github.com/Suchisrit/DEX)**|
+|**2026-08-31**|**Arctic Dispersion Interruption Phenomenon and Sound Source Depth Estimation**|Weng Jinbao et.al.|[2608.30360](http://arxiv.org/abs/2608.30360)|null|
+|**2026-08-31**|**Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention**|Bingde Liu et.al.|[2608.30129](http://arxiv.org/abs/2608.30129)|**[link](https://github.com/VISION-SJTU/Lapis)**|
+|**2026-08-30**|**OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes**|Muxin Liu et.al.|[2608.29881](http://arxiv.org/abs/2608.29881)|**[link](https://github.com/mx-liu6/OptiGeo-web)**|
+|**2026-08-29**|**Think, Look, and Revise: Inconsistency-Aware Visual Self-Correction in MLLMs**|Yu Cheng et.al.|[2608.29374](http://arxiv.org/abs/2608.29374)|null|
+|**2026-08-28**|**ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views**|Giuseppe Stracquadanio et.al.|[2608.28895](http://arxiv.org/abs/2608.28895)|null|
+|**2026-08-28**|**From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation**|Rit Gangopadhyay et.al.|[2608.27860](http://arxiv.org/abs/2608.27860)|null|
 |**2026-08-27**|**Depth-Aware Pothole Detection Using YOLO and RT-DETR at the Edge**|Md Monjurul Ahsan Prodhan et.al.|[2608.27633](http://arxiv.org/abs/2608.27633)|null|
 |**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|null|
-|**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|**[link](https://github.com/LeonhardFeiner/corr-joint-ae-uq)**|
+|**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|null|
 |**2026-08-24**|**Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays**|Sakshi Goel et.al.|[2608.23175](http://arxiv.org/abs/2608.23175)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
-|**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|null|
+|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|null|
 |**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|null|
 |**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
@@ -1237,12 +1242,26 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**SELECT: SELEctive Context Transfer for Class-Incremental Semantic Segmentation**|Avi Gupta et.al.|[2608.30281](http://arxiv.org/abs/2608.30281)|null|
+|**2026-08-31**|**Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding**|Wei Wang et.al.|[2608.30279](http://arxiv.org/abs/2608.30279)|null|
+|**2026-08-31**|**CedarCypress3D: an annotated UAV-LiDAR dataset of individual trees in planted cedar and cypress forests**|Katsuto Shimizu et.al.|[2608.30149](http://arxiv.org/abs/2608.30149)|null|
+|**2026-08-30**|**SVI2LoD3: Agent-Driven Reconstruction of LoD3 Facade Openings in Semantic 3D City Models from Volunteered Street View Imagery using Large Language and Visual Models**|Elmehdi Kanna et.al.|[2608.29992](http://arxiv.org/abs/2608.29992)|null|
+|**2026-08-30**|**Towards Continual Test-Time Adaptation of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Chandler Timm C. Doloriel et.al.|[2608.29923](http://arxiv.org/abs/2608.29923)|null|
+|**2026-08-30**|**GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation**|Xinyu Wang et.al.|[2608.29793](http://arxiv.org/abs/2608.29793)|null|
+|**2026-08-30**|**nnMNet: Baseline for Martian Terrain Semantic Segmentation**|Ming-Han Lee et.al.|[2608.29609](http://arxiv.org/abs/2608.29609)|null|
+|**2026-08-30**|**Bridging Agent Semantics with Spot Capacity: An Elastic and Recoverable Service Model**|Minchen Yu et.al.|[2608.29581](http://arxiv.org/abs/2608.29581)|null|
+|**2026-08-29**|**SGE: Semantically-Guided Exploration for Unstructured Environments via Image-Space Waypoint Sampling**|Christopher Tatsch et.al.|[2608.29315](http://arxiv.org/abs/2608.29315)|null|
+|**2026-08-29**|**DARD: Zero-Shot Degradation-Aware Retinex-Guided Diffusion for Low-Light Image Enhancement**|Wenjie Cai et.al.|[2608.29243](http://arxiv.org/abs/2608.29243)|null|
+|**2026-08-29**|**Acoustically Grounded Cost Learning for Open-Vocabulary Audio-Visual Semantic Segmentation**|Tianrui Hui et.al.|[2608.29121](http://arxiv.org/abs/2608.29121)|null|
+|**2026-08-29**|**GramLoop: Training-Free Gram-Gated Replay for Robust Dense Prediction**|Yang Chen et.al.|[2608.29113](http://arxiv.org/abs/2608.29113)|null|
+|**2026-08-29**|**AdapToPASS: Ambiguity-aware Adaptive Spherical Transformer for Panoramic Semantic Segmentation**|Soumyaratna Debnath et.al.|[2608.29081](http://arxiv.org/abs/2608.29081)|null|
+|**2026-08-26**|**Distributed Semantic Segmentation With Improved Rate-Distortion Trade-Off**|Danish Nazir et.al.|[2608.28684](http://arxiv.org/abs/2608.28684)|null|
 |**2026-08-28**|**GAN-Based Semantic Communication for Image Transmission in IoV**|Ruixing Ren et.al.|[2608.27989](http://arxiv.org/abs/2608.27989)|null|
 |**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
 |**2026-08-27**|**Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan**|Francesca Razzano et.al.|[2608.27290](http://arxiv.org/abs/2608.27290)|null|
@@ -3522,7 +3541,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
