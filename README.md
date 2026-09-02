@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,21 +18,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**RealOOB: A Definition-Consistent Real-World Oriented Occlusion Boundary Benchmark**|Lintao Xu et.al.|[2608.30820](http://arxiv.org/abs/2608.30820)|null|
 |**2026-08-31**|**Arctic Dispersion Interruption Phenomenon and Sound Source Depth Estimation**|Weng Jinbao et.al.|[2608.30360](http://arxiv.org/abs/2608.30360)|null|
 |**2026-08-31**|**Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention**|Bingde Liu et.al.|[2608.30129](http://arxiv.org/abs/2608.30129)|**[link](https://github.com/VISION-SJTU/Lapis)**|
-|**2026-08-30**|**OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes**|Muxin Liu et.al.|[2608.29881](http://arxiv.org/abs/2608.29881)|**[link](https://github.com/mx-liu6/OptiGeo-web)**|
+|**2026-08-30**|**OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes**|Muxin Liu et.al.|[2608.29881](http://arxiv.org/abs/2608.29881)|**[link](https://github.com/mx-liu6/OptiGeo)**|
 |**2026-08-29**|**Think, Look, and Revise: Inconsistency-Aware Visual Self-Correction in MLLMs**|Yu Cheng et.al.|[2608.29374](http://arxiv.org/abs/2608.29374)|null|
 |**2026-08-28**|**ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views**|Giuseppe Stracquadanio et.al.|[2608.28895](http://arxiv.org/abs/2608.28895)|null|
 |**2026-08-28**|**From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation**|Rit Gangopadhyay et.al.|[2608.27860](http://arxiv.org/abs/2608.27860)|null|
 |**2026-08-27**|**Depth-Aware Pothole Detection Using YOLO and RT-DETR at the Edge**|Md Monjurul Ahsan Prodhan et.al.|[2608.27633](http://arxiv.org/abs/2608.27633)|null|
 |**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|null|
-|**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|null|
+|**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|**[link](https://github.com/LeonhardFeiner/corr-joint-ae-uq)**|
 |**2026-08-24**|**Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays**|Sakshi Goel et.al.|[2608.23175](http://arxiv.org/abs/2608.23175)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
-|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|null|
-|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|null|
-|**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
+|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|**[link](https://github.com/yuanzhy29/PXDepth)**|
+|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|**[link](https://github.com/Tony1882880/BinRVR)**|
+|**2026-08-31**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|null|
 |**2026-08-09**|**RayLift: Lifting Complementary Ray-Wise Evidence with 3D Geometry Priors for Semantic Scene Completion**|Meng Wang et.al.|[2608.08476](http://arxiv.org/abs/2608.08476)|null|
@@ -1242,12 +1243,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting**|Udo Schlegel et.al.|[2609.00898](http://arxiv.org/abs/2609.00898)|null|
+|**2026-09-01**|**RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing**|Kaiyue Kang et.al.|[2609.00814](http://arxiv.org/abs/2609.00814)|null|
+|**2026-08-31**|**Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models**|Keith G. Mills et.al.|[2608.31052](http://arxiv.org/abs/2608.31052)|null|
+|**2026-08-31**|**VCAR: Training-Free 3DGS Segmentation via View Completeness and Axis-Aware Boundary Refinement**|Kun Cao et.al.|[2608.30870](http://arxiv.org/abs/2608.30870)|null|
 |**2026-08-31**|**SELECT: SELEctive Context Transfer for Class-Incremental Semantic Segmentation**|Avi Gupta et.al.|[2608.30281](http://arxiv.org/abs/2608.30281)|null|
 |**2026-08-31**|**Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding**|Wei Wang et.al.|[2608.30279](http://arxiv.org/abs/2608.30279)|null|
 |**2026-08-31**|**CedarCypress3D: an annotated UAV-LiDAR dataset of individual trees in planted cedar and cypress forests**|Katsuto Shimizu et.al.|[2608.30149](http://arxiv.org/abs/2608.30149)|null|
@@ -1270,7 +1275,7 @@
 |**2026-08-26**|**Difficulty-Aware Sample Allocation for Adaptive Data Augmentation in Semantic Segmentation**|Olasimbo Ayodeji Arigbabu et.al.|[2608.25710](http://arxiv.org/abs/2608.25710)|null|
 |**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642](http://arxiv.org/abs/2608.25642)|null|
 |**2026-08-25**|**Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery**|Hayat Rajani et.al.|[2608.24756](http://arxiv.org/abs/2608.24756)|null|
-|**2026-08-25**|**EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation**|Qixiu Li et.al.|[2608.24640](http://arxiv.org/abs/2608.24640)|null|
+|**2026-09-01**|**EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation**|Qixiu Li et.al.|[2608.24640](http://arxiv.org/abs/2608.24640)|null|
 |**2026-08-25**|**Comparative Assessment of Deep Learning Architectures for Underwater Subsurface Kelp Forest Segmentation with The Kelp-o-Tron**|Sundarabalan Balasubramanian et.al.|[2608.24594](http://arxiv.org/abs/2608.24594)|null|
 |**2026-08-24**|**CRISP: Calibration-Aware Visual State Space Duality for Remote Sensing Semantic Segmentation**|Kangning Wang et.al.|[2608.23746](http://arxiv.org/abs/2608.23746)|null|
 |**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
@@ -3541,7 +3546,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
