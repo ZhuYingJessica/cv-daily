@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.02
+## Updated on 2026.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,21 +2934,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Adapting a Foundation Model for Lunar Surface Height Estimation**|Patrick Bauer et.al.|[2609.02448](http://arxiv.org/abs/2609.02448)|null|
+|**2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Kai Guan et.al.|[2609.01276](http://arxiv.org/abs/2609.01276)|null|
+|**2026-09-01**|**Monocular Depth Estimation from a Single Image: Progress and Opportunities**|Muxin Liu et.al.|[2609.01172](http://arxiv.org/abs/2609.01172)|null|
 |**2026-08-31**|**RealOOB: A Definition-Consistent Real-World Oriented Occlusion Boundary Benchmark**|Lintao Xu et.al.|[2608.30820](http://arxiv.org/abs/2608.30820)|null|
 |**2026-08-31**|**Arctic Dispersion Interruption Phenomenon and Sound Source Depth Estimation**|Weng Jinbao et.al.|[2608.30360](http://arxiv.org/abs/2608.30360)|null|
-|**2026-08-31**|**Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention**|Bingde Liu et.al.|[2608.30129](http://arxiv.org/abs/2608.30129)|**[link](https://github.com/VISION-SJTU/Lapis)**|
-|**2026-08-30**|**OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes**|Muxin Liu et.al.|[2608.29881](http://arxiv.org/abs/2608.29881)|**[link](https://github.com/mx-liu6/OptiGeo)**|
+|**2026-08-31**|**Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention**|Bingde Liu et.al.|[2608.30129](http://arxiv.org/abs/2608.30129)|null|
+|**2026-08-30**|**OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes**|Muxin Liu et.al.|[2608.29881](http://arxiv.org/abs/2608.29881)|null|
 |**2026-08-29**|**Think, Look, and Revise: Inconsistency-Aware Visual Self-Correction in MLLMs**|Yu Cheng et.al.|[2608.29374](http://arxiv.org/abs/2608.29374)|null|
 |**2026-08-28**|**ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views**|Giuseppe Stracquadanio et.al.|[2608.28895](http://arxiv.org/abs/2608.28895)|null|
 |**2026-08-28**|**From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation**|Rit Gangopadhyay et.al.|[2608.27860](http://arxiv.org/abs/2608.27860)|null|
 |**2026-08-27**|**Depth-Aware Pothole Detection Using YOLO and RT-DETR at the Edge**|Md Monjurul Ahsan Prodhan et.al.|[2608.27633](http://arxiv.org/abs/2608.27633)|null|
 |**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|null|
-|**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|**[link](https://github.com/LeonhardFeiner/corr-joint-ae-uq)**|
+|**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|null|
 |**2026-08-24**|**Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays**|Sakshi Goel et.al.|[2608.23175](http://arxiv.org/abs/2608.23175)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
-|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|**[link](https://github.com/yuanzhy29/PXDepth)**|
-|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|**[link](https://github.com/Tony1882880/BinRVR)**|
+|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|null|
+|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|null|
 |**2026-08-31**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|null|
@@ -4163,6 +4166,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**ProgResViT: Progressive Resolution and Width for Adaptive Vision Transformers**|Ali Hojjat et.al.|[2609.03216](http://arxiv.org/abs/2609.03216)|null|
+|**2026-09-02**|**WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation**|Zilin Dai et.al.|[2609.03102](http://arxiv.org/abs/2609.03102)|null|
+|**2026-09-02**|**Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts**|Samir Abou Haidar et.al.|[2609.02830](http://arxiv.org/abs/2609.02830)|null|
+|**2026-09-02**|**Rethinking the Teacher-Student Framework for Test-Time Adaptation**|Damian Sójka et.al.|[2609.02507](http://arxiv.org/abs/2609.02507)|null|
+|**2026-09-02**|**InsightSeg: Reusing Correction Insights for Guideline-Consistent Segmentation**|Vanshika Vats et.al.|[2609.02002](http://arxiv.org/abs/2609.02002)|null|
 |**2026-09-01**|**Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting**|Udo Schlegel et.al.|[2609.00898](http://arxiv.org/abs/2609.00898)|null|
 |**2026-09-01**|**RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing**|Kaiyue Kang et.al.|[2609.00814](http://arxiv.org/abs/2609.00814)|null|
 |**2026-08-31**|**Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models**|Keith G. Mills et.al.|[2608.31052](http://arxiv.org/abs/2608.31052)|null|
@@ -4178,13 +4186,13 @@ layout: default
 |**2026-08-29**|**SGE: Semantically-Guided Exploration for Unstructured Environments via Image-Space Waypoint Sampling**|Christopher Tatsch et.al.|[2608.29315](http://arxiv.org/abs/2608.29315)|null|
 |**2026-08-29**|**DARD: Zero-Shot Degradation-Aware Retinex-Guided Diffusion for Low-Light Image Enhancement**|Wenjie Cai et.al.|[2608.29243](http://arxiv.org/abs/2608.29243)|null|
 |**2026-08-29**|**Acoustically Grounded Cost Learning for Open-Vocabulary Audio-Visual Semantic Segmentation**|Tianrui Hui et.al.|[2608.29121](http://arxiv.org/abs/2608.29121)|null|
-|**2026-08-29**|**GramLoop: Training-Free Gram-Gated Replay for Robust Dense Prediction**|Yang Chen et.al.|[2608.29113](http://arxiv.org/abs/2608.29113)|null|
+|**2026-09-03**|**GramLoop: Training-Free Gram-Gated Replay for Robust Dense Prediction**|Yang Chen et.al.|[2608.29113](http://arxiv.org/abs/2608.29113)|null|
 |**2026-08-29**|**AdapToPASS: Ambiguity-aware Adaptive Spherical Transformer for Panoramic Semantic Segmentation**|Soumyaratna Debnath et.al.|[2608.29081](http://arxiv.org/abs/2608.29081)|null|
 |**2026-08-26**|**Distributed Semantic Segmentation With Improved Rate-Distortion Trade-Off**|Danish Nazir et.al.|[2608.28684](http://arxiv.org/abs/2608.28684)|null|
 |**2026-08-28**|**GAN-Based Semantic Communication for Image Transmission in IoV**|Ruixing Ren et.al.|[2608.27989](http://arxiv.org/abs/2608.27989)|null|
 |**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[2608.27449](http://arxiv.org/abs/2608.27449)|null|
 |**2026-08-27**|**Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan**|Francesca Razzano et.al.|[2608.27290](http://arxiv.org/abs/2608.27290)|null|
-|**2026-08-27**|**DINOcular: Self-Supervised Visuospatial Representations**|Farkhat Almukhamedov et.al.|[2608.27226](http://arxiv.org/abs/2608.27226)|null|
+|**2026-09-03**|**DINOcular: Self-Supervised Visuospatial Representations**|Farkhat Almukhamedov et.al.|[2608.27226](http://arxiv.org/abs/2608.27226)|null|
 |**2026-08-27**|**Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator**|Kumju Jo et.al.|[2608.26624](http://arxiv.org/abs/2608.26624)|null|
 |**2026-08-26**|**Difficulty-Aware Sample Allocation for Adaptive Data Augmentation in Semantic Segmentation**|Olasimbo Ayodeji Arigbabu et.al.|[2608.25710](http://arxiv.org/abs/2608.25710)|null|
 |**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642](http://arxiv.org/abs/2608.25642)|null|
