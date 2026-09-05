@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.04
+## Updated on 2026.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4166,6 +4166,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Efficient Semantic Understanding from Digital Foveation**|Caterina Caccavella et.al.|[2609.04088](http://arxiv.org/abs/2609.04088)|null|
+|**2026-09-03**|**Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation**|Augustin Raju et.al.|[2609.03970](http://arxiv.org/abs/2609.03970)|null|
 |**2026-09-02**|**ProgResViT: Progressive Resolution and Width for Adaptive Vision Transformers**|Ali Hojjat et.al.|[2609.03216](http://arxiv.org/abs/2609.03216)|null|
 |**2026-09-02**|**WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation**|Zilin Dai et.al.|[2609.03102](http://arxiv.org/abs/2609.03102)|null|
 |**2026-09-02**|**Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts**|Samir Abou Haidar et.al.|[2609.02830](http://arxiv.org/abs/2609.02830)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.04
+## Updated on 2026.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1246,12 +1246,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260905>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Efficient Semantic Understanding from Digital Foveation**|Caterina Caccavella et.al.|[2609.04088](http://arxiv.org/abs/2609.04088)|null|
+|**2026-09-03**|**Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation**|Augustin Raju et.al.|[2609.03970](http://arxiv.org/abs/2609.03970)|null|
 |**2026-09-02**|**ProgResViT: Progressive Resolution and Width for Adaptive Vision Transformers**|Ali Hojjat et.al.|[2609.03216](http://arxiv.org/abs/2609.03216)|null|
 |**2026-09-02**|**WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation**|Zilin Dai et.al.|[2609.03102](http://arxiv.org/abs/2609.03102)|null|
 |**2026-09-02**|**Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts**|Samir Abou Haidar et.al.|[2609.02830](http://arxiv.org/abs/2609.02830)|null|
@@ -3554,7 +3556,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
