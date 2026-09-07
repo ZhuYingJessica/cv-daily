@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Weather-Conditioned Depth Anything**|Zhaoming Xu et.al.|[2609.04827](http://arxiv.org/abs/2609.04827)|**[link](https://github.com/taco-group/DA-W)**|
+|**2026-09-03**|**DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models**|John J. Han et.al.|[2609.04555](http://arxiv.org/abs/2609.04555)|null|
+|**2026-09-03**|**Object Concepts Emerge from Motion**|Boshi Li et.al.|[2609.04348](http://arxiv.org/abs/2609.04348)|**[link](https://github.com/TJ12342/object-concepts-from-motion)**|
 |**2026-09-02**|**Adapting a Foundation Model for Lunar Surface Height Estimation**|Patrick Bauer et.al.|[2609.02448](http://arxiv.org/abs/2609.02448)|null|
 |**2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Kai Guan et.al.|[2609.01276](http://arxiv.org/abs/2609.01276)|null|
 |**2026-09-01**|**Monocular Depth Estimation from a Single Image: Progress and Opportunities**|Muxin Liu et.al.|[2609.01172](http://arxiv.org/abs/2609.01172)|null|
@@ -4166,6 +4169,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution**|Liqian Yang et.al.|[2609.05303](http://arxiv.org/abs/2609.05303)|null|
+|**2026-09-04**|**Bridging Modalities and Tasks: A Unified Hierarchical ViT for SAR-to-Optical Translation and Semantic Segmentation**|Siyuan Liu et.al.|[2609.04726](http://arxiv.org/abs/2609.04726)|null|
 |**2026-09-03**|**Efficient Semantic Understanding from Digital Foveation**|Caterina Caccavella et.al.|[2609.04088](http://arxiv.org/abs/2609.04088)|null|
 |**2026-09-03**|**Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation**|Augustin Raju et.al.|[2609.03970](http://arxiv.org/abs/2609.03970)|null|
 |**2026-09-02**|**ProgResViT: Progressive Resolution and Width for Adaptive Vision Transformers**|Ali Hojjat et.al.|[2609.03216](http://arxiv.org/abs/2609.03216)|null|
