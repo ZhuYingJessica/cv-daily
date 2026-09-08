@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation**|Samer Abualhanud et.al.|[2609.05397](http://arxiv.org/abs/2609.05397)|**[link](https://github.com/abualhanud/CrossDepth)**|
 |**2026-09-04**|**Weather-Conditioned Depth Anything**|Zhaoming Xu et.al.|[2609.04827](http://arxiv.org/abs/2609.04827)|**[link](https://github.com/taco-group/DA-W)**|
 |**2026-09-03**|**DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models**|John J. Han et.al.|[2609.04555](http://arxiv.org/abs/2609.04555)|null|
 |**2026-09-03**|**Object Concepts Emerge from Motion**|Boshi Li et.al.|[2609.04348](http://arxiv.org/abs/2609.04348)|**[link](https://github.com/TJ12342/object-concepts-from-motion)**|
@@ -1249,7 +1250,7 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -1272,7 +1273,7 @@
 |**2026-08-31**|**Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding**|Wei Wang et.al.|[2608.30279](http://arxiv.org/abs/2608.30279)|null|
 |**2026-08-31**|**CedarCypress3D: an annotated UAV-LiDAR dataset of individual trees in planted cedar and cypress forests**|Katsuto Shimizu et.al.|[2608.30149](http://arxiv.org/abs/2608.30149)|null|
 |**2026-08-30**|**SVI2LoD3: Agent-Driven Reconstruction of LoD3 Facade Openings in Semantic 3D City Models from Volunteered Street View Imagery using Large Language and Visual Models**|Elmehdi Kanna et.al.|[2608.29992](http://arxiv.org/abs/2608.29992)|null|
-|**2026-08-30**|**Towards Continual Test-Time Adaptation of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Chandler Timm C. Doloriel et.al.|[2608.29923](http://arxiv.org/abs/2608.29923)|null|
+|**2026-08-30**|**Towards Continual Test-Time Adaptation of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Chandler Timm C. Doloriel et.al.|[2608.29923](http://arxiv.org/abs/2608.29923)|**[link](https://github.com/chandlerbing65nm/DAF)**|
 |**2026-08-30**|**GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation**|Xinyu Wang et.al.|[2608.29793](http://arxiv.org/abs/2608.29793)|null|
 |**2026-08-30**|**nnMNet: Baseline for Martian Terrain Semantic Segmentation**|Ming-Han Lee et.al.|[2608.29609](http://arxiv.org/abs/2608.29609)|null|
 |**2026-08-30**|**Bridging Agent Semantics with Spot Capacity: An Elastic and Recoverable Service Model**|Minchen Yu et.al.|[2608.29581](http://arxiv.org/abs/2608.29581)|null|
@@ -3561,7 +3562,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
