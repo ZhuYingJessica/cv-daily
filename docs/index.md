@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-08**|**MFVINS: Multiple Fisheye Camera-Based Visual Inertial System**|Eunseong Jang et.al.|[2609.08626](http://arxiv.org/abs/2609.08626)|null|
+|**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|**[link](https://github.com/huawei-bayerlab/marigold-v2)**|
+|**2026-09-07**|**Are Image Generators Zero-Shot Perceivers? A Rigorous Evaluation**|Shangzhe Di et.al.|[2609.07884](http://arxiv.org/abs/2609.07884)|null|
 |**2026-09-05**|**Task-Oriented Semantic Communication for Hazard Warning and Remote Operation in Connected Vehicle Platoons**|S M Sabit Bananee et.al.|[2609.06242](http://arxiv.org/abs/2609.06242)|null|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|null|
 |**2026-09-05**|**UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment**|Yongzhe Lyu et.al.|[2609.05888](http://arxiv.org/abs/2609.05888)|null|
 |**2026-09-04**|**CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation**|Samer Abualhanud et.al.|[2609.05397](http://arxiv.org/abs/2609.05397)|null|
+|**2026-09-08**|**MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision**|Zijie Zhu et.al.|[2609.04958](http://arxiv.org/abs/2609.04958)|null|
 |**2026-09-04**|**Weather-Conditioned Depth Anything**|Zhaoming Xu et.al.|[2609.04827](http://arxiv.org/abs/2609.04827)|null|
 |**2026-09-03**|**DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models**|John J. Han et.al.|[2609.04555](http://arxiv.org/abs/2609.04555)|null|
 |**2026-09-03**|**Object Concepts Emerge from Motion**|Boshi Li et.al.|[2609.04348](http://arxiv.org/abs/2609.04348)|null|
@@ -2957,8 +2961,8 @@ layout: default
 |**2026-08-24**|**Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays**|Sakshi Goel et.al.|[2608.23175](http://arxiv.org/abs/2608.23175)|null|
 |**2026-09-05**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
-|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|null|
-|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|null|
+|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|**[link](https://github.com/yuanzhy29/PXDepth)**|
+|**2026-08-17**|**Binarized High-Efficiency RAW Video Restoration and Beyond**|Tianyu Zhu et.al.|[2608.16756](http://arxiv.org/abs/2608.16756)|**[link](https://github.com/Tony1882880/BinRVR)**|
 |**2026-08-31**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|null|
@@ -4173,6 +4177,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge**|Samed Doğan et.al.|[2609.10322](http://arxiv.org/abs/2609.10322)|null|
+|**2026-09-09**|**CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids**|Toomas Tahves et.al.|[2609.09881](http://arxiv.org/abs/2609.09881)|null|
+|**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Thodoris Betsas et.al.|[2609.09082](http://arxiv.org/abs/2609.09082)|null|
+|**2026-09-08**|**CoordFormer: Give Me Any Coordinates and I Will Give You Labels**|Iacopo Curti et.al.|[2609.08660](http://arxiv.org/abs/2609.08660)|null|
+|**2026-09-08**|**MARS-CLIP: Multi-Resolution and Attention Refined Zero-Shot Image Segmentation**|Nagito Saito et.al.|[2609.08283](http://arxiv.org/abs/2609.08283)|null|
+|**2026-09-07**|**MSSP: Multi-Scale Spatially-Constrained Partition for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zhenghao Zhang et.al.|[2609.06959](http://arxiv.org/abs/2609.06959)|null|
 |**2026-09-05**|**Hierarchical Prompt Injector for Domain Generalization Segmentation**|Xin Kun Lin et.al.|[2609.05864](http://arxiv.org/abs/2609.05864)|null|
 |**2026-09-04**|**AAMBERS-UAV: Acquisition-Aware Multimodal Backbone Evaluation and Ranking for UAV Weedy Rice Segmentation**|Tarek Rahman et.al.|[2609.05762](http://arxiv.org/abs/2609.05762)|null|
 |**2026-09-01**|**Situation Awareness for Intelligent Data Distribution in Connected Vehicles**|Falk Dettinger et.al.|[2609.05521](http://arxiv.org/abs/2609.05521)|null|
