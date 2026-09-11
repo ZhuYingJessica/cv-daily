@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,8 +2934,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms**|Charbel Toumieh et.al.|[2609.11382](http://arxiv.org/abs/2609.11382)|null|
+|**2026-09-10**|**RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting**|Jiarong Lian et.al.|[2609.11079](http://arxiv.org/abs/2609.11079)|null|
+|**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|null|
 |**2026-09-08**|**MFVINS: Multiple Fisheye Camera-Based Visual Inertial System**|Eunseong Jang et.al.|[2609.08626](http://arxiv.org/abs/2609.08626)|null|
-|**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|**[link](https://github.com/huawei-bayerlab/marigold-v2)**|
+|**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|null|
 |**2026-09-07**|**Are Image Generators Zero-Shot Perceivers? A Rigorous Evaluation**|Shangzhe Di et.al.|[2609.07884](http://arxiv.org/abs/2609.07884)|null|
 |**2026-09-05**|**Task-Oriented Semantic Communication for Hazard Warning and Remote Operation in Connected Vehicle Platoons**|S M Sabit Bananee et.al.|[2609.06242](http://arxiv.org/abs/2609.06242)|null|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|null|
@@ -4177,6 +4180,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**TailProp: content-adaptive light- and heavy-tailed propagation for vision**|Jiahao Kong et.al.|[2609.11081](http://arxiv.org/abs/2609.11081)|null|
+|**2026-09-09**|**Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask**|Yixiao Li et.al.|[2609.10387](http://arxiv.org/abs/2609.10387)|null|
 |**2026-09-09**|**Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge**|Samed Doğan et.al.|[2609.10322](http://arxiv.org/abs/2609.10322)|null|
 |**2026-09-09**|**CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids**|Toomas Tahves et.al.|[2609.09881](http://arxiv.org/abs/2609.09881)|null|
 |**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Thodoris Betsas et.al.|[2609.09082](http://arxiv.org/abs/2609.09082)|null|

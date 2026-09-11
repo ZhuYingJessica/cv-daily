@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,8 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-10**|**SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms**|Charbel Toumieh et.al.|[2609.11382](http://arxiv.org/abs/2609.11382)|null|
+|**2026-09-10**|**RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting**|Jiarong Lian et.al.|[2609.11079](http://arxiv.org/abs/2609.11079)|null|
+|**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|null|
 |**2026-09-08**|**MFVINS: Multiple Fisheye Camera-Based Visual Inertial System**|Eunseong Jang et.al.|[2609.08626](http://arxiv.org/abs/2609.08626)|null|
-|**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|**[link](https://github.com/huawei-bayerlab/marigold-v2)**|
+|**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|null|
 |**2026-09-07**|**Are Image Generators Zero-Shot Perceivers? A Rigorous Evaluation**|Shangzhe Di et.al.|[2609.07884](http://arxiv.org/abs/2609.07884)|null|
 |**2026-09-05**|**Task-Oriented Semantic Communication for Hazard Warning and Remote Operation in Connected Vehicle Platoons**|S M Sabit Bananee et.al.|[2609.06242](http://arxiv.org/abs/2609.06242)|null|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|null|
@@ -1257,12 +1260,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-10**|**TailProp: content-adaptive light- and heavy-tailed propagation for vision**|Jiahao Kong et.al.|[2609.11081](http://arxiv.org/abs/2609.11081)|null|
+|**2026-09-09**|**Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask**|Yixiao Li et.al.|[2609.10387](http://arxiv.org/abs/2609.10387)|null|
 |**2026-09-09**|**Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge**|Samed Doğan et.al.|[2609.10322](http://arxiv.org/abs/2609.10322)|null|
 |**2026-09-09**|**CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids**|Toomas Tahves et.al.|[2609.09881](http://arxiv.org/abs/2609.09881)|null|
 |**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Thodoris Betsas et.al.|[2609.09082](http://arxiv.org/abs/2609.09082)|null|
@@ -3578,7 +3583,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
