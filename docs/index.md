@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.11
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Reasoning with Image Generation**|Nishad Singhi et.al.|[2609.16409](http://arxiv.org/abs/2609.16409)|**[link](https://github.com/zhaochen0110/Awesome_Think_With_Images)**|
+|**2026-09-14**|**Illusion of Depth: Revealing Hidden Stereo Vision Vulnerabilities in Depth Estimation**|Sri Hrushikesh Varma Bhupathiraju et.al.|[2609.16336](http://arxiv.org/abs/2609.16336)|null|
+|**2026-09-11**|**Bay Assessment Model: A Python-based Salinity Projection Tool for Florida Bay, USA**|Erik Stabenau et.al.|[2609.13515](http://arxiv.org/abs/2609.13515)|null|
+|**2026-09-02**|**EMCStereo: Attention-Enhanced Stereo Matching for Thin-Structure Depth Estimation with a Synthetic Tree-Branch Benchmark**|Yida Lin et.al.|[2609.13233](http://arxiv.org/abs/2609.13233)|null|
+|**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559](http://arxiv.org/abs/2609.12559)|**[link](https://github.com/MMMing123/KAD-Net)**|
 |**2026-09-10**|**SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms**|Charbel Toumieh et.al.|[2609.11382](http://arxiv.org/abs/2609.11382)|null|
 |**2026-09-10**|**RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting**|Jiarong Lian et.al.|[2609.11079](http://arxiv.org/abs/2609.11079)|null|
 |**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|null|
@@ -4180,8 +4185,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**PiPS: Post-Hoc Prototypical Explanations for Interpretable Semantic Segmentation**|Miłosz Adamczyk et.al.|[2609.16909](http://arxiv.org/abs/2609.16909)|null|
+|**2026-09-15**|**NeuroTS-Net: Multi-Class Semantic Segmentation of Pediatric Brain Tumors in Multi-Modal MRI**|Darius Peteleaza et.al.|[2609.16873](http://arxiv.org/abs/2609.16873)|null|
+|**2026-09-15**|**Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality**|Jonghyeon Lim et.al.|[2609.16656](http://arxiv.org/abs/2609.16656)|null|
+|**2026-09-14**|**MambaMPD: A Mamba-Driven Segmentation Framework for Marine Pollution Detection from Remote Sensing Imagery**|Shuaiyu Chen et.al.|[2609.15676](http://arxiv.org/abs/2609.15676)|null|
+|**2026-09-08**|**Large-scale bioacoustic detection using semantic segmentation: a deep learning framework applied to fin whale calls in ocean-bottom seismometer recordings**|Jocelyn Japnanto et.al.|[2609.13281](http://arxiv.org/abs/2609.13281)|null|
+|**2026-09-02**|**What Does the Encoder Actually Decide? A Controlled Comparison of Vision Backbones on Joint Tree Segmentation and Stereo Depth**|Yida Lin et.al.|[2609.13232](http://arxiv.org/abs/2609.13232)|null|
+|**2026-09-11**|**CoralscapesV2: Panoptic and Fine-Grained Visual Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2609.12826](http://arxiv.org/abs/2609.12826)|null|
+|**2026-09-10**|**HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation**|Imad Ali Shah et.al.|[2609.12151](http://arxiv.org/abs/2609.12151)|null|
 |**2026-09-10**|**TailProp: content-adaptive light- and heavy-tailed propagation for vision**|Jiahao Kong et.al.|[2609.11081](http://arxiv.org/abs/2609.11081)|null|
-|**2026-09-09**|**Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask**|Yixiao Li et.al.|[2609.10387](http://arxiv.org/abs/2609.10387)|null|
+|**2026-09-11**|**Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask**|Yixiao Li et.al.|[2609.10387](http://arxiv.org/abs/2609.10387)|null|
 |**2026-09-09**|**Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge**|Samed Doğan et.al.|[2609.10322](http://arxiv.org/abs/2609.10322)|null|
 |**2026-09-09**|**CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids**|Toomas Tahves et.al.|[2609.09881](http://arxiv.org/abs/2609.09881)|null|
 |**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Thodoris Betsas et.al.|[2609.09082](http://arxiv.org/abs/2609.09082)|null|
@@ -4201,7 +4214,7 @@ layout: default
 |**2026-09-02**|**Rethinking the Teacher-Student Framework for Test-Time Adaptation**|Damian Sójka et.al.|[2609.02507](http://arxiv.org/abs/2609.02507)|null|
 |**2026-09-02**|**InsightSeg: Reusing Correction Insights for Guideline-Consistent Segmentation**|Vanshika Vats et.al.|[2609.02002](http://arxiv.org/abs/2609.02002)|null|
 |**2026-09-01**|**Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting**|Udo Schlegel et.al.|[2609.00898](http://arxiv.org/abs/2609.00898)|null|
-|**2026-09-01**|**RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing**|Kaiyue Kang et.al.|[2609.00814](http://arxiv.org/abs/2609.00814)|null|
+|**2026-09-12**|**RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing**|Kaiyue Kang et.al.|[2609.00814](http://arxiv.org/abs/2609.00814)|null|
 |**2026-08-31**|**Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models**|Keith G. Mills et.al.|[2608.31052](http://arxiv.org/abs/2608.31052)|null|
 |**2026-08-31**|**VCAR: Training-Free 3DGS Segmentation via View Completeness and Axis-Aware Boundary Refinement**|Kun Cao et.al.|[2608.30870](http://arxiv.org/abs/2608.30870)|null|
 |**2026-08-31**|**SELECT: SELEctive Context Transfer for Class-Incremental Semantic Segmentation**|Avi Gupta et.al.|[2608.30281](http://arxiv.org/abs/2608.30281)|null|
