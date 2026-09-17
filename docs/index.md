@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4185,6 +4185,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Semantic-ITC: A Frame-wise Indoor Mobile Laser Scanning Dataset and Benchmark for Semantic Segmentation**|Haiyang Wu et.al.|[2609.18493](http://arxiv.org/abs/2609.18493)|null|
+|**2026-09-16**|**DR.WILSS: Diffusion-Based Replay for Weakly Supervised Continual Semantic Segmentation**|Leon Arthur Marx et.al.|[2609.18444](http://arxiv.org/abs/2609.18444)|null|
+|**2026-09-16**|**Decoder-Agnostic Token Merging for Vision Transformers: A Systematic Study of G2TM**|Victor Bercy et.al.|[2609.18279](http://arxiv.org/abs/2609.18279)|null|
+|**2026-09-16**|**GeoCueFormer: Geometry-Guided Wavelet Representation and Prediction-Cued Dual-Stage Decoder for Underwater Semantic Segmentation**|Xian Wu et.al.|[2609.18069](http://arxiv.org/abs/2609.18069)|null|
+|**2026-09-15**|**SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion**|Tetiana Martyniuk et.al.|[2609.17413](http://arxiv.org/abs/2609.17413)|null|
 |**2026-09-15**|**PiPS: Post-Hoc Prototypical Explanations for Interpretable Semantic Segmentation**|Miłosz Adamczyk et.al.|[2609.16909](http://arxiv.org/abs/2609.16909)|null|
 |**2026-09-15**|**NeuroTS-Net: Multi-Class Semantic Segmentation of Pediatric Brain Tumors in Multi-Modal MRI**|Darius Peteleaza et.al.|[2609.16873](http://arxiv.org/abs/2609.16873)|null|
 |**2026-09-15**|**Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality**|Jonghyeon Lim et.al.|[2609.16656](http://arxiv.org/abs/2609.16656)|null|

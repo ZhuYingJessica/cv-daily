@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1265,12 +1265,17 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Semantic-ITC: A Frame-wise Indoor Mobile Laser Scanning Dataset and Benchmark for Semantic Segmentation**|Haiyang Wu et.al.|[2609.18493](http://arxiv.org/abs/2609.18493)|null|
+|**2026-09-16**|**DR.WILSS: Diffusion-Based Replay for Weakly Supervised Continual Semantic Segmentation**|Leon Arthur Marx et.al.|[2609.18444](http://arxiv.org/abs/2609.18444)|null|
+|**2026-09-16**|**Decoder-Agnostic Token Merging for Vision Transformers: A Systematic Study of G2TM**|Victor Bercy et.al.|[2609.18279](http://arxiv.org/abs/2609.18279)|null|
+|**2026-09-16**|**GeoCueFormer: Geometry-Guided Wavelet Representation and Prediction-Cued Dual-Stage Decoder for Underwater Semantic Segmentation**|Xian Wu et.al.|[2609.18069](http://arxiv.org/abs/2609.18069)|null|
+|**2026-09-15**|**SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion**|Tetiana Martyniuk et.al.|[2609.17413](http://arxiv.org/abs/2609.17413)|null|
 |**2026-09-15**|**PiPS: Post-Hoc Prototypical Explanations for Interpretable Semantic Segmentation**|Miłosz Adamczyk et.al.|[2609.16909](http://arxiv.org/abs/2609.16909)|null|
 |**2026-09-15**|**NeuroTS-Net: Multi-Class Semantic Segmentation of Pediatric Brain Tumors in Multi-Modal MRI**|Darius Peteleaza et.al.|[2609.16873](http://arxiv.org/abs/2609.16873)|null|
 |**2026-09-15**|**Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality**|Jonghyeon Lim et.al.|[2609.16656](http://arxiv.org/abs/2609.16656)|null|
@@ -3596,7 +3601,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
