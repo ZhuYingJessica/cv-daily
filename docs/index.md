@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**BinoGen: Scaling egocentric binocular data for embodied visual perception and learning**|Chunpeng Li et.al.|[2609.19881](http://arxiv.org/abs/2609.19881)|null|
 |**2026-09-14**|**Reasoning with Image Generation**|Nishad Singhi et.al.|[2609.16409](http://arxiv.org/abs/2609.16409)|**[link](https://github.com/zhaochen0110/Awesome_Think_With_Images)**|
 |**2026-09-14**|**Illusion of Depth: Revealing Hidden Stereo Vision Vulnerabilities in Depth Estimation**|Sri Hrushikesh Varma Bhupathiraju et.al.|[2609.16336](http://arxiv.org/abs/2609.16336)|null|
 |**2026-09-11**|**Bay Assessment Model: A Python-based Salinity Projection Tool for Florida Bay, USA**|Erik Stabenau et.al.|[2609.13515](http://arxiv.org/abs/2609.13515)|null|
@@ -4185,6 +4186,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**4D Radar Perception Algorithms for Autonomous Driving: A Review**|Xumin Wu et.al.|[2609.19216](http://arxiv.org/abs/2609.19216)|null|
+|**2026-09-16**|**NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting**|Yihan Zang et.al.|[2609.18898](http://arxiv.org/abs/2609.18898)|null|
 |**2026-09-16**|**Semantic-ITC: A Frame-wise Indoor Mobile Laser Scanning Dataset and Benchmark for Semantic Segmentation**|Haiyang Wu et.al.|[2609.18493](http://arxiv.org/abs/2609.18493)|null|
 |**2026-09-16**|**DR.WILSS: Diffusion-Based Replay for Weakly Supervised Continual Semantic Segmentation**|Leon Arthur Marx et.al.|[2609.18444](http://arxiv.org/abs/2609.18444)|null|
 |**2026-09-16**|**Decoder-Agnostic Token Merging for Vision Transformers: A Systematic Study of G2TM**|Victor Bercy et.al.|[2609.18279](http://arxiv.org/abs/2609.18279)|null|
