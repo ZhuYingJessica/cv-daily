@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.19
+## Updated on 2026.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2940,7 +2940,7 @@ layout: default
 |**2026-09-14**|**Illusion of Depth: Revealing Hidden Stereo Vision Vulnerabilities in Depth Estimation**|Sri Hrushikesh Varma Bhupathiraju et.al.|[2609.16336](http://arxiv.org/abs/2609.16336)|null|
 |**2026-09-11**|**Bay Assessment Model: A Python-based Salinity Projection Tool for Florida Bay, USA**|Erik Stabenau et.al.|[2609.13515](http://arxiv.org/abs/2609.13515)|null|
 |**2026-09-02**|**EMCStereo: Attention-Enhanced Stereo Matching for Thin-Structure Depth Estimation with a Synthetic Tree-Branch Benchmark**|Yida Lin et.al.|[2609.13233](http://arxiv.org/abs/2609.13233)|null|
-|**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559](http://arxiv.org/abs/2609.12559)|null|
+|**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559](http://arxiv.org/abs/2609.12559)|**[link](https://github.com/MMMing123/KAD-Net)**|
 |**2026-09-10**|**SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms**|Charbel Toumieh et.al.|[2609.11382](http://arxiv.org/abs/2609.11382)|null|
 |**2026-09-10**|**RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting**|Jiarong Lian et.al.|[2609.11079](http://arxiv.org/abs/2609.11079)|null|
 |**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|null|
