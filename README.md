@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction**|Tao Wan et.al.|[2609.25803](http://arxiv.org/abs/2609.25803)|null|
+|**2026-09-21**|**Case for Vehicle-Edge Collaborative Multi-Sensor Data Fusion for Autonomous Vehicle Teleoperation**|Qixin Zhang et.al.|[2609.25304](http://arxiv.org/abs/2609.25304)|null|
+|**2026-09-21**|**Applications of Neural Cellular Automata: State of the Art, Challenges and Opportunities**|Nick Lemke et.al.|[2609.24595](http://arxiv.org/abs/2609.24595)|null|
+|**2026-09-21**|**CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention**|Xuezhi Xiang et.al.|[2609.24494](http://arxiv.org/abs/2609.24494)|null|
 |**2026-09-19**|**M3GA-Wild: A Large-Scale Dataset and Benchmark for Multi-Modal Multi-session Ground-to-Aerial Place Recognition in Forests**|Ethan Griffiths et.al.|[2609.23003](http://arxiv.org/abs/2609.23003)|null|
 |**2026-09-19**|**Combining Foundation Model Confidence and Monocular Depth for Training-Free Out-of-Distribution Segmentation**|Serin Varghese et.al.|[2609.22896](http://arxiv.org/abs/2609.22896)|null|
 |**2026-09-08**|**Dynamic Mode Decomposition by Tensor Evolution for Source Depth**|Wenqian Wu et.al.|[2609.22266](http://arxiv.org/abs/2609.22266)|null|
@@ -38,7 +42,7 @@
 |**2026-09-05**|**Task-Oriented Semantic Communication for Hazard Warning and Remote Operation in Connected Vehicle Platoons**|S M Sabit Bananee et.al.|[2609.06242](http://arxiv.org/abs/2609.06242)|null|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|null|
 |**2026-09-05**|**UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment**|Yongzhe Lyu et.al.|[2609.05888](http://arxiv.org/abs/2609.05888)|null|
-|**2026-09-04**|**CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation**|Samer Abualhanud et.al.|[2609.05397](http://arxiv.org/abs/2609.05397)|**[link](https://github.com/abualhanud/CrossDepth)**|
+|**2026-09-04**|**CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation**|Samer Abualhanud et.al.|[2609.05397](http://arxiv.org/abs/2609.05397)|null|
 |**2026-09-08**|**MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision**|Zijie Zhu et.al.|[2609.04958](http://arxiv.org/abs/2609.04958)|null|
 |**2026-09-04**|**Weather-Conditioned Depth Anything**|Zhaoming Xu et.al.|[2609.04827](http://arxiv.org/abs/2609.04827)|null|
 |**2026-09-03**|**DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models**|John J. Han et.al.|[2609.04555](http://arxiv.org/abs/2609.04555)|null|
@@ -1271,18 +1275,25 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction**|Tao Wan et.al.|[2609.25803](http://arxiv.org/abs/2609.25803)|null|
+|**2026-09-21**|**Impact of Data Compression on Downstream AI Tasks: A Study using Teleoperated Driving over 5G**|Qixin Zhang et.al.|[2609.25290](http://arxiv.org/abs/2609.25290)|null|
+|**2026-09-16**|**SPARC: SuperPixel-Aware Region Contrastive Learning for Self-Supervised Dense Prediction**|David Szczecina et.al.|[2609.25067](http://arxiv.org/abs/2609.25067)|null|
+|**2026-09-21**|**HyperCLIP++: Fine-tuning CLIP forOpen-vocabulary Semantic Segmentation in Hyperbolic Space**|Zelin Peng et.al.|[2609.24564](http://arxiv.org/abs/2609.24564)|null|
+|**2026-09-22**|**LiAuto-MindViT: A Hybrid Vision Backbone with Adaptive Bidirectional Mamba**|Lifu Mu et.al.|[2609.24337](http://arxiv.org/abs/2609.24337)|null|
+|**2026-09-20**|**Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds**|Rishabh Jain et.al.|[2609.23915](http://arxiv.org/abs/2609.23915)|null|
+|**2026-09-20**|**Which Terrain Is Better? Preference Learning with VLM Prototypes for Off-Road Traversability Ranking**|Ji-Hoon Hwang et.al.|[2609.23673](http://arxiv.org/abs/2609.23673)|null|
 |**2026-09-19**|**A Controlled Evaluation of Quantum Correlation Refinement for Few-Shot Semantic Segmentation: Resource Cost and IBM Quantum Hardware Validation**|Hina Shakir et.al.|[2609.22856](http://arxiv.org/abs/2609.22856)|null|
 |**2026-09-19**|**SatOV: Restoring Spatial Priors for Training-Free Open-Vocabulary Segmentation in Remote Sensing Imagery**|Changhao Zhao et.al.|[2609.22834](http://arxiv.org/abs/2609.22834)|null|
 |**2026-09-19**|**PanoSeg3R: Feed-Forward 3D Semantic Segmentation for Panoramic Images with an Automatic Data Curation Pipeline**|Heechan Yoon et.al.|[2609.22687](http://arxiv.org/abs/2609.22687)|null|
 |**2026-09-18**|**Event-Frame Fusion for Inter-Frame Segmentation via Event-Guided Motion**|Dalia Hareb et.al.|[2609.22500](http://arxiv.org/abs/2609.22500)|null|
 |**2026-09-17**|**PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation**|Savio Cardoz et.al.|[2609.22353](http://arxiv.org/abs/2609.22353)|null|
-|**2026-09-17**|**Recasting the Destroy Step of Large Neighborhood Search as Dense Segmentation**|Yang Liu et.al.|[2609.22350](http://arxiv.org/abs/2609.22350)|null|
+|**2026-09-22**|**Recasting the Destroy Step of Large Neighborhood Search as Dense Segmentation**|Yang Liu et.al.|[2609.22350](http://arxiv.org/abs/2609.22350)|null|
 |**2026-09-18**|**XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration**|Aurelien Godet et.al.|[2609.21770](http://arxiv.org/abs/2609.21770)|null|
 |**2026-09-18**|**P $^3$ -SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation**|Qian Xu et.al.|[2609.21424](http://arxiv.org/abs/2609.21424)|null|
 |**2026-09-18**|**Multiclass Semantic Segmentation of Wildland Fire Images Using Context-Aware Centralized Copy-Paste Data Augmentation**|Joon Tai Kim et.al.|[2609.21241](http://arxiv.org/abs/2609.21241)|null|
@@ -1292,8 +1303,8 @@
 |**2026-09-16**|**DR.WILSS: Diffusion-Based Replay for Weakly Supervised Continual Semantic Segmentation**|Leon Arthur Marx et.al.|[2609.18444](http://arxiv.org/abs/2609.18444)|null|
 |**2026-09-16**|**Decoder-Agnostic Token Merging for Vision Transformers: A Systematic Study of G2TM**|Victor Bercy et.al.|[2609.18279](http://arxiv.org/abs/2609.18279)|null|
 |**2026-09-16**|**GeoCueFormer: Geometry-Guided Wavelet Representation and Prediction-Cued Dual-Stage Decoder for Underwater Semantic Segmentation**|Xian Wu et.al.|[2609.18069](http://arxiv.org/abs/2609.18069)|null|
-|**2026-09-15**|**SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion**|Tetiana Martyniuk et.al.|[2609.17413](http://arxiv.org/abs/2609.17413)|null|
-|**2026-09-15**|**PiPS: Post-Hoc Prototypical Explanations for Interpretable Semantic Segmentation**|Miłosz Adamczyk et.al.|[2609.16909](http://arxiv.org/abs/2609.16909)|null|
+|**2026-09-15**|**SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion**|Tetiana Martyniuk et.al.|[2609.17413](http://arxiv.org/abs/2609.17413)|**[link](https://github.com/astra-vision/SSC-Priors)**|
+|**2026-09-15**|**PiPS: Post-Hoc Prototypical Explanations for Interpretable Semantic Segmentation**|Miłosz Adamczyk et.al.|[2609.16909](http://arxiv.org/abs/2609.16909)|**[link](https://github.com/gmum/PIPS)**|
 |**2026-09-15**|**NeuroTS-Net: Multi-Class Semantic Segmentation of Pediatric Brain Tumors in Multi-Modal MRI**|Darius Peteleaza et.al.|[2609.16873](http://arxiv.org/abs/2609.16873)|null|
 |**2026-09-15**|**Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality**|Jonghyeon Lim et.al.|[2609.16656](http://arxiv.org/abs/2609.16656)|null|
 |**2026-09-14**|**MambaMPD: A Mamba-Driven Segmentation Framework for Marine Pollution Detection from Remote Sensing Imagery**|Shuaiyu Chen et.al.|[2609.15676](http://arxiv.org/abs/2609.15676)|null|
@@ -3618,7 +3629,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
