@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.26
+## Updated on 2026.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2936,7 +2936,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
 |**2026-09-23**|**VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation**|Enrico Saccon et.al.|[2609.28184](http://arxiv.org/abs/2609.28184)|null|
-|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590](http://arxiv.org/abs/2609.26590)|**[link](https://github.com/Intellindust-AI-Lab/GTR)**|
+|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590](http://arxiv.org/abs/2609.26590)|null|
 |**2026-09-23**|**LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction**|Tao Wan et.al.|[2609.25803](http://arxiv.org/abs/2609.25803)|null|
 |**2026-09-21**|**Case for Vehicle-Edge Collaborative Multi-Sensor Data Fusion for Autonomous Vehicle Teleoperation**|Qixin Zhang et.al.|[2609.25304](http://arxiv.org/abs/2609.25304)|null|
 |**2026-09-21**|**Applications of Neural Cellular Automata: State of the Art, Challenges and Opportunities**|Nick Lemke et.al.|[2609.24595](http://arxiv.org/abs/2609.24595)|null|

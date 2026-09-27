@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.26
+## Updated on 2026.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
 |**2026-09-23**|**VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation**|Enrico Saccon et.al.|[2609.28184](http://arxiv.org/abs/2609.28184)|null|
-|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590](http://arxiv.org/abs/2609.26590)|**[link](https://github.com/Intellindust-AI-Lab/GTR)**|
+|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590](http://arxiv.org/abs/2609.26590)|null|
 |**2026-09-23**|**LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction**|Tao Wan et.al.|[2609.25803](http://arxiv.org/abs/2609.25803)|null|
 |**2026-09-21**|**Case for Vehicle-Edge Collaborative Multi-Sensor Data Fusion for Autonomous Vehicle Teleoperation**|Qixin Zhang et.al.|[2609.25304](http://arxiv.org/abs/2609.25304)|null|
 |**2026-09-21**|**Applications of Neural Cellular Automata: State of the Art, Challenges and Opportunities**|Nick Lemke et.al.|[2609.24595](http://arxiv.org/abs/2609.24595)|null|
@@ -1278,7 +1278,7 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -3639,7 +3639,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
