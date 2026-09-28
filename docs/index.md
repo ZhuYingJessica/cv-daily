@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models**|Jiangning Wei et.al.|[2609.31103](http://arxiv.org/abs/2609.31103)|null|
+|**2026-09-25**|**Self-Supervised Perceptually Interpretable Monocular Depth Estimation**|Zain Ul Abidin et.al.|[2609.30987](http://arxiv.org/abs/2609.30987)|null|
 |**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
 |**2026-09-23**|**VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation**|Enrico Saccon et.al.|[2609.28184](http://arxiv.org/abs/2609.28184)|null|
 |**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590](http://arxiv.org/abs/2609.26590)|null|
@@ -4198,6 +4200,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI**|Ziyao Shang et.al.|[2609.31573](http://arxiv.org/abs/2609.31573)|null|
+|**2026-09-25**|**Band-Selection Stability and Semantic Segmentation Performance: A Study on Hyperspectral City**|Jiarong Li et.al.|[2609.31074](http://arxiv.org/abs/2609.31074)|null|
 |**2026-09-24**|**Less is More: Encoder-only Audio-Visual Segmentation**|Ilpo Viertola et.al.|[2609.29121](http://arxiv.org/abs/2609.29121)|null|
 |**2026-09-24**|**RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation**|Shaohua Dong et.al.|[2609.29028](http://arxiv.org/abs/2609.29028)|null|
 |**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[2609.28360](http://arxiv.org/abs/2609.28360)|null|
