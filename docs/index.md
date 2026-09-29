@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|null|
+|**2026-09-26**|**SV2V-RSim: A Comprehensive Benchmark for Self-Selective V2V Cooperative Perception with Near-Realistic Data**|Yulu Wu et.al.|[2609.32863](http://arxiv.org/abs/2609.32863)|null|
+|**2026-09-26**|**ProDyGS: Dynamic Gaussian Splatting from a Single Static Monocular Camera**|Ugo Leone Cavalcanti et.al.|[2609.32711](http://arxiv.org/abs/2609.32711)|null|
+|**2026-09-26**|**AquaBEV-Nav: Learned BEV Occupancy for Underwater Navigation and Exploration**|Trung Tien Dong et.al.|[2609.32156](http://arxiv.org/abs/2609.32156)|null|
 |**2026-09-25**|**DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models**|Jiangning Wei et.al.|[2609.31103](http://arxiv.org/abs/2609.31103)|null|
 |**2026-09-25**|**Self-Supervised Perceptually Interpretable Monocular Depth Estimation**|Zain Ul Abidin et.al.|[2609.30987](http://arxiv.org/abs/2609.30987)|null|
 |**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
@@ -4200,6 +4204,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-27**|**Position Aware Layer Queries for Test Time Training in Vision Language Models**|Rajat Modi et.al.|[2609.34021](http://arxiv.org/abs/2609.34021)|null|
+|**2026-09-27**|**Eyes on the Road: A Naturalistic Comparison of MTW Rider Gaze in Urban Indian Traffic**|Prerak Srivastava et.al.|[2609.33811](http://arxiv.org/abs/2609.33811)|null|
+|**2026-09-27**|**When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling**|Ping Guo et.al.|[2609.33668](http://arxiv.org/abs/2609.33668)|null|
+|**2026-09-27**|**A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation**|Md Tanveer Hossain Munim et.al.|[2609.33457](http://arxiv.org/abs/2609.33457)|null|
+|**2026-09-27**|**TC-ADA: One-Shot Active Domain Adaptation for Semantic Segmentation**|Weihao Yan et.al.|[2609.33432](http://arxiv.org/abs/2609.33432)|null|
+|**2026-09-27**|**AevaScenes: An FMCW LiDAR Dataset and Benchmark for Long-Range Perception**|Gautham Narayan Narasimhan et.al.|[2609.33230](http://arxiv.org/abs/2609.33230)|null|
+|**2026-09-26**|**Toward On-Chip Training of Spiking Neural Networks for Dense Event-Based Vision**|Maxime Vaillant et.al.|[2609.32405](http://arxiv.org/abs/2609.32405)|null|
 |**2026-09-25**|**How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI**|Ziyao Shang et.al.|[2609.31573](http://arxiv.org/abs/2609.31573)|null|
 |**2026-09-25**|**Band-Selection Stability and Semantic Segmentation Performance: A Study on Hyperspectral City**|Jiarong Li et.al.|[2609.31074](http://arxiv.org/abs/2609.31074)|null|
 |**2026-09-24**|**Less is More: Encoder-only Audio-Visual Segmentation**|Ilpo Viertola et.al.|[2609.29121](http://arxiv.org/abs/2609.29121)|null|
