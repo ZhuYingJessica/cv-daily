@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Procedural Core: A Compact Recurrent Initialization for Vision Transformers**|Zachary Shinnick et.al.|[2609.37631](http://arxiv.org/abs/2609.37631)|**[link](https://github.com/zlshinnick/procedural-core)**|
+|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|**[link](https://github.com/gandanlee/pdigs)**|
+|**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
+|**2026-09-28**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
+|**2026-09-28**|**Memory- and Bandwidth-Efficient SPAD-LiDAR Ranging via Coarse-to-Fine Spline Sketching**|Zhenya Zangy et.al.|[2609.35126](http://arxiv.org/abs/2609.35126)|null|
 |**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|null|
 |**2026-09-26**|**SV2V-RSim: A Comprehensive Benchmark for Self-Selective V2V Cooperative Perception with Near-Realistic Data**|Yulu Wu et.al.|[2609.32863](http://arxiv.org/abs/2609.32863)|null|
 |**2026-09-26**|**ProDyGS: Dynamic Gaussian Splatting from a Single Static Monocular Camera**|Ugo Leone Cavalcanti et.al.|[2609.32711](http://arxiv.org/abs/2609.32711)|null|
@@ -1284,12 +1289,20 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**When to Adapt: Multi-Signal Domain Shift Detection for Efficient Training-Free Adaptation in Open-Vocabulary Segmentation**|Michele Antonazzi et.al.|[2609.37602](http://arxiv.org/abs/2609.37602)|null|
+|**2026-09-29**|**Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments**|Mario Alberto Valdes Saucedo et.al.|[2609.37419](http://arxiv.org/abs/2609.37419)|null|
+|**2026-09-29**|**Task-Relevant Null-Space Residuals for Non-Injective Neural Mappings**|Bizu Feng et.al.|[2609.37272](http://arxiv.org/abs/2609.37272)|null|
+|**2026-09-29**|**Codebook-Guided Cross-Modal Knowledge Distillation for Structurally Heterogeneous Features**|Dae Ung Jo et.al.|[2609.37243](http://arxiv.org/abs/2609.37243)|null|
+|**2026-09-28**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
+|**2026-09-28**|**Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement**|Hyun-Kurl Jang et.al.|[2609.34528](http://arxiv.org/abs/2609.34528)|null|
+|**2026-09-28**|**Zero-Shot Cue-Grounded Topic Segmentation of Spoken Documents**|Suhwan Choi et.al.|[2609.34425](http://arxiv.org/abs/2609.34425)|null|
+|**2026-09-28**|**CRF Loss is How Networks Should Learn Boundaries in Weakly Supervised Segmentation**|Joshua Li et.al.|[2609.34183](http://arxiv.org/abs/2609.34183)|null|
 |**2026-09-27**|**Position Aware Layer Queries for Test Time Training in Vision Language Models**|Rajat Modi et.al.|[2609.34021](http://arxiv.org/abs/2609.34021)|null|
 |**2026-09-27**|**Eyes on the Road: A Naturalistic Comparison of MTW Rider Gaze in Urban Indian Traffic**|Prerak Srivastava et.al.|[2609.33811](http://arxiv.org/abs/2609.33811)|null|
 |**2026-09-27**|**When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling**|Ping Guo et.al.|[2609.33668](http://arxiv.org/abs/2609.33668)|null|
@@ -3654,7 +3667,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
