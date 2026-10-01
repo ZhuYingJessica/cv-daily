@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Decoupling Spherical Reasoning from Dense Prediction for 360 Depth Estimation**|Zhijie Shen et.al.|[2609.38856](http://arxiv.org/abs/2609.38856)|null|
 |**2026-09-29**|**Procedural Core: A Compact Recurrent Initialization for Vision Transformers**|Zachary Shinnick et.al.|[2609.37631](http://arxiv.org/abs/2609.37631)|**[link](https://github.com/zlshinnick/procedural-core)**|
 |**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|**[link](https://github.com/gandanlee/pdigs)**|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
-|**2026-09-28**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
+|**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
 |**2026-09-28**|**Memory- and Bandwidth-Efficient SPAD-LiDAR Ranging via Coarse-to-Fine Spline Sketching**|Zhenya Zangy et.al.|[2609.35126](http://arxiv.org/abs/2609.35126)|null|
 |**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|null|
 |**2026-09-26**|**SV2V-RSim: A Comprehensive Benchmark for Self-Selective V2V Cooperative Perception with Near-Realistic Data**|Yulu Wu et.al.|[2609.32863](http://arxiv.org/abs/2609.32863)|null|
@@ -4209,11 +4210,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**On the Relaxation of Conditional Independence Assumption for Image Segmentation**|Zixun Wang et.al.|[2609.38930](http://arxiv.org/abs/2609.38930)|null|
 |**2026-09-29**|**When to Adapt: Multi-Signal Domain Shift Detection for Efficient Training-Free Adaptation in Open-Vocabulary Segmentation**|Michele Antonazzi et.al.|[2609.37602](http://arxiv.org/abs/2609.37602)|null|
 |**2026-09-29**|**Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments**|Mario Alberto Valdes Saucedo et.al.|[2609.37419](http://arxiv.org/abs/2609.37419)|null|
 |**2026-09-29**|**Task-Relevant Null-Space Residuals for Non-Injective Neural Mappings**|Bizu Feng et.al.|[2609.37272](http://arxiv.org/abs/2609.37272)|null|
 |**2026-09-29**|**Codebook-Guided Cross-Modal Knowledge Distillation for Structurally Heterogeneous Features**|Dae Ung Jo et.al.|[2609.37243](http://arxiv.org/abs/2609.37243)|null|
-|**2026-09-28**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
+|**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
 |**2026-09-28**|**Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement**|Hyun-Kurl Jang et.al.|[2609.34528](http://arxiv.org/abs/2609.34528)|null|
 |**2026-09-28**|**Zero-Shot Cue-Grounded Topic Segmentation of Spoken Documents**|Suhwan Choi et.al.|[2609.34425](http://arxiv.org/abs/2609.34425)|null|
 |**2026-09-28**|**CRF Loss is How Networks Should Learn Boundaries in Weakly Supervised Segmentation**|Joshua Li et.al.|[2609.34183](http://arxiv.org/abs/2609.34183)|null|
@@ -4231,7 +4233,7 @@ layout: default
 |**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[2609.28360](http://arxiv.org/abs/2609.28360)|null|
 |**2026-09-23**|**CasCVS-Net: A Staged Multi-Task Cascade for Critical View of Safety Assessment**|Bock-Zien Toh et.al.|[2609.27681](http://arxiv.org/abs/2609.27681)|null|
 |**2026-09-23**|**ICM: Intra-class Mixing for Domain Adaptation in Adverse Weather**|Boying Li et.al.|[2609.27533](http://arxiv.org/abs/2609.27533)|null|
-|**2026-09-23**|**NaviScale: Generating Large-Scale Semantic Map Datasets for Object Navigation**|Chuanlin Lan et.al.|[2609.27218](http://arxiv.org/abs/2609.27218)|null|
+|**2026-09-30**|**NaviScale: Generating Large-Scale Semantic Map Datasets for Object Navigation**|Chuanlin Lan et.al.|[2609.27218](http://arxiv.org/abs/2609.27218)|null|
 |**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590](http://arxiv.org/abs/2609.26590)|null|
 |**2026-09-23**|**LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction**|Tao Wan et.al.|[2609.25803](http://arxiv.org/abs/2609.25803)|null|
 |**2026-09-21**|**Impact of Data Compression on Downstream AI Tasks: A Study using Teleoperated Driving over 5G**|Qixin Zhang et.al.|[2609.25290](http://arxiv.org/abs/2609.25290)|null|
