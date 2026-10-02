@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,9 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**Towards Physical Underwater Robotic Assistance for Scuba Diver Movement in Confined Spaces**|Demetrious T. Kutzke et.al.|[2610.01906](http://arxiv.org/abs/2610.01906)|null|
+|**2026-10-01**|**Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models**|Xinhao Xiang et.al.|[2610.01286](http://arxiv.org/abs/2610.01286)|null|
+|**2026-10-01**|**Semantic RGB--Depth Based Surgical Skill Assessment in Microscopic Stereo Videos**|Jecia Z. Y. Mao et.al.|[2610.01205](http://arxiv.org/abs/2610.01205)|null|
 |**2026-09-30**|**Decoupling Spherical Reasoning from Dense Prediction for 360 Depth Estimation**|Zhijie Shen et.al.|[2609.38856](http://arxiv.org/abs/2609.38856)|null|
-|**2026-09-29**|**Procedural Core: A Compact Recurrent Initialization for Vision Transformers**|Zachary Shinnick et.al.|[2609.37631](http://arxiv.org/abs/2609.37631)|**[link](https://github.com/zlshinnick/procedural-core)**|
-|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|**[link](https://github.com/gandanlee/pdigs)**|
+|**2026-09-29**|**Procedural Core: A Compact Recurrent Initialization for Vision Transformers**|Zachary Shinnick et.al.|[2609.37631](http://arxiv.org/abs/2609.37631)|null|
+|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|null|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
 |**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
 |**2026-09-28**|**Memory- and Bandwidth-Efficient SPAD-LiDAR Ranging via Coarse-to-Fine Spline Sketching**|Zhenya Zangy et.al.|[2609.35126](http://arxiv.org/abs/2609.35126)|null|
@@ -1290,17 +1293,19 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-30**|**On the Relaxation of Conditional Independence Assumption for Image Segmentation**|Zixun Wang et.al.|[2609.38930](http://arxiv.org/abs/2609.38930)|null|
+|**2026-10-01**|**Contrastive Attention Mitigates Spectral Bias in Spiking Transformers**|Xiaoli Liu et.al.|[2610.01403](http://arxiv.org/abs/2610.01403)|null|
+|**2026-10-01**|**Lang3DSeg: Annotation-Free Open-Vocabulary 3D Segmentation with Point Transformers**|Cigdem Kokenoz et.al.|[2610.00855](http://arxiv.org/abs/2610.00855)|null|
+|**2026-09-30**|**On the Relaxation of Conditional Independence Assumption for Image Segmentation**|Zixun Wang et.al.|[2609.38930](http://arxiv.org/abs/2609.38930)|**[link](https://github.com/ZixunWang/RankSEG-DEP)**|
 |**2026-09-29**|**When to Adapt: Multi-Signal Domain Shift Detection for Efficient Training-Free Adaptation in Open-Vocabulary Segmentation**|Michele Antonazzi et.al.|[2609.37602](http://arxiv.org/abs/2609.37602)|null|
 |**2026-09-29**|**Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments**|Mario Alberto Valdes Saucedo et.al.|[2609.37419](http://arxiv.org/abs/2609.37419)|null|
 |**2026-09-29**|**Task-Relevant Null-Space Residuals for Non-Injective Neural Mappings**|Bizu Feng et.al.|[2609.37272](http://arxiv.org/abs/2609.37272)|null|
-|**2026-09-29**|**Codebook-Guided Cross-Modal Knowledge Distillation for Structurally Heterogeneous Features**|Dae Ung Jo et.al.|[2609.37243](http://arxiv.org/abs/2609.37243)|null|
+|**2026-10-01**|**Codebook-Guided Cross-Modal Knowledge Distillation for Structurally Heterogeneous Features**|Dae Ung Jo et.al.|[2609.37243](http://arxiv.org/abs/2609.37243)|null|
 |**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
 |**2026-09-28**|**Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement**|Hyun-Kurl Jang et.al.|[2609.34528](http://arxiv.org/abs/2609.34528)|null|
 |**2026-09-28**|**Zero-Shot Cue-Grounded Topic Segmentation of Spoken Documents**|Suhwan Choi et.al.|[2609.34425](http://arxiv.org/abs/2609.34425)|null|
@@ -3669,7 +3674,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
