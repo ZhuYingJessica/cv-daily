@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,12 +2934,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
+|**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439](http://arxiv.org/abs/2610.03439)|null|
+|**2026-10-01**|**SCOPE-4D: Endoscopic 4D Geometry Foundation Models**|Chaoyi Zhou et.al.|[2610.02343](http://arxiv.org/abs/2610.02343)|**[link](https://github.com/ChaoyiZh/SCOPE-4D-page)**|
 |**2026-10-01**|**Towards Physical Underwater Robotic Assistance for Scuba Diver Movement in Confined Spaces**|Demetrious T. Kutzke et.al.|[2610.01906](http://arxiv.org/abs/2610.01906)|null|
 |**2026-10-01**|**Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models**|Xinhao Xiang et.al.|[2610.01286](http://arxiv.org/abs/2610.01286)|null|
 |**2026-10-01**|**Semantic RGB--Depth Based Surgical Skill Assessment in Microscopic Stereo Videos**|Jecia Z. Y. Mao et.al.|[2610.01205](http://arxiv.org/abs/2610.01205)|null|
 |**2026-09-30**|**Decoupling Spherical Reasoning from Dense Prediction for 360 Depth Estimation**|Zhijie Shen et.al.|[2609.38856](http://arxiv.org/abs/2609.38856)|null|
-|**2026-09-29**|**Procedural Core: A Compact Recurrent Initialization for Vision Transformers**|Zachary Shinnick et.al.|[2609.37631](http://arxiv.org/abs/2609.37631)|**[link](https://github.com/zlshinnick/procedural-core)**|
-|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|**[link](https://github.com/gandanlee/pdigs)**|
+|**2026-09-29**|**Procedural Core: A Compact Recurrent Initialization for Vision Transformers**|Zachary Shinnick et.al.|[2609.37631](http://arxiv.org/abs/2609.37631)|null|
+|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|null|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
 |**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
 |**2026-09-28**|**Memory- and Bandwidth-Efficient SPAD-LiDAR Ranging via Coarse-to-Fine Spline Sketching**|Zhenya Zangy et.al.|[2609.35126](http://arxiv.org/abs/2609.35126)|null|
@@ -4213,6 +4216,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Evaluating Inference-time Algorithms for Semantic Sound Scene Segmentation**|Sripathi Sridhar et.al.|[2610.03602](http://arxiv.org/abs/2610.03602)|null|
+|**2026-10-02**|**ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation**|Zhihao Zhan et.al.|[2610.03403](http://arxiv.org/abs/2610.03403)|null|
+|**2026-10-02**|**EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation**|Pujun Guo et.al.|[2610.03248](http://arxiv.org/abs/2610.03248)|null|
+|**2026-10-02**|**VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models**|Elad Dror Cohen et.al.|[2610.03218](http://arxiv.org/abs/2610.03218)|null|
+|**2026-10-01**|**DeepStratNet: A Context-Aware Coordinate Regression Framework for Seismic Horizon Tracking under Sparse Labels**|Aniq Ahmad et.al.|[2610.02494](http://arxiv.org/abs/2610.02494)|null|
 |**2026-10-01**|**Contrastive Attention Mitigates Spectral Bias in Spiking Transformers**|Xiaoli Liu et.al.|[2610.01403](http://arxiv.org/abs/2610.01403)|null|
 |**2026-10-01**|**Lang3DSeg: Annotation-Free Open-Vocabulary 3D Segmentation with Point Transformers**|Cigdem Kokenoz et.al.|[2610.00855](http://arxiv.org/abs/2610.00855)|null|
 |**2026-09-30**|**On the Relaxation of Conditional Independence Assumption for Image Segmentation**|Zixun Wang et.al.|[2609.38930](http://arxiv.org/abs/2609.38930)|null|
