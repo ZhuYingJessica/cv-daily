@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575](http://arxiv.org/abs/2610.06575)|**[link](https://github.com/djaliloh/FrontVegV2)**|
+|**2026-10-06**|**PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation**|Guo Tang et.al.|[2610.08068](http://arxiv.org/abs/2610.08068)|null|
+|**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982](http://arxiv.org/abs/2610.07982)|null|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
+|**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575](http://arxiv.org/abs/2610.06575)|null|
 |**2026-10-05**|**StageVLN: Spatial and Trajectory Auxiliary Guidance for Efficient Vision-Language Navigation**|Anh Dao et.al.|[2610.05664](http://arxiv.org/abs/2610.05664)|null|
 |**2026-10-04**|**SPACE-CLIPv2: Decoding Local Geometry from Frozen CLIP for Monocular Depth Estimation**|Hyun Song et.al.|[2610.05029](http://arxiv.org/abs/2610.05029)|null|
-|**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|**[link](https://github.com/SJTU-ViSYS-team/EagleDepth)**|
+|**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|null|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439](http://arxiv.org/abs/2610.03439)|null|
 |**2026-10-01**|**SCOPE-4D: Endoscopic 4D Geometry Foundation Models**|Chaoyi Zhou et.al.|[2610.02343](http://arxiv.org/abs/2610.02343)|null|
@@ -1300,12 +1303,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-04**|**DTFormer: Text-Guided Semantic Alignment for RGB-D Segmentation**|Ziang Wei et.al.|[2610.07014](http://arxiv.org/abs/2610.07014)|null|
+|**2026-10-04**|**Should We Skip Diffusion?**|Yiping Ji et.al.|[2610.07002](http://arxiv.org/abs/2610.07002)|null|
 |**2026-10-05**|**Multi-Task Partially Supervised Learning for Super-Resolution and Semantic Segmentation on Earth Observation data**|Hoàng-Ân Lê et.al.|[2610.06389](http://arxiv.org/abs/2610.06389)|null|
 |**2026-10-05**|**Bayesian Optimization in Sequence-to-Architecture Latent Space for Zero-Shot NAS**|Ondrej Tybl et.al.|[2610.06167](http://arxiv.org/abs/2610.06167)|null|
 |**2026-10-05**|**Vision Transformer Ensembles for Panoramic Street Segmentation**|Yunus Serhat Bıçakçı et.al.|[2610.06063](http://arxiv.org/abs/2610.06063)|null|
@@ -3691,7 +3696,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

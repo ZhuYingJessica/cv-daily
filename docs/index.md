@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575](http://arxiv.org/abs/2610.06575)|**[link](https://github.com/djaliloh/FrontVegV2)**|
+|**2026-10-06**|**PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation**|Guo Tang et.al.|[2610.08068](http://arxiv.org/abs/2610.08068)|null|
+|**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982](http://arxiv.org/abs/2610.07982)|null|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
+|**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575](http://arxiv.org/abs/2610.06575)|null|
 |**2026-10-05**|**StageVLN: Spatial and Trajectory Auxiliary Guidance for Efficient Vision-Language Navigation**|Anh Dao et.al.|[2610.05664](http://arxiv.org/abs/2610.05664)|null|
 |**2026-10-04**|**SPACE-CLIPv2: Decoding Local Geometry from Frozen CLIP for Monocular Depth Estimation**|Hyun Song et.al.|[2610.05029](http://arxiv.org/abs/2610.05029)|null|
-|**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|**[link](https://github.com/SJTU-ViSYS-team/EagleDepth)**|
+|**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|null|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439](http://arxiv.org/abs/2610.03439)|null|
 |**2026-10-01**|**SCOPE-4D: Endoscopic 4D Geometry Foundation Models**|Chaoyi Zhou et.al.|[2610.02343](http://arxiv.org/abs/2610.02343)|null|
@@ -4220,6 +4223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-04**|**DTFormer: Text-Guided Semantic Alignment for RGB-D Segmentation**|Ziang Wei et.al.|[2610.07014](http://arxiv.org/abs/2610.07014)|null|
+|**2026-10-04**|**Should We Skip Diffusion?**|Yiping Ji et.al.|[2610.07002](http://arxiv.org/abs/2610.07002)|null|
 |**2026-10-05**|**Multi-Task Partially Supervised Learning for Super-Resolution and Semantic Segmentation on Earth Observation data**|Hoàng-Ân Lê et.al.|[2610.06389](http://arxiv.org/abs/2610.06389)|null|
 |**2026-10-05**|**Bayesian Optimization in Sequence-to-Architecture Latent Space for Zero-Shot NAS**|Ondrej Tybl et.al.|[2610.06167](http://arxiv.org/abs/2610.06167)|null|
 |**2026-10-05**|**Vision Transformer Ensembles for Panoramic Street Segmentation**|Yunus Serhat Bıçakçı et.al.|[2610.06063](http://arxiv.org/abs/2610.06063)|null|
