@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies**|Yihan Li et.al.|[2610.10479](http://arxiv.org/abs/2610.10479)|null|
+|**2026-10-07**|**Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning**|Hanqiu Li Cai et.al.|[2610.09450](http://arxiv.org/abs/2610.09450)|null|
+|**2026-10-06**|**Depth-to-RGB: Repurposing a Frozen Depth Estimator for Geometry-Guided Compositing**|Sanghyun Jo et.al.|[2610.09125](http://arxiv.org/abs/2610.09125)|null|
 |**2026-10-06**|**PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation**|Guo Tang et.al.|[2610.08068](http://arxiv.org/abs/2610.08068)|null|
 |**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982](http://arxiv.org/abs/2610.07982)|null|
 |**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
@@ -1303,12 +1306,15 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**MultiFly: A Real-World Multimodal Aerial Dataset with Annotation-Efficient Label Transfer and Cross-Modal Semantic Consistency**|Markus Gross et.al.|[2610.10359](http://arxiv.org/abs/2610.10359)|null|
+|**2026-10-07**|**A Probabilistic Perspective on Wasserstein-Based Evidential Uncertainty for Out-of-Distribution Segmentation**|Arnold Brosch et.al.|[2610.10116](http://arxiv.org/abs/2610.10116)|null|
+|**2026-10-07**|**Hard, Yet Reducible: Controlled Forward Transfer for Synthetic Degradation Curation**|Chunming He et.al.|[2610.09849](http://arxiv.org/abs/2610.09849)|null|
 |**2026-10-04**|**DTFormer: Text-Guided Semantic Alignment for RGB-D Segmentation**|Ziang Wei et.al.|[2610.07014](http://arxiv.org/abs/2610.07014)|null|
 |**2026-10-04**|**Should We Skip Diffusion?**|Yiping Ji et.al.|[2610.07002](http://arxiv.org/abs/2610.07002)|null|
 |**2026-10-05**|**Multi-Task Partially Supervised Learning for Super-Resolution and Semantic Segmentation on Earth Observation data**|Hoàng-Ân Lê et.al.|[2610.06389](http://arxiv.org/abs/2610.06389)|null|
@@ -3696,7 +3702,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
