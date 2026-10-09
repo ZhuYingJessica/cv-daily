@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
+|**2026-10-08**|**SCORE: Spectral Correlation Estimation for Multivariate Gaussians**|Christopher Bülte et.al.|[2610.12096](http://arxiv.org/abs/2610.12096)|null|
+|**2026-10-08**|**CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving**|Soham Pahari et.al.|[2610.11577](http://arxiv.org/abs/2610.11577)|null|
+|**2026-10-08**|**TAP3D: Thermal-Assisted 3D Human Point Clouds**|Xie Zhang et.al.|[2610.11241](http://arxiv.org/abs/2610.11241)|null|
 |**2026-10-07**|**Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies**|Yihan Li et.al.|[2610.10479](http://arxiv.org/abs/2610.10479)|null|
 |**2026-10-07**|**Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning**|Hanqiu Li Cai et.al.|[2610.09450](http://arxiv.org/abs/2610.09450)|null|
 |**2026-10-06**|**Depth-to-RGB: Repurposing a Frozen Depth Estimator for Geometry-Guided Compositing**|Sanghyun Jo et.al.|[2610.09125](http://arxiv.org/abs/2610.09125)|null|
