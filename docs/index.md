@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.12
+## Updated on 2026.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2935,7 +2935,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
-|**2026-10-08**|**SCORE: Spectral Correlation Estimation for Multivariate Gaussians**|Christopher Bülte et.al.|[2610.12096](http://arxiv.org/abs/2610.12096)|**[link](https://github.com/cbuelt/score)**|
+|**2026-10-08**|**SCORE: Spectral Correlation Estimation for Multivariate Gaussians**|Christopher Bülte et.al.|[2610.12096](http://arxiv.org/abs/2610.12096)|null|
 |**2026-10-08**|**CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving**|Soham Pahari et.al.|[2610.11577](http://arxiv.org/abs/2610.11577)|null|
 |**2026-10-08**|**TAP3D: Thermal-Assisted 3D Human Point Clouds**|Xie Zhang et.al.|[2610.11241](http://arxiv.org/abs/2610.11241)|null|
 |**2026-10-07**|**Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies**|Yihan Li et.al.|[2610.10479](http://arxiv.org/abs/2610.10479)|null|
@@ -2947,10 +2947,10 @@ layout: default
 |**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575](http://arxiv.org/abs/2610.06575)|null|
 |**2026-10-05**|**StageVLN: Spatial and Trajectory Auxiliary Guidance for Efficient Vision-Language Navigation**|Anh Dao et.al.|[2610.05664](http://arxiv.org/abs/2610.05664)|null|
 |**2026-10-04**|**SPACE-CLIPv2: Decoding Local Geometry from Frozen CLIP for Monocular Depth Estimation**|Hyun Song et.al.|[2610.05029](http://arxiv.org/abs/2610.05029)|null|
-|**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|**[link](https://github.com/SJTU-ViSYS-team/EagleDepth)**|
+|**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|null|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439](http://arxiv.org/abs/2610.03439)|null|
-|**2026-10-01**|**SCOPE-4D: Endoscopic 4D Geometry Foundation Models**|Chaoyi Zhou et.al.|[2610.02343](http://arxiv.org/abs/2610.02343)|**[link](https://github.com/ChaoyiZh/SCOPE-4D-page)**|
+|**2026-10-01**|**SCOPE-4D: Endoscopic 4D Geometry Foundation Models**|Chaoyi Zhou et.al.|[2610.02343](http://arxiv.org/abs/2610.02343)|null|
 |**2026-10-01**|**Towards Physical Underwater Robotic Assistance for Scuba Diver Movement in Confined Spaces**|Demetrious T. Kutzke et.al.|[2610.01906](http://arxiv.org/abs/2610.01906)|null|
 |**2026-10-01**|**Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models**|Xinhao Xiang et.al.|[2610.01286](http://arxiv.org/abs/2610.01286)|null|
 |**2026-10-01**|**Semantic RGB--Depth Based Surgical Skill Assessment in Microscopic Stereo Videos**|Jecia Z. Y. Mao et.al.|[2610.01205](http://arxiv.org/abs/2610.01205)|null|
