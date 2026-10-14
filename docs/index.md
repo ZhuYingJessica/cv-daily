@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,11 +2934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**Adversarial Robustness of Camera-Radar Sensor Fusion for Autonomous Driving**|Ce Zhou et.al.|[2610.16012](http://arxiv.org/abs/2610.16012)|null|
+|**2026-10-11**|**ScenePlacer: Reformulating Scene-Level Object Pose Estimation as Visibility Field Learning**|Ken Deng et.al.|[2610.15734](http://arxiv.org/abs/2610.15734)|null|
+|**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|null|
+|**2026-10-11**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|**[link](https://github.com/EMI-Group/GeoBridge-NAS)**|
+|**2026-10-10**|**DSM-Free UAV Visual Localization via Latent-Depth Variable Projection and Structure-Adaptive Coupling**|Yibin Ye et.al.|[2610.14945](http://arxiv.org/abs/2610.14945)|null|
 |**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
 |**2026-10-08**|**SCORE: Spectral Correlation Estimation for Multivariate Gaussians**|Christopher Bülte et.al.|[2610.12096](http://arxiv.org/abs/2610.12096)|null|
 |**2026-10-08**|**CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving**|Soham Pahari et.al.|[2610.11577](http://arxiv.org/abs/2610.11577)|null|
 |**2026-10-08**|**TAP3D: Thermal-Assisted 3D Human Point Clouds**|Xie Zhang et.al.|[2610.11241](http://arxiv.org/abs/2610.11241)|null|
-|**2026-10-07**|**Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies**|Yihan Li et.al.|[2610.10479](http://arxiv.org/abs/2610.10479)|null|
+|**2026-10-11**|**Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies**|Yihan Li et.al.|[2610.10479](http://arxiv.org/abs/2610.10479)|null|
 |**2026-10-07**|**Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning**|Hanqiu Li Cai et.al.|[2610.09450](http://arxiv.org/abs/2610.09450)|null|
 |**2026-10-06**|**Depth-to-RGB: Repurposing a Frozen Depth Estimator for Geometry-Guided Compositing**|Sanghyun Jo et.al.|[2610.09125](http://arxiv.org/abs/2610.09125)|null|
 |**2026-10-06**|**PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation**|Guo Tang et.al.|[2610.08068](http://arxiv.org/abs/2610.08068)|null|
@@ -4230,6 +4235,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**From Failure Prediction to Component Selection in Semantic Segmentation**|Minhui Kang et.al.|[2610.16058](http://arxiv.org/abs/2610.16058)|null|
+|**2026-10-11**|**Sparse All-Layer Connector for Domain Generalised Semantic Segmentation**|Ruoyu Guo et.al.|[2610.15660](http://arxiv.org/abs/2610.15660)|null|
+|**2026-10-10**|**Region Aware Squeeze-and-Excitation Networks for Image Segmentation**|Jack Roberts et.al.|[2610.15079](http://arxiv.org/abs/2610.15079)|null|
+|**2026-10-10**|**Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++**|Malithi Nawarathne et.al.|[2610.15061](http://arxiv.org/abs/2610.15061)|null|
 |**2026-10-09**|**DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming**|Zhe Zhang et.al.|[2610.13698](http://arxiv.org/abs/2610.13698)|null|
 |**2026-10-09**|**JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning**|Zhenhua Yu et.al.|[2610.12901](http://arxiv.org/abs/2610.12901)|null|
 |**2026-10-08**|**Lightweight Systems for Spatial Semantic Segmentation of Sound Scenes**|Mayank Mishra et.al.|[2610.12693](http://arxiv.org/abs/2610.12693)|null|
