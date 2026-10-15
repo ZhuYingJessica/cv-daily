@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,10 +2934,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
+|**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
+|**2026-10-13**|**Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling**|Anuska Sarkar et.al.|[2610.18422](http://arxiv.org/abs/2610.18422)|null|
+|**2026-10-13**|**CityCode: Building Agent-Operable 3D Cities from Sparse Aerial Observations**|Jiahui Sun et.al.|[2610.18342](http://arxiv.org/abs/2610.18342)|null|
+|**2026-10-13**|**Smartphone-Based, Field-Deployed AI Inspection System for Power Distribution Infrastructure**|Sampath Balaji Masabathula et.al.|[2610.17620](http://arxiv.org/abs/2610.17620)|null|
+|**2026-10-13**|**OpenDepth: Repurposing Image Editing Priors for Robust Open-World Monocular Depth Estimation**|Mengke Zhang et.al.|[2610.17610](http://arxiv.org/abs/2610.17610)|null|
+|**2026-10-12**|**When Left Is Right? Camera-Motion Understanding beyond Screen**|Chong Cheng et.al.|[2610.17242](http://arxiv.org/abs/2610.17242)|null|
+|**2026-10-12**|**The Midas Touch for Metric Depth: Interpretable Metricization for Generalizable Depth Perception**|Mengtan Zhang et.al.|[2610.16749](http://arxiv.org/abs/2610.16749)|null|
+|**2026-10-12**|**WorldRoPE: Probabilistic World-Centric Rotary Embedding for Multi-View Attention**|Mijeong Kim et.al.|[2610.16337](http://arxiv.org/abs/2610.16337)|null|
 |**2026-10-12**|**Adversarial Robustness of Camera-Radar Sensor Fusion for Autonomous Driving**|Ce Zhou et.al.|[2610.16012](http://arxiv.org/abs/2610.16012)|null|
 |**2026-10-11**|**ScenePlacer: Reformulating Scene-Level Object Pose Estimation as Visibility Field Learning**|Ken Deng et.al.|[2610.15734](http://arxiv.org/abs/2610.15734)|null|
 |**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|null|
-|**2026-10-11**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|**[link](https://github.com/EMI-Group/GeoBridge-NAS)**|
+|**2026-10-11**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|null|
 |**2026-10-10**|**DSM-Free UAV Visual Localization via Latent-Depth Variable Projection and Structure-Adaptive Coupling**|Yibin Ye et.al.|[2610.14945](http://arxiv.org/abs/2610.14945)|null|
 |**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
 |**2026-10-08**|**SCORE: Spectral Correlation Estimation for Multivariate Gaussians**|Christopher Bülte et.al.|[2610.12096](http://arxiv.org/abs/2610.12096)|null|
@@ -4235,6 +4244,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Multimodal Fusion of RGB and Complementary Modalities for Semantic Segmentation**|Hu Cao et.al.|[2610.17800](http://arxiv.org/abs/2610.17800)|null|
+|**2026-10-13**|**DT-LoRA: Reaching Beyond the Tangent Space of Low-Rank Adaptation**|Yangming Zhang et.al.|[2610.17730](http://arxiv.org/abs/2610.17730)|null|
+|**2026-10-12**|**3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design**|Yueling Liao et.al.|[2610.16292](http://arxiv.org/abs/2610.16292)|null|
 |**2026-10-12**|**From Failure Prediction to Component Selection in Semantic Segmentation**|Minhui Kang et.al.|[2610.16058](http://arxiv.org/abs/2610.16058)|null|
 |**2026-10-11**|**Sparse All-Layer Connector for Domain Generalised Semantic Segmentation**|Ruoyu Guo et.al.|[2610.15660](http://arxiv.org/abs/2610.15660)|null|
 |**2026-10-10**|**Region Aware Squeeze-and-Excitation Networks for Image Segmentation**|Jack Roberts et.al.|[2610.15079](http://arxiv.org/abs/2610.15079)|null|
@@ -4259,7 +4271,7 @@ layout: default
 |**2026-10-01**|**DeepStratNet: A Context-Aware Coordinate Regression Framework for Seismic Horizon Tracking under Sparse Labels**|Aniq Ahmad et.al.|[2610.02494](http://arxiv.org/abs/2610.02494)|null|
 |**2026-10-01**|**Contrastive Attention Mitigates Spectral Bias in Spiking Transformers**|Xiaoli Liu et.al.|[2610.01403](http://arxiv.org/abs/2610.01403)|null|
 |**2026-10-01**|**Lang3DSeg: Annotation-Free Open-Vocabulary 3D Segmentation with Point Transformers**|Cigdem Kokenoz et.al.|[2610.00855](http://arxiv.org/abs/2610.00855)|null|
-|**2026-09-30**|**On the Relaxation of Conditional Independence Assumption for Image Segmentation**|Zixun Wang et.al.|[2609.38930](http://arxiv.org/abs/2609.38930)|null|
+|**2026-10-12**|**On the Relaxation of Conditional Independence Assumption for Image Segmentation**|Zixun Wang et.al.|[2609.38930](http://arxiv.org/abs/2609.38930)|null|
 |**2026-09-29**|**When to Adapt: Multi-Signal Domain Shift Detection for Efficient Training-Free Adaptation in Open-Vocabulary Segmentation**|Michele Antonazzi et.al.|[2609.37602](http://arxiv.org/abs/2609.37602)|null|
 |**2026-09-29**|**Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments**|Mario Alberto Valdes Saucedo et.al.|[2609.37419](http://arxiv.org/abs/2609.37419)|null|
 |**2026-09-29**|**Task-Relevant Null-Space Residuals for Non-Injective Neural Mappings**|Bizu Feng et.al.|[2609.37272](http://arxiv.org/abs/2609.37272)|null|
