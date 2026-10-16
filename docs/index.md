@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2939,7 +2939,7 @@ layout: default
 |**2026-10-13**|**Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling**|Anuska Sarkar et.al.|[2610.18422](http://arxiv.org/abs/2610.18422)|null|
 |**2026-10-13**|**CityCode: Building Agent-Operable 3D Cities from Sparse Aerial Observations**|Jiahui Sun et.al.|[2610.18342](http://arxiv.org/abs/2610.18342)|null|
 |**2026-10-13**|**Smartphone-Based, Field-Deployed AI Inspection System for Power Distribution Infrastructure**|Sampath Balaji Masabathula et.al.|[2610.17620](http://arxiv.org/abs/2610.17620)|null|
-|**2026-10-13**|**OpenDepth: Repurposing Image Editing Priors for Robust Open-World Monocular Depth Estimation**|Mengke Zhang et.al.|[2610.17610](http://arxiv.org/abs/2610.17610)|null|
+|**2026-10-14**|**OpenDepth: Repurposing Image Editing Priors for Robust Open-World Monocular Depth Estimation**|Mengke Zhang et.al.|[2610.17610](http://arxiv.org/abs/2610.17610)|null|
 |**2026-10-12**|**When Left Is Right? Camera-Motion Understanding beyond Screen**|Chong Cheng et.al.|[2610.17242](http://arxiv.org/abs/2610.17242)|null|
 |**2026-10-12**|**The Midas Touch for Metric Depth: Interpretable Metricization for Generalizable Depth Perception**|Mengtan Zhang et.al.|[2610.16749](http://arxiv.org/abs/2610.16749)|null|
 |**2026-10-12**|**WorldRoPE: Probabilistic World-Centric Rotary Embedding for Multi-View Attention**|Mijeong Kim et.al.|[2610.16337](http://arxiv.org/abs/2610.16337)|null|
@@ -4244,6 +4244,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation**|Songlin Liu et.al.|[2610.21238](http://arxiv.org/abs/2610.21238)|null|
+|**2026-10-15**|**SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams**|Dongheon Yang et.al.|[2610.21207](http://arxiv.org/abs/2610.21207)|null|
+|**2026-10-14**|**Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation**|Utku Cicek et.al.|[2610.20881](http://arxiv.org/abs/2610.20881)|null|
 |**2026-10-13**|**Multimodal Fusion of RGB and Complementary Modalities for Semantic Segmentation**|Hu Cao et.al.|[2610.17800](http://arxiv.org/abs/2610.17800)|null|
 |**2026-10-13**|**DT-LoRA: Reaching Beyond the Tangent Space of Low-Rank Adaptation**|Yangming Zhang et.al.|[2610.17730](http://arxiv.org/abs/2610.17730)|null|
 |**2026-10-12**|**3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design**|Yueling Liao et.al.|[2610.16292](http://arxiv.org/abs/2610.16292)|null|
@@ -4254,7 +4257,7 @@ layout: default
 |**2026-10-09**|**DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming**|Zhe Zhang et.al.|[2610.13698](http://arxiv.org/abs/2610.13698)|null|
 |**2026-10-09**|**JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning**|Zhenhua Yu et.al.|[2610.12901](http://arxiv.org/abs/2610.12901)|null|
 |**2026-10-08**|**Lightweight Systems for Spatial Semantic Segmentation of Sound Scenes**|Mayank Mishra et.al.|[2610.12693](http://arxiv.org/abs/2610.12693)|null|
-|**2026-10-07**|**MultiFly: A Real-World Multimodal Aerial Dataset with Annotation-Efficient Label Transfer and Cross-Modal Semantic Consistency**|Markus Gross et.al.|[2610.10359](http://arxiv.org/abs/2610.10359)|null|
+|**2026-10-14**|**MultiFly: A Real-World Multimodal Aerial Dataset with Annotation-Efficient Label Transfer and Cross-Modal Semantic Consistency**|Markus Gross et.al.|[2610.10359](http://arxiv.org/abs/2610.10359)|null|
 |**2026-10-07**|**A Probabilistic Perspective on Wasserstein-Based Evidential Uncertainty for Out-of-Distribution Segmentation**|Arnold Brosch et.al.|[2610.10116](http://arxiv.org/abs/2610.10116)|null|
 |**2026-10-07**|**Hard, Yet Reducible: Controlled Forward Transfer for Synthetic Degradation Curation**|Chunming He et.al.|[2610.09849](http://arxiv.org/abs/2610.09849)|null|
 |**2026-10-04**|**DTFormer: Text-Guided Semantic Alignment for RGB-D Segmentation**|Ziang Wei et.al.|[2610.07014](http://arxiv.org/abs/2610.07014)|null|
