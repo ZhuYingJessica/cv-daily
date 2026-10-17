@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.16
+## Updated on 2026.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1324,12 +1324,16 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones**|Elena Wittemyer et.al.|[2610.22225](http://arxiv.org/abs/2610.22225)|null|
+|**2026-10-15**|**VesperMUSE: Multi-Modal Fusion Vision Transformer for Image Semantic Segmentation Under Diverse Light Conditions**|Raul Balmez et.al.|[2610.21990](http://arxiv.org/abs/2610.21990)|null|
+|**2026-10-15**|**FuseAdapt: Parameter-Efficient Multimodal Fusion for Semantic Segmentation with Missing Modalities**|Xin Zhang et.al.|[2610.21779](http://arxiv.org/abs/2610.21779)|null|
+|**2026-10-15**|**SCMerge: Spatial-Consistency-Aware Token Pair Merging for Efficient Semantic Segmentation**|Junfeng Ren et.al.|[2610.21642](http://arxiv.org/abs/2610.21642)|null|
 |**2026-10-15**|**A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation**|Songlin Liu et.al.|[2610.21238](http://arxiv.org/abs/2610.21238)|null|
 |**2026-10-15**|**SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams**|Dongheon Yang et.al.|[2610.21207](http://arxiv.org/abs/2610.21207)|null|
 |**2026-10-14**|**Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation**|Utku Cicek et.al.|[2610.20881](http://arxiv.org/abs/2610.20881)|null|
@@ -1339,7 +1343,7 @@
 |**2026-10-12**|**From Failure Prediction to Component Selection in Semantic Segmentation**|Minhui Kang et.al.|[2610.16058](http://arxiv.org/abs/2610.16058)|null|
 |**2026-10-11**|**Sparse All-Layer Connector for Domain Generalised Semantic Segmentation**|Ruoyu Guo et.al.|[2610.15660](http://arxiv.org/abs/2610.15660)|null|
 |**2026-10-10**|**Region Aware Squeeze-and-Excitation Networks for Image Segmentation**|Jack Roberts et.al.|[2610.15079](http://arxiv.org/abs/2610.15079)|null|
-|**2026-10-10**|**Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++**|Malithi Nawarathne et.al.|[2610.15061](http://arxiv.org/abs/2610.15061)|null|
+|**2026-10-15**|**Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++**|Malithi Nawarathne et.al.|[2610.15061](http://arxiv.org/abs/2610.15061)|null|
 |**2026-10-09**|**DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming**|Zhe Zhang et.al.|[2610.13698](http://arxiv.org/abs/2610.13698)|null|
 |**2026-10-09**|**JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning**|Zhenhua Yu et.al.|[2610.12901](http://arxiv.org/abs/2610.12901)|null|
 |**2026-10-08**|**Lightweight Systems for Spatial Semantic Segmentation of Sound Scenes**|Mayank Mishra et.al.|[2610.12693](http://arxiv.org/abs/2610.12693)|null|
@@ -3733,7 +3737,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
