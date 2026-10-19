@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4244,13 +4244,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046](http://arxiv.org/abs/2610.23046)|null|
+|**2026-10-16**|**MaskMerge: Structure-aware Token Merging for Efficient Instance Segmentation**|Bavesh Balaji et.al.|[2610.22921](http://arxiv.org/abs/2610.22921)|null|
 |**2026-10-15**|**Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones**|Elena Wittemyer et.al.|[2610.22225](http://arxiv.org/abs/2610.22225)|null|
 |**2026-10-15**|**VesperMUSE: Multi-Modal Fusion Vision Transformer for Image Semantic Segmentation Under Diverse Light Conditions**|Raul Balmez et.al.|[2610.21990](http://arxiv.org/abs/2610.21990)|null|
 |**2026-10-15**|**FuseAdapt: Parameter-Efficient Multimodal Fusion for Semantic Segmentation with Missing Modalities**|Xin Zhang et.al.|[2610.21779](http://arxiv.org/abs/2610.21779)|null|
 |**2026-10-15**|**SCMerge: Spatial-Consistency-Aware Token Pair Merging for Efficient Semantic Segmentation**|Junfeng Ren et.al.|[2610.21642](http://arxiv.org/abs/2610.21642)|null|
-|**2026-10-15**|**A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation**|Songlin Liu et.al.|[2610.21238](http://arxiv.org/abs/2610.21238)|null|
+|**2026-10-15**|**A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation**|Songlin Liu et.al.|[2610.21238](http://arxiv.org/abs/2610.21238)|**[link](https://github.com/Linwei-Chen/CASID)**|
 |**2026-10-15**|**SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams**|Dongheon Yang et.al.|[2610.21207](http://arxiv.org/abs/2610.21207)|null|
-|**2026-10-14**|**Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation**|Utku Cicek et.al.|[2610.20881](http://arxiv.org/abs/2610.20881)|null|
+|**2026-10-14**|**Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation**|Utku Cicek et.al.|[2610.20881](http://arxiv.org/abs/2610.20881)|**[link](https://github.com/Ucicek/TEAL-Token-Space-Efficient-Active-Learning-for-Low-Budget-Semantic-Segmentation)**|
 |**2026-10-13**|**Multimodal Fusion of RGB and Complementary Modalities for Semantic Segmentation**|Hu Cao et.al.|[2610.17800](http://arxiv.org/abs/2610.17800)|null|
 |**2026-10-13**|**DT-LoRA: Reaching Beyond the Tangent Space of Low-Rank Adaptation**|Yangming Zhang et.al.|[2610.17730](http://arxiv.org/abs/2610.17730)|null|
 |**2026-10-12**|**3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design**|Yueling Liao et.al.|[2610.16292](http://arxiv.org/abs/2610.16292)|null|
