@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-17**|**SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation**|Bowen He et.al.|[2610.24506](http://arxiv.org/abs/2610.24506)|null|
+|**2026-10-16**|**Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action**|Julia Hindel et.al.|[2610.23642](http://arxiv.org/abs/2610.23642)|null|
+|**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[2610.23600](http://arxiv.org/abs/2610.23600)|null|
+|**2026-10-16**|**ReVision: Reprogramming Image Generators for Dense Visual Perception**|Yitong Yang et.al.|[2610.23533](http://arxiv.org/abs/2610.23533)|null|
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 |**2026-10-13**|**Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling**|Anuska Sarkar et.al.|[2610.18422](http://arxiv.org/abs/2610.18422)|null|
@@ -30,7 +34,7 @@
 |**2026-10-12**|**Adversarial Robustness of Camera-Radar Sensor Fusion for Autonomous Driving**|Ce Zhou et.al.|[2610.16012](http://arxiv.org/abs/2610.16012)|null|
 |**2026-10-11**|**ScenePlacer: Reformulating Scene-Level Object Pose Estimation as Visibility Field Learning**|Ken Deng et.al.|[2610.15734](http://arxiv.org/abs/2610.15734)|null|
 |**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|null|
-|**2026-10-11**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|null|
+|**2026-10-18**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|null|
 |**2026-10-10**|**DSM-Free UAV Visual Localization via Latent-Depth Variable Projection and Structure-Adaptive Coupling**|Yibin Ye et.al.|[2610.14945](http://arxiv.org/abs/2610.14945)|null|
 |**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
 |**2026-10-08**|**SCORE: Spectral Correlation Estimation for Multivariate Gaussians**|Christopher Bülte et.al.|[2610.12096](http://arxiv.org/abs/2610.12096)|null|
@@ -1324,21 +1328,27 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-18**|**RAHF-Net: Range-Aware Heterogeneous Fusion for LiDAR-Assisted RGB Semantic Segmentation**|R. D. Lin et.al.|[2610.25400](http://arxiv.org/abs/2610.25400)|null|
+|**2026-10-18**|**MPIG: Multi-angle Polarization Image Generation from a Single Polarization Observation**|Jue Wang et.al.|[2610.25326](http://arxiv.org/abs/2610.25326)|null|
+|**2026-10-17**|**CorrCLIPv2: Harnessing Unlabeled Images for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2610.24757](http://arxiv.org/abs/2610.24757)|null|
+|**2026-10-17**|**ZeroDSS: Semantic Segmentation from Class Names Alone**|Tian Ming et.al.|[2610.24405](http://arxiv.org/abs/2610.24405)|null|
+|**2026-10-16**|**Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action**|Julia Hindel et.al.|[2610.23642](http://arxiv.org/abs/2610.23642)|null|
+|**2026-10-16**|**ShadowCast: On-the-Fly Context-Aware Shadow Augmentation for Remote Sensing Image Segmentation**|Yechan Kim et.al.|[2610.23440](http://arxiv.org/abs/2610.23440)|null|
 |**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046](http://arxiv.org/abs/2610.23046)|null|
 |**2026-10-16**|**MaskMerge: Structure-aware Token Merging for Efficient Instance Segmentation**|Bavesh Balaji et.al.|[2610.22921](http://arxiv.org/abs/2610.22921)|null|
 |**2026-10-15**|**Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones**|Elena Wittemyer et.al.|[2610.22225](http://arxiv.org/abs/2610.22225)|null|
 |**2026-10-15**|**VesperMUSE: Multi-Modal Fusion Vision Transformer for Image Semantic Segmentation Under Diverse Light Conditions**|Raul Balmez et.al.|[2610.21990](http://arxiv.org/abs/2610.21990)|null|
 |**2026-10-15**|**FuseAdapt: Parameter-Efficient Multimodal Fusion for Semantic Segmentation with Missing Modalities**|Xin Zhang et.al.|[2610.21779](http://arxiv.org/abs/2610.21779)|null|
 |**2026-10-15**|**SCMerge: Spatial-Consistency-Aware Token Pair Merging for Efficient Semantic Segmentation**|Junfeng Ren et.al.|[2610.21642](http://arxiv.org/abs/2610.21642)|null|
-|**2026-10-15**|**A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation**|Songlin Liu et.al.|[2610.21238](http://arxiv.org/abs/2610.21238)|**[link](https://github.com/Linwei-Chen/CASID)**|
+|**2026-10-15**|**A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation**|Songlin Liu et.al.|[2610.21238](http://arxiv.org/abs/2610.21238)|null|
 |**2026-10-15**|**SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams**|Dongheon Yang et.al.|[2610.21207](http://arxiv.org/abs/2610.21207)|null|
-|**2026-10-14**|**Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation**|Utku Cicek et.al.|[2610.20881](http://arxiv.org/abs/2610.20881)|**[link](https://github.com/Ucicek/TEAL-Token-Space-Efficient-Active-Learning-for-Low-Budget-Semantic-Segmentation)**|
+|**2026-10-14**|**Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation**|Utku Cicek et.al.|[2610.20881](http://arxiv.org/abs/2610.20881)|null|
 |**2026-10-13**|**Multimodal Fusion of RGB and Complementary Modalities for Semantic Segmentation**|Hu Cao et.al.|[2610.17800](http://arxiv.org/abs/2610.17800)|null|
 |**2026-10-13**|**DT-LoRA: Reaching Beyond the Tangent Space of Low-Rank Adaptation**|Yangming Zhang et.al.|[2610.17730](http://arxiv.org/abs/2610.17730)|null|
 |**2026-10-12**|**3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design**|Yueling Liao et.al.|[2610.16292](http://arxiv.org/abs/2610.16292)|null|
@@ -3739,7 +3749,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
