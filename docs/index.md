@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor**|Yohanssen Pratama et.al.|[2610.28258](http://arxiv.org/abs/2610.28258)|null|
+|**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|null|
+|**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|null|
+|**2026-10-19**|**Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods**|Leaf Jiang et.al.|[2610.27199](http://arxiv.org/abs/2610.27199)|null|
 |**2026-10-17**|**SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation**|Bowen He et.al.|[2610.24506](http://arxiv.org/abs/2610.24506)|null|
 |**2026-10-16**|**Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action**|Julia Hindel et.al.|[2610.23642](http://arxiv.org/abs/2610.23642)|null|
 |**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[2610.23600](http://arxiv.org/abs/2610.23600)|null|
@@ -4248,12 +4252,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations**|Wenbin Liao et.al.|[2610.27960](http://arxiv.org/abs/2610.27960)|null|
+|**2026-10-20**|**SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics**|Xiaoyu Gu et.al.|[2610.27820](http://arxiv.org/abs/2610.27820)|null|
+|**2026-10-20**|**TerraNostra-Bench: Benchmarking Spatial Downscaling and Temporal Rollout for Global 1-km Land-Use Reconstruction**|Amirpasha Mozaffari et.al.|[2610.27793](http://arxiv.org/abs/2610.27793)|null|
 |**2026-10-18**|**RAHF-Net: Range-Aware Heterogeneous Fusion for LiDAR-Assisted RGB Semantic Segmentation**|R. D. Lin et.al.|[2610.25400](http://arxiv.org/abs/2610.25400)|null|
 |**2026-10-18**|**MPIG: Multi-angle Polarization Image Generation from a Single Polarization Observation**|Jue Wang et.al.|[2610.25326](http://arxiv.org/abs/2610.25326)|null|
 |**2026-10-17**|**CorrCLIPv2: Harnessing Unlabeled Images for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2610.24757](http://arxiv.org/abs/2610.24757)|null|
 |**2026-10-17**|**ZeroDSS: Semantic Segmentation from Class Names Alone**|Tian Ming et.al.|[2610.24405](http://arxiv.org/abs/2610.24405)|null|
 |**2026-10-16**|**Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action**|Julia Hindel et.al.|[2610.23642](http://arxiv.org/abs/2610.23642)|null|
-|**2026-10-16**|**ShadowCast: On-the-Fly Context-Aware Shadow Augmentation for Remote Sensing Image Segmentation**|Yechan Kim et.al.|[2610.23440](http://arxiv.org/abs/2610.23440)|null|
+|**2026-10-20**|**ShadowCast: On-the-Fly Context-Aware Shadow Augmentation for Remote Sensing Image Segmentation**|Dongho Yoon et.al.|[2610.23440](http://arxiv.org/abs/2610.23440)|null|
 |**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046](http://arxiv.org/abs/2610.23046)|null|
 |**2026-10-16**|**MaskMerge: Structure-aware Token Merging for Efficient Instance Segmentation**|Bavesh Balaji et.al.|[2610.22921](http://arxiv.org/abs/2610.22921)|null|
 |**2026-10-15**|**Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones**|Elena Wittemyer et.al.|[2610.22225](http://arxiv.org/abs/2610.22225)|null|
@@ -4269,7 +4276,7 @@ layout: default
 |**2026-10-12**|**From Failure Prediction to Component Selection in Semantic Segmentation**|Minhui Kang et.al.|[2610.16058](http://arxiv.org/abs/2610.16058)|null|
 |**2026-10-11**|**Sparse All-Layer Connector for Domain Generalised Semantic Segmentation**|Ruoyu Guo et.al.|[2610.15660](http://arxiv.org/abs/2610.15660)|null|
 |**2026-10-10**|**Region Aware Squeeze-and-Excitation Networks for Image Segmentation**|Jack Roberts et.al.|[2610.15079](http://arxiv.org/abs/2610.15079)|null|
-|**2026-10-15**|**Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++**|Malithi Nawarathne et.al.|[2610.15061](http://arxiv.org/abs/2610.15061)|null|
+|**2026-10-19**|**Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++**|Malithi Nawarathne et.al.|[2610.15061](http://arxiv.org/abs/2610.15061)|null|
 |**2026-10-09**|**DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming**|Zhe Zhang et.al.|[2610.13698](http://arxiv.org/abs/2610.13698)|null|
 |**2026-10-09**|**JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning**|Zhenhua Yu et.al.|[2610.12901](http://arxiv.org/abs/2610.12901)|null|
 |**2026-10-08**|**Lightweight Systems for Spatial Semantic Segmentation of Sound Scenes**|Mayank Mishra et.al.|[2610.12693](http://arxiv.org/abs/2610.12693)|null|
