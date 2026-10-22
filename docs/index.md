@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4252,10 +4252,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-20**|**Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations**|Wenbin Liao et.al.|[2610.27960](http://arxiv.org/abs/2610.27960)|null|
+|**2026-10-21**|**Multiclass Boundary Refinement with Neural Cellular Automata for Remote Sensing Land Cover Segmentation**|Pascoassis Souza Santos Meira et.al.|[2610.30007](http://arxiv.org/abs/2610.30007)|null|
+|**2026-10-21**|**Stochastic Nonlinearities Improve Uncertainty Estimation**|Mohammad Sarhangzadeh et.al.|[2610.29875](http://arxiv.org/abs/2610.29875)|null|
+|**2026-10-21**|**RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation**|Samuel Foo Enze et.al.|[2610.29845](http://arxiv.org/abs/2610.29845)|**[link](https://github.com/rangenav/rangenav.github.io)**|
+|**2026-10-21**|**LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines**|Abdullah Hamdi et.al.|[2610.29409](http://arxiv.org/abs/2610.29409)|null|
+|**2026-10-21**|**AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting**|Rodion Shkokov et.al.|[2610.29374](http://arxiv.org/abs/2610.29374)|**[link](https://github.com/OptimusFaber/AOV-GS)**|
+|**2026-10-20**|**Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations**|Wenbin Liao et.al.|[2610.27960](http://arxiv.org/abs/2610.27960)|**[link](https://github.com/set-path/DCR-SAM)**|
 |**2026-10-20**|**SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics**|Xiaoyu Gu et.al.|[2610.27820](http://arxiv.org/abs/2610.27820)|null|
 |**2026-10-20**|**TerraNostra-Bench: Benchmarking Spatial Downscaling and Temporal Rollout for Global 1-km Land-Use Reconstruction**|Amirpasha Mozaffari et.al.|[2610.27793](http://arxiv.org/abs/2610.27793)|null|
-|**2026-10-18**|**RAHF-Net: Range-Aware Heterogeneous Fusion for LiDAR-Assisted RGB Semantic Segmentation**|R. D. Lin et.al.|[2610.25400](http://arxiv.org/abs/2610.25400)|null|
+|**2026-10-20**|**RAHF-Net: Range-Aware Heterogeneous Fusion for LiDAR-Assisted RGB Semantic Segmentation**|R. D. Lin et.al.|[2610.25400](http://arxiv.org/abs/2610.25400)|null|
 |**2026-10-18**|**MPIG: Multi-angle Polarization Image Generation from a Single Polarization Observation**|Jue Wang et.al.|[2610.25326](http://arxiv.org/abs/2610.25326)|null|
 |**2026-10-17**|**CorrCLIPv2: Harnessing Unlabeled Images for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2610.24757](http://arxiv.org/abs/2610.24757)|null|
 |**2026-10-17**|**ZeroDSS: Semantic Segmentation from Class Names Alone**|Tian Ming et.al.|[2610.24405](http://arxiv.org/abs/2610.24405)|null|
