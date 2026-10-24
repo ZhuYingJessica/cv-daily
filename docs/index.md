@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.22
+## Updated on 2026.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4252,9 +4252,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|null|
+|**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186](http://arxiv.org/abs/2610.31186)|null|
+|**2026-10-22**|**Refining Open-Vocabulary Semantic Segmentation via Regional Semantics and Visual Prototypes**|Aijing Yu et.al.|[2610.30623](http://arxiv.org/abs/2610.30623)|null|
 |**2026-10-21**|**Multiclass Boundary Refinement with Neural Cellular Automata for Remote Sensing Land Cover Segmentation**|Pascoassis Souza Santos Meira et.al.|[2610.30007](http://arxiv.org/abs/2610.30007)|null|
 |**2026-10-21**|**Stochastic Nonlinearities Improve Uncertainty Estimation**|Mohammad Sarhangzadeh et.al.|[2610.29875](http://arxiv.org/abs/2610.29875)|null|
-|**2026-10-21**|**RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation**|Samuel Foo Enze et.al.|[2610.29845](http://arxiv.org/abs/2610.29845)|**[link](https://github.com/rangenav/rangenav.github.io)**|
+|**2026-10-22**|**RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation**|Samuel Foo Enze et.al.|[2610.29845](http://arxiv.org/abs/2610.29845)|**[link](https://github.com/rangenav/rangenav.github.io)**|
 |**2026-10-21**|**LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines**|Abdullah Hamdi et.al.|[2610.29409](http://arxiv.org/abs/2610.29409)|null|
 |**2026-10-21**|**AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting**|Rodion Shkokov et.al.|[2610.29374](http://arxiv.org/abs/2610.29374)|**[link](https://github.com/OptimusFaber/AOV-GS)**|
 |**2026-10-20**|**Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations**|Wenbin Liao et.al.|[2610.27960](http://arxiv.org/abs/2610.27960)|**[link](https://github.com/set-path/DCR-SAM)**|

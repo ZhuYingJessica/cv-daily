@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.22
+## Updated on 2026.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1332,15 +1332,18 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|null|
+|**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186](http://arxiv.org/abs/2610.31186)|null|
+|**2026-10-22**|**Refining Open-Vocabulary Semantic Segmentation via Regional Semantics and Visual Prototypes**|Aijing Yu et.al.|[2610.30623](http://arxiv.org/abs/2610.30623)|null|
 |**2026-10-21**|**Multiclass Boundary Refinement with Neural Cellular Automata for Remote Sensing Land Cover Segmentation**|Pascoassis Souza Santos Meira et.al.|[2610.30007](http://arxiv.org/abs/2610.30007)|null|
 |**2026-10-21**|**Stochastic Nonlinearities Improve Uncertainty Estimation**|Mohammad Sarhangzadeh et.al.|[2610.29875](http://arxiv.org/abs/2610.29875)|null|
-|**2026-10-21**|**RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation**|Samuel Foo Enze et.al.|[2610.29845](http://arxiv.org/abs/2610.29845)|**[link](https://github.com/rangenav/rangenav.github.io)**|
+|**2026-10-22**|**RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation**|Samuel Foo Enze et.al.|[2610.29845](http://arxiv.org/abs/2610.29845)|**[link](https://github.com/rangenav/rangenav.github.io)**|
 |**2026-10-21**|**LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines**|Abdullah Hamdi et.al.|[2610.29409](http://arxiv.org/abs/2610.29409)|null|
 |**2026-10-21**|**AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting**|Rodion Shkokov et.al.|[2610.29374](http://arxiv.org/abs/2610.29374)|**[link](https://github.com/OptimusFaber/AOV-GS)**|
 |**2026-10-20**|**Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations**|Wenbin Liao et.al.|[2610.27960](http://arxiv.org/abs/2610.27960)|**[link](https://github.com/set-path/DCR-SAM)**|
@@ -3761,7 +3764,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
