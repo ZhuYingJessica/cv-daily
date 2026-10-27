@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Zero-Shot Monocular Depth Estimation for Visual Perception in Lower-Limb Prostheses**|Ishi Vijayvergiya et.al.|[2610.35018](http://arxiv.org/abs/2610.35018)|null|
+|**2026-10-24**|**POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI**|Xiaodi Huang et.al.|[2610.33745](http://arxiv.org/abs/2610.33745)|null|
 |**2026-10-20**|**Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor**|Yohanssen Pratama et.al.|[2610.28258](http://arxiv.org/abs/2610.28258)|null|
 |**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|null|
 |**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|null|
@@ -4252,6 +4254,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Macro Mondrian Conformal Risk Control**|Julien Combes et.al.|[2610.35035](http://arxiv.org/abs/2610.35035)|null|
+|**2026-10-26**|**Rethinking Data Imbalance in Class Incremental Surgical Instrument Segmentation**|Shifang Zhao et.al.|[2610.34925](http://arxiv.org/abs/2610.34925)|null|
+|**2026-10-26**|**FGD2HF: Frequency-guided Dual-domain Hypergraph Fusion for Semantic Segmentation**|Xiaofan Yang et.al.|[2610.34734](http://arxiv.org/abs/2610.34734)|null|
+|**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504](http://arxiv.org/abs/2610.33504)|null|
+|**2026-10-23**|**Automated identification of ivory carvings using machine learning: A proof-of-concept approach to detecting the illegal wildlife trade**|Andrius Tamosiunas et.al.|[2610.33243](http://arxiv.org/abs/2610.33243)|null|
+|**2026-10-23**|**U-NeXt: General-purpose event detection for neonatal EEG**|Robert Hogan et.al.|[2610.32811](http://arxiv.org/abs/2610.32811)|null|
 |**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612](http://arxiv.org/abs/2610.32612)|null|
 |**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|null|
 |**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186](http://arxiv.org/abs/2610.31186)|null|
