@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS**|Tom Sanitz et.al.|[2610.37153](http://arxiv.org/abs/2610.37153)|null|
+|**2026-10-27**|**Omni-IGN: Onboard Image-Goal Navigation for Drones with Omnidirectional Vision**|Zichen Yan et.al.|[2610.36968](http://arxiv.org/abs/2610.36968)|null|
+|**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853](http://arxiv.org/abs/2610.36853)|null|
 |**2026-10-26**|**Zero-Shot Monocular Depth Estimation for Visual Perception in Lower-Limb Prostheses**|Ishi Vijayvergiya et.al.|[2610.35018](http://arxiv.org/abs/2610.35018)|null|
 |**2026-10-24**|**POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI**|Xiaodi Huang et.al.|[2610.33745](http://arxiv.org/abs/2610.33745)|null|
 |**2026-10-20**|**Reliability-Aware Reconstruction of V-Shaped Surfaces with a Low-Cost Multi-Zone SPAD Sensor**|Yohanssen Pratama et.al.|[2610.28258](http://arxiv.org/abs/2610.28258)|null|
@@ -4254,6 +4257,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**HDVS: semi-supervised semantic segmentation via heterogeneous dual-branch voting supervision**|Yongqi Shan et.al.|[2610.37236](http://arxiv.org/abs/2610.37236)|null|
+|**2026-10-27**|**RePAIR: Inverting Backdoor Attacks in Semantic Segmentation**|Arnold Brosch et.al.|[2610.37015](http://arxiv.org/abs/2610.37015)|null|
+|**2026-10-27**|**SAGE: Saliency-Annealed Gated Encoder for Universal Vision Recognition**|Le Yang et.al.|[2610.36719](http://arxiv.org/abs/2610.36719)|null|
+|**2026-10-26**|**Deep Learning Volumetric Segmentation for Prediction of Cavity Geometry in Underground Jet Boring Mining**|Giovanni Zingaro et.al.|[2610.36303](http://arxiv.org/abs/2610.36303)|null|
+|**2026-10-26**|**S $^2$ -RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation**|Haoyu Wang et.al.|[2610.35491](http://arxiv.org/abs/2610.35491)|null|
 |**2026-10-26**|**Macro Mondrian Conformal Risk Control**|Julien Combes et.al.|[2610.35035](http://arxiv.org/abs/2610.35035)|null|
 |**2026-10-26**|**Rethinking Data Imbalance in Class Incremental Surgical Instrument Segmentation**|Shifang Zhao et.al.|[2610.34925](http://arxiv.org/abs/2610.34925)|null|
 |**2026-10-26**|**FGD2HF: Frequency-guided Dual-domain Hypergraph Fusion for Semantic Segmentation**|Xiaofan Yang et.al.|[2610.34734](http://arxiv.org/abs/2610.34734)|null|
