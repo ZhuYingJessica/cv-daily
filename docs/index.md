@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation**|Liangjing Shao et.al.|[2610.41190](http://arxiv.org/abs/2610.41190)|null|
 |**2026-10-28**|**Learning Event-based Obstacle Avoidance via Differentiable Simulation**|Chenlu Shou et.al.|[2610.38967](http://arxiv.org/abs/2610.38967)|null|
 |**2026-10-28**|**RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model**|Xuanang Gao et.al.|[2610.38587](http://arxiv.org/abs/2610.38587)|null|
 |**2026-10-27**|**Efficacy of Monocular Depth Estimation in Lunar Environments**|Michael W. Lanighan et.al.|[2610.38080](http://arxiv.org/abs/2610.38080)|null|
@@ -4260,6 +4261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Inter-Frame Predictive Contour Coding for Semantic Map Compression**|Runyu Yang et.al.|[2610.40887](http://arxiv.org/abs/2610.40887)|null|
 |**2026-10-29**|**Spectral Invariant Fusion and Refinement for Domain Generalized Semantic Segmentation**|Yansong Bai et.al.|[2610.39926](http://arxiv.org/abs/2610.39926)|null|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848](http://arxiv.org/abs/2610.39848)|null|
 |**2026-10-29**|**Robust LIDAR Sensor-to-Sensor Domain Generalization via Accumulated-Point Scene Completion**|Christoph B Rist et.al.|[2610.39516](http://arxiv.org/abs/2610.39516)|null|
