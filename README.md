@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-01**|**Detecting Generated-Depth Injection Attacks on RGB-D Place Authentication**|Seigo Kawachi et.al.|[2611.01550](http://arxiv.org/abs/2611.01550)|null|
 |**2026-10-30**|**FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation**|Liangjing Shao et.al.|[2610.41190](http://arxiv.org/abs/2610.41190)|null|
 |**2026-10-28**|**Learning Event-based Obstacle Avoidance via Differentiable Simulation**|Chenlu Shou et.al.|[2610.38967](http://arxiv.org/abs/2610.38967)|null|
 |**2026-10-28**|**RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model**|Xuanang Gao et.al.|[2610.38587](http://arxiv.org/abs/2610.38587)|null|
@@ -1341,12 +1342,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-01**|**Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation**|Hanqi Chen et.al.|[2611.01682](http://arxiv.org/abs/2611.01682)|null|
+|**2026-10-30**|**FoAViS: Analyzing Learned Fixation Strategies in a Foveated Active Vision System**|Valentin Hassler et.al.|[2610.41987](http://arxiv.org/abs/2610.41987)|null|
 |**2026-10-29**|**Inter-Frame Predictive Contour Coding for Semantic Map Compression**|Runyu Yang et.al.|[2610.40887](http://arxiv.org/abs/2610.40887)|null|
 |**2026-10-29**|**Spectral Invariant Fusion and Refinement for Domain Generalized Semantic Segmentation**|Yansong Bai et.al.|[2610.39926](http://arxiv.org/abs/2610.39926)|null|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848](http://arxiv.org/abs/2610.39848)|null|
@@ -1359,7 +1362,7 @@
 |**2026-10-26**|**Deep Learning Volumetric Segmentation for Prediction of Cavity Geometry in Underground Jet Boring Mining**|Giovanni Zingaro et.al.|[2610.36303](http://arxiv.org/abs/2610.36303)|null|
 |**2026-10-26**|**S $^2$ -RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation**|Haoyu Wang et.al.|[2610.35491](http://arxiv.org/abs/2610.35491)|null|
 |**2026-10-26**|**Macro Mondrian Conformal Risk Control**|Julien Combes et.al.|[2610.35035](http://arxiv.org/abs/2610.35035)|null|
-|**2026-10-26**|**Rethinking Data Imbalance in Class Incremental Surgical Instrument Segmentation**|Shifang Zhao et.al.|[2610.34925](http://arxiv.org/abs/2610.34925)|null|
+|**2026-10-26**|**Rethinking Data Imbalance in Class Incremental Surgical Instrument Segmentation**|Shifang Zhao et.al.|[2610.34925](http://arxiv.org/abs/2610.34925)|**[link](https://github.com/Zzsf11/SurgCSS)**|
 |**2026-10-26**|**FGD2HF: Frequency-guided Dual-domain Hypergraph Fusion for Semantic Segmentation**|Xiaofan Yang et.al.|[2610.34734](http://arxiv.org/abs/2610.34734)|null|
 |**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504](http://arxiv.org/abs/2610.33504)|null|
 |**2026-10-23**|**Automated identification of ivory carvings using machine learning: A proof-of-concept approach to detecting the illegal wildlife trade**|Andrius Tamosiunas et.al.|[2610.33243](http://arxiv.org/abs/2610.33243)|null|
@@ -3791,7 +3794,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
