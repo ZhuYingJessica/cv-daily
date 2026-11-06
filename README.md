@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing**|Qin Guo et.al.|[2611.07922](http://arxiv.org/abs/2611.07922)|null|
+|**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|**[link](https://github.com/ChuanxinSong/PVDepth)**|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361](http://arxiv.org/abs/2611.05361)|null|
 |**2026-11-03**|**iMED: A Multi-Endoscope Dataset for Surgical 3D Perception**|Sierra Bonilla et.al.|[2611.04755](http://arxiv.org/abs/2611.04755)|null|
 |**2026-11-03**|**SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation**|Jaemin Choi et.al.|[2611.04491](http://arxiv.org/abs/2611.04491)|null|
@@ -1346,16 +1348,18 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**Design of Multi-UAV Cooperative Deep Semantic Autoencoders for Communication Networks**|Xiaoling Han et.al.|[2611.07374](http://arxiv.org/abs/2611.07374)|null|
+|**2026-11-04**|**Agent-Driven Generative Priors for Pathology Image Synthesis and Segmentation**|Sicheng Yang et.al.|[2611.06701](http://arxiv.org/abs/2611.06701)|null|
 |**2026-11-04**|**Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes**|Lukas Rauch et.al.|[2611.06180](http://arxiv.org/abs/2611.06180)|null|
 |**2026-11-04**|**Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation**|Jiahao Ma et.al.|[2611.05874](http://arxiv.org/abs/2611.05874)|null|
 |**2026-11-03**|**Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds**|Krishnakumar N et.al.|[2611.05569](http://arxiv.org/abs/2611.05569)|null|
-|**2026-11-03**|**LiSA: Linear Stochastic Attention for Long-Range Visual Modeling**|Sahar Dastani et.al.|[2611.04216](http://arxiv.org/abs/2611.04216)|null|
+|**2026-11-04**|**LiSA: Linear Stochastic Attention for Long-Range Visual Modeling**|Sahar Dastani et.al.|[2611.04216](http://arxiv.org/abs/2611.04216)|null|
 |**2026-11-02**|**ASCoR: Asymmetric Semantic-Spatial Learning for Remote Sensing Domain Generalization**|Zitong Wang et.al.|[2611.03382](http://arxiv.org/abs/2611.03382)|null|
 |**2026-11-02**|**HyperFlow: Class-Incremental Semantic Change Detection via Hyperbolic Flow**|Manon Béchaz et.al.|[2611.03245](http://arxiv.org/abs/2611.03245)|null|
 |**2026-11-02**|**Balancing Representations by Identifying and Generating Under-represented Data**|Filipe Laitenberger et.al.|[2611.02952](http://arxiv.org/abs/2611.02952)|null|
@@ -3806,7 +3810,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

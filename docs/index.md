@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing**|Qin Guo et.al.|[2611.07922](http://arxiv.org/abs/2611.07922)|null|
+|**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|**[link](https://github.com/ChuanxinSong/PVDepth)**|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361](http://arxiv.org/abs/2611.05361)|null|
 |**2026-11-03**|**iMED: A Multi-Endoscope Dataset for Surgical 3D Perception**|Sierra Bonilla et.al.|[2611.04755](http://arxiv.org/abs/2611.04755)|null|
 |**2026-11-03**|**SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation**|Jaemin Choi et.al.|[2611.04491](http://arxiv.org/abs/2611.04491)|null|
@@ -4266,10 +4268,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Design of Multi-UAV Cooperative Deep Semantic Autoencoders for Communication Networks**|Xiaoling Han et.al.|[2611.07374](http://arxiv.org/abs/2611.07374)|null|
+|**2026-11-04**|**Agent-Driven Generative Priors for Pathology Image Synthesis and Segmentation**|Sicheng Yang et.al.|[2611.06701](http://arxiv.org/abs/2611.06701)|null|
 |**2026-11-04**|**Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes**|Lukas Rauch et.al.|[2611.06180](http://arxiv.org/abs/2611.06180)|null|
 |**2026-11-04**|**Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation**|Jiahao Ma et.al.|[2611.05874](http://arxiv.org/abs/2611.05874)|null|
 |**2026-11-03**|**Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds**|Krishnakumar N et.al.|[2611.05569](http://arxiv.org/abs/2611.05569)|null|
-|**2026-11-03**|**LiSA: Linear Stochastic Attention for Long-Range Visual Modeling**|Sahar Dastani et.al.|[2611.04216](http://arxiv.org/abs/2611.04216)|null|
+|**2026-11-04**|**LiSA: Linear Stochastic Attention for Long-Range Visual Modeling**|Sahar Dastani et.al.|[2611.04216](http://arxiv.org/abs/2611.04216)|null|
 |**2026-11-02**|**ASCoR: Asymmetric Semantic-Spatial Learning for Remote Sensing Domain Generalization**|Zitong Wang et.al.|[2611.03382](http://arxiv.org/abs/2611.03382)|null|
 |**2026-11-02**|**HyperFlow: Class-Incremental Semantic Change Detection via Hyperbolic Flow**|Manon Béchaz et.al.|[2611.03245](http://arxiv.org/abs/2611.03245)|null|
 |**2026-11-02**|**Balancing Representations by Identifying and Generating Under-represented Data**|Filipe Laitenberger et.al.|[2611.02952](http://arxiv.org/abs/2611.02952)|null|
