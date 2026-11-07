@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.06
+## Updated on 2026.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1348,12 +1348,13 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**MCUFlowNet: Hardware-Aware Neural Architecture Search for Optical Flow on Microcontrollers**|Enmin Lin et.al.|[2611.08147](http://arxiv.org/abs/2611.08147)|null|
 |**2026-11-05**|**Design of Multi-UAV Cooperative Deep Semantic Autoencoders for Communication Networks**|Xiaoling Han et.al.|[2611.07374](http://arxiv.org/abs/2611.07374)|null|
 |**2026-11-04**|**Agent-Driven Generative Priors for Pathology Image Synthesis and Segmentation**|Sicheng Yang et.al.|[2611.06701](http://arxiv.org/abs/2611.06701)|null|
 |**2026-11-04**|**Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes**|Lukas Rauch et.al.|[2611.06180](http://arxiv.org/abs/2611.06180)|null|
@@ -1375,7 +1376,7 @@
 |**2026-10-27**|**HDVS: semi-supervised semantic segmentation via heterogeneous dual-branch voting supervision**|Yongqi Shan et.al.|[2610.37236](http://arxiv.org/abs/2610.37236)|null|
 |**2026-10-27**|**RePAIR: Inverting Backdoor Attacks in Semantic Segmentation**|Arnold Brosch et.al.|[2610.37015](http://arxiv.org/abs/2610.37015)|null|
 |**2026-10-27**|**SAGE: Saliency-Annealed Gated Encoder for Universal Vision Recognition**|Le Yang et.al.|[2610.36719](http://arxiv.org/abs/2610.36719)|null|
-|**2026-10-26**|**Deep Learning Volumetric Segmentation for Prediction of Cavity Geometry in Underground Jet Boring Mining**|Giovanni Zingaro et.al.|[2610.36303](http://arxiv.org/abs/2610.36303)|null|
+|**2026-10-26**|**Deep Learning Volumetric Segmentation for Prediction of Cavity Geometry in Underground Jet Boring Mining**|Giovanni Zingaro et.al.|[2610.36303](http://arxiv.org/abs/2610.36303)|**[link](https://github.com/jonathanzingaro-jpg/DL-Volumetric-Segmentation-for-Cavity-Prediction)**|
 |**2026-10-26**|**S $^2$ -RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation**|Haoyu Wang et.al.|[2610.35491](http://arxiv.org/abs/2610.35491)|null|
 |**2026-10-26**|**Macro Mondrian Conformal Risk Control**|Julien Combes et.al.|[2610.35035](http://arxiv.org/abs/2610.35035)|null|
 |**2026-10-26**|**Rethinking Data Imbalance in Class Incremental Surgical Instrument Segmentation**|Shifang Zhao et.al.|[2610.34925](http://arxiv.org/abs/2610.34925)|null|
@@ -3810,7 +3811,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
