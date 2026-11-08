@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.07
+## Updated on 2026.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4290,7 +4290,7 @@ layout: default
 |**2026-10-27**|**HDVS: semi-supervised semantic segmentation via heterogeneous dual-branch voting supervision**|Yongqi Shan et.al.|[2610.37236](http://arxiv.org/abs/2610.37236)|null|
 |**2026-10-27**|**RePAIR: Inverting Backdoor Attacks in Semantic Segmentation**|Arnold Brosch et.al.|[2610.37015](http://arxiv.org/abs/2610.37015)|null|
 |**2026-10-27**|**SAGE: Saliency-Annealed Gated Encoder for Universal Vision Recognition**|Le Yang et.al.|[2610.36719](http://arxiv.org/abs/2610.36719)|null|
-|**2026-10-26**|**Deep Learning Volumetric Segmentation for Prediction of Cavity Geometry in Underground Jet Boring Mining**|Giovanni Zingaro et.al.|[2610.36303](http://arxiv.org/abs/2610.36303)|**[link](https://github.com/jonathanzingaro-jpg/DL-Volumetric-Segmentation-for-Cavity-Prediction)**|
+|**2026-10-26**|**Deep Learning Volumetric Segmentation for Prediction of Cavity Geometry in Underground Jet Boring Mining**|Giovanni Zingaro et.al.|[2610.36303](http://arxiv.org/abs/2610.36303)|null|
 |**2026-10-26**|**S $^2$ -RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation**|Haoyu Wang et.al.|[2610.35491](http://arxiv.org/abs/2610.35491)|null|
 |**2026-10-26**|**Macro Mondrian Conformal Risk Control**|Julien Combes et.al.|[2610.35035](http://arxiv.org/abs/2610.35035)|null|
 |**2026-10-26**|**Rethinking Data Imbalance in Class Incremental Surgical Instrument Segmentation**|Shifang Zhao et.al.|[2610.34925](http://arxiv.org/abs/2610.34925)|null|
