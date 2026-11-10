@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,9 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-05**|**eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation**|Qiushi Dai et.al.|[2611.08731](http://arxiv.org/abs/2611.08731)|null|
+|**2026-11-07**|**LIFT: Local Metric Alignment and Foundation-guided Propagation for Few-shot Depth Completion**|Xiang Li et.al.|[2611.10729](http://arxiv.org/abs/2611.10729)|null|
+|**2026-11-07**|**Beyond Row Alignment: Virtual-Camera-Aware Online Stereo Rectification**|Yizhao Peng et.al.|[2611.10518](http://arxiv.org/abs/2611.10518)|null|
+|**2026-11-07**|**ClearForm: Shared-Surface Gaussian Splatting for Transparent and Opaque Scenes**|Hajeong Lee et.al.|[2611.10370](http://arxiv.org/abs/2611.10370)|null|
+|**2026-11-05**|**eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation**|Qiushi Dai et.al.|[2611.08731](http://arxiv.org/abs/2611.08731)|**[link](https://github.com/rice-computational-imaging/eSharp)**|
 |**2026-11-05**|**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing**|Qin Guo et.al.|[2611.07922](http://arxiv.org/abs/2611.07922)|null|
-|**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|null|
+|**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|**[link](https://github.com/ChuanxinSong/PVDepth)**|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361](http://arxiv.org/abs/2611.05361)|null|
 |**2026-11-03**|**iMED: A Multi-Endoscope Dataset for Surgical 3D Perception**|Sierra Bonilla et.al.|[2611.04755](http://arxiv.org/abs/2611.04755)|null|
 |**2026-11-03**|**SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation**|Jaemin Choi et.al.|[2611.04491](http://arxiv.org/abs/2611.04491)|null|
@@ -1349,12 +1352,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-07**|**FG-DSA: Frequency-Guided Depthwise Separable Attention for Efficient Dense Prediction**|Yiyao Yang et.al.|[2611.10653](http://arxiv.org/abs/2611.10653)|null|
+|**2026-11-06**|**ATLAS: A Multi-Procedure Benchmark and Context-Aware Model for Surgical Anatomy Segmentation**|Ronald L. P. D. de Jong et.al.|[2611.10182](http://arxiv.org/abs/2611.10182)|null|
 |**2026-11-05**|**From Geometry to Function: A Multi-Task LiDAR Benchmark Dataset for Semantic and Functional Parsing of Urban Facades**|Abdiaziz Muse et.al.|[2611.08645](http://arxiv.org/abs/2611.08645)|null|
 |**2026-11-05**|**MCUFlowNet: Hardware-Aware Neural Architecture Search for Optical Flow on Microcontrollers**|Enmin Lin et.al.|[2611.08147](http://arxiv.org/abs/2611.08147)|null|
 |**2026-11-05**|**Design of Multi-UAV Cooperative Deep Semantic Autoencoders for Communication Networks**|Xiaoling Han et.al.|[2611.07374](http://arxiv.org/abs/2611.07374)|null|
@@ -3813,7 +3818,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
