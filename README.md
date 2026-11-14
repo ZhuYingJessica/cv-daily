@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.13
+## Updated on 2026.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**ElasticDino: Dense Semantic Features Using Elastic Deformations**|Ulysse Mizrahi et.al.|[2611.16984](http://arxiv.org/abs/2611.16984)|null|
+|**2026-11-12**|**EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793](http://arxiv.org/abs/2611.16793)|null|
+|**2026-11-11**|**Iris-Z: Scaling One Generative Model Past Specialist Geometry Models**|Alejandro Cañada et.al.|[2611.16010](http://arxiv.org/abs/2611.16010)|null|
+|**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937](http://arxiv.org/abs/2611.15937)|null|
+|**2026-11-11**|**Open Vision Banana: A Fully Open Recipe for Generative Visual Perception**|Arpit Jadon et.al.|[2611.15844](http://arxiv.org/abs/2611.15844)|null|
 |**2026-11-11**|**Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion**|Dimitrios Chatziparaschis et.al.|[2611.14958](http://arxiv.org/abs/2611.14958)|null|
 |**2026-11-10**|**UGG: Unified Generative Geometry Model**|Amani Kiruga et.al.|[2611.14440](http://arxiv.org/abs/2611.14440)|null|
 |**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011](http://arxiv.org/abs/2611.12011)|null|
@@ -1357,12 +1362,14 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**ElasticDino: Dense Semantic Features Using Elastic Deformations**|Ulysse Mizrahi et.al.|[2611.16984](http://arxiv.org/abs/2611.16984)|null|
+|**2026-11-11**|**Adaptive Distance Detection and Adaptive Instance Segmentation**|Kai Yi Ji et.al.|[2611.15991](http://arxiv.org/abs/2611.15991)|null|
 |**2026-11-11**|**GingivitisSeg: A Public Dataset and Comparative Benchmark for Gingivitis Segmentation in Intraoral Images**|Zeynep Ozdemir et.al.|[2611.15184](http://arxiv.org/abs/2611.15184)|null|
 |**2026-11-10**|**CroCoMAE: Cross-modal self-supervised collaborative representation learning for SAR-optical remote sensing data**|Vito Recchia et.al.|[2611.14124](http://arxiv.org/abs/2611.14124)|null|
 |**2026-11-10**|**HiPFuse: Real-Time LiDAR Semantic Segmentation for Robotic Perception on Edge Devices**|Haiyang Wu et.al.|[2611.14025](http://arxiv.org/abs/2611.14025)|null|
@@ -3826,7 +3833,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
