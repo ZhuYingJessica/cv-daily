@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|null|
+|**2026-11-13**|**Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation**|Zhijie Wang et.al.|[2611.17828](http://arxiv.org/abs/2611.17828)|null|
 |**2026-11-12**|**ElasticDino: Dense Semantic Features Using Elastic Deformations**|Ulysse Mizrahi et.al.|[2611.16984](http://arxiv.org/abs/2611.16984)|null|
 |**2026-11-12**|**EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793](http://arxiv.org/abs/2611.16793)|null|
 |**2026-11-11**|**Iris-Z: Scaling One Generative Model Past Specialist Geometry Models**|Alejandro Cañada et.al.|[2611.16010](http://arxiv.org/abs/2611.16010)|null|
@@ -1362,12 +1364,13 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Unlocking Cross-Attention in Label-Scarce Regimes: A Weakly Supervised Approach for Video Semantic Segmentation**|Andrea Marelli et.al.|[2611.18324](http://arxiv.org/abs/2611.18324)|null|
 |**2026-11-12**|**ElasticDino: Dense Semantic Features Using Elastic Deformations**|Ulysse Mizrahi et.al.|[2611.16984](http://arxiv.org/abs/2611.16984)|null|
 |**2026-11-11**|**Adaptive Distance Detection and Adaptive Instance Segmentation**|Kai Yi Ji et.al.|[2611.15991](http://arxiv.org/abs/2611.15991)|null|
 |**2026-11-11**|**GingivitisSeg: A Public Dataset and Comparative Benchmark for Gingivitis Segmentation in Intraoral Images**|Zeynep Ozdemir et.al.|[2611.15184](http://arxiv.org/abs/2611.15184)|null|
@@ -1388,7 +1391,7 @@
 |**2026-11-02**|**Balancing Representations by Identifying and Generating Under-represented Data**|Filipe Laitenberger et.al.|[2611.02952](http://arxiv.org/abs/2611.02952)|null|
 |**2026-11-02**|**MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models**|Shenghan Luo et.al.|[2611.02405](http://arxiv.org/abs/2611.02405)|null|
 |**2026-11-01**|**Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation**|Hanqi Chen et.al.|[2611.01682](http://arxiv.org/abs/2611.01682)|null|
-|**2026-10-30**|**FoAViS: Analyzing Learned Fixation Strategies in a Foveated Active Vision System**|Valentin Hassler et.al.|[2610.41987](http://arxiv.org/abs/2610.41987)|null|
+|**2026-10-30**|**FoAViS: Analyzing Learned Fixation Strategies in a Foveated Active Vision System**|Valentin Hassler et.al.|[2610.41987](http://arxiv.org/abs/2610.41987)|**[link](https://github.com/ecker-lab/FoAViS)**|
 |**2026-10-29**|**Inter-Frame Predictive Contour Coding for Semantic Map Compression**|Runyu Yang et.al.|[2610.40887](http://arxiv.org/abs/2610.40887)|null|
 |**2026-10-29**|**Spectral Invariant Fusion and Refinement for Domain Generalized Semantic Segmentation**|Yansong Bai et.al.|[2610.39926](http://arxiv.org/abs/2610.39926)|null|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848](http://arxiv.org/abs/2610.39848)|null|
@@ -3833,7 +3836,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

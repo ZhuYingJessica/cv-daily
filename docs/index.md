@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|null|
+|**2026-11-13**|**Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation**|Zhijie Wang et.al.|[2611.17828](http://arxiv.org/abs/2611.17828)|null|
 |**2026-11-12**|**ElasticDino: Dense Semantic Features Using Elastic Deformations**|Ulysse Mizrahi et.al.|[2611.16984](http://arxiv.org/abs/2611.16984)|null|
 |**2026-11-12**|**EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793](http://arxiv.org/abs/2611.16793)|null|
 |**2026-11-11**|**Iris-Z: Scaling One Generative Model Past Specialist Geometry Models**|Alejandro Cañada et.al.|[2611.16010](http://arxiv.org/abs/2611.16010)|null|
@@ -4282,6 +4284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Unlocking Cross-Attention in Label-Scarce Regimes: A Weakly Supervised Approach for Video Semantic Segmentation**|Andrea Marelli et.al.|[2611.18324](http://arxiv.org/abs/2611.18324)|null|
 |**2026-11-12**|**ElasticDino: Dense Semantic Features Using Elastic Deformations**|Ulysse Mizrahi et.al.|[2611.16984](http://arxiv.org/abs/2611.16984)|null|
 |**2026-11-11**|**Adaptive Distance Detection and Adaptive Instance Segmentation**|Kai Yi Ji et.al.|[2611.15991](http://arxiv.org/abs/2611.15991)|null|
 |**2026-11-11**|**GingivitisSeg: A Public Dataset and Comparative Benchmark for Gingivitis Segmentation in Intraoral Images**|Zeynep Ozdemir et.al.|[2611.15184](http://arxiv.org/abs/2611.15184)|null|
@@ -4302,7 +4305,7 @@ layout: default
 |**2026-11-02**|**Balancing Representations by Identifying and Generating Under-represented Data**|Filipe Laitenberger et.al.|[2611.02952](http://arxiv.org/abs/2611.02952)|null|
 |**2026-11-02**|**MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models**|Shenghan Luo et.al.|[2611.02405](http://arxiv.org/abs/2611.02405)|null|
 |**2026-11-01**|**Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation**|Hanqi Chen et.al.|[2611.01682](http://arxiv.org/abs/2611.01682)|null|
-|**2026-10-30**|**FoAViS: Analyzing Learned Fixation Strategies in a Foveated Active Vision System**|Valentin Hassler et.al.|[2610.41987](http://arxiv.org/abs/2610.41987)|null|
+|**2026-10-30**|**FoAViS: Analyzing Learned Fixation Strategies in a Foveated Active Vision System**|Valentin Hassler et.al.|[2610.41987](http://arxiv.org/abs/2610.41987)|**[link](https://github.com/ecker-lab/FoAViS)**|
 |**2026-10-29**|**Inter-Frame Predictive Contour Coding for Semantic Map Compression**|Runyu Yang et.al.|[2610.40887](http://arxiv.org/abs/2610.40887)|null|
 |**2026-10-29**|**Spectral Invariant Fusion and Refinement for Domain Generalized Semantic Segmentation**|Yansong Bai et.al.|[2610.39926](http://arxiv.org/abs/2610.39926)|null|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848](http://arxiv.org/abs/2610.39848)|null|
