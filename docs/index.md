@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,6 +2934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception**|Geonmo Yang et.al.|[2611.22224](http://arxiv.org/abs/2611.22224)|null|
+|**2026-11-17**|**Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments**|Geonmo Yang et.al.|[2611.22212](http://arxiv.org/abs/2611.22212)|**[link](https://github.com/sparolab/Joint_ID)**|
+|**2026-11-17**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126](http://arxiv.org/abs/2611.21126)|null|
+|**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044](http://arxiv.org/abs/2611.21044)|null|
 |**2026-11-16**|**What the Averages Hide: Monocular Metric Depth Models Still Fail in Everyday Scenes, Mostly on Scale**|Hualie Jiang et.al.|[2611.20518](http://arxiv.org/abs/2611.20518)|null|
 |**2026-11-10**|**LiNO: Lightweight Network for Occupancy Estimation**|Ruan Bispo et.al.|[2611.18733](http://arxiv.org/abs/2611.18733)|null|
 |**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|null|
@@ -4286,6 +4290,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**RoadAnnoter: An AI-Assisted Desktop Tool for Semantic Segmentation Annotation of Road-Scene Images**|Nazmul Haque et.al.|[2611.22884](http://arxiv.org/abs/2611.22884)|null|
+|**2026-11-17**|**DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers**|Jialin Chen et.al.|[2611.22611](http://arxiv.org/abs/2611.22611)|null|
+|**2026-11-16**|**LiDSeg: Linear DehazeFormer Guidance for Efficient Semantic Segmentation in Adverse Weather Conditions**|Yobsan Bayisa Leta et.al.|[2611.20864](http://arxiv.org/abs/2611.20864)|null|
 |**2026-11-14**|**Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning**|Linge Wang et.al.|[2611.19236](http://arxiv.org/abs/2611.19236)|null|
 |**2026-11-14**|**FDAM: A Frequency-Direction-Aware Multi-Task Framework for Pavement Crack Grid Localization**|Haiyang Xu et.al.|[2611.19089](http://arxiv.org/abs/2611.19089)|null|
 |**2026-11-13**|**Unlocking Cross-Attention in Label-Scarce Regimes: A Weakly Supervised Approach for Video Semantic Segmentation**|Andrea Marelli et.al.|[2611.18324](http://arxiv.org/abs/2611.18324)|null|
