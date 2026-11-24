@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,8 +2934,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|**[link](https://github.com/JianfeiJ/BridgeMVS)**|
+|**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|null|
+|**2026-11-23**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
+|**2026-11-22**|**A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations**|Anubhav Pandey et.al.|[2611.29507](http://arxiv.org/abs/2611.29507)|null|
+|**2026-11-22**|**RVLM: Fewer Tokens, Better Resolution Scaling, Fine-Grained Spatial Grounding**|Savya Khosla et.al.|[2611.29146](http://arxiv.org/abs/2611.29146)|null|
+|**2026-11-21**|**Seeing 3D Occupancy Through Scene-Adaptive Projection**|Yuan Wu et.al.|[2611.28629](http://arxiv.org/abs/2611.28629)|null|
+|**2026-11-21**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
 |**2026-11-20**|**ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction**|GiHyun Kim et.al.|[2611.27423](http://arxiv.org/abs/2611.27423)|null|
-|**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|**[link](https://github.com/apple-aiml-research/ml-depth-pro-2)**|
+|**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|null|
 |**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|null|
 |**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|null|
 |**2026-11-19**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|null|
@@ -4295,6 +4302,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**OCCA-Seg: Object and Channel Context Aggregation for Semantic Segmentation of Remote Sensing Images**|Gang Yang et.al.|[2611.30267](http://arxiv.org/abs/2611.30267)|null|
+|**2026-11-23**|**One Size Doesn't Fit All: Input Adaptive Class Activation Mapping for Improved Visual Explanations**|Ayesha Sahar et.al.|[2611.29993](http://arxiv.org/abs/2611.29993)|null|
+|**2026-11-23**|**SpectralRoute: Adaptive Spectral Routing for Training-Free Open-Vocabulary Hyperspectral Segmentation**|Qingmei Li et.al.|[2611.29919](http://arxiv.org/abs/2611.29919)|null|
+|**2026-11-22**|**DREAM: Dual-Memory Reasoning for Anticipatory 3D Perception in Autonomous Driving**|Sriram Mandalika et.al.|[2611.29753](http://arxiv.org/abs/2611.29753)|null|
+|**2026-11-22**|**BQDNA: Multi-Head Binary Spherical Quantization for Genomic Sequence Modeling**|Xudong Wang et.al.|[2611.29395](http://arxiv.org/abs/2611.29395)|null|
+|**2026-11-22**|**Why Adaptive Optimizers Struggle with Large Convolution Kernels**|Tianyu Ding et.al.|[2611.29232](http://arxiv.org/abs/2611.29232)|null|
+|**2026-11-22**|**loopxDINO: Dense Visual Prediction via Iterative Latent Reasoning**|Xiangjing An et.al.|[2611.29180](http://arxiv.org/abs/2611.29180)|null|
+|**2026-11-21**|**Recurrent Point Transformer via Test-Time Training**|Wentao Zhou et.al.|[2611.29059](http://arxiv.org/abs/2611.29059)|null|
+|**2026-11-21**|**What the Background Hides: Thresholds, Vocabularies and Collisions in Training-Free Open-Vocabulary Segmentation**|Wendong Yao et.al.|[2611.28966](http://arxiv.org/abs/2611.28966)|null|
+|**2026-11-21**|**Task-Conditioned Detail Allocation for Synthetic Segmentation Data**|Chunming He et.al.|[2611.28841](http://arxiv.org/abs/2611.28841)|null|
+|**2026-11-18**|**ROSE-SAM3: Response-Oriented Prompt Selection for Open-Vocabulary Remote Sensing Segmentation**|Yanghui Song et.al.|[2611.28112](http://arxiv.org/abs/2611.28112)|null|
+|**2026-11-16**|**ReSUL: Learning Regional Sensor Utility for Robust Multisensor Semantic Segmentation**|Yiwen Wang et.al.|[2611.28084](http://arxiv.org/abs/2611.28084)|null|
 |**2026-11-20**|**$\varepsilon$ -SegFormer: Multi-Resolution Vision Transformers for Sparsely Supervised Segmentation in Electron Microscopy**|Erfan Amidi et.al.|[2611.27796](http://arxiv.org/abs/2611.27796)|null|
 |**2026-11-20**|**UDA-Restoration: Bridging Unsupervised Domain Adaptation and Multi-Degradation Denoising for Enhanced AV Semantic Segmentation**|Zainab Bibi et.al.|[2611.27097](http://arxiv.org/abs/2611.27097)|null|
 |**2026-11-20**|**Rethinking Cross-Sensor Domain Adaptation for Bridge Point Cloud Semantic Segmentation**|Linghui Huang et.al.|[2611.27060](http://arxiv.org/abs/2611.27060)|null|
@@ -4310,7 +4329,7 @@ layout: default
 |**2026-11-18**|**CROMPT: Adapting CLIP via Cross-Modal Prompting for Robust Zero-Shot Generalization under Adverse Weather**|Aniruddh Sikdar et.al.|[2611.24284](http://arxiv.org/abs/2611.24284)|null|
 |**2026-11-18**|**SEER: Semantic Evidence for Executable Region Propagation in Open-Vocabulary Semantic Segmentation**|Junyang Chen et.al.|[2611.24152](http://arxiv.org/abs/2611.24152)|null|
 |**2026-11-17**|**RoadAnnoter: An AI-Assisted Desktop Tool for Semantic Segmentation Annotation of Road-Scene Images**|Nazmul Haque et.al.|[2611.22884](http://arxiv.org/abs/2611.22884)|null|
-|**2026-11-17**|**DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers**|Jialin Chen et.al.|[2611.22611](http://arxiv.org/abs/2611.22611)|null|
+|**2026-11-21**|**DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers**|Jialin Chen et.al.|[2611.22611](http://arxiv.org/abs/2611.22611)|null|
 |**2026-11-16**|**LiDSeg: Linear DehazeFormer Guidance for Efficient Semantic Segmentation in Adverse Weather Conditions**|Yobsan Bayisa Leta et.al.|[2611.20864](http://arxiv.org/abs/2611.20864)|null|
 |**2026-11-14**|**Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning**|Linge Wang et.al.|[2611.19236](http://arxiv.org/abs/2611.19236)|null|
 |**2026-11-14**|**FDAM: A Frequency-Direction-Aware Multi-Task Framework for Pavement Crack Grid Localization**|Haiyang Xu et.al.|[2611.19089](http://arxiv.org/abs/2611.19089)|null|
