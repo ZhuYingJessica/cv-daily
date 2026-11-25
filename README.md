@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,13 +18,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|null|
+|**2026-11-24**|**Mind the Band: The Hidden Frequency Variable in Geometric RoPE**|Seonghyun Jin et.al.|[2611.32171](http://arxiv.org/abs/2611.32171)|null|
+|**2026-11-24**|**EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation**|Sadiq O. Macaulay et.al.|[2611.31720](http://arxiv.org/abs/2611.31720)|null|
+|**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651](http://arxiv.org/abs/2611.31651)|null|
 |**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|**[link](https://github.com/JianfeiJ/BridgeMVS)**|
 |**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|null|
-|**2026-11-23**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
+|**2026-11-24**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
 |**2026-11-22**|**A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations**|Anubhav Pandey et.al.|[2611.29507](http://arxiv.org/abs/2611.29507)|null|
 |**2026-11-22**|**RVLM: Fewer Tokens, Better Resolution Scaling, Fine-Grained Spatial Grounding**|Savya Khosla et.al.|[2611.29146](http://arxiv.org/abs/2611.29146)|null|
 |**2026-11-21**|**Seeing 3D Occupancy Through Scene-Adaptive Projection**|Yuan Wu et.al.|[2611.28629](http://arxiv.org/abs/2611.28629)|null|
-|**2026-11-21**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
+|**2026-11-24**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
 |**2026-11-20**|**ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction**|GiHyun Kim et.al.|[2611.27423](http://arxiv.org/abs/2611.27423)|null|
 |**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|null|
 |**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|null|
@@ -1382,14 +1386,19 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
 ## Semactic Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**SplatSeg3D: Efficient Zero-Shot 3D Segmentation via Point Cloud Surfelization and Splatting**|Sandeep Inuganti et.al.|[2611.32716](http://arxiv.org/abs/2611.32716)|null|
+|**2026-11-24**|**On the Capabilities and Limitations of Zero-Shot Open-Vocabulary Cloud Segmentation**|Jose Sosa et.al.|[2611.32625](http://arxiv.org/abs/2611.32625)|null|
+|**2026-11-24**|**Rescuing Discarded Boundary Samples in Semi-Supervised Learning**|Yuzhao Jiang et.al.|[2611.32532](http://arxiv.org/abs/2611.32532)|null|
+|**2026-11-24**|**HS-OVSeg: Multi-Granularity Open-Vocabulary Semantic Segmentation in Remote Sensing via Heterogeneous Supervision**|Wei Huang et.al.|[2611.32518](http://arxiv.org/abs/2611.32518)|null|
+|**2026-11-24**|**$ε$ -Seg++: Ensembling Across Hierarchy and Training Time for Label-Efficient EM Segmentation**|Edoardo Giacomello et.al.|[2611.32290](http://arxiv.org/abs/2611.32290)|null|
 |**2026-11-23**|**OCCA-Seg: Object and Channel Context Aggregation for Semantic Segmentation of Remote Sensing Images**|Gang Yang et.al.|[2611.30267](http://arxiv.org/abs/2611.30267)|null|
-|**2026-11-23**|**One Size Doesn't Fit All: Input Adaptive Class Activation Mapping for Improved Visual Explanations**|Ayesha Sahar et.al.|[2611.29993](http://arxiv.org/abs/2611.29993)|null|
+|**2026-11-24**|**One Size Doesn't Fit All: Input Adaptive Class Activation Mapping for Improved Visual Explanations**|Ayesha Sahar et.al.|[2611.29993](http://arxiv.org/abs/2611.29993)|null|
 |**2026-11-23**|**SpectralRoute: Adaptive Spectral Routing for Training-Free Open-Vocabulary Hyperspectral Segmentation**|Qingmei Li et.al.|[2611.29919](http://arxiv.org/abs/2611.29919)|null|
 |**2026-11-22**|**DREAM: Dual-Memory Reasoning for Anticipatory 3D Perception in Autonomous Driving**|Sriram Mandalika et.al.|[2611.29753](http://arxiv.org/abs/2611.29753)|null|
 |**2026-11-22**|**BQDNA: Multi-Head Binary Spherical Quantization for Genomic Sequence Modeling**|Xudong Wang et.al.|[2611.29395](http://arxiv.org/abs/2611.29395)|null|
@@ -3885,7 +3894,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
