@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2934,15 +2934,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation**|Zeeshan Ali et.al.|[2611.34393](http://arxiv.org/abs/2611.34393)|null|
+|**2026-11-24**|**OrdiHand-GS: Ordinal-Guided Tracking and Hand-Refined Gaussian Avatars for Digital Signers**|Mingxuan Ma et.al.|[2611.33465](http://arxiv.org/abs/2611.33465)|null|
+|**2026-11-24**|**Synchronizing Cameras via 3D Object Relationships**|Sujong Shin et.al.|[2611.33387](http://arxiv.org/abs/2611.33387)|null|
 |**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|null|
 |**2026-11-24**|**Mind the Band: The Hidden Frequency Variable in Geometric RoPE**|Seonghyun Jin et.al.|[2611.32171](http://arxiv.org/abs/2611.32171)|null|
 |**2026-11-24**|**EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation**|Sadiq O. Macaulay et.al.|[2611.31720](http://arxiv.org/abs/2611.31720)|null|
 |**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651](http://arxiv.org/abs/2611.31651)|null|
-|**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|**[link](https://github.com/JianfeiJ/BridgeMVS)**|
+|**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|null|
 |**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|null|
 |**2026-11-24**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
 |**2026-11-22**|**A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations**|Anubhav Pandey et.al.|[2611.29507](http://arxiv.org/abs/2611.29507)|null|
-|**2026-11-22**|**RVLM: Fewer Tokens, Better Resolution Scaling, Fine-Grained Spatial Grounding**|Savya Khosla et.al.|[2611.29146](http://arxiv.org/abs/2611.29146)|null|
+|**2026-11-25**|**RVLM: Fewer Tokens, Better Resolution Scaling, Fine-Grained Spatial Grounding**|Savya Khosla et.al.|[2611.29146](http://arxiv.org/abs/2611.29146)|null|
 |**2026-11-21**|**Seeing 3D Occupancy Through Scene-Adaptive Projection**|Yuan Wu et.al.|[2611.28629](http://arxiv.org/abs/2611.28629)|null|
 |**2026-11-24**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
 |**2026-11-20**|**ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction**|GiHyun Kim et.al.|[2611.27423](http://arxiv.org/abs/2611.27423)|null|
@@ -4306,6 +4309,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**CIRKDV2: Cross-Image Relational Knowledge Distillation with Contextual Modeling for Efficient Semantic Segmentation**|Chuanguang Yang et.al.|[2611.34795](http://arxiv.org/abs/2611.34795)|null|
+|**2026-11-25**|**Ask to Land: Learning a Mask-Conditioned Open-Vocabulary Landing Policy via Differentiable Physics**|Fangyu Sun et.al.|[2611.34020](http://arxiv.org/abs/2611.34020)|null|
+|**2026-11-25**|**TAT-Det: A Dataset for Testicular Appendage Torsion Detection and Segmentation in Ultrasound Images**|Ying Jiang et.al.|[2611.33940](http://arxiv.org/abs/2611.33940)|null|
+|**2026-11-25**|**SPiXSeg: Rethinking MLLM-based Image Segmentation as Superpixel Classification**|Piyush Tiwary et.al.|[2611.33842](http://arxiv.org/abs/2611.33842)|null|
+|**2026-11-24**|**A 3D Simulator for Passive SPAD Imaging**|Elia Mergaert et.al.|[2611.33498](http://arxiv.org/abs/2611.33498)|null|
+|**2026-11-24**|**Memory as the Backbone: A Dual-Store Associative Memory Architecture for Visual Recognition**|Ruizhi Wang et.al.|[2611.33475](http://arxiv.org/abs/2611.33475)|null|
 |**2026-11-24**|**SplatSeg3D: Efficient Zero-Shot 3D Segmentation via Point Cloud Surfelization and Splatting**|Sandeep Inuganti et.al.|[2611.32716](http://arxiv.org/abs/2611.32716)|null|
 |**2026-11-24**|**On the Capabilities and Limitations of Zero-Shot Open-Vocabulary Cloud Segmentation**|Jose Sosa et.al.|[2611.32625](http://arxiv.org/abs/2611.32625)|null|
 |**2026-11-24**|**Rescuing Discarded Boundary Samples in Semi-Supervised Learning**|Yuzhao Jiang et.al.|[2611.32532](http://arxiv.org/abs/2611.32532)|null|
