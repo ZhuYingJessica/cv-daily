@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.26
+## Updated on 2026.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2026-11-24**|**Mind the Band: The Hidden Frequency Variable in Geometric RoPE**|Seonghyun Jin et.al.|[2611.32171](http://arxiv.org/abs/2611.32171)|null|
 |**2026-11-24**|**EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation**|Sadiq O. Macaulay et.al.|[2611.31720](http://arxiv.org/abs/2611.31720)|null|
 |**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651](http://arxiv.org/abs/2611.31651)|null|
-|**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|null|
+|**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Jianfei Jiang et.al.|[2611.30787](http://arxiv.org/abs/2611.30787)|**[link](https://github.com/JianfeiJ/BridgeMVS)**|
 |**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|null|
 |**2026-11-24**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
 |**2026-11-22**|**A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations**|Anubhav Pandey et.al.|[2611.29507](http://arxiv.org/abs/2611.29507)|null|
@@ -33,12 +33,12 @@
 |**2026-11-21**|**Seeing 3D Occupancy Through Scene-Adaptive Projection**|Yuan Wu et.al.|[2611.28629](http://arxiv.org/abs/2611.28629)|null|
 |**2026-11-24**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
 |**2026-11-20**|**ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction**|GiHyun Kim et.al.|[2611.27423](http://arxiv.org/abs/2611.27423)|null|
-|**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|null|
+|**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|**[link](https://github.com/apple-aiml-research/ml-depth-pro-2)**|
 |**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|null|
 |**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|null|
 |**2026-11-19**|**DORMS: Image Segmentation via Depth-Ordered Region Merge Trees**|Furkan Mumcu et.al.|[2611.23958](http://arxiv.org/abs/2611.23958)|null|
 |**2026-11-17**|**TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception**|Geonmo Yang et.al.|[2611.22224](http://arxiv.org/abs/2611.22224)|null|
-|**2026-11-17**|**Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments**|Geonmo Yang et.al.|[2611.22212](http://arxiv.org/abs/2611.22212)|null|
+|**2026-11-17**|**Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments**|Geonmo Yang et.al.|[2611.22212](http://arxiv.org/abs/2611.22212)|**[link](https://github.com/sparolab/Joint_ID)**|
 |**2026-11-17**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126](http://arxiv.org/abs/2611.21126)|null|
 |**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044](http://arxiv.org/abs/2611.21044)|null|
 |**2026-11-16**|**What the Averages Hide: Monocular Metric Depth Models Still Fail in Everyday Scenes, Mostly on Scale**|Hualie Jiang et.al.|[2611.20518](http://arxiv.org/abs/2611.20518)|null|
@@ -1389,7 +1389,7 @@
 |**2019-01-29**|**Monocular Depth Estimation: A Survey**|Amlaan Bhoi et.al.|[1901.09402](http://arxiv.org/abs/1901.09402)|null|
 |**2018-09-13**|**Monocular Depth Estimation by Learning from Heterogeneous Datasets**|Akhil Gurram et.al.|[1803.08018](http://arxiv.org/abs/1803.08018)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 ## Semactic Segmentation
 
@@ -3903,7 +3903,7 @@
 |**2016-11-15**|**Improving Spatial Codification in Semantic Segmentation**|Carles Ventura et.al.|[1505.07409](http://arxiv.org/abs/1505.07409)|null|
 |**2013-11-15**|**A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation**|Chenliang Xu et.al.|[1311.3318](http://arxiv.org/abs/1311.3318)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
